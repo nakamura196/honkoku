@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2095,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c93f6a6a8d2019856895879853d04ea39d2c11f8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2095,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88452",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88452/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88452",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "A1E43DA61D9955DFCC72B5908F74346B",
+    "label": "地震雷過事親父",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震雷過事親父"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23.5×35"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "917021ed-9fe6-4fc9-a3f2-6265baa76ec6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0072"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c93f6a6a8d2019856895879853d04ea39d2c11f8.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/917021ed-9fe6-4fc9-a3f2-6265baa76ec6/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "A1E43DA61D9955DFCC72B5908F74346B",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "地震（ぢしん）雷（かみなり）過事（くわじ）親父（おやぢ）\n■火の印\n●かみなり\n▲なまづの印之\n■「ナント雷（かみなり）さんおめへは久（ひさ）しく音（おと）がしねへぜへよくおと\nなしくしているぜ●「ナアニ私（わつち）もしかたなしさ「ナゼ\n●「ソレ四年いぜん八月四日に大ふざけをしてツイ\nおつこちやした其時たいこは打折（ぶちおつ）てしまふ其上\nこしぼねを強（ひどく）打（ぶつ）て天竺（てんぢく）へ返（かへ）る\nこともできず今に\n迷（まてつい）ているから\n天竺（てんぢく）浪人（ろうにん）だ\nなまづさん\nおめへは時〻（とき〳〵）\nやけになるが\n此間なざアユサ〳〵ドロ〳〵と\n直（すぐ）に四方（しほう）が花盛（はなざかり）だアリヤどふいふもんだ\n▲「ナアニ私（わつち）は水の中のもので火はしらねへハナ\n●「そんならアノ大ふざけはどふいふもんだねへ\n大やけに成たもとはおめへから起（おこつ）たことだせ\n▲「アリヤ春（はる）夏（なつ）の季（き）に曲（くるひ）が有て陰陽（いんやう）の気（き）が\n和順（わじゆん）せずソレ私（わつち）が世界（せけん）で面白（おもしろ）く成からツイ曲（くる）ひ\n出す所が少（ちつと）で済（すむ）時（とき）もあり又大ふざけをやる時も\n有ていソコはきまりなしさ　■「そんなら四季（しき）の気違（きちがへ）から\n□□□所だかららんしんにでも成てなかまぢうがおどり\n□□□□なぞをするのかへ　▲「サアそこは自身（じしん）に考（かんがへ）ても分（わから）らねへ\nおや\nぢか\nいふ\n「こいつらハわるくふざけるやつらた\nどんなことをするかしれねへから\n回禄＜割書：火の｜神也＞加茂大明神＜割書：かミ ｜なり＞鹿島\n＜割書：地を｜守る神＞此御神に願ツてかミじハりに\nしてもらハざア\nいく\nめへ",
+            "text": "地震（ぢしん）雷（かみなり）過事（くわじ）親父（おやぢ）\n■火の印\n●かみなり\n▲なまづの印之\n■「ナント雷（かみなり）さんおめへは久（ひさ）しく音（おと）がしねへぜへよくおと\nなしくしているぜ●「ナアニ私（わつち）もしかたなしさ「ナゼ\n●「ソレ四年いぜん八月四日に大ふざけをしてツイ\nおつこちやした其時たいこは打折（ぶちおつ）てしまふ其上\nこしぼねを強（ひどく）打（ぶつ）て天竺（てんぢく）へ返（かへ）る\nこともできず今に\n迷（まてつい）ているから\n天竺（てんぢく）浪人（ろうにん）だ\nなまづさん\nおめへは時〻（とき〳〵）\nやけになるが\n此間なざアユサ〳〵ドロ〳〵と\n直（すぐ）に四方（しほう）が花盛（はなざかり）だアリヤどふいふもんだ\n▲「ナアニ私（わつち）は水の中のもので火はしらねへハナ\n●「そんならアノ大ふざけはどふいふもんだねへ\n大やけに成たもとはおめへから起（おこつ）たことだせ\n▲「アリヤ春（はる）夏（なつ）の季（き）に曲（くるひ）が有て陰陽（いんやう）の気（き）が\n和順（わじゆん）せずソレ私（わつち）が世界（せけん）で面白（おもしろ）く成からツイ曲（くる）ひ\n出す所が少（ちつと）で済（すむ）時（とき）もあり又大ふざけをやる時も\n有ていソコはきまりなしさ　■「そんなら四季（しき）の気違（きちがへ）から\n□□□所だかららんしんにでも成てなかまぢうがおどり\n□□□□なぞをするのかへ　▲「サアそこは自身（じしん）に考（かんがへ）ても分（わから）らねへ\nおや\nぢか\nいふ\n「こいつらハわるくふざけるやつらた\nどんなことをするかしれねへから\n回禄《割書：火の｜神也》加茂大明神《割書：かミ ｜なり》鹿島\n《割書：地を｜守る神》此御神に願ツてかミじハりに\nしてもらハざア\nいく\nめへ",
+            "timestamp": {
+                "_nanoseconds": 351000000,
+                "_seconds": 1577617768
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

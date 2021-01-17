@@ -1,0 +1,182 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 6766,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e2b8f540c7ac63da9755357a911874b5777dc206.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6766,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56160",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5084
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56160/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56160",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5084
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 6766,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/431409fa37827a28cf72d82f6dcaa2753baf8167.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6766,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56161",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5084
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56161/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56161",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5084
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "9631A11AB478386D91BF65354C74D47D",
+    "label": "ちょぼくれちょんがれ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ちょぼくれちょんがれ"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "ちよぼくれちよんがれ"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-050, I-02-105"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "699bd3dd-857c-4f09-b200-9072975b3ce6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1020"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e2b8f540c7ac63da9755357a911874b5777dc206.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "9631A11AB478386D91BF65354C74D47D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "ちよぼくれちよんがれ\n〽きめうとうらいからだだいじくらかもろい＜割書：引｜＞ヤレ〳〵〳〵〳〵おもてへにげだせ〽どふした\nさはぎだたすけてくんねへ二日の四ツどきにはかのことでなてんちしんどうかゝアとふたりの\nじゝんのむつことなまづにけされてふんどしひとつでからだもせがれもちゞみあがつて\nねんぶつだいもくいちどにとなへておもてへころ〳〵といたいちまいしやうじの\nさかいたどういふうちにもよくづらかわいておやちの\nゆづりのたいきんづゝみをおとしはせぬかとさぐつて\nみたればさて〳〵たいへんいつのまにやらどこへか\nおとしてどうしたものたとよく〳〵さぐればあんまり\nこはさにつるしあがつてでべそのきわになかくれてけつかる\nこれてすこしはあんしんかなめのかしまさんでもおやどに\nござらばこうしたくろうはきなかもあるめへよがなよつぴてうろ〳〵まご〳〵あつちのすみでは\nまんざいらく〳〵のじゆくのあげくはてぶりのあみがさすだちのまんまでねごさももたずに\nおこやをねがつてもとのわがみにやう〳〵かへつた神のいとくやおかみのおめぐみほうねんまんさくごゝくじやうじゆ\n　　　　　　　　　　　　　　　　　　　　　　　さりとは〳〵めでたいこんだにホウヲイホイ",
+            "text": "ちよぼくれちよんがれ\n〽きめうとうらいからだだいじくらかもろい《割書：引｜》ヤレ〳〵〳〵〳〵おもてへにげだせ〽どふした\nさはぎだたすけてくんねへ二日の四ツどきにはかのことでなてんちしんどうかゝアとふたりの\nじゝんのむつことなまづにけされてふんどしひとつでからだもせがれもちゞみあがつて\nねんぶつだいもくいちどにとなへておもてへころ〳〵といたいちまいしやうじの\nさかいたどういふうちにもよくづらかわいておやちの\nゆづりのたいきんづゝみをおとしはせぬかとさぐつて\nみたればさて〳〵たいへんいつのまにやらどこへか\nおとしてどうしたものたとよく〳〵さぐればあんまり\nこはさにつるしあがつてでべそのきわになかくれてけつかる\nこれてすこしはあんしんかなめのかしまさんでもおやどに\nござらばこうしたくろうはきなかもあるめへよがなよつぴてうろ〳〵まご〳〵あつちのすみでは\nまんざいらく〳〵のじゆくのあげくはてぶりのあみがさすだちのまんまでねごさももたずに\nおこやをねがつてもとのわがみにやう〳〵かへつた神のいとくやおかみのおめぐみほうねんまんさくごゝくじやうじゆ\n　　　　　　　　　　　　　　　　　　　　　　　さりとは〳〵めでたいこんだにホウヲイホイ",
+            "timestamp": 1564296013278
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/699bd3dd-857c-4f09-b200-9072975b3ce6/canvas/p2",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "9631A11AB478386D91BF65354C74D47D",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "【右下】\n0011841749\n東京大學圖書之印",
+            "text": "【右下】\n0011841749\n東京大學圖書之印",
+            "timestamp": 1564296103931
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

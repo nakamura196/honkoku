@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/aab3a02bb96ae30caa14d6bb54e80495f7ad39d9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88466",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 2095
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88466/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88466",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 2095
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "146C20CFBBAB6E08C8906AA2A2046BD5",
+    "label": "ぢしんミやうさく下徳参",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ぢしんミやうさく下徳参"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-039"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0086"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/aab3a02bb96ae30caa14d6bb54e80495f7ad39d9.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95a165da-bbc1-47dd-a5bd-8aa7ba4a74fe/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "146C20CFBBAB6E08C8906AA2A2046BD5",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "＜割書：ぢしん｜みやうさく＞｜下徳参（げとくさん）　＜割書：一潰【原本はてへん】｜八百八丁＞\n一此｜崩（くづれ）の義は鹿島太神の御夢想（ごむそう）にして一とたび焚震（もしゆる）ときは\n　三十六ヶ所灰となり震動（しんどう）は四里四方家蔵をくづし野宿（のじく）\n　するといへどものちは識事（しよくじ）すゝみて日銭まはり遊女（ゆうじよ）仮宅（かりたく）に\n　住ではんじやうし内福より金銀をはき下し下〻のうるほひを\n　つけいかなるなんじうにても五場所に御｜救（すくひ）小屋をたてられやしなふ\n　なり世の中治すること震（しん）のごとし\n　　　　｜功能（こうのふ）\n一　金のつかひたるによし　　　一　為金を下し\n一　ゆうづうによし　　　　　　一　借金｜言訳（いゝわけ）によし\n一　中ゟ下のうるほひによし\n一　諸職人の手間はよし\n　　　　｜忌物（あしきもの）\n　　家蔵ぢめん\n一　　もちるい\n　　かしきん\n一　　とりるい\nいづれもあくどき強欲（がうよく）のものわるし\n\n一　用ひかたは夜四つ時すぎ\n　　寝耳に水でもちひべし\n\n【中央下の台詞】\n持丸\n〽難渋（なんじう）なんもんで\n　　御ざります",
+            "text": "《割書：ぢしん｜みやうさく》｜下徳参（げとくさん）　《割書：一潰【原本はてへん】｜八百八丁》\n一此｜崩（くづれ）の義は鹿島太神の御夢想（ごむそう）にして一とたび焚震（もしゆる）ときは\n　三十六ヶ所灰となり震動（しんどう）は四里四方家蔵をくづし野宿（のじく）\n　するといへどものちは識事（しよくじ）すゝみて日銭まはり遊女（ゆうじよ）仮宅（かりたく）に\n　住ではんじやうし内福より金銀をはき下し下〻のうるほひを\n　つけいかなるなんじうにても五場所に御｜救（すくひ）小屋をたてられやしなふ\n　なり世の中治すること震（しん）のごとし\n　　　　｜功能（こうのふ）\n一　金のつかひたるによし　　　一　為金を下し\n一　ゆうづうによし　　　　　　一　借金｜言訳（いゝわけ）によし\n一　中ゟ下のうるほひによし\n一　諸職人の手間はよし\n　　　　｜忌物（あしきもの）\n　　家蔵ぢめん\n一　　もちるい\n　　かしきん\n一　　とりるい\nいづれもあくどき強欲（がうよく）のものわるし\n\n一　用ひかたは夜四つ時すぎ\n　　寝耳に水でもちひべし\n\n【中央下の台詞】\n持丸\n〽難渋（なんじう）なんもんで\n　　御ざります",
+            "timestamp": {
+                "_nanoseconds": 17000000,
+                "_seconds": 1570354177
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

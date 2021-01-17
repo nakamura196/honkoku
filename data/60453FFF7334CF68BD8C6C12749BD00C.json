@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/81c2c5191eb228e77f3cbd757bfb03b2ea86f8f9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88680",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88680/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88680",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "60453FFF7334CF68BD8C6C12749BD00C",
+    "label": "信州善光寺大ぢしんの次第",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "信州善光寺大ぢしんの次第"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-045"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化3年3月24日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "16×43"
+        },
+        {
+            "label": "year",
+            "value": "1846"
+        },
+        {
+            "label": "identifier",
+            "value": "ea69dda4-ef8a-42e8-b2f3-8a68de035502"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0300"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/81c2c5191eb228e77f3cbd757bfb03b2ea86f8f9.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ea69dda4-ef8a-42e8-b2f3-8a68de035502/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "60453FFF7334CF68BD8C6C12749BD00C",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "【上の資料】\n\n今般此度次第\n\n天命成哉　信州川中嶋\n善光寺大地震の根元をたつぬルニ\n弘化四年丁未三月廿四日ノ夜亥\n刻よりどん〳〵とゆり初メ同二十五日ノ\n午ノ上刻相成候所猶々しんどふ\nして四方八めんに砂けむり吹上\nおそろしき事語言にのへかたし\nいよ〳〵やむ事為す皆々生躰うし\nなへしかるに八つ半時とおほしき\n時定額山善光寺御堂横にめり\n込夫より大門町西町東町権堂損ふ\n隣村辺越後地は高田今町\n辺まて西は松本池田大町まて\n山中新町不残ゆりつぶれ南は上田\n辺迄東はじふの湯まて\n大方十り四方此外筆紙尽し\nかたし\n\n信州善光寺\n大地しんの\n次第\n\n\n【下の資料】\n\n相模大地震\n\n夫天地不時之変動は陰陽混して雷雨となる\n地にいれは地しんをなすアヽ神仏の応護も\nこれを納る事かたし比は嘉永六丑とし\n二月二日昼四時より夜九時迄大地しん\n相州小田原　大久保加賀守様御領分\n御城下万町本町板はしりうし町通り\n青物丁すわを丁寺まち御城南やくら\n町家とも大に損す近村近郷酒匂川すわ\n飯すみ十文字十日市場子安大山へん\n雨降権現山道東海道すち小田はら\nつきはた山中大久保長門守様御領分\n村々多く損す箱ねゆ本七ケ所二子山辺\n同所権現様御山内尤御社は御さわり□\n同所満水あふれ出さいの河原辺大に損す\n夫より豆州海辺山々真つる網代伊東西は\nしゆせん寺三しま此外所々大に損すると\nいへともあらましを記し高覧にそのふのみ\n\n",
+            "text": "【上の資料】\n\n今般此度次第\n\n天命成哉　信州川中嶋\n善光寺大地震の根元をたつぬルニ\n弘化四年丁未三月廿四日ノ夜亥\n刻よりどん〳〵とゆり初メ同二十五日ノ\n午ノ上刻相成候所猶々しんどふ\nして四方八めんに砂けむり吹上\nおそろしき事語言にのへかたし\nいよ〳〵やむ事為す皆々生躰うし\nなへしかるに八つ半時とおほしき\n時定額山善光寺御堂横にめり\n込夫より大門町西町東町権堂損ふ\n隣村辺越後地は高田今町\n辺まて西は松本池田大町まて\n山中新町不残ゆりつぶれ南は上田\n辺迄東はじふの湯まて\n大方十り四方此外筆紙尽し\nかたし\n\n信州善光寺\n大地しんの\n次第\n\n\n【下の資料】\n\n相模大地震\n\n夫天地不時之変動は陰陽混して雷雨となる\n地にいれは地しんをなすアヽ神仏の応護も\nこれを納る事かたし比は嘉永六丑とし\n二月二日昼四時より夜九時迄大地しん\n相州小田原　大久保加賀守様御領分\n御城下万町本町板はしりうし町通り\n青物丁すわを丁寺まち御城南やくら\n町家とも大に損す近村近郷酒匂川すわ\n飯すみ十文字十日市場子安大山へん\n雨降権現山道東海道すち小田はら\nつきはた山中大久保長門守様御領分\n村々多く損す箱ねゆ本七ケ所二子山辺\n同所権現様御山内尤御社は御さわり□\n同所満水あふれ出さいの河原辺大に損す\n夫より豆州海辺山々真つる網代伊東西は\nしゆせん寺三しま此外所々大に損すると\nいへともあらましを記し高覧にそのふのみ\n\n",
+            "timestamp": {
+                "_nanoseconds": 575000000,
+                "_seconds": 1566797707
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

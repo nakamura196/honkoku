@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ae608eba86faebf70b989c91080b9206dafa516e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88702",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88702/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88702",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "2714A399C14B454EFF958A0C89D66112",
+    "label": "打身骨抜即席御りやう治",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "打身骨抜即席御りやう治"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-067"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "17.5×23"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-039, II-01-013"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "d459794e-d329-41b0-b1b2-5cfe3552cb2d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0322"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ae608eba86faebf70b989c91080b9206dafa516e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d459794e-d329-41b0-b1b2-5cfe3552cb2d/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "2714A399C14B454EFF958A0C89D66112",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【画像内上資料は別ページにての翻刻対象・下資料のみ翻刻】\n\n＜割書：打身｜骨抜＞即席御りやう治＜割書：火出し仕候｜　外家医前銭＞\n【挿絵内】　　\n　瓢磐亭　　江戸前　鯰大家破焼\n　　　　　　なまづ　大かばやき\n【本文】\n　　　　　　　 御披露（ごひらう）　　\n一御町中様 萬歳楽（まんざいらく）に御軒別（ごけんべつ）にゆらせられ仰天（きやうてん）\n　 地獄（ぢごく）に奉存候しづまつて私義 先達中（さきだつてちう）江戸前（えどまへ） \n　 鯰（なまづ）大家破焼（おほかばやき）自身（じしん）大道（だいどう）ざき仕候所ゆり出し焼失（しやうしつ）より\n　 家蔵（いへくら）身代迄（しんだひまで）御ゆりあげ 動揺（どうよう）向（むき）被仰付候段 大変（たいへん）時（じ）こく \n　 古今（ここん）に 有（あり）がたく 奉損（そんじたてまつり）候 猶又（なをまた）今磐（こんばん）御 愁（うれ）ひの為（ため）市中（しちう）なんぎ\n　 めし此末（このうへ）どうせう汁（しる）打身（うちみ）骨抜（ほねぬき）即席（そくせき）御りやうぢ 取合（とりあはせ）格別（かくべつ） \n　 風儀宜（ふうぎよろし）く世直（よなほ）し仕差上可申候間 民（たみ）の竈（かまど）の御 賑々（にぎ〳〵）しく\n　 御威光（ごいくわう）駕（が）の程 一偏（ひとへ）に奉願上候以上\n\n【札挿絵内】\n　　市地うなんきめし　　御救御一人前　五合宛\n　　此末どうせう汁　　　【こ】とし一ぱい　難渋見聞\n\n卯十月二日夜ゟゆり出し　　　　神座鹿島町\n　見勢ひらき焼失　　　　　　　　かなめ屋石蔵\n　　　麁かゆ差上申候\n",
+            "text": "【画像内上資料は別ページにての翻刻対象・下資料のみ翻刻】\n\n《割書：打身｜骨抜》即席御りやう治《割書：火出し仕候｜　外家医前銭》\n【挿絵内】　　\n　瓢磐亭　　江戸前　鯰大家破焼\n　　　　　　なまづ　大かばやき\n【本文】\n　　　　　　　 御披露（ごひらう）　　\n一御町中様 萬歳楽（まんざいらく）に御軒別（ごけんべつ）にゆらせられ仰天（きやうてん）\n　 地獄（ぢごく）に奉存候しづまつて私義 先達中（さきだつてちう）江戸前（えどまへ） \n　 鯰（なまづ）大家破焼（おほかばやき）自身（じしん）大道（だいどう）ざき仕候所ゆり出し焼失（しやうしつ）より\n　 家蔵（いへくら）身代迄（しんだひまで）御ゆりあげ 動揺（どうよう）向（むき）被仰付候段 大変（たいへん）時（じ）こく \n　 古今（ここん）に 有（あり）がたく 奉損（そんじたてまつり）候 猶又（なをまた）今磐（こんばん）御 愁（うれ）ひの為（ため）市中（しちう）なんぎ\n　 めし此末（このうへ）どうせう汁（しる）打身（うちみ）骨抜（ほねぬき）即席（そくせき）御りやうぢ 取合（とりあはせ）格別（かくべつ） \n　 風儀宜（ふうぎよろし）く世直（よなほ）し仕差上可申候間 民（たみ）の竈（かまど）の御 賑々（にぎ〳〵）しく\n　 御威光（ごいくわう）駕（が）の程 一偏（ひとへ）に奉願上候以上\n\n【札挿絵内】\n　　市地うなんきめし　　御救御一人前　五合宛\n　　此末どうせう汁　　　【こ】とし一ぱい　難渋見聞\n\n卯十月二日夜ゟゆり出し　　　　神座鹿島町\n　見勢ひらき焼失　　　　　　　　かなめ屋石蔵\n　　　麁かゆ差上申候\n",
+            "timestamp": {
+                "_nanoseconds": 164000000,
+                "_seconds": 1573549055
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

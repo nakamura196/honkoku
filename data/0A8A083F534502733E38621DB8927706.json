@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4258,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4a434fae08cfc0ae0fb1af36a694ee7ce374f87f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4258,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56250",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5667
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56250/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56250",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5667
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4258,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9857372b9024110c8be1411aeb58b2d751699faa.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4258,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56251",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5667
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56251/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56251",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5667
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "0A8A083F534502733E38621DB8927706",
+    "label": "鹿島神託所より鯰一統江申渡の事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鹿島神託所より鯰一統江申渡の事"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-026"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-026とII-02-027は2枚続"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "6802af37-c631-4457-980b-23304ebb5dda"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1062"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4a434fae08cfc0ae0fb1af36a694ee7ce374f87f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0A8A083F534502733E38621DB8927706",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "　　　　　 鹿島（かしま）神詫所（しんたくじよ）より\n　　　　　　　 鯰（なまづ）一統（いつとう）江｜申（まうし）渡（わたし）の事\n一　 鯰（なまづ）どものぎは神代（じんだい）より申 觸（ふら）しおき候｜通（とほ）り\n九ハやまひ五七が雨（あめ）に四ツ日（ひ）でり六ツ八ツ\nならば風（かぜ）としるべしとの御（ご）詠（らい）哥（か）を守（まも）り\n時候（じこう）不順（ふしゆん）の折（をり）を見合（みあは）せ質素（しつそ）に渡世（とせい）\nいたすべきところ諸神（しよじん）出雲（いづも）御旅行（ごりよこう）の\n留守（るす）を見込（みこみ）先例（せんれい）の掟（おきて）を背（そむ）き御府内（ごふない）\n近在（きんざい）を乱妨（らんぼう）致（いた）し家（いへ）蔵（くら）身体（しんだい）をゆすりちらし候\nのみならず同類（どうるい）の出火（しゆつくわ）をさそひ格別（かくべつ）の風（かぜ）とても\n無之（これなき）に数ヶ所（すかしよ）焼（やき）拂（はら）ひ候 段（だん）八百万（やほよろづ）の神（かみ）を恐（おそ）れざる\nいたしかたぬら地（ち）主（しゆ）極（ごく）に付四ツ手（で）をもつて一疋（いつひき）も\n洩（もら）さずすくひ揚（あ）げ蒲焼所（かばやきじよ）に於（おい）て\n骨抜（ほねぬき）の上（うへ）火（ひ）あぶりにも行（おこな）ふべき所\n格別（かくべつ）の御神威（ごじんゐ）をもつて神国（しんこく）一圓（いちゑん）追放（ついはう）\n仰付（おゝせつけ）らるゝものなり然（しか）る上（うへ）は此（この）後（ご）\n御（お）かまひの場所（ばしよ）へ立寄（たちより）いさゝかなりとも\nいたぶりがましき義（ぎ）有之（これある）に於ては\n早速（さつそく）に要石（かなめいし）をもつて取（とり）押（おさ）へ引（ひき）さき候 上（うへ）\n酒（さけ）の肴（さかな）に喰（く）ふべきもの也\n　　　　　　　 安心（あんしん）元年おち月吉日　　　　 鎮火（ちんくわ）焼所（やくしよ）鹿島\n\n",
+            "text": "　　　　　 鹿島（かしま）神詫所（しんたくじよ）より\n　　　　　　　 鯰（なまづ）一統（いつとう）江｜申（まうし）渡（わたし）の事\n一　 鯰（なまづ）どものぎは神代（じんだい）より申 觸（ふら）しおき候｜通（とほ）り\n九ハやまひ五七が雨（あめ）に四ツ日（ひ）でり六ツ八ツ\nならば風（かぜ）としるべしとの御（ご）詠（らい）哥（か）を守（まも）り\n時候（じこう）不順（ふしゆん）の折（をり）を見合（みあは）せ質素（しつそ）に渡世（とせい）\nいたすべきところ諸神（しよじん）出雲（いづも）御旅行（ごりよこう）の\n留守（るす）を見込（みこみ）先例（せんれい）の掟（おきて）を背（そむ）き御府内（ごふない）\n近在（きんざい）を乱妨（らんぼう）致（いた）し家（いへ）蔵（くら）身体（しんだい）をゆすりちらし候\nのみならず同類（どうるい）の出火（しゆつくわ）をさそひ格別（かくべつ）の風（かぜ）とても\n無之（これなき）に数ヶ所（すかしよ）焼（やき）拂（はら）ひ候 段（だん）八百万（やほよろづ）の神（かみ）を恐（おそ）れざる\nいたしかたぬら地（ち）主（しゆ）極（ごく）に付四ツ手（で）をもつて一疋（いつひき）も\n洩（もら）さずすくひ揚（あ）げ蒲焼所（かばやきじよ）に於（おい）て\n骨抜（ほねぬき）の上（うへ）火（ひ）あぶりにも行（おこな）ふべき所\n格別（かくべつ）の御神威（ごじんゐ）をもつて神国（しんこく）一圓（いちゑん）追放（ついはう）\n仰付（おゝせつけ）らるゝものなり然（しか）る上（うへ）は此（この）後（ご）\n御（お）かまひの場所（ばしよ）へ立寄（たちより）いさゝかなりとも\nいたぶりがましき義（ぎ）有之（これある）に於ては\n早速（さつそく）に要石（かなめいし）をもつて取（とり）押（おさ）へ引（ひき）さき候 上（うへ）\n酒（さけ）の肴（さかな）に喰（く）ふべきもの也\n　　　　　　　 安心（あんしん）元年おち月吉日　　　　 鎮火（ちんくわ）焼所（やくしよ）鹿島\n\n",
+            "timestamp": {
+                "_nanoseconds": 645000000,
+                "_seconds": 1572680520
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6802af37-c631-4457-980b-23304ebb5dda/canvas/p2",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "0A8A083F534502733E38621DB8927706",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 99000000,
+                "_seconds": 1569567281
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

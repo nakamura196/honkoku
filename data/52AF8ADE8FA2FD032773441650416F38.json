@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/93534d9ecc619305d1e7297b1fe3b52e2ae10c2e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88545",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88545/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88545",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "52AF8ADE8FA2FD032773441650416F38",
+    "label": "[富ハ屋を崩し職は身を潤すと]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富ハ屋を崩し職は身を潤すと]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-118"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×24.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "e13c2378-a61c-4813-b743-75313ab8670c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0165"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/93534d9ecc619305d1e7297b1fe3b52e2ae10c2e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e13c2378-a61c-4813-b743-75313ab8670c/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "52AF8ADE8FA2FD032773441650416F38",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "右側\n地震のすちやらか\nおくれて出られぬ　蔵のなか\nあちこち見つけて　藪の中\nうちからころげて　｜大道（だいど）中\n\n【右は他のところに同じものがあるがそのままにしておき、以前に入力した後に消えていた左の本文を修正して復元した】\n\n富（とみ）は屋（おく）を崩（くづ）し職（しよく）は身（み）を潤（うるほ）すとは\n格子（かうし）で極（きめ）た約束（やくそく）の烟（けむ）りと消（きゑ）て\n仮（くわ）宅（たく）へ運（はこ）ぶ土槫（つちくれ）大鍬（おほくわ）に儲（もうけ）を\n酒（さけ）とけづりかけ精（しらげ）の米（よね）に\n奢をきはめ土蔵（どさう）の\n日々（ひゞ）のこて\n療治（れうぢ）とゞ\nかぬまでに\n震（ふる）ふとは\nなさけ\nなくも\nまた\nありがたき\n国（くに）の\n恵みを\n仰（あふ）ぐに\nこそ\n\nゆすれともうこかぬ御代の\n　しるしとてはねかへしても\n【下の句後半７文字欠損、「元のすかたよ」か】\n",
+            "text": "右側\n地震のすちやらか\nおくれて出られぬ　蔵のなか\nあちこち見つけて　藪の中\nうちからころげて　｜大道（だいど）中\n\n【右は他のところに同じものがあるがそのままにしておき、以前に入力した後に消えていた左の本文を修正して復元した】\n\n富（とみ）は屋（おく）を崩（くづ）し職（しよく）は身（み）を潤（うるほ）すとは\n格子（かうし）で極（きめ）た約束（やくそく）の烟（けむ）りと消（きゑ）て\n仮（くわ）宅（たく）へ運（はこ）ぶ土槫（つちくれ）大鍬（おほくわ）に儲（もうけ）を\n酒（さけ）とけづりかけ精（しらげ）の米（よね）に\n奢をきはめ土蔵（どさう）の\n日々（ひゞ）のこて\n療治（れうぢ）とゞ\nかぬまでに\n震（ふる）ふとは\nなさけ\nなくも\nまた\nありがたき\n国（くに）の\n恵みを\n仰（あふ）ぐに\nこそ\n\nゆすれともうこかぬ御代の\n　しるしとてはねかへしても\n【下の句後半７文字欠損、「元のすかたよ」か】\n",
+            "timestamp": {
+                "_nanoseconds": 614000000,
+                "_seconds": 1575860261
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

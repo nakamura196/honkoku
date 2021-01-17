@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cc37a31417336f507ae4b475c2128c1deb9299b4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88550",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88550/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88550",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "C8C90EAE3CF8F84F479298A5709B2E97",
+    "label": "泰平鯰退治",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "泰平鯰退治"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-123"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "延寿戯画作"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×48"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "a7d77dc2-316a-405e-9dc0-9f18eff3588b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0170"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cc37a31417336f507ae4b475c2128c1deb9299b4.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a7d77dc2-316a-405e-9dc0-9f18eff3588b/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "C8C90EAE3CF8F84F479298A5709B2E97",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\n泰平鯰退治（たいへいなまづたいじ）\n\n【本文】\n大ぜい〽アリヤ〳〵〳〵〳〵　む忠〽ヤアぬらくらものゝなまづ\nぼうずめおのれがわるくふざけるゆへせけん\nのさはぎ諸人のなんぎ　おど六〽家くらのみかたい\nせつなるきも玉までぶつつぶさし　あは九郎〽まだ〳〵\n其上火なんのうれい　や吉〽老若（ろうにやく）きせんの\nさべつなく　まち〽いとしい新造（しんぞう）に\nのじゆくをさせ　いへ〽おいら迠も\nやどなしどうぜん　たか〽いちどならず今にも\nどろ〳〵　もん〽あんまりあこぎのあみはのが\nれぬ　みなさく〽なまづ坊主（ほうず）めかくごいたせ　大ぜい〽サア\nじんぜうにくだばつてしまへ　なまづ〽ハヽヽヽハヽヽヽ\nハテそう〴〵しひがらくたやろうめおのら十万\n百万でもものかづとは思はず金剛夜叉（こんがうやしや）\n五大力でもちつともおそれぬわがいき\nおいそれ知（しり）ながらギヤア〴〵とうろたえへ廻（まは）る\nおくびやうものわるくさはぐとあばらやのごとく\nこなみじんにふみくだくぞ　あは九〽ヤアこまごと\nぬかすな初（はじめ）は出しぬけだからおそれたが\n今は命（いのち）もかくごの我々（われ〳〵）　む忠太〽ことにかしまさま\nの守（まもり）もあれば　やし吉〽鉄門（てつもん）よりは大丈夫（だいぜうぶ）　まち〽一分でも\n動（うごき）はしねへぞ　くら〽たはこといはせずぶつちめよと\n双方（そうほう）より立けるをなまづはしゆうに\nはたらきて取ては投（なげ）のけはねとばしあるひは\nころり押倒（おしたおし）せうぎだおしにばた〳〵〳〵なまづは\nきおいにあたりを見廻し　なまづ〽アラこゝちよや\n是よりは思ひのまゝ天地おもくつがへしわが\nまゝにしてくれんといふおりからもふしぎの\n霊験（れいけん）鹿島（かしま）の神の守にやたをれしもの\n一度に起立（おきたち）四天王の勇（ゆう）を顕（あらは）しヤツと声（こへ）かけ\n左右（さゆう）よりおつ取かこみうちければなまづも動（はたら）く\n心なれど一身（いつしん）しびれてはたらきがたくむねんの\nいかりはがみなすをなんなくしめる神しばりみな\n一同にいさみたち　ぢさく〽サアこれからは此なまづを八つさきに\nして腹（はら）いせしやう　かべさく〽極悪非道（ごくあくひどう）のらんぼうもの　やね〽まづことも\nなく取しづめ　つし〽天下太平（てんかたいへい）国土安穏（こくとあんおん）　くら〽鯰（なかづ）を火にあぶり\nいはいのさかもり　さら八〽サアうしやアがれ　なまづ〽おいらいやだ　さう八〽ヤアいやだと\nぬかしてゆるしておかふか　ぢさく〽サアうしやアがれ　なまづ〽ひどいめにあはせるからいやだ\nおど〽あいつひけうなやつだソリヤ知たことだ　あは九らう〽たいがいのことですませるものか　いへ〽はら\nいつはひくるしませてやるのだ　なまづ〽ナゼそんなにおれをにくむのだ　たか平〽とぼけな\nうぬ自身におぼへがあろう　大ぜい〽うぬはいつこくのおふゆすりめだわい\n\n\n【絵の中の歌】\n土天葊\n末ひろき御世を\nしめたる要石うこかぬ\n国と\nあふぐ\n神風\n\n【絵の署名】\n延壽戯画作\n",
+            "text": "【表題】\n泰平鯰退治（たいへいなまづたいじ）\n\n【本文】\n大ぜい〽アリヤ〳〵〳〵〳〵　む忠〽ヤアぬらくらものゝなまづ\nぼうずめおのれがわるくふざけるゆへせけん\nのさはぎ諸人のなんぎ　おど六〽家くらのみかたい\nせつなるきも玉までぶつつぶさし　あは九郎〽まだ〳〵\n其上火なんのうれい　や吉〽老若（ろうにやく）きせんの\nさべつなく　まち〽いとしい新造（しんぞう）に\nのじゆくをさせ　いへ〽おいら迠も\nやどなしどうぜん　たか〽いちどならず今にも\nどろ〳〵　もん〽あんまりあこぎのあみはのが\nれぬ　みなさく〽なまづ坊主（ほうず）めかくごいたせ　大ぜい〽サア\nじんぜうにくだばつてしまへ　なまづ〽ハヽヽヽハヽヽヽ\nハテそう〴〵しひがらくたやろうめおのら十万\n百万でもものかづとは思はず金剛夜叉（こんがうやしや）\n五大力でもちつともおそれぬわがいき\nおいそれ知（しり）ながらギヤア〴〵とうろたえへ廻（まは）る\nおくびやうものわるくさはぐとあばらやのごとく\nこなみじんにふみくだくぞ　あは九〽ヤアこまごと\nぬかすな初（はじめ）は出しぬけだからおそれたが\n今は命（いのち）もかくごの我々（われ〳〵）　む忠太〽ことにかしまさま\nの守（まもり）もあれば　やし吉〽鉄門（てつもん）よりは大丈夫（だいぜうぶ）　まち〽一分でも\n動（うごき）はしねへぞ　くら〽たはこといはせずぶつちめよと\n双方（そうほう）より立けるをなまづはしゆうに\nはたらきて取ては投（なげ）のけはねとばしあるひは\nころり押倒（おしたおし）せうぎだおしにばた〳〵〳〵なまづは\nきおいにあたりを見廻し　なまづ〽アラこゝちよや\n是よりは思ひのまゝ天地おもくつがへしわが\nまゝにしてくれんといふおりからもふしぎの\n霊験（れいけん）鹿島（かしま）の神の守にやたをれしもの\n一度に起立（おきたち）四天王の勇（ゆう）を顕（あらは）しヤツと声（こへ）かけ\n左右（さゆう）よりおつ取かこみうちければなまづも動（はたら）く\n心なれど一身（いつしん）しびれてはたらきがたくむねんの\nいかりはがみなすをなんなくしめる神しばりみな\n一同にいさみたち　ぢさく〽サアこれからは此なまづを八つさきに\nして腹（はら）いせしやう　かべさく〽極悪非道（ごくあくひどう）のらんぼうもの　やね〽まづことも\nなく取しづめ　つし〽天下太平（てんかたいへい）国土安穏（こくとあんおん）　くら〽鯰（なかづ）を火にあぶり\nいはいのさかもり　さら八〽サアうしやアがれ　なまづ〽おいらいやだ　さう八〽ヤアいやだと\nぬかしてゆるしておかふか　ぢさく〽サアうしやアがれ　なまづ〽ひどいめにあはせるからいやだ\nおど〽あいつひけうなやつだソリヤ知たことだ　あは九らう〽たいがいのことですませるものか　いへ〽はら\nいつはひくるしませてやるのだ　なまづ〽ナゼそんなにおれをにくむのだ　たか平〽とぼけな\nうぬ自身におぼへがあろう　大ぜい〽うぬはいつこくのおふゆすりめだわい\n\n\n【絵の中の歌】\n土天葊\n末ひろき御世を\nしめたる要石うこかぬ\n国と\nあふぐ\n神風\n\n【絵の署名】\n延壽戯画作\n",
+            "timestamp": {
+                "_nanoseconds": 673000000,
+                "_seconds": 1572919037
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

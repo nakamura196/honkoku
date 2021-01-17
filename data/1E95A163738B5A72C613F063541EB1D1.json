@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9793,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6bff8a446e4f927fe3139969c76503a42bdabdbb.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9793,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56332",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 13779
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56332/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56332",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 13779
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 10327,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1794120812143b6ad1b179eb1dbb45b39eece4b1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 10327,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56333",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7759
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56333/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56333",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7759
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "1E95A163738B5A72C613F063541EB1D1",
+    "label": "美濃国大垣市街精図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "美濃国大垣市街精図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "明治26年4月1日-5月3日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "明治26年3月29日印刷出版　岐阜県安八郡大垣町字竹嶋90番戸　著者兼発行者　平野粂治郎　岐阜県安八郡大垣町宮郭町105番戸　印刷者　野田達助"
+        },
+        {
+            "label": "備考",
+            "value": "震災死亡者追弔会西国三拾三所各御本尊聨合開扉"
+        },
+        {
+            "label": "year",
+            "value": "1893"
+        },
+        {
+            "label": "identifier",
+            "value": "f9f5a0e5-5523-46fe-8f8a-e9051edd4089"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1092"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6bff8a446e4f927fe3139969c76503a42bdabdbb.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1E95A163738B5A72C613F063541EB1D1",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "美濃国大垣市街精図\n\n震災死亡者追弔会\n西国三拾三所各御本尊\n聯合開扉\n＜割書：自四月一日｜至五月三日＞於大垣町\n\n表示附札の写\n濃尾大震災横死者の惨状を深\n察し這回西国札所各寺院は遠\n地を厭わず本尊観世音菩薩の\n尊像を残らず供奉し追弔法会\n及ひ衆庶結縁の為当町に於て\n表示の通り執行せらる四方人々\n十州山河を旅行するの労なく\n宿泊の費用を要せす容易霊\n像を順拝し納経することを得是\n実に空前絶後の災害に対したる\n前代未聞の美挙なれば尋常\n出開帳の類に非ることを信認\nし玉へ\n慈眼会\n\n明治廿六年三月廿九日印刷\n明治廿六年三月廿九日出版\n\n岐阜県安八郡大垣町字竹島\n九拾番戸\n＜割書：著者兼｜発行者＞\n平野粂治郎\n岐阜県安八郡大垣町宮郭町\n百五番戸\n＜割書：印刷者＞\n野田達助\n\n\n汽車発着表\n東行\n午前四時〇五\n同　六、一四\n同　九、四八\n午後一二、四〇\n同　三、廿六\n同　六、三三\n同　八、五八\n西行\n午前一時二五\n同　七、一〇\n同一一、二五\n午後二、二三\n同　五、二〇\n同　七、三一\n\n\n第壱番\n若森\n紀伊国\n那智山\n\n第二番\n求浄庵\n同国\n紀三井寺\n\n第三番\n大塚屋敷\n同国\n粉川寺\n\n第四番\n下里磯次郎\n槙尾寺\n\n第五番\n土井了憧\n河内国\n葛井寺\n\n第六番\n常楽寺\n大和国\n壺坂寺\n\n第七番\n常隆寺\n同国\n岡寺\n\n第八番\n本馬場\n同国\n長谷寺\n\n第九番\n全昌寺\n同国\n南円堂\n\n第十番\n下町\n山城国\n三室戸寺\n\n第十一番\n亀屋町\n山城国\n上醍醐寺\n\n第十二番\n大悲院\n近江国\n岩間寺\n\n第十三番\n俵町\n同国\n石山寺\n\n第十四番\n宮町\n同国\n三井寺\n\n第十五番\n室町\n山城国\n今熊野\n\n第十六番\n桐ケ崎\n同国\n清水寺\n\n第十七番\n文殊院\n同国\n六波羅蜜寺\n\n第十八番\n林本郷\n同国\n六角堂\n\n第十九番\n実相寺\n同国\n革堂\n\n第二十番\n禅桂寺\n同国\n善峯寺\n\n第廿一番\n江藤\n丹波国\n穴穂寺\n\n第廿二番\n旭廓\n摂津国\n総持寺\n\n第廿三番\n高橋\n同国\n勝尾寺\n\n第廿四番\n木村屋敷\n同国\n中山寺\n\n第廿五番\n播磨国\n 新清水寺\n\n第廿六番\n中町\n播磨国\n法華寺\n\n第廿七番\n上本町\n同国\n書写山\n\n第廿八番\n下本町\n丹後国\n成相寺\n\n第廿九番\n善光寺\n若狭国\n松尾寺\n\n第三十番\n竹島町\n近江国\n竹生島\n\n第三十一番\n南ノ顔\n近江国\n長命寺\n\n第三十二番\n徳秀寺\n同国\n観音寺\n\n第三十三番\n大運寺\n美濃国\n谷汲山\n\n\n凡側\n道路\n堤防\n鉄道\n堀川\n田畑\n社地\n寺院\n屋敷\n板橋\n石橋\n電信\n",
+            "text": "美濃国大垣市街精図\n\n震災死亡者追弔会\n西国三拾三所各御本尊\n聯合開扉\n《割書：自四月一日｜至五月三日》於大垣町\n\n表示附札の写\n濃尾大震災横死者の惨状を深\n察し這回西国札所各寺院は遠\n地を厭わず本尊観世音菩薩の\n尊像を残らず供奉し追弔法会\n及ひ衆庶結縁の為当町に於て\n表示の通り執行せらる四方人々\n十州山河を旅行するの労なく\n宿泊の費用を要せす容易霊\n像を順拝し納経することを得是\n実に空前絶後の災害に対したる\n前代未聞の美挙なれば尋常\n出開帳の類に非ることを信認\nし玉へ\n慈眼会\n\n明治廿六年三月廿九日印刷\n明治廿六年三月廿九日出版\n\n岐阜県安八郡大垣町字竹島\n九拾番戸\n《割書：著者兼｜発行者》\n平野粂治郎\n岐阜県安八郡大垣町宮郭町\n百五番戸\n《割書：印刷者》\n野田達助\n\n\n汽車発着表\n東行\n午前四時〇五\n同　六、一四\n同　九、四八\n午後一二、四〇\n同　三、廿六\n同　六、三三\n同　八、五八\n西行\n午前一時二五\n同　七、一〇\n同一一、二五\n午後二、二三\n同　五、二〇\n同　七、三一\n\n\n第壱番\n若森\n紀伊国\n那智山\n\n第二番\n求浄庵\n同国\n紀三井寺\n\n第三番\n大塚屋敷\n同国\n粉川寺\n\n第四番\n下里磯次郎\n槙尾寺\n\n第五番\n土井了憧\n河内国\n葛井寺\n\n第六番\n常楽寺\n大和国\n壺坂寺\n\n第七番\n常隆寺\n同国\n岡寺\n\n第八番\n本馬場\n同国\n長谷寺\n\n第九番\n全昌寺\n同国\n南円堂\n\n第十番\n下町\n山城国\n三室戸寺\n\n第十一番\n亀屋町\n山城国\n上醍醐寺\n\n第十二番\n大悲院\n近江国\n岩間寺\n\n第十三番\n俵町\n同国\n石山寺\n\n第十四番\n宮町\n同国\n三井寺\n\n第十五番\n室町\n山城国\n今熊野\n\n第十六番\n桐ケ崎\n同国\n清水寺\n\n第十七番\n文殊院\n同国\n六波羅蜜寺\n\n第十八番\n林本郷\n同国\n六角堂\n\n第十九番\n実相寺\n同国\n革堂\n\n第二十番\n禅桂寺\n同国\n善峯寺\n\n第廿一番\n江藤\n丹波国\n穴穂寺\n\n第廿二番\n旭廓\n摂津国\n総持寺\n\n第廿三番\n高橋\n同国\n勝尾寺\n\n第廿四番\n木村屋敷\n同国\n中山寺\n\n第廿五番\n播磨国\n 新清水寺\n\n第廿六番\n中町\n播磨国\n法華寺\n\n第廿七番\n上本町\n同国\n書写山\n\n第廿八番\n下本町\n丹後国\n成相寺\n\n第廿九番\n善光寺\n若狭国\n松尾寺\n\n第三十番\n竹島町\n近江国\n竹生島\n\n第三十一番\n南ノ顔\n近江国\n長命寺\n\n第三十二番\n徳秀寺\n同国\n観音寺\n\n第三十三番\n大運寺\n美濃国\n谷汲山\n\n\n凡側\n道路\n堤防\n鉄道\n堀川\n田畑\n社地\n寺院\n屋敷\n板橋\n石橋\n電信\n",
+            "timestamp": {
+                "_nanoseconds": 757000000,
+                "_seconds": 1574992536
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f9f5a0e5-5523-46fe-8f8a-e9051edd4089/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1E95A163738B5A72C613F063541EB1D1",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】",
+            "text": "【裏】",
+            "timestamp": {
+                "_nanoseconds": 526000000,
+                "_seconds": 1574992589
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

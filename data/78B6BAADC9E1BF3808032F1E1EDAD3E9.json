@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/757fe7368835c967ed35764e6373259d1380188e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88517",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88517/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88517",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "78B6BAADC9E1BF3808032F1E1EDAD3E9",
+    "label": "[鯰に金銀を吐かされる持丸]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[鯰に金銀を吐かされる持丸]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-090"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "3b1ebed2-ad63-4f25-bafa-ec6e01b837a4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0137"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/757fe7368835c967ed35764e6373259d1380188e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b1ebed2-ad63-4f25-bafa-ec6e01b837a4/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "78B6BAADC9E1BF3808032F1E1EDAD3E9",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【右ページ上段の囲み内】\n【1行目はとぎれていて判読不可】\n一 我等義（われらぎ）当十月二日 夜酒（よさけ）に乗（じやう）じ鳴動（めいどう）の上 \n前後（ぜんご）亡失（ほうしつ）仕 八百万（やおよろづの）御神（おんがみ）たち御 留守（るす）をも不弁（わきまへす）\n御江戸町々 家蔵（いへくら）等 破逆（はきやく）致し損亡（そんほう）夥敷（おひたゝしく）候に\n付 神仏方（しんぶつかた）御 怒（いかり）の段（だん）御 尤（もつとも）に御座候 然（しか）る所\n 先（せん）夜 雨天（うてん）の節（せつ）津波共（つなみども）打寄（うちより）候に付 我（われ）等\n     罷出（まかりいで）八大龍王（はちだいりうわう）江 相 頼（たのみ）右津なみ 差戻（さしもどし）させ\n御ぶなんに相 過（すぎ）候 依之（これによつて）蛭子（ゑびす）神を以て御 詫（わび）申\n入候所ゆる〳〵御 聞済（きゝすみ）被下置 千万（せんばん）難有奉存候\n  向後（こうご）震（ふるひ）候節は鯰（なまず）一同 蒲焼（かはやき）すつぽん煮（に）等に\n被成候共 決而（けつして）一 毛（もう）の動（うごき）申間敷候 為後日（こにちのため）さし\nゆれ申一 発（はつ）仍（よつて）不 断（だん）の如し\n安政二年\n霜月二日\n地震坊（ぢしんばう）\n大鯰（たいねん）\n\n【右ページ下段】\n□\n〽□そらよわしもゆくきはねえけれど\nよんどころなくつぶされたのうへで\nでき心りやうけんしなせへ\n\nふきのとう\n〽おめへかたはともかくもおれは\nなんにもじやまにはならす\nぢしんにあたまをはりたを\nされるりくつはねへやア\n\nかみなり\n〽コウぢしん手めへやおれはよの中て\n仲間といふはしつてゐるになせおとして\nくれた□おちていひしふんには\nおれかかつてに一人リでおちる\nかぜのかみの\nまへも\nあるはへ\nよごれたのを\nぬり直して\nくれろ\n\nゑびす\n〽わしも十月そう〳〵から\nこんなさはぎかみ〴〵へも\nいひわけなくやう〳〵\nおわびは申たなれど\nこのごはきつと\nふるふなヨ\n\nかしまさま\n〽かなめ□しが\nひやうたんの\nやうになつては\nわしがいせへ\nすまぬぞきつと\nつつしめ\n\n【左ページ】\n盲人\n〽てもさてもいくしは\nねへせつかくこうり\nをかしてためたこの\nかねをせめては▲\n▲\n【給？】と\nきんば\nかりても\nのこして\nくれゝば\nいゝにそれ\nまでとは\nうまらねへ\n\nじしん\n〽なんとどうたこう\nゆすぶつたらありつ\nたけたさずはなるまい\nさあいまゝでためたその\nかねをのこらすはきだして\nしまへそうするとおゝくの人が\nよろこぶわ\n\nかね持\n〽あゝせつねへせつかくしほをなめてためた\nこのかねをのこらずはかしてしまうとは\nなさけねへしかしためたときよりまことに\nせわなしにでゝしまつた\n\nかね持\n〽やれ〳〵きさまははいたらおれはしりを\nふまれるゆへ？みんなくたつてしまつた\nいま【し？】い\n\n□しよ□□【諸しよく人？】よろこぶこゑこや〴〵\nかや〳〵〳〵わや〳〵〳〵〳〵\n\nいしや\n〽やれ〳〵これは\nごていねいに\nぐろ？までこゝへ\nおだしくださるとは\nかたじけない",
+            "text": "【右ページ上段の囲み内】\n【1行目はとぎれていて判読不可】\n一 我等義（われらぎ）当十月二日 夜酒（よさけ）に乗（じやう）じ鳴動（めいどう）の上 \n前後（ぜんご）亡失（ほうしつ）仕 八百万（やおよろづの）御神（おんがみ）たち御 留守（るす）をも不弁（わきまへす）\n御江戸町々 家蔵（いへくら）等 破逆（はきやく）致し損亡（そんほう）夥敷（おひたゝしく）候に\n付 神仏方（しんぶつかた）御 怒（いかり）の段（だん）御 尤（もつとも）に御座候 然（しか）る所\n 先（せん）夜 雨天（うてん）の節（せつ）津波共（つなみども）打寄（うちより）候に付 我（われ）等\n     罷出（まかりいで）八大龍王（はちだいりうわう）江 相 頼（たのみ）右津なみ 差戻（さしもどし）させ\n御ぶなんに相 過（すぎ）候 依之（これによつて）蛭子（ゑびす）神を以て御 詫（わび）申\n入候所ゆる〳〵御 聞済（きゝすみ）被下置 千万（せんばん）難有奉存候\n  向後（こうご）震（ふるひ）候節は鯰（なまず）一同 蒲焼（かはやき）すつぽん煮（に）等に\n被成候共 決而（けつして）一 毛（もう）の動（うごき）申間敷候 為後日（こにちのため）さし\nゆれ申一 発（はつ）仍（よつて）不 断（だん）の如し\n安政二年\n霜月二日\n地震坊（ぢしんばう）\n大鯰（たいねん）\n\n【右ページ下段】\n□\n〽□そらよわしもゆくきはねえけれど\nよんどころなくつぶされたのうへで\nでき心りやうけんしなせへ\n\nふきのとう\n〽おめへかたはともかくもおれは\nなんにもじやまにはならす\nぢしんにあたまをはりたを\nされるりくつはねへやア\n\nかみなり\n〽コウぢしん手めへやおれはよの中て\n仲間といふはしつてゐるになせおとして\nくれた□おちていひしふんには\nおれかかつてに一人リでおちる\nかぜのかみの\nまへも\nあるはへ\nよごれたのを\nぬり直して\nくれろ\n\nゑびす\n〽わしも十月そう〳〵から\nこんなさはぎかみ〴〵へも\nいひわけなくやう〳〵\nおわびは申たなれど\nこのごはきつと\nふるふなヨ\n\nかしまさま\n〽かなめ□しが\nひやうたんの\nやうになつては\nわしがいせへ\nすまぬぞきつと\nつつしめ\n\n【左ページ】\n盲人\n〽てもさてもいくしは\nねへせつかくこうり\nをかしてためたこの\nかねをせめては▲\n▲\n【給？】と\nきんば\nかりても\nのこして\nくれゝば\nいゝにそれ\nまでとは\nうまらねへ\n\nじしん\n〽なんとどうたこう\nゆすぶつたらありつ\nたけたさずはなるまい\nさあいまゝでためたその\nかねをのこらすはきだして\nしまへそうするとおゝくの人が\nよろこぶわ\n\nかね持\n〽あゝせつねへせつかくしほをなめてためた\nこのかねをのこらずはかしてしまうとは\nなさけねへしかしためたときよりまことに\nせわなしにでゝしまつた\n\nかね持\n〽やれ〳〵きさまははいたらおれはしりを\nふまれるゆへ？みんなくたつてしまつた\nいま【し？】い\n\n□しよ□□【諸しよく人？】よろこぶこゑこや〴〵\nかや〳〵〳〵わや〳〵〳〵〳〵\n\nいしや\n〽やれ〳〵これは\nごていねいに\nぐろ？までこゝへ\nおだしくださるとは\nかたじけない",
+            "timestamp": {
+                "_nanoseconds": 414000000,
+                "_seconds": 1575375706
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

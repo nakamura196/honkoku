@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2939d73de2d761e84e75f0f54c575fb5289e6ee6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88667",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88667/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88667",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C0AC1779ADC48DF1CB1A658CB3C2302E",
+    "label": "出方山おしぬけ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "出方山おしぬけ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-032"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×42"
+        },
+        {
+            "label": "備考",
+            "value": "磐梯山の噴火か?"
+        },
+        {
+            "label": "identifier",
+            "value": "d0408662-1162-4d71-89e8-0b27dcf2ea3d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0287"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2939d73de2d761e84e75f0f54c575fb5289e6ee6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d0408662-1162-4d71-89e8-0b27dcf2ea3d/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "C0AC1779ADC48DF1CB1A658CB3C2302E",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【上図】\n出方山おしぬけ\n田畑山林人村数高\n田畑三万石程\n村数宇敷【管？】村より\n宇留田村毛化【？】村迄廿八ケ村\n人数三千人余\n竪拾五六里\n横六七り右之如くあわれ\nなる次第也\n\n【下右図】\n夫天地不時之変動は\n陰陽混して雷雨と\nなる地にいれは地震を\nなすアヽ神仏の\n応護も\n是を納むる\n事かたし\n頃は嘉永\n六丑年二月\n二日昼四ツ時\nより夜九時\nまて大地震\n相州小田原\n大久保加賀守様御\n領分御城下万町\n本町板ばしりう\nしまち通り\n青物町すわを\n町寺町\n御城角やぐら\n町家とも大に\n損す近村近郷\n\n【下左】\n酒匂川筋飯すみ【飯泉】\n十文字十日市場\n子安大山へん\n堂新権現山道\n東海道筋小田\n原つゞきはだ\n山中大久保長門守様\n御領分村々多く\n損ず箱根湯本\n七ケ所二子山辺同所\n権現様御山内尤\n御社は御さわりなし\n同所満水あふれ\nおさいの河原辺大に\n損す夫ゟ豆州海辺\n山々真鶴網代伊東\n西はしゆせん寺三嶋\n此外所々大損する\nといへどもあらましを\n記し高覧そのを【？】\nのみ\n ",
+            "text": "【上図】\n出方山おしぬけ\n田畑山林人村数高\n田畑三万石程\n村数宇敷【管？】村より\n宇留田村毛化【？】村迄廿八ケ村\n人数三千人余\n竪拾五六里\n横六七り右之如くあわれ\nなる次第也\n\n【下右図】\n夫天地不時之変動は\n陰陽混して雷雨と\nなる地にいれは地震を\nなすアヽ神仏の\n応護も\n是を納むる\n事かたし\n頃は嘉永\n六丑年二月\n二日昼四ツ時\nより夜九時\nまて大地震\n相州小田原\n大久保加賀守様御\n領分御城下万町\n本町板ばしりう\nしまち通り\n青物町すわを\n町寺町\n御城角やぐら\n町家とも大に\n損す近村近郷\n\n【下左】\n酒匂川筋飯すみ【飯泉】\n十文字十日市場\n子安大山へん\n堂新権現山道\n東海道筋小田\n原つゞきはだ\n山中大久保長門守様\n御領分村々多く\n損ず箱根湯本\n七ケ所二子山辺同所\n権現様御山内尤\n御社は御さわりなし\n同所満水あふれ\nおさいの河原辺大に\n損す夫ゟ豆州海辺\n山々真鶴網代伊東\n西はしゆせん寺三嶋\n此外所々大損する\nといへどもあらましを\n記し高覧そのを【？】\nのみ\n ",
+            "timestamp": {
+                "_nanoseconds": 696000000,
+                "_seconds": 1574124763
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

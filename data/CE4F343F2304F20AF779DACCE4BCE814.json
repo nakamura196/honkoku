@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6971b0b71793d1fb2b1e2151d3f111cea61c5022.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88645",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88645/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88645",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "CE4F343F2304F20AF779DACCE4BCE814",
+    "label": "安政五年午十一月江戸大火",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政五年午十一月江戸大火"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政5年11月12日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×49"
+        },
+        {
+            "label": "year",
+            "value": "1858"
+        },
+        {
+            "label": "identifier",
+            "value": "d4930449-c69b-401e-b845-4682c1e1666e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0265"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6971b0b71793d1fb2b1e2151d3f111cea61c5022.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4930449-c69b-401e-b845-4682c1e1666e/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "CE4F343F2304F20AF779DACCE4BCE814",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "＜割書：安政五年｜午十一月＞江戸大火\n【表題の下段】\n但し御大名様方\n御屋鋪并御籏本\n方御屋敷御類焼数\n多有之候へ共爰略す\n\n【右下】\n安政五年十一月十二日未中刻赤坂御掃除町より【合字】出火\n折節西北風強三分坂下清水谷新町四丁目同\n五丁目二軒家三川台今井谷麻布谷町丹波谷\nなたれ坂市兵衛町六軒丁仲之町飯倉片町\n永坂 狸穴（まみあな）十番馬場町新堀端森下中橋迄焼\n　　南北卅丁程焼飛火芝魚らん下組屋鋪\n　　　　　　二丁四方程焼戌下刻火鎮申候\n",
+            "text": "《割書：安政五年｜午十一月》江戸大火\n【表題の下段】\n但し御大名様方\n御屋鋪并御籏本\n方御屋敷御類焼数\n多有之候へ共爰略す\n\n【右下】\n安政五年十一月十二日未中刻赤坂御掃除町より【合字】出火\n折節西北風強三分坂下清水谷新町四丁目同\n五丁目二軒家三川台今井谷麻布谷町丹波谷\nなたれ坂市兵衛町六軒丁仲之町飯倉片町\n永坂 狸穴（まみあな）十番馬場町新堀端森下中橋迄焼\n　　南北卅丁程焼飛火芝魚らん下組屋鋪\n　　　　　　二丁四方程焼戌下刻火鎮申候\n",
+            "timestamp": {
+                "_nanoseconds": 293000000,
+                "_seconds": 1568876945
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

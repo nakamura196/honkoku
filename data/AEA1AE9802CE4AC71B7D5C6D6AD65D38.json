@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/05c97a448b07df155a11c0272622c2532beeea3d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88709",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88709/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88709",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "AEA1AE9802CE4AC71B7D5C6D6AD65D38",
+    "label": "嘉永七寅歳中珍事末代噺種",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "嘉永七寅歳中珍事末代噺種"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-074"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "番付"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×10"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "6bb6a74c-f294-4bbc-a09e-b739a69a3011"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0329"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/05c97a448b07df155a11c0272622c2532beeea3d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6bb6a74c-f294-4bbc-a09e-b739a69a3011/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "AEA1AE9802CE4AC71B7D5C6D6AD65D38",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\n＜割書：嘉永七｜寅歳中＞珍（ちん）事（じ）末代噺種\n【本文一段目】\n大関　十一月　大坂地震津波\n関脇　同　　　志州鳥羽津波\n小結　九月　＜割書：大坂｜長町＞三ツ子産\n前頭　閏七月　信貴山寅守\n前頭　十一月　阿州徳嶋出火\n前頭　八月　＜割書：八代目｜團十郎＞乗込并病死\n前頭　六月　　奈良大地震\n前頭　六月　　郡山大地震\n【本文二段目】\n前　　十一月　紀州田辺大津波\n同　　六月　＜割書：讃｜州＞金比羅町洪水\n同　　十一月　岡崎矢矧橋落\n同　　九月　　湊死去\n同　　十一月　平野大地震\n同　　七月　　北ノ新地踊り\n同　　十一月　河内松原地しん\n同　　二月　＜割書：八丁目｜寺町＞地獄戻り\n同　　六月　　なんバ砂持\n同　　十一月　堺津波\n同　　四月　＜割書：大｜坂＞坂町いてう娘\n同　　十一月　岡山大荒レ\n【本文三段目】\n同　　十一月　兵庫大地震\n同　　〃　　　高野山ぢしん\n同　　〃　　　和歌山つなミ\n同　　〃　　　備後鞆地震\n同　　〃　　　丹波ぢしん\n\n世　　〃　　　富士川埋ル\n話　　〃　　＜割書：土｜州＞カンノ浦津波\n人　　〃　　＜割書：豊｜後＞靏崎地しん\n\n頭　　〃　　　紀州日高荒\n　　　〃　　　同湯浅津波\n取　　〃　　＜割書：南｜都＞春日燈篭倒",
+            "text": "【表題】\n《割書：嘉永七｜寅歳中》珍（ちん）事（じ）末代噺種\n【本文一段目】\n大関　十一月　大坂地震津波\n関脇　同　　　志州鳥羽津波\n小結　九月　《割書：大坂｜長町》三ツ子産\n前頭　閏七月　信貴山寅守\n前頭　十一月　阿州徳嶋出火\n前頭　八月　《割書：八代目｜團十郎》乗込并病死\n前頭　六月　　奈良大地震\n前頭　六月　　郡山大地震\n【本文二段目】\n前　　十一月　紀州田辺大津波\n同　　六月　《割書：讃｜州》金比羅町洪水\n同　　十一月　岡崎矢矧橋落\n同　　九月　　湊死去\n同　　十一月　平野大地震\n同　　七月　　北ノ新地踊り\n同　　十一月　河内松原地しん\n同　　二月　《割書：八丁目｜寺町》地獄戻り\n同　　六月　　なんバ砂持\n同　　十一月　堺津波\n同　　四月　《割書：大｜坂》坂町いてう娘\n同　　十一月　岡山大荒レ\n【本文三段目】\n同　　十一月　兵庫大地震\n同　　〃　　　高野山ぢしん\n同　　〃　　　和歌山つなミ\n同　　〃　　　備後鞆地震\n同　　〃　　　丹波ぢしん\n\n世　　〃　　　富士川埋ル\n話　　〃　　《割書：土｜州》カンノ浦津波\n人　　〃　　《割書：豊｜後》靏崎地しん\n\n頭　　〃　　　紀州日高荒\n　　　〃　　　同湯浅津波\n取　　〃　　《割書：南｜都》春日燈篭倒",
+            "timestamp": {
+                "_nanoseconds": 112000000,
+                "_seconds": 1573454987
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

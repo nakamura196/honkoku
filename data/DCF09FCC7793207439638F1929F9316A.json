@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3913e73e851fa29bfc5ffc7f07fce51941bf5baf.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88657",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88657/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88657",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "DCF09FCC7793207439638F1929F9316A",
+    "label": "諸国大地震大津波末代噺",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "諸国大地震大津波末代噺"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "48×68"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "97d1bf36-dd12-4663-86b2-79195e60f7b6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0277"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3913e73e851fa29bfc5ffc7f07fce51941bf5baf.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/97d1bf36-dd12-4663-86b2-79195e60f7b6/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "DCF09FCC7793207439638F1929F9316A",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【表題】\n嘉永七年\n寅十一月＜割書：四日｜五日＞　　諸国大地震大津波末代噺\n本しらべ\n\n【左側枠外】\n此末代噺ハ本しらべいたしくわしく諸国地しんつなみ并ニ大火の次第をうつし\n\n【一段目】\n日坂無事\n　此宿\n　　無事ニ\n　　　通り\n\n＜割書：袋井かけ川金谷藤枝｜ふちうえじりおきつ＞\n　此\n　　七\n　　　宿\n　大地\n　　　震\n　　出火\n\n東海道＜割書：さよの｜　中山＞\n　此所\n　つり\n　　かね\n　こん\n　　りう\n\n宮桑名\n　大あれ\n　　〳〵\n\n京木津なら大津\n　▲◯【丸の中に四角、以下同じ】\n　　作料\n\n志州鳥羽邊\n　こん\n　　さつ\n　〳〵\n\n尾州名古屋\n　諸入用\n　　▲◯\n\n【二段目】\nかん原吉原\n　丸\n　や\n　け\n\n日向きゝん\n　ふ\n　さ\n　く\n\n東海なるみ宿\n　家\n　六部\n　つ\n　　ぶ\n　　れ\n\n【紙折れのため地名の判読できず】藝州備前備中備後【別資料より】\n　西国すじ\n　藝州\n　　廣島\n　三備州\n　　尾の道\n　　　とも\n\n伊勢両宮無事\n　春日\n　　とう\n　　　ろう\n　　　　こける\n　▲◯\n　　さいせん\n\n＜割書：美濃竹かはな｜　地さけどろ吹出す＞\n　どろ\n　　かい\n　　　〳〵\n\n越前敦賀地震＜割書：其ほか｜　北国＞\n　よ\n　　な\n　　　をり\n　　　　〳〵〳〵\n　目出たい\n　　〳〵〳〵\n\n【三段目】\n尼ケ崎西の宮\n　十一月\n　　四日\n　大地\n　　しん\n　あれ\n\nかなめいし\n　よな\n　　をり\n　〳〵\n　▲◯\n　さい\n　せん\n\n大坂　　　上\n上り　　　町\n\n美濃大雪地震\n　是ハ\n　たまら\n　　　　ぬ\n　〳〵〳〵\n\n新田舟入流レこんさつ\n\n【四段目】\n日本一高山ぶし【本のまま。「ふじ」】\n　めで\n　　たく\n　春\n　の\n　雲\n\n米安直\n　大安賣\n\n播州近邊\n　かく\n　　へつの\n　事も\n　　なし\n\n清水天王寺玉造\n　▲◯\n　さい\n　　せん\n　　　　　これハ\n　　　　　たまらぬ\n　　　　　　〳〵〳〵\n\n【五段目】\n阿波讃岐土佐\n　大やけ\n　▲◯\n　と\n　　まり\n\n摂州三田\n　大地\n　　しん\n　大\n　　あれ\n\n品川川崎かな川\n　大\n　つ\n　な\n　　み\n\n江戸芝居やけ\n　三\n　芝\n　　居\n　　やけ\n\n＜割書：諸方やしき｜　江戸そんじ＞\n　▲◯\n　ふしん\n　料\n\n＜割書：浅艸上野｜　増正【本のまま。「上」】寺無事＞\n　▲◯\n　さい\n　　せん\n\n＜割書：大こくばし津波｜亀井ばし其外落橋＞\n\n【六段目】\n諸社御千度\n　諸国\n　あん\n　　ぜん\n　もと\n　か□□【文字見えず】\n\n大坂ゆり出し\n\n京町ぼり\n\n五日夕方＜割書：諸方｜こんざつ＞\n　▲◯\n　ふろ\n　　せん\n\n＜割書：諸方井戸やかた｜　つりがね堂＞\n　なにが\n　銭もう\n　　けの\n　たねニ\n　なる\n　　やら\n\n諸方くだけ\n　▲◯\n　大そん\n　　りやう",
+            "text": "【表題】\n嘉永七年\n寅十一月《割書：四日｜五日》　　諸国大地震大津波末代噺\n本しらべ\n\n【左側枠外】\n此末代噺ハ本しらべいたしくわしく諸国地しんつなみ并ニ大火の次第をうつし\n\n【一段目】\n日坂無事\n　此宿\n　　無事ニ\n　　　通り\n\n《割書：袋井かけ川金谷藤枝｜ふちうえじりおきつ》\n　此\n　　七\n　　　宿\n　大地\n　　　震\n　　出火\n\n東海道《割書：さよの｜　中山》\n　此所\n　つり\n　　かね\n　こん\n　　りう\n\n宮桑名\n　大あれ\n　　〳〵\n\n京木津なら大津\n　▲◯【丸の中に四角、以下同じ】\n　　作料\n\n志州鳥羽邊\n　こん\n　　さつ\n　〳〵\n\n尾州名古屋\n　諸入用\n　　▲◯\n\n【二段目】\nかん原吉原\n　丸\n　や\n　け\n\n日向きゝん\n　ふ\n　さ\n　く\n\n東海なるみ宿\n　家\n　六部\n　つ\n　　ぶ\n　　れ\n\n【紙折れのため地名の判読できず】藝州備前備中備後【別資料より】\n　西国すじ\n　藝州\n　　廣島\n　三備州\n　　尾の道\n　　　とも\n\n伊勢両宮無事\n　春日\n　　とう\n　　　ろう\n　　　　こける\n　▲◯\n　　さいせん\n\n《割書：美濃竹かはな｜　地さけどろ吹出す》\n　どろ\n　　かい\n　　　〳〵\n\n越前敦賀地震《割書：其ほか｜　北国》\n　よ\n　　な\n　　　をり\n　　　　〳〵〳〵\n　目出たい\n　　〳〵〳〵\n\n【三段目】\n尼ケ崎西の宮\n　十一月\n　　四日\n　大地\n　　しん\n　あれ\n\nかなめいし\n　よな\n　　をり\n　〳〵\n　▲◯\n　さい\n　せん\n\n大坂　　　上\n上り　　　町\n\n美濃大雪地震\n　是ハ\n　たまら\n　　　　ぬ\n　〳〵〳〵\n\n新田舟入流レこんさつ\n\n【四段目】\n日本一高山ぶし【本のまま。「ふじ」】\n　めで\n　　たく\n　春\n　の\n　雲\n\n米安直\n　大安賣\n\n播州近邊\n　かく\n　　へつの\n　事も\n　　なし\n\n清水天王寺玉造\n　▲◯\n　さい\n　　せん\n　　　　　これハ\n　　　　　たまらぬ\n　　　　　　〳〵〳〵\n\n【四段目】\n阿波讃岐土佐\n　大やけ\n　▲◯\n　と\n　　まり\n\n摂州三田\n　大地\n　　しん\n　大\n　　あれ\n\n品川川崎かな川\n　大\n　つ\n　な\n　　み\n\n江戸芝居やけ\n　三\n　芝\n　　居\n　　やけ\n\n《割書：諸方やしき｜　江戸そんじ》\n　▲◯\n　ふしん\n　料\n\n《割書：浅艸上野｜　増正【本のまま。「上」】寺無事》\n　▲◯\n　さい\n　　せん\n\n《割書：大こくばし津波｜　亀井ばし其外落橋》\n\n【五段目】\n諸社御千度\n　諸国\n　あん\n　　ぜん\n　もと\n　か□□【文字見えず】\n\n大坂ゆり出し\n\n京町ぼり\n\n五日夕方《割書：諸方｜こんざつ》\n　▲◯\n　ふろ\n　　せん\n\n《割書：諸方井戸やかた｜　つりがね堂》\n　なにが\n　銭もう\n　　けの\n　たねニ\n　なる\n　　やら\n\n諸方くだけ\n　▲◯\n　大そん\n　　りやう",
+            "timestamp": {
+                "_nanoseconds": 782000000,
+                "_seconds": 1569210992
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

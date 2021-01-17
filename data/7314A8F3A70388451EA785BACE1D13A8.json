@@ -1,0 +1,132 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f002ed0efe9e1986b8bbbe5e9e0317a59fe10359.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88502",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88502/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88502",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "7314A8F3A70388451EA785BACE1D13A8",
+    "label": "諸国大阪大地震大津波細見一覧",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "諸国大阪大地震大津波細見一覧"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-075"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×50.5"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "cd9e9fe9-ea86-4bb9-841c-ca3b72671efb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0122"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f002ed0efe9e1986b8bbbe5e9e0317a59fe10359.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/cd9e9fe9-ea86-4bb9-841c-ca3b72671efb/canvas/p1",
+            "editedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "entryId": "7314A8F3A70388451EA785BACE1D13A8",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "tempText": "《割書：諸国｜大阪》大地震大津波細見一覧\n嘉永七甲寅年\n霜月四日巳之上刻\n大坂大地震有之\n人家所々崩れ残ハ\n怪我人死人有之大二\n騒動いたし候所よく\n五日七ツ半時大地震\n其上津波にて市\n中大混雑一方ならず\n流れ人家死人之義は\n下の段二委敷しるす\n誠二古今稀成大変成\nべし〳〵おお大坂市中\n夫々町別二いたし\nわかり安く一紙に表し\n相認有之候其外諸\n国同様大地震つなミの\n場所も有之則左二くわ\nしくしるす\n\n堺　　　《割書：地しんつなミ人家｜流れはし流る》\n岸和田　　右同断\n紀州　　《割書：諸々津なミにて｜人家流れ死人多し》\n尼ケ崎　《割書：地震にて家数｜三十軒余崩れ》\n灘　　　地しん\n　　　　にて\n　　　　人家大二そんじる\n雨之宮　《割書：地震にて八十｜軒斗くつれ》\n播州　　《割書：網丁人家大ひ二｜そんじる》\n赤穂地しんにて家崩レ\n大つなミ流れ人家有之\n土地われ泥水吹出し塩浜\nすごく大二そんじ死人数\n　　　　　　　　しれず\n三田　　地震二て七十\n　　　　軒斗崩レ其\n　　　　近在九ヶ村二て\n　　　　百四十軒斗崩るゝ\n志州　　大坂同時の大\n鳥羽　　地しん翌五日\n　　　　大つなミにて\n　御家中市中大かた流\n　込死人数しれす其外\n　勢州川さき　松枝　津\n　神戸　白子　桑名\n　　　何れも同様之事\n\n尾州名古屋　宮\nあたミ　津嶋　さや\n右大阪同様地震つなミ\n　　　　　　　大変\n京都　丹後　宮部　亀山\n右四口五ッ時より大地しんにて\n五百軒斗り崩れ死人失人\n数しれず\n奈良　木津　伊賀上野\n　右地震にて少々宛人家崩れ\n　　　　　　　　　　大二そんする\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "《割書：諸国｜大阪》大地震大津波細見一覧\n嘉永七甲寅年\n霜月四日巳之上刻\n大坂大地震有之\n人家所々崩れ残ハ\n怪我人死人有之大二\n騒動いたし候所よく\n五日七ツ半時大地震\n其上津波にて市\n中大混雑一方ならず\n流れ人家死人之義は\n下の段二委敷しるす\n誠二古今稀成大変成\nべし〳〵おお大坂市中\n夫々町別二いたし\nわかり安く一紙に表し\n相認有之候其外諸\n国同様大地震つなミの\n場所も有之則左二くわ\nしくしるす\n\n堺　　　《割書：地しんつなミ人家｜流れはし流る》\n岸和田　　右同断\n紀州　　《割書：諸々津なミにて｜人家流れ死人多し》\n尼ケ崎　《割書：地震にて家数｜三十軒余崩れ》\n灘　　　地しん\n　　　　にて\n　　　　人家大二そんじる\n雨之宮　《割書：地震にて八十｜軒斗くつれ》\n播州　　《割書：網丁人家大ひ二｜そんじる》\n赤穂地しんにて家崩レ\n大つなミ流れ人家有之\n土地われ泥水吹出し塩浜\nすごく大二そんじ死人数\n　　　　　　　　しれず\n三田　　地震二て七十\n　　　　軒斗崩レ其\n　　　　近在九ヶ村二て\n　　　　百四十軒斗崩るゝ\n志州　　大坂同時の大\n鳥羽　　地しん翌五日\n　　　　大つなミにて\n　御家中市中大かた流\n　込死人数しれす其外\n　勢州川さき　松枝　津\n　神戸　白子　桑名\n　　　何れも同様之事\n\n尾州名古屋　宮\nあたミ　津嶋　さや\n右大阪同様地震つなミ\n　　　　　　　大変\n京都　丹後　宮部　亀山\n右四口五ッ時より大地しんにて\n五百軒斗り崩れ死人失人\n数しれず\n奈良　木津　伊賀上野\n　右地震にて少々宛人家崩れ\n　　　　　　　　　　大二そんする\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 973000000,
+                "_seconds": 1607165842
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 6975,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/51b59d24a8e761a7db77c6c51241ce3066cfd9d3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6975,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56213",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5241
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56213/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56213",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5241
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 6975,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ed7d5731296388adee948acd8654a946b3639d54.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6975,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56214",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5241
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56214/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56214",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5241
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "893D882C134C30EF47C73C7D34582904",
+    "label": "鯰之讎討",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鯰之讎討"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-008"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "鯰之讐討"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-055"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1044"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/51b59d24a8e761a7db77c6c51241ce3066cfd9d3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "893D882C134C30EF47C73C7D34582904",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "　　鯰之讎討【瓢箪の形をした枠内に表題】\n安政二年乙卯十月二日亥の刻の頃江戸ハいつくの町にてやありけん家主\nはじめ何れも大勢詰ゐたる番屋に壱人の浪人来りて我ハ天下 遊（ゆう）歴（れき）のものなるが\n宿をもとめかねてすでに夜に入たり願ハくハ一宿  一（いつ） 飯（ぱん）をめぐミ給へといふニ何れも\n其ていを見るに武者修行のものゝ如く丈の高サ六尺有余面 躰（てい）異（い）容（よう）にしていかにも\n一くせあるべき浪人也番人一同ニこたへけるハ此所ハ町内の非（ひ）常（じやう）をまもり且火の\nもとをいましむるのためなれバ其もとめに応じがたしこの所より 旅籠（はたご）やの\nある馬喰町ハ程遠からねバとくゆきて宿り給へといふニ 彼（かの）浪人色をかへて\n我ハ天地震動さいと号ししらさるものなし 既（すで）ニ近ねん大地震なきが\n故に 歟（か）諸国に我 輩（ともがら）を 慢（あなどつ）て蒲焼或いハすつほんになどになすが\nゆへニけん 属（ぞく）らつミなくして死するもの少なからず依て是がためニ其仇を\n報（むく）わんことを思ひまづ 幸（さいは）ひニ本ごく 発足（しゆつたつ）の時善光寺かい帳ニ来り 集（あつま）り\nたるものを震ひ落しこれを手始として美濃近江にかゝり京大坂に\n登りてまた多くの人民を震ひ殺しけるがわれにてもいまだ快（こゝろ）よからず此ついで\n大和めぐりをなし兼てきこへし繁くハの江戸ニ来りて猶一ト網ニ震ひころさんと\n思ひ大和河内紀伊和泉伊賀伊勢を震ひてこれより 東（とう）海（かい）道（どう）筋ニかゝり\n伊豆に来りて下田を震ひこゝにしばらく 滞留（とうりう）てまた 駿（すん）遠（ゑん）尾（び）の三ヶ国ニ\n立もどり先月廿ノ日吉原宿まて下りて今日たゝ今此所ニ来れるなり\nもし 我（わが）求めニ随ハずハ忽ちニ震ひ殺すべしとのゝりけるニ番人共さてこそ汝ハ\n地震なるや此所ハこれ汝等をふせぎまもる地震番屋也いざからめよとて立（たち）さハぎ\nけれバ震動斎ハいよ〳〵ます〳〵怒りをなしてよし我ニ手向ひせバ今ニ思ひしらせんとて\nゆきがたしらずなりけるが天地 俄（にハ）かニ震ひ 出（いで）て家崩れ蔵落て出火所々ニ始り\n損（そん）亡（ぼう）死人おびたゞしく 震（しん）動（とう）斎ハこれ見て今八百万の神たちは出雲にいたり\n留守にてましませども鹿島の神の聞つけ給ひてもしはせ下り給ひなバ 後（かう）難（なん）はかり\nがたしとて 北国（ほつこく）さしてにげうせけり",
+            "text": "　　鯰之讎討【瓢箪の形をした枠内に表題】\n安政二年乙卯十月二日亥の刻の頃江戸ハいつくの町にてやありけん家主\nはじめ何れも大勢詰ゐたる番屋に壱人の浪人来りて我ハ天下 遊（ゆう）歴（れき）のものなるが\n宿をもとめかねてすでに夜に入たり願ハくハ一宿  一（いつ） 飯（ぱん）をめぐミ給へといふニ何れも\n其ていを見るに武者修行のものゝ如く丈の高サ六尺有余面 躰（てい）異（い）容（よう）にしていかにも\n一くせあるべき浪人也番人一同ニこたへけるハ此所ハ町内の非（ひ）常（じやう）をまもり且火の\nもとをいましむるのためなれバ其もとめに応じがたしこの所より 旅籠（はたご）やの\nある馬喰町ハ程遠からねバとくゆきて宿り給へといふニ 彼（かの）浪人色をかへて\n我ハ天地震動さいと号ししらさるものなし 既（すで）ニ近ねん大地震なきが\n故に 歟（か）諸国に我 輩（ともがら）を 慢（あなどつ）て蒲焼或いハすつほんになどになすが\nゆへニけん 属（ぞく）らつミなくして死するもの少なからず依て是がためニ其仇を\n報（むく）わんことを思ひまづ 幸（さいは）ひニ本ごく 発足（しゆつたつ）の時善光寺かい帳ニ来り 集（あつま）り\nたるものを震ひ落しこれを手始として美濃近江にかゝり京大坂に\n登りてまた多くの人民を震ひ殺しけるがわれにてもいまだ快（こゝろ）よからず此ついで\n大和めぐりをなし兼てきこへし繁くハの江戸ニ来りて猶一ト網ニ震ひころさんと\n思ひ大和河内紀伊和泉伊賀伊勢を震ひてこれより 東（とう）海（かい）道（どう）筋ニかゝり\n伊豆に来りて下田を震ひこゝにしばらく 滞留（とうりう）てまた 駿（すん）遠（ゑん）尾（び）の三ヶ国ニ\n立もどり先月廿ノ日吉原宿まて下りて今日たゝ今此所ニ来れるなり\nもし 我（わが）求めニ随ハずハ忽ちニ震ひ殺すべしとのゝりけるニ番人共さてこそ汝ハ\n地震なるや此所ハこれ汝等をふせぎまもる地震番屋也いざからめよとて立（たち）さハぎ\nけれバ震動斎ハいよ〳〵ます〳〵怒りをなしてよし我ニ手向ひせバ今ニ思ひしらせんとて\nゆきがたしらずなりけるが天地 俄（にハ）かニ震ひ 出（いで）て家崩れ蔵落て出火所々ニ始り\n損（そん）亡（ぼう）死人おびたゞしく 震（しん）動（とう）斎ハこれ見て今八百万の神たちは出雲にいたり\n留守にてましませども鹿島の神の聞つけ給ひてもしはせ下り給ひなバ 後（かう）難（なん）はかり\nがたしとて 北国（ほつこく）さしてにげうせけり",
+            "timestamp": {
+                "_nanoseconds": 49000000,
+                "_seconds": 1584866443
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f20d2fc7-27f8-4494-86c8-99a6cd1fbb7c/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "893D882C134C30EF47C73C7D34582904",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "0011841988\n【印、「東京大学図書印」】",
+            "text": "0011841988\n【印、「東京大学図書印」】",
+            "timestamp": {
+                "_nanoseconds": 81000000,
+                "_seconds": 1584862165
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

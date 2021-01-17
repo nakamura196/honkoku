@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/954e2a988338ce7ed2ad360a56c15f784aca148c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88697",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88697/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88697",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "A3D8F9235CA4220A24F49A751767D19D",
+    "label": "大地震大津浪世直し万歳",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震大津浪世直し万歳"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-062"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "16×22"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "d8bd85a0-d757-47e5-8f54-579cffb9ec1b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0317"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/954e2a988338ce7ed2ad360a56c15f784aca148c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d8bd85a0-d757-47e5-8f54-579cffb9ec1b/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "A3D8F9235CA4220A24F49A751767D19D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "ころは嘉永七とらどし六月十四日のねうしのニてやつどきごろ\nおわり，いせ，あふみ，みの四かこくおゝじじしんのしだい，とうかいどう\nすじなるみじやく，みやじやく，なごや，かいどう\n\n【ここに翻刻する資料は画像中央上のものだけなので、左下資料入力済み分は残したまま、この先新しく翻刻を始めます】\n\n＜割書：大地震｜大津浪＞　世直し万歳（まんざい）\n\n時は嘉永寅の冬みるもさはぎ満し升そうどう\nありけるあらましの飛出（とびだ）しさはぐわれらよりたれもおど\nろき皆目をさましあはてけるは誠に手ひどふさアはぎ\nけるけふのゆさ〳〵は安座でどふも御家にゐられぬ皆も\n大事おれもモウ出るかゝも逃よ夜通しゆさ〳〵とうしや\n住の者共が【、？】霜月四日辰の下刻にゆり出し長い事まじ\nない神をいのられ給ふあふないなんぞと気もませ給ふは\nまことにねぶたふそふらひける【、？】つなみ〳〵とつとこんだる\nつなみ打たる浪の大ゆりうろたへこはい門の大ゆりあはて騒（さはい）で\n□□□わいはまがは〳〵〳〵 〳〵〳〵こわいなとゆつたる度に気をもめそこを\n□□□物屋をみたればらんちくさはぎ皿やかんちろりん疵（きず）ひゞ\n□□□やびん近々 結構（けつこう）かざり立てあぶないしが忽（たちまち）にくづけ\n□□□ 破（ぶれ）たる雑（ざう）ばち迄ゆりこうなる様（さま）野にも集（あつま）る皆よれ\nこれよれ諸方（しよほう）の御蔵もどつさり〳〵〳〵瓦（かはら）も傾（かたむ）く世上に□□ （とり？）た\n門（かど）には集（あつ）まるどつちもこつちもいかれんのこわいことは後（のち）の世直（よなを）し\n\n\n",
+            "text": "ころは嘉永七とらどし六月十四日のねうしのニてやつどきごろ\nおわり，いせ，あふみ，みの四かこくおゝじじしんのしだい，とうかいどう\nすじなるみじやく，みやじやく，なごや，かいどう\n\n【ここに翻刻する資料は画像中央上のものだけなので、左下資料入力済み分は残したまま、この先新しく翻刻を始めます】\n\n《割書：大地震｜大津浪》　世直し万歳（まんざい）\n\n時は嘉永寅の冬みるもさはぎ満し升そうどう\nありけるあらましの飛出（とびだ）しさはぐわれらよりたれもおど\nろき皆目をさましあはてけるは誠に手ひどふさアはぎ\nけるけふのゆさ〳〵は安座でどふも御家にゐられぬ皆も\n大事おれもモウ出るかゝも逃よ夜通しゆさ〳〵とうしや\n住の者共が【、？】霜月四日辰の下刻にゆり出し長い事まじ\nない神をいのられ給ふあふないなんぞと気もませ給ふは\nまことにねぶたふそふらひける【、？】つなみ〳〵とつとこんだる\nつなみ打たる浪の大ゆりうろたへこはい門の大ゆりあはて騒（さはい）で\n□□□わいはまがは〳〵〳〵 〳〵〳〵こわいなとゆつたる度に気をもめそこを\n□□□物屋をみたればらんちくさはぎ皿やかんちろりん疵（きず）ひゞ\n□□□やびん近々 結構（けつこう）かざり立てあぶないしが忽（たちまち）にくづけ\n□□□ 破（ぶれ）たる雑（ざう）ばち迄ゆりこうなる様（さま）野にも集（あつま）る皆よれ\nこれよれ諸方（しよほう）の御蔵もどつさり〳〵〳〵瓦（かはら）も傾（かたむ）く世上に□□ （とり？）た\n門（かど）には集（あつ）まるどつちもこつちもいかれんのこわいことは後（のち）の世直（よなを）し\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 980000000,
+                "_seconds": 1570013646
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

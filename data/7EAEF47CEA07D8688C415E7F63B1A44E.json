@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ceac4cb2085a99c2d9468982293ef51e8924ac8e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88561",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88561/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88561",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "7EAEF47CEA07D8688C415E7F63B1A44E",
+    "label": "明治震災之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治震災之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治24年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画：秀嶺／文：川村鵜江／彫工：高木金"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×23.5"
+        },
+        {
+            "label": "year",
+            "value": "1891"
+        },
+        {
+            "label": "identifier",
+            "value": "0f6a5bcc-22ba-4e44-91d8-d84b8674c33d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0181"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ceac4cb2085a99c2d9468982293ef51e8924ac8e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f6a5bcc-22ba-4e44-91d8-d84b8674c33d/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "7EAEF47CEA07D8688C415E7F63B1A44E",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "＜割書：明｜治＞地震之図\n\n百度（ひやくたび）之を聞（きく）は一度（ひとたび）之を\n見（み）るに如（し）かず遠（とふ）く火（ひ）災を望（のぞめ）ば\n只（たゞ）赤（あか）きを以（もつ）て見（み）るのみ近付（ちかづ）いて\n之（これ）を見（み）る其（その）思（おもひ）必（かなら）ずや増（ま）さん如（いか）何なる\n悲哀（ひあい）の事柄（ことがら）たり共（とも）現在（けんざい）自己（おのれ）の見（み）ざる\nものは其（その）感情（かんせう）薄（うす）し岐阜愛知両県の\n震災（しんさい）は実（じつ）に明治廿四年十一月廿八日午前\n六時三十分の地変（ちへん）にして安政二年十月二日\nの大 地震（ぢしん）以来 未（いま）だ嘗（かつ）て聞（き）かざる所（ところ）就中（なかんづく）\n岐阜（ぎふ）大垣（おふがき）名古屋（なごや）の如（ごと）きはそも／＼中心（ちうしん）にして\n潰（つぶれ）家（や）死傷（しせう）幾万（まん）を以て算（かぞ）へ父母（ふぼ）妻子（さいし）全（まつた）\nきものなし其 甚（はなはだ）しきに至（いた）つては首足（しゆそく）ちぎれ\n身肉（にく）たゞれ一見（いつけん）胸（むね）塞（ふさ）がり魂（こん）飛（と）び眼（まなこ）暉するに\n至（いた）る故（ゆへ）を以て全（ぜん）国の慈善家（じぜんか）続々（ぞく／＼）義捐（ぎけん）の金\n円を喜捨（きしや）す今（いま）や時（とき）は酷寒（こくかん）の候（こふ）に向（むか）ひ地面（ちめん）潰（くわい）\n裂（れつ）家財（かざい）烏有（うゆう）食（しよく）するに物（もの）なく買（か）ふに貨（くわ）なし\n嗚呼 亦（また）惨状（ざんせう）の極（きよく）と謂（い）ふ可（べ）し此度同 地方（ちほう）の人（ひと）\n齋藤彰一山口定雄の両氏其 現状（げんぜう）を実見（じつけん）し\n予（よ）に語（かた）る且ツ演劇（ゑんげき）に脚色（きよくしよく）せられんことを嘱（ぞく）せらるゝ\n予 其（その）拙（つたな）きを顧（かへり）みず一夕（いつせき）之（これ）を三幕に編（あ）み其 実況（じつきやう）\nを写出（しやしゆつ）し名題（なづけ）て大地震（おうぢしん）岐阜（きふの）実況（じつきやう）といふ蓋（けだ）し大（たい）\n方（ほう）の慈善家（じぜんか）をして益々（ます／＼）喜捨（きしや）の義挙（ぎきよ）ならん事（こと）を勧（すゝむ）\nるも亦（ま）た同胞（どうほう）罹災（りさい）死亡者（しぼうしや）追善（ついぜん）の為（ため）に幾（ちか）からん乎\n\n明治廿四年十一月中浣金林堂主人村上氏の需に応ず\n　　　　　　　　　　牛島の牧士\n　　　　　　　　　　　　川　村　鴉　江\n\n　　　　　　　　　　　　　　　　　　　　　　秀嶺\n　　　　　　　　　　　　　　　　　　　　　　　　＜割書：彫｜工＞高木金",
+            "text": "《割書：明｜治》地震之図\n\n百度（ひやくたび）之を聞（きく）は一度（ひとたび）之を\n見（み）るに如（し）かず遠（とふ）く火（ひ）災を望（のぞめ）ば\n只（たゞ）赤（あか）きを以（もつ）て見（み）るのみ近付（ちかづ）いて\n之（これ）を見（み）る其（その）思（おもひ）必（かなら）ずや増（ま）さん如（いか）何なる\n悲哀（ひあい）の事柄（ことがら）たり共（とも）現在（けんざい）自己（おのれ）の見（み）ざる\nものは其（その）感情（かんせう）薄（うす）し岐阜愛知両県の\n震災（しんさい）は実（じつ）に明治廿四年十一月廿八日午前\n六時三十分の地変（ちへん）にして安政二年十月二日\nの大 地震（ぢしん）以来 未（いま）だ嘗（かつ）て聞（き）かざる所（ところ）就中（なかんづく）\n岐阜（ぎふ）大垣（おふがき）名古屋（なごや）の如（ごと）きはそも／＼中心（ちうしん）にして\n潰（つぶれ）家（や）死傷（しせう）幾万（まん）を以て算（かぞ）へ父母（ふぼ）妻子（さいし）全（まつた）\nきものなし其 甚（はなはだ）しきに至（いた）つては首足（しゆそく）ちぎれ\n身肉（にく）たゞれ一見（いつけん）胸（むね）塞（ふさ）がり魂（こん）飛（と）び眼（まなこ）暉するに\n至（いた）る故（ゆへ）を以て全（ぜん）国の慈善家（じぜんか）続々（ぞく／＼）義捐（ぎけん）の金\n円を喜捨（きしや）す今（いま）や時（とき）は酷寒（こくかん）の候（こふ）に向（むか）ひ地面（ちめん）潰（くわい）\n裂（れつ）家財（かざい）烏有（うゆう）食（しよく）するに物（もの）なく買（か）ふに貨（くわ）なし\n嗚呼 亦（また）惨状（ざんせう）の極（きよく）と謂（い）ふ可（べ）し此度同 地方（ちほう）の人（ひと）\n齋藤彰一山口定雄の両氏其 現状（げんぜう）を実見（じつけん）し\n予（よ）に語（かた）る且ツ演劇（ゑんげき）に脚色（きよくしよく）せられんことを嘱（ぞく）せらるゝ\n予 其（その）拙（つたな）きを顧（かへり）みず一夕（いつせき）之（これ）を三幕に編（あ）み其 実況（じつきやう）\nを写出（しやしゆつ）し名題（なづけ）て大地震（おうぢしん）岐阜（きふの）実況（じつきやう）といふ蓋（けだ）し大（たい）\n方（ほう）の慈善家（じぜんか）をして益々（ます／＼）喜捨（きしや）の義挙（ぎきよ）ならん事（こと）を勧（すゝむ）\nるも亦（ま）た同胞（どうほう）罹災（りさい）死亡者（しぼうしや）追善（ついぜん）の為（ため）に幾（ちか）からん乎\n\n明治廿四年十一月中浣金林堂主人村上氏の需に応ず\n　　　　　　　　　　牛島の牧士\n　　　　　　　　　　　　川　村　鴉　江\n\n　　　　　　　　　　　　　　　　　　　　　　秀嶺\n　　　　　　　　　　　　　　　　　　　　　　　　《割書：彫｜工》高木金",
+            "timestamp": {
+                "_nanoseconds": 59000000,
+                "_seconds": 1570181301
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

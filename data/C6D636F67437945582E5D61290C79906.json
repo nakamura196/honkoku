@@ -1,0 +1,132 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f20c9a7eb0710a32a40e92a9615851c0614898ac.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88521",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88521/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88521",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "C6D636F67437945582E5D61290C79906",
+    "label": "地震けん",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震けん"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-094"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25.5"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-01-019"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0141"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f20c9a7eb0710a32a40e92a9615851c0614898ac.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4d31be60-e97f-4d9e-bc5e-9bd344b9e0cb/canvas/p1",
+            "editedBy": "gvfq7iXWg3PclaqKJicWWJuOHpE2",
+            "entryId": "C6D636F67437945582E5D61290C79906",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "gvfq7iXWg3PclaqKJicWWJuOHpE2",
+            "tempText": "　地震（ぢしん）けん\n〽扨（さて）もこんどの大ぢしん家（いへ）ぐはら〳〵\n大へんな人はあはてゝどつちの方へ\n参（まい）りましよ□土蔵（どぞう）と瓦（かわら）でつぶされ\nて親父（おやぢ）に子供（こども）がしかられてやつとはい\n〳〵にけ出してこつちの方へサアきなせへ\n〽火事（くわじ）は所々（しよ〳〵）へもゑあがりにげる人こそ身\nひよこ〳〵またぐら〳〵どつちの方へ参（まい）り\nましよ□やつたらむしやうとかけあるき\nぢ様（さま）がば様の手を引（ひい）てはいる内こそ\nあらばこそお舟（ふね）へサアきなせへ\n〽扨もふり出す大雨（おゝあめ）にらいはごろ\n〳〵いなびかりみなびしよぬれ\n野宿（のじゆく）はできません□大へん〳〵\n大さはぎ大工さんは手間（ま）を上（あげ）てしから\nれたこれから段々（だん〳〵）世（よ）が直（なを）り金設（かねまふけ）てサアきなせへ",
+            "text": "　地震（ぢしん）けん\n〽扨（さて）もこんどの大ぢしん家（いへ）ぐはら〳〵\n大へんな人はあはてゝどつちの方へ\n参（まい）りましよ□土蔵（どぞう）と瓦（かわら）でつぶされ\nて親父（おやぢ）に子供（こども）がしかられてやつとはい\n〳〵にけ出してこつちの方へサアきなせへ\n〽火事（くわじ）は所々（しよ〳〵）へもゑあがりにげる人こそ身\nひよこ〳〵またぐら〳〵どつちの方へ参（まい）り\nましよ□やつたらむしやうとかけあるき\nぢ様（さま）がば様の手を引（ひい）てはいる内こそ\nあらばこそお舟（ふね）へサアきなせへ\n〽扨もふり出す大雨（おゝあめ）にらいはごろ\n〳〵いなびかりみなびしよぬれ\n野宿（のじゆく）はできません□大へん〳〵\n大さはぎ大工さんは手間（ま）を上（あげ）てしから\nれたこれから段々（だん〳〵）世（よ）が直（なを）り金設（かねまふけ）てサアきなせへ",
+            "timestamp": 1565072844626
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

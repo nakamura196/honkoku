@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9853e000ecf96beb28703255adfce08dd0fcfe27.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88814",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88814/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88814",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "1D86886C865995B1513CB3127290D20E",
+    "label": "[東海道名所一覧]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[東海道名所一覧]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-022"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "文化12年?"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "葛飾北斎載斗筆／出版元：嵩山房・千鐘房・衆星閣"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "44×60"
+        },
+        {
+            "label": "year",
+            "value": "1815"
+        },
+        {
+            "label": "identifier",
+            "value": "39d3218a-d186-485a-a62c-3337770764f4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0438"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9853e000ecf96beb28703255adfce08dd0fcfe27.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/39d3218a-d186-485a-a62c-3337770764f4/canvas/p1",
+            "editedBy": "jMW1ShSy6McXyD0kiKv2g4lB1Em1",
+            "entryId": "1D86886C865995B1513CB3127290D20E",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "jMW1ShSy6McXyD0kiKv2g4lB1Em1",
+            "tempText": "【右上四角枠内の歌】\n見渡せは\n柳さくらを\nこきまぜて\n都ぞはるの\nにしき\nなりけり\n\n【上中央丸内の歌】\n　　はせを【松尾芭蕉のこと】\n木曽殿と\nうしろ合せの\n寒さ\nかな\n\n【右下「江戸」横の四角枠内の歌】\n鐘ひとつ\nうれぬ日は\nなし\n江戸の\nはる\n\n【右下四角枠内の註】\n方寸に尽すへからず江戸砂子\n分ン間大絵図等にゆづりて\nこゝに略す\n日本橋＜割書：ヨ｜　リ＞品川へ二リ\n\n【右下四角枠内署名】\n葛飾前北斎\n　戴斗筆\n\n【左下四角枠内署名】\n綉梓【横書き】\n嵩山房\n千鐘房\n衆星閣\n",
+            "text": "【右上四角枠内の歌】\n見渡せは\n柳さくらを\nこきまぜて\n都ぞはるの\nにしき\nなりけり\n\n【上中央丸内の歌】\n　　はせを【松尾芭蕉のこと】\n木曽殿と\nうしろ合せの\n寒さ\nかな\n\n【右下「江戸」横の四角枠内の歌】\n鐘ひとつ\nうれぬ日は\nなし\n江戸の\nはる\n\n【右下四角枠内の註】\n方寸に尽すへからず江戸砂子\n分ン間大絵図等にゆづりて\nこゝに略す\n日本橋《割書：ヨ｜　リ》品川へ二リ\n\n【右下四角枠内署名】\n葛飾前北斎\n　戴斗筆\n\n【左下四角枠内署名】\n綉梓【横書き】\n嵩山房\n千鐘房\n衆星閣\n",
+            "timestamp": {
+                "_nanoseconds": 340000000,
+                "_seconds": 1580820057
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

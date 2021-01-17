@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/34e5667633106f28240d2c4e92bd348aff8bdf51.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88699",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88699/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88699",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "F3514BC636D2BA30EFF4642F67EC162C",
+    "label": "[安政元年珍事番付]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[安政元年珍事番付]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-064"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版・番付"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×10"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "dcc8035b-2deb-43f8-9f0c-ed12f05ec24e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0319"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/34e5667633106f28240d2c4e92bd348aff8bdf51.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dcc8035b-2deb-43f8-9f0c-ed12f05ec24e/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "F3514BC636D2BA30EFF4642F67EC162C",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【上下二段の図で構成、共にタイトルなし。】\n【上段は年内に起こった事件を、角力番付風に配列したもの。年代についての記載は無いので、今回の画像に付けられた表題は別途史料による知見に基づいたものであろう。】\n【上段の画像】\n【左右の大枠に分かれる】\n【右大枠内】\n＜割書：次第｜不同＞御免＜割書：行｜司＞＜割書：九月身延山大坂通行｜九月＜割書：江｜戸＞五尺石達磨降｜八月近国近在＜割書：豊年踊｜神事地車出＞＞＜割書：勧進元　諸国大豊年｜差添人＜割書：六月十一月｜大坂町々御千度＞＞\n【左大枠内三段構成】\n【上段】\n大関　十一月＜割書：大｜坂＞大黒橋船込\n関脇　　四月京大火\n小結　　五月堀江孝行娘\n前頭　　三月＜割書：大｜坂＞遊行寺参詣\n前頭　十一月東海道＜割書：地震｜津波＞\n前頭　　七月上酒婆々\n前頭　　六月伊賀上野地震\n前頭　　六月勢州四日市地震\n【中段】\n前　　　六月越前福井大火\n同　　　六月山城木津大水\n同　　十一月尼大地震\n同　　　六月九郎右衞門町上ヶ物\n同　　　四月＜割書：多見蔵｜寅吉＞同座\n同　　　九月＜割書：東寺｜かけ所＞弁天出現\n同　　　四月天神小宮正遷宮\n同　　十一月尾ノ道津波\n同　　　〃　西ノ宮地震\n同　　　四月なんち尼出\n同　　　五月ちよい出シ豆屋\n同　　十一月播州＜割書：ぢしんにて｜泥吹出る＞\n【下段】\n同　　十一月江州彦根地震\n同　　　〃　阿波鳴門ぢしん\n同　　　〃　摂州清水ぶたい落\n同　　　〃　＜割書：大｜坂＞津浪落橋十\n同　　　〃　奥州ぢしん\n世　　　〃　讃州高松地しん\n話　　　〃　淡州福良津波\n人　　　〃　芸州広嶋地しん\n頭　　　七月大御堂地搗\n　　　　〃　坂天王寺大黒堂建\n取　　十一月＜割書：江戸｜猿若丁＞三芝居焼\n【下段の画像】\n【上段の画像の記事とは関係の無い嘉永七年地震についての記事】\n【本文】\nころは嘉永七とらどし六月十四日のようしのこくやつどきごろ\nおわりいせあふみみの四かこくおゝじしんのしだいとうかいどう\nすじなるみじゆくみやじゆくなごやかいどう【佐屋街道】はいはつか\nばんば【万場】かもりさやじゆくつしま五づてんわう【津島牛頭天王】もつとも此日\n御さいれいにておゝこんざつどうしよはじいんそのほかまちや\nはもうすにおよばすあいたおれ候またきたのかたはいぬやま\n小まきへんみなみのかたはのまうつみもろさきへんまで\nさや川のにしいせのくにはながしまくわな四かいちおゐわけ\nへんのこらずあいくつれ候そのうへ出火にあいなりしにん\nけがにんあまたなりおなじくいしやくしせうのかめやま\nせきさかの下じゆくへんのこらずあふみのくにはつち山みな\nくちいしべじゆくへんにしきたはみのゝくに大がきなんぐう九つ\nすかしはばらさめがいたかみやゑち川むさへんまで\nそのほかにしきたのやま〳〵もうすにおよばすたい\nはんおゝしんとうにてくづれ候もつとも十五日あけ六つ\nはんごろにやう〳〵しづまり候それより日々しやう〳〵\nづゝくぢしんこれあり候ここんまれなるおゝぢしん\nゆえにあらましをかきしるししよにんあん\nどのためかきしるししらしむるものなり\n\n　\n　",
+            "text": "【上下二段の図で構成、共にタイトルなし。】\n【上段は年内に起こった事件を、角力番付風に配列したもの。年代についての記載は無いので、今回の画像に付けられた表題は別途史料による知見に基づいたものであろう。】\n【上段の画像】\n【左右の大枠に分かれる】\n【右大枠内】\n《割書：次第｜不同》御免《割書：行｜司》《割書：九月身延山大坂通行｜九月《割書：江｜戸》五尺石達磨降｜八月近国近在《割書：豊年踊｜神事地車出》》《割書：勧進元　諸国大豊年｜差添人《割書：六月十一月｜大坂町々御千度》》\n【左大枠内三段構成】\n【上段】\n大関　十一月《割書：大｜坂》大黒橋船込\n関脇　　四月京大火\n小結　　五月堀江孝行娘\n前頭　　三月《割書：大｜坂》遊行寺参詣\n前頭　十一月東海道《割書：地震｜津波》\n前頭　　七月上酒婆々\n前頭　　六月伊賀上野地震\n前頭　　六月勢州四日市地震\n【中段】\n前　　　六月越前福井大火\n同　　　六月山城木津大水\n同　　十一月尼大地震\n同　　　六月九郎右衞門町上ヶ物\n同　　　四月《割書：多見蔵｜寅吉》同座\n同　　　九月《割書：東寺｜かけ所》弁天出現\n同　　　四月天神小宮正遷宮\n同　　十一月尾ノ道津波\n同　　　〃　西ノ宮地震\n同　　　四月なんち尼出\n同　　　五月ちよい出シ豆屋\n同　　十一月播州《割書：ぢしんにて｜泥吹出る》\n【下段】\n同　　十一月江州彦根地震\n同　　　〃　阿波鳴門ぢしん\n同　　　〃　摂州清水ぶたい落\n同　　　〃　《割書：大｜坂》津浪落橋十\n同　　　〃　奥州ぢしん\n世　　　〃　讃州高松地しん\n話　　　〃　淡州福良津波\n人　　　〃　芸州広嶋地しん\n頭　　　七月大御堂地搗\n　　　　〃　坂天王寺大黒堂建\n取　　十一月《割書：江戸｜猿若丁》三芝居焼\n【下段の画像】\n【上段の画像の記事とは関係の無い嘉永七年地震についての記事】\n【本文】\nころは嘉永七とらどし六月十四日のようしのこくやつどきごろ\nおわりいせあふみみの四かこくおゝじしんのしだいとうかいどう\nすじなるみじゆくみやじゆくなごやかいどう【佐屋街道】はいはつか\nばんば【万場】かもりさやじゆくつしま五づてんわう【津島牛頭天王】もつとも此日\n御さいれいにておゝこんざつどうしよはじいんそのほかまちや\nはもうすにおよばすあいたおれ候またきたのかたはいぬやま\n小まきへんみなみのかたはのまうつみもろさきへんまで\nさや川のにしいせのくにはながしまくわな四かいちおゐわけ\nへんのこらずあいくつれ候そのうへ出火にあいなりしにん\nけがにんあまたなりおなじくいしやくしせうのかめやま\nせきさかの下じゆくへんのこらずあふみのくにはつち山みな\nくちいしべじゆくへんにしきたはみのゝくに大がきなんぐう九つ\nすかしはばらさめがいたかみやゑち川むさへんまで\nそのほかにしきたのやま〳〵もうすにおよばすたい\nはんおゝしんとうにてくづれ候もつとも十五日あけ六つ\nはんごろにやう〳〵しづまり候それより日々しやう〳〵\nづゝくぢしんこれあり候ここんまれなるおゝぢしん\nゆえにあらましをかきしるししよにんあん\nどのためかきしるししらしむるものなり\n\n　\n　",
+            "timestamp": {
+                "_nanoseconds": 192000000,
+                "_seconds": 1571064346
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

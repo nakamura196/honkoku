@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a796608da3f0c56a72395d45493a8fad29947e34.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88692",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88692/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88692",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "BEFF10E0EE74254D9F598EE51EB73E82",
+    "label": "大地震大津浪安達原三段目秡文句",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震大津浪安達原三段目秡文句"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-057"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×22"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "ba3c71ea-496e-4988-a4d6-67299f06b6b9"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0312"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a796608da3f0c56a72395d45493a8fad29947e34.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ba3c71ea-496e-4988-a4d6-67299f06b6b9/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "BEFF10E0EE74254D9F598EE51EB73E82",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【表題】\n《割書：大地震｜大津波》　安達原（あだちがはら）三段目　抜文句　【三段目という三文字横書き】\n\n【最上段右から】\n年寄（としよつ）たからだは\nいつ何時の\n\nかうなり\nはてた身の上\n\n一度におどろき\n轉（まろ）びおり垣（かき）押破（をしやふ）り\n\n跡の詮（せん）義は某（それがし）が\nよきやうに\n\nゆんでめでへ\nはつたとけとばし\n\n天眼通（てんがんつう）は\n得ざれども\n\nはしらんと\nすれども\n\n皮（かは）もやぶれし\n三味せんの\n\n濱（はま）ゆふが\nとびたつばかり\n\n隙（ひま）入ほど\n為にならぬ\n\n嘆きは理（こと）はり\n何かに付て\n\n爰（こゝ）迠くるは\nきたれど\n\n【二段目右から】\n丸太（まるた）で\nもたす古家（ふるいへ）\n\n穴堀（あなほつ）て埋（うづん）で\nゐる瀬戸物や\n\nろうじから\n空地（くうち）へ逃出る人\n\n内にのこる\n番頭\n\n川内へ押込（をしこん）で\n来（き）た大舩\n\nいつの何時にゆ\nると知た魚（うほ）する人\n\n途中（とちう）で地しんに\nあふた人\n\nさんざい中へ\nゆさ〳〵\n\n鳥羽（とば）浦\n大つなみ\n\n工（く）手間 増（ます）\n舩大工\n\n芝（しば）居茶や\n\nちり〴〵に\nにげた人\n\n【三段目右から】\nはつとおどろき\nまたばつたり\n\nテモ扨も扨も〳〵\nおもひがけない\n\n是はまた\nあんまりきつい\n\n今思い知り\nおつたか\n\nわが身ながら\nあいそのついた\n\n聞て心も\nこゝろならず\n\n追立られ\nかしこの橋では\n\n八幡殿の\n北の方\n\nおまへに問たら\nしれるであろ\n\nわれ〳〵が\n大望（たいもう）の妨（さまた）げ\n\nかきがねに錠（ぢやう）\nしつかとおろし\n\n縄（なわ）引切て逃（にげ）出ん\nと存ぜし所\n\n【四段目右から】\n津なみと聞て\n三手打する人\n\n座敷へ舩の\nみよし入られたの\n\n十一月五日の\n夕かた\n\n爪（つめ）の長い\n家主\n\n釣臺（つりだひ）で逃（にが）して\nもらふ病人\n\nいせから奉公（ほうこ）に\n来（き）てゐる人\n\n津波に\n出合た茶舟\n\nしづかに\n有た都【？】\n\n江戸から\n戻つて来た人\n\n京の\n顔見せ\n\n家内連て在（ざい）\n所へ逃る人\n\nつなみの\n咄（はなし）する舩頭（せんどう）\n\n\n",
+            "text": "【表題】\n《割書：大地震｜大津波》　安達原（あだちがはら）三段目　抜文句　【三段目という三文字横書き】\n\n【最上段右から】\n年寄（としよつ）たからだは\nいつ何時の\n\nかうなり\nはてた身の上\n\n一度におどろき\n轉（まろ）びおり垣（かき）押破（をしやふ）り\n\n跡の詮（せん）義は某（それがし）が\nよきやうに\n\nゆんでめでへ\nはつたとけとばし\n\n天眼通（てんがんつう）は\n得ざれども\n\nはしらんと\nすれども\n\n皮（かは）もやぶれし\n三味せんの\n\n濱（はま）ゆふが\nとびたつばかり\n\n隙（ひま）入ほど\n為にならぬ\n\n嘆きは理（こと）はり\n何かに付て\n\n爰（こゝ）迠くるは\nきたれど\n\n【二段目右から】\n丸太（まるた）で\nもたす古家（ふるいへ）\n\n穴堀（あなほつ）て埋（うづん）で\nゐる瀬戸物や\n\nろうじから\n空地（くうち）へ逃出る人\n\n内にのこる\n番頭\n\n川内へ押込（をしこん）で\n来（き）た大舩\n\nいつの何時にゆ\nると知た魚（うほ）する人\n\n途中（とちう）で地しんに\nあふた人\n\nさんざい中へ\nゆさ〳〵\n\n鳥羽（とば）浦\n大つなみ\n\n工（く）手間 増（ます）\n舩大工\n\n芝（しば）居茶や\n\nちり〴〵に\nにげた人\n\n【三段目右から】\nはつとおどろき\nまたばつたり\n\nテモ扨も扨も〳〵\nおもひがけない\n\n是はまた\nあんまりきつい\n\n今思い知り\nおつたか\n\nわが身ながら\nあいそのついた\n\n聞て心も\nこゝろならず\n\n追立られ\nかしこの橋では\n\n八幡殿の\n北の方\n\nおまへに問たら\nしれるであろ\n\nわれ〳〵が\n大望（たいもう）の妨（さまた）げ\n\nかきがねに錠（ぢやう）\nしつかとおろし\n\n縄（なわ）引切て逃（にげ）出ん\nと存ぜし所\n\n【四段目右から】\n津なみと聞て\n三手打する人\n\n座敷へ舩の\nみよし入られたの\n\n十一月五日の\n夕かた\n\n爪（つめ）の長い\n家主\n\n釣臺（つりだひ）で逃（にが）して\nもらふ病人\n\nいせから奉公（ほうこ）に\n来（き）てゐる人\n\n津波に\n出合た茶舟\n\nしづかに\n有た都【？】\n\n江戸から\n戻つて来た人\n\n京の\n顔見せ\n\n家内連て在（ざい）\n所へ逃る人\n\nつなみの\n咄（はなし）する舩頭（せんどう）\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 12000000,
+                "_seconds": 1598080113
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

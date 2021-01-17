@@ -1,0 +1,175 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7013,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b446f3f4667104b82f402a192880973b43ff6597.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7013,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56134",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9334
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56134/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56134",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9334
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7013,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1d565cf6323371e6694ff549933d0f44d6a7118a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7013,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56135",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9334
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56135/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56135",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9334
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "D77071C287A1349D35244FA4A7165D2E",
+    "label": "浪花大地震の次第并ニ他所",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "浪花大地震の次第并ニ他所"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-008"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "6670e359-8115-4fd6-a45d-b5d576a8bac2"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1008"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b446f3f4667104b82f402a192880973b43ff6597.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "D77071C287A1349D35244FA4A7165D2E",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【欄外】\n嘉永七寅年霜月四日朝五ツ半時より此夕方迄ニ四五度ゆる又夜中弐三度ゆる\n\n【表題】\n浪花大 地震（ぢしん）の次第并ニ他所\n\n【一段目】\n▲天満天神井戸やかた大\nくづれ夫より東寺町寺院\n門塀くづれ此近辺少〻\nヅヽいたみ家たをれかけ\n候所数多御坐候住家ならず\n▲西寺町金比羅さま絵馬\n堂大くづれ不動寺本堂\nひしなりに大そんじ其外\n此近邊ゆかみたをれ大\nそんし堀川戎境内少〻\nのいたミ此邊東西南北\n少〻ツヽのそんじ有\n▲堂嶋此近邊少〻のいたミ\nあれともさして大そんしなし\n新地うら町曽根崎むら\n此邊少〻そんじ大ゆがミ\nの所下はら邊にて大損\nしたをかれ【「たをれかけ」か】候處数多有\n▲福島上天神大くづれ\n同うら門鳥居たをれかれ【「たをれかけ」か】\n同中の天神はいでん大\nくづれ同下天神絵馬\n堂大くづれ社内そた家\n四五軒西手方大くつれ\n▲五百らかん門袖かべ大\nくづれらかん堂大くづれ\n尤羅漢像堂外へ出たるも\n又□□□じき哉其侭ニなるも\nあり同大臺大ひづミ光智\nゐん玄関くづれ本堂た\nをかれ【「たをれかけ」か】其外寺〻大そんじ\n▲汐津ばし北づめ東へ入人家\n四五軒大くつれ同南詰\nの大きなる土蔵前一方壁\n□□□□□【紙折れで数文字不明】しま此邊\n町家所〻大くづれ又ハたをれ\nかけ大そんじの所も沢さん\n有之くだけかけ候て住家\nならず常安ばし南づめ\n西角往来半ぶんたをれ\nかけ其邊少〻上いたミ多く\nあり\n▲ざこば両国ばしかごや町\n南西角十弐三軒大崩レ\n此近邊たを【「れ」脱か】かけ候所二三所人□不入\n\n【二段目】\n▲きの国ばし南詰西へ入表少〻\nくづれうら長家二三軒大\nくづれ京町堀はご板はし\n角人家大くづれ又ハ半丁\nはかり西角五けん斗たをれ\nかれ【「たをれかけ」か】あわざならやはし\nすじおくび丁角人家たをれ\nかけ住居なりがたく同小間\nもの棚西南角右同断\n戸や部すしはぶのよこ町\n六七軒大くつれ戸や町すじ\nあわばし西へ入南がハくら八軒\nはかり大くづれ其外大そんじ\nあまた有\n▲願教寺たい面所大くつれ\n境外あまたそんじ又は\n帯や町北がハうら大土蔵鳩\n蔵大くづれ見る物いた〳〵し\n▲北ほり江六丁目人家四五軒\n大くづれ此邊くづれかけ\n候處あまた有あミだ池本\n堂少〻いたミ境内少〻い\nたミ多くあり\n▲塩町さのやはし高塀\n西へたをれ即死弐人有\nおそるべし〳〵\n▲長ほりさのやばし東へ入\nうら長家人家八九軒斗\n大くづれ住家ならす\n▲順けい町丼池人家大ゆがミ\n住家ならす二軒斗りの事\n▲久太郎町丼池北へ入人家二軒\n大くづれ\n▲南御堂少〻そんじ候事\n本町狐小路高大臺うらて\nくづれ\n▲座戸表門鳥内へをれこミ\n又ハ門の柱をれ小宮少〻いたミ\n▲御堂井戸やかた大くつれ\n此邊少〻いたミ有之とも同全\n▲清水ぶたい西へこけ大\n破損と相成其侭留り有\n▲天王寺邊少〻いたミ有之\n▲のばく蝋や納や十二三間斗り\n有所土も蝋も一所ニ相成候事\n\n【三段目】\n▲高津じんち高津はし南へ入\n江かるかや納や十軒斗り大くづれ\n▲玉造二軒茶屋壱丁斗\n東大くづれ此邊東西南北\nそんしたる處其数しれず\n▲道どん堀芝居少〻損じ\nいく玉鳥居こけ神主\nやしき近邊少〻そんじ\n▲寺町通寺町少〻いたみ\nうか見世邊遊行寺勝まん\n近邊いたミ候而住家ならず\n▲天下茶や塀の廻り少〻\nくづれ外ニも少〻有\n▲梅田邊大くいたミ大仁むら\n百姓家二軒くづれ寺下家\n大くづれ浦江むら安楽寺\n本堂大くづれ百姓家一けん\n大くづれ其外いたミ候ところ\n数多ニ御坐筆紙ニつくしかたし\n\n【四段目】\n▲北安治川通り大くづれ数多\n御坐候住家成がたく略\n▲南安治川どくろ邊大に\nそんじくづれたる石川また\n有之九条むら富士だれじま\n寺嶋富じま戌じま此邊\n大くづれ損じ多し略しぬ\n▲亀ばし土蔵川中へくづれ\nこみいたわしき次第なり\n▲辰巳の渡し近辺大くづれ\n▲壱ヶ崎町家四十軒余\n大くづれ損したる所其数\nしれす池田伊丹大じしん\nなれどもくづれたる所なし\n▲服部邊寺二ヶ寺大くづれ\n天神様宮くづれかけ百姓\n家くつれたる所大ニあり\n一河内村〻二軒三軒四軒斗り\nも崩れたる所数多御坐候　略ス\n【左下枠の中】\n當度已来大地震もる野へとも此度の地震ハ今古\n未曽【本のまま。未曽有か】大ゆり驚くことかきりなし余りめつらしき\n故取あへす書しるす諸方遠方へ急〻しらさん事を\nこゝに略",
+            "text": "【欄外】\n嘉永七寅年霜月四日朝五ツ半時より此夕方迄ニ四五度ゆる又夜中弐三度ゆる\n\n【表題】\n浪花大地震の次第并ニ他所\n\n【一段目】\n▲天満天神井戸やかた大\nくづれ夫より東寺町寺院\n門塀くづれ此近辺少〻\nヅヽいたみ家たをれかけ\n候所数多御坐候住家ならず\n▲西寺町金比羅さま絵馬\n堂大くづれ不動寺本堂\nひしなりに大そんじ其外\n此近邊ゆかみたをれ大\nそんし堀川戎境内少〻\nのいたミ此邊東西南北\n少〻ツヽのそんじ有\n▲堂嶋此近邊少〻のいたミ\nあれともさして大そんしなし\n新地うら町曽根崎むら\n此邊少〻そんじ大ゆがミ\nの所下はら邊にて大損\nしたをかれ【「たをれかけ」か】候處数多有\n▲福島上天神大くづれ\n同うら門鳥居たをれかれ【「たをれかけ」か】\n同中の天神はいでん大\nくづれ同下天神絵馬\n堂大くづれ社内そた家\n四五軒西手方大くつれ\n▲五百らかん門袖かべ大\nくづれらかん堂大くづれ\n尤羅漢像堂外へ出たるも\n又□□□じき哉其侭ニなるも\nあり同大臺大ひづミ光智\nゐん玄関くづれ本堂た\nをかれ【「たをれかけ」か】其外寺〻大そんじ\n▲汐津ばし北づめ東へ入人家\n四五軒大くつれ同南詰\nの大きなる土蔵前一方壁\n□□□□□【紙折れで数文字不明】しま此邊\n町家所〻大くづれ又ハたをれ\nかけ大そんじの所も沢さん\n有之くだけかけ候て住家\nならず常安ばし南づめ\n西角往来半ぶんたをれ\nかけ其邊少〻上いたミ多く\nあり\n▲ざこば両国ばしかごや町\n南西角十弐三軒大崩レ\n此近邊たを【「れ」脱か】かけ候所二三所人□不入\n\n【二段目】\n▲きの国ばし南詰西へ入表少〻\nくづれうら長家二三軒大\nくづれ京町堀はご板はし\n角人家大くづれ又ハ半丁\nはかり西角五けん斗たをれ\nかれ【「たをれかけ」か】あわざならやはし\nすじおくび丁角人家たをれ\nかけ住居なりがたく同小間\nもの棚西南角右同断\n戸や部すしはぶのよこ町\n六七軒大くつれ戸や町すじ\nあわばし西へ入南がハくら八軒\nはかり大くづれ其外大そんじ\nあまた有\n▲願教寺たい面所大くつれ\n境外あまたそんじ又は\n帯や町北がハうら大土蔵鳩\n蔵大くづれ見る物いた〳〵し\n▲北ほり江六丁目人家四五軒\n大くづれ此邊くづれかけ\n候處あまた有あミだ池本\n堂少〻いたミ境内少〻い\nたミ多くあり\n▲塩町さのやはし高塀\n西へたをれ即死弐人有\nおそるべし〳〵\n▲長ほりさのやばし東へ入\nうら長家人家八九軒斗\n大くづれ住家ならす\n▲順けい町丼池人家大ゆがミ\n住家ならす二軒斗りの事\n▲久太郎町丼池北へ入人家二軒\n大くづれ\n▲南御堂少〻そんじ候事\n本町狐小路高大臺うらて\nくづれ\n▲座戸表門鳥内へをれこミ\n又ハ門の柱をれ小宮少〻いたミ\n▲御堂井戸やかた大くつれ\n此邊少〻いたミ有之とも同全\n▲清水ぶたい西へこけ大\n破損と相成其侭留り有\n▲天王寺邊少〻いたミ有之\n▲のばく蝋や納や十二三間斗り\n有所土も蝋も一所ニ相成候事\n\n【三段目】\n▲高津じんち高津はし南へ入\n江かるかや納や十軒斗り大くづれ\n▲玉造二軒茶屋壱丁斗\n東大くづれ此邊東西南北\nそんしたる處其数しれず\n▲道どん堀芝居少〻損じ\nいく玉鳥居こけ神主\nやしき近邊少〻そんじ\n▲寺町通寺町少〻いたみ\nうか見世邊遊行寺勝まん\n近邊いたミ候而住家ならず\n▲天下茶や塀の廻り少〻\nくづれ外ニも少〻有\n▲梅田邊大くいたミ大仁むら\n百姓家二軒くづれ寺下家\n大くづれ浦江むら安楽寺\n本堂大くづれ百姓家一けん\n大くづれ其外いたミ候ところ\n数多ニ御坐筆紙ニつくしかたし\n\n【四段目】\n▲北安治川通り大くづれ数多\n御坐候住家成がたく略\n▲南安治川どくろ邊大に\nそんじくづれたる石川また\n有之九条むら富士だれじま\n寺嶋富じま戌じま此邊\n大くづれ損じ多し略しぬ\n▲亀ばし土蔵川中へくづれ\nこみいたわしき次第なり\n▲辰巳の渡し近辺大くづれ\n▲壱ヶ崎町家四十軒余\n大くづれ損したる所其数\nしれす池田伊丹大じしん\nなれどもくづれたる所なし\n▲服部邊寺二ヶ寺大くづれ\n天神様宮くづれかけ百姓\n家くつれたる所大ニあり\n一河内村〻二軒三軒四軒斗り\nも崩れたる所数多御坐候　略ス\n【左下枠の中】\n當度已来大地震もる野へとも此度の地震ハ今古\n未曽【本のまま。未曽有か】大ゆり驚くことかきりなし余りめつらしき\n故取あへす書しるす諸方遠方へ急〻しらさん事を\nこゝに略",
+            "timestamp": {
+                "_nanoseconds": 444000000,
+                "_seconds": 1569065946
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6670e359-8115-4fd6-a45d-b5d576a8bac2/canvas/p2",
+            "editedBy": null,
+            "entryId": "D77071C287A1349D35244FA4A7165D2E",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030629004
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

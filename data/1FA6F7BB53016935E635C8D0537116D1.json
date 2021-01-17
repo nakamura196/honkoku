@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7421,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8e64b784f86fe79aa90a96cd476192a03188bc06.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7421,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56176",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9877
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56176/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56176",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9877
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "1FA6F7BB53016935E635C8D0537116D1",
+    "label": "泰平 震華鑑要",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "泰平 震華鑑要"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-028"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "9b64097d-7a2c-439d-8907-e47601d2bc4b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1028"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/8e64b784f86fe79aa90a96cd476192a03188bc06.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9b64097d-7a2c-439d-8907-e47601d2bc4b/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1FA6F7BB53016935E635C8D0537116D1",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "泰平【上は横書】震華（しんくわ）鑑要（かんえう）\n\n【被災地図】\n【図右上の朱記】\n　○べに所は出火\n　×薄墨は大はそん\n　△白キ所無事\n　山下へ\n　　上野御救小や\n【図左上】\n御救小屋場\n　浅草広小路\n　幸橋御門外\n　深川海辺新田\n\n【左下隅の文】\n安政弐卯年十月二日夜四ツどき\n大じしん在之其后に到て所々出火\nに付 潰家（つふれや）土蔵等の焼失数も\nしれず右 騒乱（そふらん）ゆへけが人等も\n多く在之由に候此書は遠国え\n告達（かうたつ）の便にならんと委細（いさい）に\n相たゝし其印を付置候扨又\n此度の義は前代未聞（ぜんだいみもん）の義ニ付\n御上にも格別（かくへつ）御仁恵ふかく\n御すくひ小家を立御 手当（てあて）厚（あつく）\nいたはらせ給へは遠国の縁者に\nても安心致べき事にて今より\n御心得にも可相成義と此段書記候\n\n",
+            "text": "泰平【上は横書】震華（しんくわ）鑑要（かんえう）\n\n【被災地図】\n【図右上の朱記】\n　○べに所は出火\n　×薄墨は大はそん\n　△白キ所無事\n　山下へ\n　　上野御救小や\n【図左上】\n御救小屋場\n　浅草広小路\n　幸橋御門外\n　深川海辺新田\n\n【左下隅の文】\n安政弐卯年十月二日夜四ツどき\n大じしん在之其后に到て所々出火\nに付 潰家（つふれや）土蔵等の焼失数も\nしれず右 騒乱（そふらん）ゆへけが人等も\n多く在之由に候此書は遠国え\n告達（かうたつ）の便にならんと委細（いさい）に\n相たゝし其印を付置候扨又\n此度の義は前代未聞（ぜんだいみもん）の義ニ付\n御上にも格別（かくへつ）御仁恵ふかく\n御すくひ小家を立御 手当（てあて）厚（あつく）\nいたはらせ給へは遠国の縁者に\nても安心致べき事にて今より\n御心得にも可相成義と此段書記候\n\n",
+            "timestamp": {
+                "_nanoseconds": 612000000,
+                "_seconds": 1575011731
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

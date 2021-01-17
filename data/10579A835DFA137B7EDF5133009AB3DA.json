@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bef2eeb9abb5b8b833517c74c604bdcbe56628ef.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88570",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88570/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88570",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "10579A835DFA137B7EDF5133009AB3DA",
+    "label": "明治九年十一月二十九日焼場方角図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治九年十一月二十九日焼場方角図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "明治9年11月29日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "絵図・木版文字・活字"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "19×26"
+        },
+        {
+            "label": "year",
+            "value": "1876"
+        },
+        {
+            "label": "identifier",
+            "value": "f0a94368-c660-4a26-bc19-cf5a5b0feaca"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0190"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/bef2eeb9abb5b8b833517c74c604bdcbe56628ef.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a94368-c660-4a26-bc19-cf5a5b0feaca/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "10579A835DFA137B7EDF5133009AB3DA",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "（上段）\n＜割書：明治九年十一月廿九日＞焼場方角図\n本日午後十一時二十分日本橋すきや町\n鈴木貞蔵の家より\n出火北風烈しく\n午前五時四十分に\n鎮まりました\n昨廿九日午後第十一時過第一大区六小区数寄屋町二番地\n飼馬渡世鈴木某方より出火桧物町元大工町上槙町川瀬石町\n新右衛門町搏正町箔屋町下槙町通三四丁目南伝馬町一丁\n目より三丁目迄中橋広小路町南北槙町桶町南大工町南鍛\n治町五郎兵衛町畳町北紺屋町中橋和泉町大鋸町南鞘町松\n川町鈴木町因幡町常磐町具足町柳町炭町本材木町三丁目\n三代町北島町一二丁目亀島町一二丁目水谷町岡崎町一二\n丁目八丁堀中町永島町日比谷町幸町長沢町元島町松屋町\n壱弐三丁目高代町本八丁堀壱丁目より五丁目迄湊町新富\n町壱丁目より七丁目迄南八町堀三丁共入船町八丁共新栄丁\n七丁共新湊町七町共明石町等まで延焼にて火勢猛烈東西\nに亘り此附紙印刷中未た鎮火に至らす焼死怪我人等も多\n分あるへけれ共其詳細を知る能はす依て委しきは明日に\n譲り取敢す報知如此",
+            "text": "（上段）\n《割書：明治九年十一月廿九日》焼場方角図\n本日午後十一時二十分日本橋すきや町\n鈴木貞蔵の家より\n出火北風烈しく\n午前五時四十分に\n鎮まりました\n昨廿九日午後第十一時過第一大区六小区数寄屋町二番地\n飼馬渡世鈴木某方より出火桧物町元大工町上槙町川瀬石町\n新右衛門町搏正町箔屋町下槙町通三四丁目南伝馬町一丁\n目より三丁目迄中橋広小路町南北槙町桶町南大工町南鍛\n治町五郎兵衛町畳町北紺屋町中橋和泉町大鋸町南鞘町松\n川町鈴木町因幡町常磐町具足町柳町炭町本材木町三丁目\n三代町北島町一二丁目亀島町一二丁目水谷町岡崎町一二\n丁目八丁堀中町永島町日比谷町幸町長沢町元島町松屋町\n壱弐三丁目高代町本八丁堀壱丁目より五丁目迄湊町新富\n町壱丁目より七丁目迄南八町堀三丁共入船町八丁共新栄丁\n七丁共新湊町七町共明石町等まで延焼にて火勢猛烈東西\nに亘り此附紙印刷中未た鎮火に至らす焼死怪我人等も多\n分あるへけれ共其詳細を知る能はす依て委しきは明日に\n譲り取敢す報知如此",
+            "timestamp": {
+                "_nanoseconds": 862000000,
+                "_seconds": 1568632675
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

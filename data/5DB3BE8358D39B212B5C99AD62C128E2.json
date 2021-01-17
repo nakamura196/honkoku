@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/124405fa1b6ee13fb8b2c5f02f6448fd3caf4854.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88748",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88748/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88748",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7adfcb574a0f32b695a4a713f36fae2392015f39.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219884",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219884/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219884",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "5DB3BE8358D39B212B5C99AD62C128E2",
+    "label": "伊香保温泉繁栄之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "伊香保温泉繁栄之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "楊洲周延筆／画工：上野北大門町11 橋本直義／出版人：浅草芳野町65 山本金三郎／明治12年7月中／皇太后伊香保にあらせられた"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×24"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "identifier",
+            "value": "42b288ea-ed94-4542-bac2-ae01712f88eb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0368"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/124405fa1b6ee13fb8b2c5f02f6448fd3caf4854.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "5DB3BE8358D39B212B5C99AD62C128E2",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 869000000,
+                "_seconds": 1568613319
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42b288ea-ed94-4542-bac2-ae01712f88eb/canvas/p2",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "5DB3BE8358D39B212B5C99AD62C128E2",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【表題】\n伊香保温泉繁榮之圖\n【本文】\n皇（くわう）國（こく）の温（おん）泉（せん）ハ諸（しよ）病（びやふ）に功験（しるし）ある内（うち）にも\n群（ぐん）馬（ま）縣（けん）下（か）上州 伊（い）香（か）保（ほ）の温（おん）泉（せん）ハ皇（くわう）統（とう）\n十一 世（せ）　垂（すい）仁（にん）帝（てい）の御（ミ）代（よ）に発見（みいた）し\n最（もつと）も勝（すぐ）れて奇（き）功（かう）を奏（そう）す近（ちか）時（ころ）東（とう）京（けい）\n司（し）薬（やく）湯（しやう）にて此（この）温（おん）泉（せん）の質（しつ）を分（ぶん）析（せき）せし\n上（うへ）◯飲（いん）食（しよく）のこなれぬ病◯婦（ふ）人（じん）の\n諸（しよ）病（びやう）◯僂（るう）麻（ま）質（ち）私（す）の悪（あく）性（しよう）◯疝（せん）気（き）\n◯神（しん）経（けい）病◯中（ちう）風（ふう）◯打（うち）損（ミ）等（とう）にハ\n年（とし）久（ひさ）しく経（へ）て諸（しよ）薬（やく）の験（しるし）無（な）きも\n殊（こと）に著（いちじる）しき功（かう）ありと確（くわく）定（てい）せられ\nつ現（げん）に枯（かれ）しぼみたる艸（くさ）木（き）の枝（えだ）\nを此（この）温（おん）泉（せん）に浸（ひた）せバ忽（たちまち）に蘇（そ）生（せい）し\n亦（また）金（きん）魚（ぎよ）鯉（こい）鮒（ふな）の類（るい）を湯（たう）中（ちう）に畜（やしな）へ\nバ體（たい）肥（ぶと）り脂（あぶら）つく抔（など）他（た）の温（おん）泉（せん）の\n及（およ）ぶ所（ところ）にあらず時（とき）に明治十二年\n七月中　 皇（くわう）太（たい）后（こう）宮（ぐう）伊香保に\n行（ぎやう）啓（けい）在（あ）らせられ御（ご）帰（き）京（きよう）の後（のち）も\n此（この）温泉を御（ご）所（しよ）へ召し寄（よせ）られ\n平常（つね）に浴（よく）し給（たま）ふとなん\n　　伊香保名所圖繪の記者\n　　　　　　篠田仙果\n【左側◯の中】\n明治十三年五月御届\n【◯の下】\n上野北大門丁十一番地\n画工　橋本直義\n浅草茅野丁六十五番地\n出板人　山村金三郎\n【左下】\n楊洲周延筆",
+            "text": "【表題】\n伊香保温泉繁榮之圖\n【本文】\n皇（くわう）國（こく）の温（おん）泉（せん）ハ諸（しよ）病（びやふ）に功験（しるし）ある内（うち）にも\n群（ぐん）馬（ま）縣（けん）下（か）上州 伊（い）香（か）保（ほ）の温（おん）泉（せん）ハ皇（くわう）統（とう）\n十一 世（せ）　垂（すい）仁（にん）帝（てい）の御（ミ）代（よ）に発見（みいた）し\n最（もつと）も勝（すぐ）れて奇（き）功（かう）を奏（そう）す近（ちか）時（ころ）東（とう）京（けい）\n司（し）薬（やく）湯（しやう）にて此（この）温（おん）泉（せん）の質（しつ）を分（ぶん）析（せき）せし\n上（うへ）◯飲（いん）食（しよく）のこなれぬ病◯婦（ふ）人（じん）の\n諸（しよ）病（びやう）◯僂（るう）麻（ま）質（ち）私（す）の悪（あく）性（しよう）◯疝（せん）気（き）\n◯神（しん）経（けい）病◯中（ちう）風（ふう）◯打（うち）損（ミ）等（とう）にハ\n年（とし）久（ひさ）しく経（へ）て諸（しよ）薬（やく）の験（しるし）無（な）きも\n殊（こと）に著（いちじる）しき功（かう）ありと確（くわく）定（てい）せられ\nつ現（げん）に枯（かれ）しぼみたる艸（くさ）木（き）の枝（えだ）\nを此（この）温（おん）泉（せん）に浸（ひた）せバ忽（たちまち）に蘇（そ）生（せい）し\n亦（また）金（きん）魚（ぎよ）鯉（こい）鮒（ふな）の類（るい）を湯（たう）中（ちう）に畜（やしな）へ\nバ體（たい）肥（ぶと）り脂（あぶら）つく抔（など）他（た）の温（おん）泉（せん）の\n及（およ）ぶ所（ところ）にあらず時（とき）に明治十二年\n七月中　 皇（くわう）太（たい）后（こう）宮（ぐう）伊香保に\n行（ぎやう）啓（けい）在（あ）らせられ御（ご）帰（き）京（きよう）の後（のち）も\n此（この）温泉を御（ご）所（しよ）へ召し寄（よせ）られ\n平常（つね）に浴（よく）し給（たま）ふとなん\n　　伊香保名所圖繪の記者\n　　　　　　篠田仙果\n【左側◯の中】\n明治十三年五月御届\n【◯の下】\n上野北大門丁十一番地\n画工　橋本直義\n浅草茅野丁六十五番地\n出板人　山村金三郎\n【左下】\n楊洲周延筆",
+            "timestamp": {
+                "_nanoseconds": 128000000,
+                "_seconds": 1568627214
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

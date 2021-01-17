@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/50cdb8820e0b861481bff1cf9c8d49c8ea8f333e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88418",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88418/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88418",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "F565F610733C5D1AB28CC0193A26132D",
+    "label": "[江戸大地震]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[江戸大地震]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-038"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)\n・木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "41×54"
+        },
+        {
+            "label": "備考",
+            "value": "奥に異筆あり「直七(甲府飛脚)申口 浅草通り吉原町ニテ人損じ候事幾千人と申儀・・・」(以下略)"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "c23a1d59-10f6-4865-9c42-4dfce94fc179"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0038"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/50cdb8820e0b861481bff1cf9c8d49c8ea8f333e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c23a1d59-10f6-4865-9c42-4dfce94fc179/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "F565F610733C5D1AB28CC0193A26132D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n□□□地震\n【本文は枠内に地図を挟んで上下二段構成】\n【上段】\n此は安政二卯十月二日夜四の時過俄大地\n震出し千住小塚原より出火して新吉原は一時に\n五町まち惣くすれ江戸町一丁目より出火角町より\n出火諸々残らず焼る也夫より大おん寺前少々\n田町花川戸山の宿聖天町地しん出火\n猿若町三丁共にのこらず\nくずれ大に焼る也浅草\n観音御堂つゝがなく\n地内のこらず焼る並木\n通り惣くずれすわ町より出火して駒形\n残らず焼る也夫より御堂前通りのこらず\nくずれかや町一丁目三丁目浅草御門\n石がき大石亀出る又下谷辺は諸々\n大小名残らずつふれ七軒町より\n出火して上野町長者町のこらず\nやける也夫より仲町くら通り\nくずれおもて通りあらまし\nのこる広小路は井口の\n側焼る也同かや丁町池の端\n同二丁目一丁目まで焼る也むゑん坂\n上は松平備後守様御やしき焼\n千駄木団子坂此辺三軒やけくずれる\n谷中善光寺坂上少々のこる也根津下\n二町とものこらずくずれ中程にて二三軒残る\n本郷通り出火湯島切通しまで焼る\n此辺松平加賀守様惣御人数出て\n消口をとる湯島神社内少々い\nたみ門前両かわ土蔵附は甚いたみ\nのこらずそんじる同三組町新町家\n大根ばたけ諸々くずれ妻恋稲荷\n本社少々そんし町内一軒も別状なし話\n又馬喰町横山丁大門辺小伝馬\n大伝馬町此辺は格別の事なし\n本所石原より立川通り林丁\nみどり丁深川は八幡社内\n少々いたみ一の鳥居より\n大はし口までくずれ\n出火有同洲崎鉄\n炮洲霊がんじま\n塩町畑【佃】島まで\n焼る又神田\n通りは出\nなしと△\n【下段】\n【先頭に破れ欠損】\n【破れ】南伝【破れ】二丁目より出火\nして畳町五郎兵衛丁【破れ】町柳丁常盤丁鈴木丁\n白魚やしき竹がし辺迄【破れ】る也此辺横立十文字に\n焼る也夫より芝うた川丁より出火高なは辺は大地一尺\nほどさけ品川少々焼る也又御城内は大名小路\n西丸下一ツ橋辺まで大ぢしん神田橋御門内酒井\n雅楽頭様森川出羽守様和田倉内は松平下総守様\n松平肥後守様大くずれ八代洲河岸は上村但馬\n守様松平相模守様火消やしき等残らず焼る\n酒井左衛門様表門残る鍋島毛利南部様\nのこらず焼る酒井左衛門様表門残る其外は大くずれ\n小川町は本郷丹後守様松平紀伊守様さかき原式部大輔様板倉\n戸田□□のこらず焼る小石川伝通院門前\nくずれお茶の水より番町辺までのこらず\nくずれ□□□□□\n其外山の手は麻布\n赤坂青山目黒白\n金四つ谷かうじ丁\n十三町とものこらず\nくずれ所々出火あり\nじしんは未刻々時々に\nゆれ諸人大道にの\n宿して昼夜やすき\n心もなかりけり\n【枠外】\n直七申口浅草通り吉原町にて人損し候事幾千人と申候未た【破れ】所々え\n積置丈猫同様に取なし申候岡本三浦や尾張屋抔は五六人宛も助【破れ】□の\n申候小塚原千住不残平に潰れ一面野原の如し未取片付す候得共【破れ】行　　　\n人気乱世之如く雪駄藤くらぞうり抔にて歩行ものへは瓦石はい焼木抔ほ□【破れ】物も\n見世えはみたりに入手つから取持行候様子中々見物は出来不申候よし\n【枠外下】\n　　　　　　　甲府飛脚直七差出候\n京屋店八拾人程暮し居候処子供三人若もの一人〆四人即死怪我人八人即死同様四人\n【底】\n少々危怪我人多分有之大方潰れ申候由\n",
+            "text": "【タイトル】\n□□□地震\n【本文は枠内に地図を挟んで上下二段構成】\n【上段】\n此は安政二卯十月二日夜四の時過俄大地\n震出し千住小塚原より出火して新吉原は一時に\n五町まち惣くすれ江戸町一丁目より出火角町より\n出火諸々残らず焼る也夫より大おん寺前少々\n田町花川戸山の宿聖天町地しん出火\n猿若町三丁共にのこらず\nくずれ大に焼る也浅草\n観音御堂つゝがなく\n地内のこらず焼る並木\n通り惣くずれすわ町より出火して駒形\n残らず焼る也夫より御堂前通りのこらず\nくずれかや町一丁目三丁目浅草御門\n石がき大石亀出る又下谷辺は諸々\n大小名残らずつふれ七軒町より\n出火して上野町長者町のこらず\nやける也夫より仲町くら通り\nくずれおもて通りあらまし\nのこる広小路は井口の\n側焼る也同かや丁町池の端\n同二丁目一丁目まで焼る也むゑん坂\n上は松平備後守様御やしき焼\n千駄木団子坂此辺三軒やけくずれる\n谷中善光寺坂上少々のこる也根津下\n二町とものこらずくずれ中程にて二三軒残る\n本郷通り出火湯島切通しまで焼る\n此辺松平加賀守様惣御人数出て\n消口をとる湯島神社内少々い\nたみ門前両かわ土蔵附は甚いたみ\nのこらずそんじる同三組町新町家\n大根ばたけ諸々くずれ妻恋稲荷\n本社少々そんし町内一軒も別状なし話\n又馬喰町横山丁大門辺小伝馬\n大伝馬町此辺は格別の事なし\n本所石原より立川通り林丁\nみどり丁深川は八幡社内\n少々いたみ一の鳥居より\n大はし口までくずれ\n出火有同洲崎鉄\n炮洲霊がんじま\n塩町畑【佃】島まで\n焼る又神田\n通りは出\nなしと△\n【下段】\n【先頭に破れ欠損】\n【破れ】南伝【破れ】二丁目より出火\nして畳町五郎兵衛丁【破れ】町柳丁常盤丁鈴木丁\n白魚やしき竹がし辺迄【破れ】る也此辺横立十文字に\n焼る也夫より芝うた川丁より出火高なは辺は大地一尺\nほどさけ品川少々焼る也又御城内は大名小路\n西丸下一ツ橋辺まで大ぢしん神田橋御門内酒井\n雅楽頭様森川出羽守様和田倉内は松平下総守様\n松平肥後守様大くずれ八代洲河岸は上村但馬\n守様松平相模守様火消やしき等残らず焼る\n酒井左衛門様表門残る鍋島毛利南部様\nのこらず焼る酒井左衛門様表門残る其外は大くずれ\n小川町は本郷丹後守様松平紀伊守様さかき原式部大輔様板倉\n戸田□□のこらず焼る小石川伝通院門前\nくずれお茶の水より番町辺までのこらず\nくずれ□□□□□\n其外山の手は麻布\n赤坂青山目黒白\n金四つ谷かうじ丁\n十三町とものこらず\nくずれ所々出火あり\nじしんは未刻々時々に\nゆれ諸人大道にの\n宿して昼夜やすき\n心もなかりけり\n【枠外】\n直七申口浅草通り吉原町にて人損し候事幾千人と申候未た【破れ】所々え\n積置丈猫同様に取なし申候岡本三浦や尾張屋抔は五六人宛も助【破れ】□の\n申候小塚原千住不残平に潰れ一面野原の如し未取片付す候得共【破れ】行　　　\n人気乱世之如く雪駄藤くらぞうり抔にて歩行ものへは瓦石はい焼木抔ほ□【破れ】物も\n見世えはみたりに入手つから取持行候様子中々見物は出来不申候よし\n【枠外下】\n　　　　　　　甲府飛脚直七差出候\n京屋店八拾人程暮し居候処子供三人若もの一人〆四人即死怪我人八人即死同様四人\n【底】\n少々危怪我人多分有之大方潰れ申候由\n",
+            "timestamp": {
+                "_nanoseconds": 697000000,
+                "_seconds": 1568471042
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

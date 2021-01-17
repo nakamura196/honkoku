@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b0db2943869ad3eb1c8ce6093420a2885f9820e0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88504",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88504/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88504",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "63B12AC21F47FD09AC68E3828A0657B1",
+    "label": "嘉永七甲寅年中珍事咄",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "嘉永七甲寅年中珍事咄"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-077"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×46.5"
+        },
+        {
+            "label": "備考",
+            "value": "8代目団十郎自殺など"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "a024faf7-609c-4d22-9756-0413736ccee9"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0124"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b0db2943869ad3eb1c8ce6093420a2885f9820e0.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a024faf7-609c-4d22-9756-0413736ccee9/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "63B12AC21F47FD09AC68E3828A0657B1",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【タイトル】\n　嘉永七甲寅年中珍事咄\n\n【上から一段目　右から左へ、以下同様】\n【コマタイトル】八代目のりこみ\n【図中吹出し】大はずみ　大当たり〳〵〳〵\n\n【コマタイトル】大坂なんち□出\n【図中吹出し】けしやう料　沢山　あげ代　とまり\n　\n【コマタイトル】坂町之らいちやう木□\n【図中吹出し】じあんじ　境内\n\n【コマタイトル】上酒うりのばゞ\n【図中吹出し】人々　もつぱらの　うわさ\n\n【コマタイトル】一朱銀の通用始り\n【図中吹出し】\n\n【コマタイトル】北しんちおどり\n【図中吹出し】あげ代　入用\n\n【コマタイトル】諸社へ御千度\n【図中吹出し】大はづみ　御きとう料\n\n【二段目】\n\n【コマタイトル】信貴山寅ノ守出る\n【図中吹出し】六十一　年目に　此守り　出る\n\n【コマタイトル】水死のため大せがき\n【図中吹出し】上町　出火　さいせん　心持\n\n【コマタイトル】大風豆ふり井筒やの噂\n【図中吹出し】めづらしき事也　なき事をいゝ出し　人々のせつ有\n\n【コマタイトル】江戸三芝居大火\n【図中吹出し】十一月五日　亥ノ刻\n\n【コマタイトル】大津波にて破船落はし\n【図中吹出し】十一月五日　くれ半時　大坂大黒ばし\n\n【コマタイトル】六月奈良郡山大地震\n【図中吹出し】六月十四日\n\n【三段目】\n\n【コマタイトル】湊関取　八代目死去\n【図中吹出し】湊十月廿三日　八代目　八月六日往生\n\n【コマタイトル】諸社へさんけい御千度\n【図中吹出し】大にぎわひ〳〵〳〵　さいせん\n\n【コマタイトル】目出度新玉の春\n【図中吹出し】　上り　目出度〳〵〳〵　大豊年　入船　沢山\n\n【コマタイトル】大地震にて野宿の図\n【図中吹出し】十一月四日　酒袋あきない\n\n【コマタイトル】大坂ほり江孝行娘\n【図中吹出し】まれなる娘　ほうび沢山\n\n【四段目】\n\n【コマタイトル】西御堂地築\n【図中吹出し】大はつみ　さいせん　沢山\n\n【コマタイトル】諸国大豊年\n【図中吹出し】めでたし〳〵〳〵　大悦\n\n【コマタイトル】大坂長町三ツ子生\n【図中吹出し】三人とも　男の　子　なり\n\n【コマタイトル】浪花天保山異国船\n【図中吹出し】九月十八日\n\n【コマタイトル】身延山大坂へ御通行\n【図中吹出し】さいせん\n\n【コマタイトル】新町天神道中\n【図中吹出し】あげ代　入用\n\n【五段目】\n\n【コマタイトル】江戸浦賀異国船\n【図中吹出し】ふりはじめ\n\n【コマタイトル】早舟寅吉　尾上多見蔵　一座\n【図中吹出し】大当り\n\n【コマタイトル】ぽんぽこの歌大はやり\n【図中吹出し】ゑい死火　紙てつほう　くわしん代\n\n【コマタイトル】遊行寺参詣\n【図中吹出し】さいせん　たくさん\n\n【コマタイトル】八丁め　寺町　地ごく戻り\n【図中吹出し】やれこわい〳〵　しやばへもどる\n\n【コマタイトル】桜宮正遷宮\n【図中吹出し】三月十五日より　休\n\n【コマタイトル】京都大火\n【図中吹出し】\n\n",
+            "text": "【タイトル】\n　嘉永七甲寅年中珍事咄\n\n【上から一段目　右から左へ、以下同様】\n【コマタイトル】八代目のりこみ\n【図中吹出し】大はずみ　大当たり〳〵〳〵\n\n【コマタイトル】大坂なんち□出\n【図中吹出し】けしやう料　沢山　あげ代　とまり\n　\n【コマタイトル】坂町之らいちやう木□\n【図中吹出し】じあんじ　境内\n\n【コマタイトル】上酒うりのばゞ\n【図中吹出し】人々　もつぱらの　うわさ\n\n【コマタイトル】一朱銀の通用始り\n【図中吹出し】\n\n【コマタイトル】北しんちおどり\n【図中吹出し】あげ代　入用\n\n【コマタイトル】諸社へ御千度\n【図中吹出し】大はづみ　御きとう料\n\n【二段目】\n\n【コマタイトル】信貴山寅ノ守出る\n【図中吹出し】六十一　年目に　此守り　出る\n\n【コマタイトル】水死のため大せがき\n【図中吹出し】上町　出火　さいせん　心持\n\n【コマタイトル】大風豆ふり井筒やの噂\n【図中吹出し】めづらしき事也　なき事をいゝ出し　人々のせつ有\n\n【コマタイトル】江戸三芝居大火\n【図中吹出し】十一月五日　亥ノ刻\n\n【コマタイトル】大津波にて破船落はし\n【図中吹出し】十一月五日　くれ半時　大坂大黒ばし\n\n【コマタイトル】六月奈良郡山大地震\n【図中吹出し】六月十四日\n\n【三段目】\n\n【コマタイトル】湊関取　八代目死去\n【図中吹出し】湊十月廿三日　八代目　八月六日往生\n\n【コマタイトル】諸社へさんけい御千度\n【図中吹出し】大にぎわひ〳〵〳〵　さいせん\n\n【コマタイトル】目出度新玉の春\n【図中吹出し】　上り　目出度〳〵〳〵　大豊年　入船　沢山\n\n【コマタイトル】大地震にて野宿の図\n【図中吹出し】十一月四日　酒袋あきない\n\n【コマタイトル】大坂ほり江孝行娘\n【図中吹出し】まれなる娘　ほうび沢山\n\n【四段目】\n\n【コマタイトル】西御堂地築\n【図中吹出し】大はつみ　さいせん　沢山\n\n【コマタイトル】諸国大豊年\n【図中吹出し】めでたし〳〵〳〵　大悦\n\n【コマタイトル】大坂長町三ツ子生\n【図中吹出し】三人とも　男の　子　なり\n\n【コマタイトル】浪花天保山異国船\n【図中吹出し】九月十八日\n\n【コマタイトル】身延山大坂へ御通行\n【図中吹出し】さいせん\n\n【コマタイトル】新町天神道中\n【図中吹出し】あげ代　入用\n\n【五段目】\n\n【コマタイトル】江戸浦賀異国船\n【図中吹出し】ふりはじめ\n\n【コマタイトル】早舟寅吉　尾上多見蔵　一座\n【図中吹出し】大当り\n\n【コマタイトル】ぽんぽこの歌大はやり\n【図中吹出し】ゑい死火　紙てつほう　くわしん代\n\n【コマタイトル】遊行寺参詣\n【図中吹出し】さいせん　たくさん\n\n【コマタイトル】八丁め　寺町　地ごく戻り\n【図中吹出し】やれこわい〳〵　しやばへもどる\n\n【コマタイトル】桜宮正遷宮\n【図中吹出し】三月十五日より　休\n\n【コマタイトル】京都大火\n【図中吹出し】\n\n",
+            "timestamp": {
+                "_nanoseconds": 639000000,
+                "_seconds": 1570105390
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,193 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/30a273c5674279e50938051eec9c5844e5213f96.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88736",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88736/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88736",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ae6f54d098daa30c3ad3020b9361fa53716a7f66.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219881",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219881/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219881",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "hidden": true,
+    "id": "1B2020C8D6E7CA9B4549D097A50D5919",
+    "label": "音聞浅間幻灯画",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "音聞浅間幻灯画"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-08-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治21年9月10日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "豊原国周画／彫工：ホリ銀／版元：松木平吉／明治21年9月10日出版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1888"
+        },
+        {
+            "label": "identifier",
+            "value": "1fe64eb0-5fa1-493c-b3b3-10a7f45ba267"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0356"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/30a273c5674279e50938051eec9c5844e5213f96.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p1",
+            "editedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "entryId": "1B2020C8D6E7CA9B4549D097A50D5919",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "tempText": "【三枚続き浮き世絵、一枚目】\n\n\n【タイトル】\n《割書：是（これ）は\n｜萬代（ばんだい）の‥　\n談柄（はなしぐさ）》\n　　　　音聞浅間幻燈画（おとにきくあさまのうつしえ）　\n　　　　　　　真景　五　枚\n【円型の写し絵には浅間山噴火の様子】\n\n\n\n\n\n【二枚目】\n【壊れる建物、辺りに稲妻、円型の写し絵には浅間山噴火の様子、いなせな菊模様の浴衣姿の尾上菊五郎】\n《割書：道中師｜初蔵》【街道を往復して人の用事を足すことを業とした人。 飛脚・荷宰領 (にさいりょう) の類。ここでは中村座の「浅間山噴火」で道中師伊豆屋初蔵に扮した菊五郎を描く】\n　　　　尾上菊五郎",
+            "text": "【三枚続き浮き世絵、一枚目】\n\n\n【タイトル】\n《割書：是（これ）は\n｜萬代（ばんだい）の‥　\n談柄（はなしぐさ）》\n　　　　音聞浅間幻燈画（おとにきくあさまのうつしえ）　\n　　　　　　　真景　五　枚\n【円型の写し絵には浅間山噴火の様子】\n\n\n\n\n\n【二枚目】\n【壊れる建物、辺りに稲妻、円型の写し絵には浅間山噴火の様子、いなせな菊模様の浴衣姿の尾上菊五郎】\n《割書：道中師｜初蔵》【街道を往復して人の用事を足すことを業とした人。 飛脚・荷宰領 (にさいりょう) の類。ここでは中村座の「浅間山噴火」で道中師伊豆屋初蔵に扮した菊五郎を描く】\n　　　　尾上菊五郎",
+            "timestamp": {
+                "_nanoseconds": 825000000,
+                "_seconds": 1595286703
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1fe64eb0-5fa1-493c-b3b3-10a7f45ba267/canvas/p2",
+            "editedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "entryId": "1B2020C8D6E7CA9B4549D097A50D5919",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "tempText": "【三枚目】\n【円型の写し絵は噴火を眺めているのか女性達の描写】\n【左下に　浮世絵師豊原国周落款】\n\n　　豊原國周筆　落款\n　　　　　　　　　　\n\n　　　　　　　　　　明治二十一年九月十日印刷\n　　　　　　　　　　同　　　　 九月十日出版\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　印刷業■\n　　　　　　　　　　　　　　　松木平吉\n　　　　　　　　　　　　日本橋區吉川町二番地\n　　　　　　　　　　　　　　　　ホリ銀",
+            "text": "【三枚目】\n【円型の写し絵は噴火を眺めているのか女性達の描写】\n【左下に　浮世絵師豊原国周落款】\n\n　　豊原國周筆　落款\n　　　　　　　　　　\n\n　　　　　　　　　　明治二十一年九月十日印刷\n　　　　　　　　　　同　　　　 九月十日出版\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　印刷業■\n　　　　　　　　　　　　　　　松木平吉\n　　　　　　　　　　　　日本橋區吉川町二番地\n　　　　　　　　　　　　　　　　ホリ銀",
+            "timestamp": {
+                "_nanoseconds": 116000000,
+                "_seconds": 1595289772
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

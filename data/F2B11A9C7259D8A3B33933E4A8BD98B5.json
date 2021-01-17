@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4057,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f6ea7f291409f0c12505aad4f1a55cb8bdf3f449.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4057,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88426",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88426/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88426",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "F2B11A9C7259D8A3B33933E4A8BD98B5",
+    "label": "伊豆下田小田原箱根大地震之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "伊豆下田小田原箱根大地震之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-046"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "44×35"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-02-025"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "6a33ddaa-abbf-4146-b000-7e0ca27a1c6b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0046"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f6ea7f291409f0c12505aad4f1a55cb8bdf3f449.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a33ddaa-abbf-4146-b000-7e0ca27a1c6b/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "F2B11A9C7259D8A3B33933E4A8BD98B5",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【表題】\n伊豆下田\n小田原　　　｜大地震之図（■ほぢしんのづ）\n箱根\n【本文】\n夫天地不時の変動は陰陽混じて雷雨となる地にあるときは\n地しんをなす□神仏のおかごにもこれをおさむる事か□【たカ】し頃は嘉永\n「嘉永七年十一月四日四ツ」【年を除く「　」内、後筆】時ゟよる九ツ時すぎ迄相州豆州駿州\n甲斐の国大ぢしんべつして相州小田はら大久保かゞの守様御城下\n万丁□丁板ばしれうし丁通り青もの丁□□□丁□□丁\n御城かどやぐら町家ともおほくそんず東は田むら川\nへんはぎの山中御ぢん屋大久保ながとの守様\n御れうぶん陶綾【正しくは淘綾で「ゆるぎ」】郡神戸井こ大いそ宿そが野\n中むらへん金子すゝ川みのけかすやいせ原子やす\n大山へん大住郡どうりうごんげん様このきんへん\n十五ヶ村は百間または百五十けん二百けん\n村〳〵にわづか家二けんほど残りせき本は\n五百けんほど村にて二百けんほどこのきん\nへん大あれにて上むら谷むら早川いしばし山\nふたご山はこねごんげんさま御社内同所\n海水あふれ出さいのかはら大いにくづす\nならびに同所ゆもと七ヶ所こと〴〵く\nそんず畑宿大あれにてするがの国\nわうらい三日とまるはこね山中人馬\nともにうつまり三日ほどほりいださんと\nせしがいでず此へんにて人馬のそんし\nおほくあり豆州三しまぬまづ水野\nではの守様御じやう下きんごうきんざい\n原よし原いわぶちかん原ゆ井おきつ\n江じり府中のまち〳〵在〻ともに\n人家のそんじかずしれずふじ野\nすそ通りたも□ゆ下御くりや御てんば\nこれより甲州ぐんない上の原さるはし\n西ごほり市川かぢ川沢身のぶ山御山この辺\n山〻大にくづれ北は愛甲ごほり三ます川\n村そんずつく井ごほり音のはらとうし川\n□□□ねづみ坂はし本へんよし野小はら\n［　］【欠損文字数不明】せき野へん又豆州ねぶ川\n［　］【欠損文字数不明】石きれ老若男女そく死\n\n【表題下の書き込み】\n小田原御城櫓損し\n箱根山大いに\nそんじる\n\n【右下枠内】\n頃は十一月四日五ツ半時より伊豆下田\n大地しん大つなみにて大ひにそんじ\n宮寺ゆりたをし大つなみ\nにてながされふないおゝいに\nあれるせんすうあまたなん\nせんとうせんなんせんいたし\nあまた人おほくそんじ誠に\nせんだいみもんなきしだいなり\nくわしくゑづめんにしるしひら\nがなにてかきしるす　　\n\n",
+            "text": "【表題】\n伊豆下田\n小田原　　　｜大地震之図（■ほぢしんのづ）\n箱根\n【本文】\n夫天地不時の変動は陰陽混じて雷雨となる地にあるときは\n地しんをなす□神仏のおかごにもこれをおさむる事か□【たカ】し頃は嘉永\n「嘉永七年十一月四日四ツ」【年を除く「　」内、後筆】時ゟよる九ツ時すぎ迄相州豆州駿州\n甲斐の国大ぢしんべつして相州小田はら大久保かゞの守様御城下\n万丁□丁板ばしれうし丁通り青もの丁□□□丁□□丁\n御城かどやぐら町家ともおほくそんず東は田むら川\nへんはぎの山中御ぢん屋大久保ながとの守様\n御れうぶん陶綾【正しくは淘綾で「ゆるぎ」】郡神戸井こ大いそ宿そが野\n中むらへん金子すゝ川みのけかすやいせ原子やす\n大山へん大住郡どうりうごんげん様このきんへん\n十五ヶ村は百間または百五十けん二百けん\n村〳〵にわづか家二けんほど残りせき本は\n五百けんほど村にて二百けんほどこのきん\nへん大あれにて上むら谷むら早川いしばし山\nふたご山はこねごんげんさま御社内同所\n海水あふれ出さいのかはら大いにくづす\nならびに同所ゆもと七ヶ所こと〴〵く\nそんず畑宿大あれにてするがの国\nわうらい三日とまるはこね山中人馬\nともにうつまり三日ほどほりいださんと\nせしがいでず此へんにて人馬のそんし\nおほくあり豆州三しまぬまづ水野\nではの守様御じやう下きんごうきんざい\n原よし原いわぶちかん原ゆ井おきつ\n江じり府中のまち〳〵在〻ともに\n人家のそんじかずしれずふじ野\nすそ通りたも□ゆ下御くりや御てんば\nこれより甲州ぐんない上の原さるはし\n西ごほり市川かぢ川沢身のぶ山御山この辺\n山〻大にくづれ北は愛甲ごほり三ます川\n村そんずつく井ごほり音のはらとうし川\n□□□ねづみ坂はし本へんよし野小はら\n［　］【欠損文字数不明】せき野へん又豆州ねぶ川\n［　］【欠損文字数不明】石きれ老若男女そく死\n\n【表題下の書き込み】\n小田原御城櫓損し\n箱根山大いに\nそんじる\n\n【右下枠内】\n頃は十一月四日五ツ半時より伊豆下田\n大地しん大つなみにて大ひにそんじ\n宮寺ゆりたをし大つなみ\nにてながされふないおゝいに\nあれるせんすうあまたなん\nせんとうせんなんせんいたし\nあまた人おほくそんじ誠に\nせんだいみもんなきしだいなり\nくわしくゑづめんにしるしひら\nがなにてかきしるす　　\n\n",
+            "timestamp": {
+                "_nanoseconds": 595000000,
+                "_seconds": 1573192150
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

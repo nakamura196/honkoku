@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7dd0188e2e6dc9cc79cc0c4f2195f185f25446f4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88397",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88397/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88397",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "803025EBB9044CAF819031EF4859FAD8",
+    "label": "焼場方角附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "焼場方角附"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政5年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×48"
+        },
+        {
+            "label": "year",
+            "value": "1858"
+        },
+        {
+            "label": "identifier",
+            "value": "df76465c-ca2d-4dc5-9fb9-f886512b64f4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0017"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/7dd0188e2e6dc9cc79cc0c4f2195f185f25446f4.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df76465c-ca2d-4dc5-9fb9-f886512b64f4/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "803025EBB9044CAF819031EF4859FAD8",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "焼場方角附\n\n頃は安政\n五歳午\n二月十日\n夜五時\n日本橋小\n田原丁辺ゟ\n出火して折しも\n西風はげしく\n小田原丁一二丁メ\nせともの丁角一番\n八番組消口取向角地組\n十一十二十三十四十五組消口取\nいせ丁がし通り半分残る\n八番十番組五六八ノ組消口取\n室丁一二丁メ表通り少々残る\n五番六番八番九番消口取\n本ふな丁残らすやけるそれゟ\n飛火して四日市万丁青物丁\n平松丁佐内丁小松丁南\nあぶら丁川せ石丁新右衛門丁\nくれまさ丁この辺残らずやける通り\n一二三丁メは残る又一口は海ぞくばし焼る牧野河内守様\n御上屋しき残る坂本丁一二丁メかやば丁やくし山王御たび所\nうら表かやば丁代官やしき此辺残らす焼失ス九鬼様細川様\n御屋しき残る八丁ぼりは北じま丁てうちんかけよこ丁かじ丁\n七けん丁竹じま丁此辺残らすやける神田代地半分のこるそれゟ\nれいがんじま富島丁へうつり一二丁メ少々残る長崎丁白かね丁川口丁\n東みなと丁一二丁メ御船手向井将監様御組此辺残らすやける又一口は\n八丁堀水谷ちょう場之火之見残る金六丁岡崎丁長崎丁きたこんや丁日比谷丁幸丁\n長沢丁亀じま屋しき此へん残らす焼る松平越中守様御屋しき\n中与力丁残る上大通り高なは代地松や丁南八丁ぼり二丁メ三丁メ代地\n屋根や丁本八丁ぼり一二三四五丁メ残らす焼失中之はしは落る南八丁ぼり\n三四五丁メやけるてつぽうづいなり火中にて残る堀田土佐守様半分やける\n松平阿は守様本みなと丁ふなまつ丁一二丁メ細川のとの守様御やしき此辺残らすやける▲\n▲十けん丁は松平あはぢの守様御やしき半焼にて二番組三番\n組消口取飛火にてつくだじま半分やける住吉大明神\nやしろつゝがなしやうやく風しづまりて火十一日ひる\n八ツ時焼とゞまる是によつて人々あんどのおもひおなス\n遠国身より親類え町名おしるしてあんひおつげ\nしらせんが為一紙つゞり諸君の高らんに備ふのみ\n\n　一家員数　六万余\n　一土蔵数　千三百ヨ\n　一穴蔵数　三十余\n",
+            "text": "焼場方角附\n\n頃は安政\n五歳午\n二月十日\n夜五時\n日本橋小\n田原丁辺ゟ\n出火して折しも\n西風はげしく\n小田原丁一二丁メ\nせともの丁角一番\n八番組消口取向角地組\n十一十二十三十四十五組消口取\nいせ丁がし通り半分残る\n八番十番組五六八ノ組消口取\n室丁一二丁メ表通り少々残る\n五番六番八番九番消口取\n本ふな丁残らすやけるそれゟ\n飛火して四日市万丁青物丁\n平松丁佐内丁小松丁南\nあぶら丁川せ石丁新右衛門丁\nくれまさ丁この辺残らずやける通り\n一二三丁メは残る又一口は海ぞくばし焼る牧野河内守様\n御上屋しき残る坂本丁一二丁メかやば丁やくし山王御たび所\nうら表かやば丁代官やしき此辺残らす焼失ス九鬼様細川様\n御屋しき残る八丁ぼりは北じま丁てうちんかけよこ丁かじ丁\n七けん丁竹じま丁此辺残らすやける神田代地半分のこるそれゟ\nれいがんじま富島丁へうつり一二丁メ少々残る長崎丁白かね丁川口丁\n東みなと丁一二丁メ御船手向井将監様御組此辺残らすやける又一口は\n八丁堀水谷ちょう場之火之見残る金六丁岡崎丁長崎丁きたこんや丁日比谷丁幸丁\n長沢丁亀じま屋しき此へん残らす焼る松平越中守様御屋しき\n中与力丁残る上大通り高なは代地松や丁南八丁ぼり二丁メ三丁メ代地\n屋根や丁本八丁ぼり一二三四五丁メ残らす焼失中之はしは落る南八丁ぼり\n三四五丁メやけるてつぽうづいなり火中にて残る堀田土佐守様半分やける\n松平阿は守様本みなと丁ふなまつ丁一二丁メ細川のとの守様御やしき此辺残らすやける▲\n▲十けん丁は松平あはぢの守様御やしき半焼にて二番組三番\n組消口取飛火にてつくだじま半分やける住吉大明神\nやしろつゝがなしやうやく風しづまりて火十一日ひる\n八ツ時焼とゞまる是によつて人々あんどのおもひおなス\n遠国身より親類え町名おしるしてあんひおつげ\nしらせんが為一紙つゞり諸君の高らんに備ふのみ\n\n　一家員数　六万余\n　一土蔵数　千三百ヨ\n　一穴蔵数　三十余\n",
+            "timestamp": {
+                "_nanoseconds": 465000000,
+                "_seconds": 1568544121
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

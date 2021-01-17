@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5b2a142ab80a39c87254053e284b65186f21ccad.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88810",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88810/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88810",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "6BCF870D7A6B9AC22AC242EAA5DD57C7",
+    "label": "富士山頂上八峯内院并諸国遠見図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士山頂上八峯内院并諸国遠見図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治10年6月20日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "著者：静岡県富士郡第二大区第二小区厚原村二 土屋勝太郎, 静岡県富士郡第二大区第四小区大宮町九六 富士神一郎／定価二銭"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×54"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-10-016"
+        },
+        {
+            "label": "year",
+            "value": "1877"
+        },
+        {
+            "label": "identifier",
+            "value": "f117e90d-ef6c-4a21-9b3b-71561fd720cb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0430"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/5b2a142ab80a39c87254053e284b65186f21ccad.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f117e90d-ef6c-4a21-9b3b-71561fd720cb/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "6BCF870D7A6B9AC22AC242EAA5DD57C7",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【タイトル】富士山頂上八峯内院\n　　　　　　　并諸国遠見図\n\n富士山は駿河国に在り 其峯雲際に聳\n え高サ一万四千百七十尺 其ノ形四面皆同じく\n山巓四時雪を戴き 十三州よりこれを\n望む皇国第一の高山なり 其の登岳\nの路次四所あり 表面を大宮村山口と\n云ひ南面を須山口と云ひ 東面を須\n走口と云ひ 北面を吉田口と云ふ抑\n山頂に鎮座せらるゝ大神を木花\n之佐久夜毘賣命と称し大山津見\n神の御女也 此の大神は容貌の麗\n美なるのみならず 其の神徳亦艶\n美なるを以てサクヤの＜割書：サクヤは｜開光映（サキハヤ）也＞神号\nあるなり 嘗て天皇迩々 杵命遊幸\nして笠沙御崎（カサイサミサキ）に至り 大神に行き逢\nひ玉ひ其鮮姸なるを喜び 将に娶ら\nんとなし玉ふに 大神 輙ち諾せずして曰\nく 父あり宜く垂問すべしと天皇即ち\n使を大山津見神に遣し 固く娶らんと\n乞ひ玉ひ立て 皇后と為す後 大神娠め\nるあり 産月に臨み天皇宜く 汝娠める\n子 吾が子に非ず 必ず国ッ神の子ならん\nと 大神聞 且つ怨み無戸室を造り 其\n内に入り玉ひ誓て曰く 吾が娠む所若\nし天孫＜割書：迩々杵命｜を称す＞の胤に非ざれは当に焦\n滅すべし 実に天孫の胤なれば火も損害\nする能はじと 則 火を放ち室を焼くに 果\nして損害あらず 烟煙中二皇子を生み玉\nふ これ則 大神の安産火難を守護防\n禦し給ふの原因とする所なり夫れ皇\n別の諸姓は 皆 大神の末流にして 其ノ\n子孫は 則 大神の遠孫也 嗟夫（アゝ）諸国の\n人民歳々相増し 年々相加し 陸続参拝\nする所以のものは 其の余沢の万分の一\nを謝せんと欲する所 乎余嘗て聞く群\n参中道路旧跡に 鮮明ならず山頂に彷\n徨するもの往々これあると 甚遺憾\nにたえず為に 聊か知る所を図し以て\n登岳の階梯に備ふとしか云\n　\n　明治十年六月二十日 版権免許\n\n【本文左下、図の左署名】\n静岡県平民\n　著者土屋勝太郎\n　　駿河国富士郡第二大区\n　　二小区厚原村二番地住\n静岡県平民\n　出版人冨士神一郎\n　　駿河国富士郡第二大区\n　　四小区大宮町九十六番地住\n",
+            "text": "【タイトル】富士山頂上八峯内院\n　　　　　　　并諸国遠見図\n\n富士山は駿河国に在り 其峯雲際に聳\n え高サ一万四千百七十尺 其ノ形四面皆同じく\n山巓四時雪を戴き 十三州よりこれを\n望む皇国第一の高山なり 其の登岳\nの路次四所あり 表面を大宮村山口と\n云ひ南面を須山口と云ひ 東面を須\n走口と云ひ 北面を吉田口と云ふ抑\n山頂に鎮座せらるゝ大神を木花\n之佐久夜毘賣命と称し大山津見\n神の御女也 此の大神は容貌の麗\n美なるのみならず 其の神徳亦艶\n美なるを以てサクヤの《割書：サクヤは｜開光映（サキハヤ）也》神号\nあるなり 嘗て天皇迩々 杵命遊幸\nして笠沙御崎（カサイサミサキ）に至り 大神に行き逢\nひ玉ひ其鮮姸なるを喜び 将に娶ら\nんとなし玉ふに 大神 輙ち諾せずして曰\nく 父あり宜く垂問すべしと天皇即ち\n使を大山津見神に遣し 固く娶らんと\n乞ひ玉ひ立て 皇后と為す後 大神娠め\nるあり 産月に臨み天皇宜く 汝娠める\n子 吾が子に非ず 必ず国ッ神の子ならん\nと 大神聞 且つ怨み無戸室を造り 其\n内に入り玉ひ誓て曰く 吾が娠む所若\nし天孫《割書：迩々杵命｜を称す》の胤に非ざれは当に焦\n滅すべし 実に天孫の胤なれば火も損害\nする能はじと 則 火を放ち室を焼くに 果\nして損害あらず 烟煙中二皇子を生み玉\nふ これ則 大神の安産火難を守護防\n禦し給ふの原因とする所なり夫れ皇\n別の諸姓は 皆 大神の末流にして 其ノ\n子孫は 則 大神の遠孫也 嗟夫（アゝ）諸国の\n人民歳々相増し 年々相加し 陸続参拝\nする所以のものは 其の余沢の万分の一\nを謝せんと欲する所 乎余嘗て聞く群\n参中道路旧跡に 鮮明ならず山頂に彷\n徨するもの往々これあると 甚遺憾\nにたえず為に 聊か知る所を図し以て\n登岳の階梯に備ふとしか云\n　\n　明治十年六月二十日 版権免許\n\n【本文左下、図の左署名】\n静岡県平民\n　著者土屋勝太郎\n　　駿河国富士郡第二大区\n　　二小区厚原村二番地住\n静岡県平民\n　出版人冨士神一郎\n　　駿河国富士郡第二大区\n　　四小区大宮町九十六番地住\n",
+            "timestamp": {
+                "_nanoseconds": 486000000,
+                "_seconds": 1569934336
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

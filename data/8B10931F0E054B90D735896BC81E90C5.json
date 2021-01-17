@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7357,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/31e46eacca47ac1621dfbb4aeb1aaa8d1e92fba3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7357,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56144",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9791
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56144/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56144",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9791
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7357,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6e2519630715eb0084f70c1f9c07b4149eb23fa2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7357,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56145",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9791
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56145/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56145",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9791
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "8B10931F0E054B90D735896BC81E90C5",
+    "label": "[外科骨折泥鏝療治]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[外科骨折泥鏝療治]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-012"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永3年8月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "為直画"
+        },
+        {
+            "label": "備考",
+            "value": "雷害についての資料"
+        },
+        {
+            "label": "year",
+            "value": "1850"
+        },
+        {
+            "label": "identifier",
+            "value": "9880d08d-b3f3-4849-995a-b6f18a2a99a3"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1012"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/31e46eacca47ac1621dfbb4aeb1aaa8d1e92fba3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p1",
+            "editedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "entryId": "8B10931F0E054B90D735896BC81E90C5",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "tempText": "【右上四角枠内】\n小石川　水戸殿通用門\n奥表之さかい水門石垣え一ケ所\n一ツ橋御門外　明地　松平紀伊守向\n御茶の水油坂　川副勝三郎【旗本】屋敷\n飯田丁　玉すしや前\n神田多丁　長谷川と申質屋\n下谷七曲り　井伊兵部少輔\n深川　小石川丁米屋\n御成道　石川やしき　庭\n深川　御舟蔵　脇\n青山御えんせう蔵\n浅草　熊ケ谷いなり　地内\n南茅場丁　米や土蔵　雷火\n白山丁　伊賀坂　松平備中守外\nつきぢ　加納備中守\n赤坂一ツ木丁　竹こし屋敷【尾張藩付家老竹腰家】\n麻布長坂丁　渡辺為右衛門やし\n森川宿　本多\n青山五十人丁　大嶋と申やしき向\n戸田隼人　正やしき\n千駄ヶ谷八まん　地内\nしふや六反　前ばし酒屋向\n伝通院　庭内\n愛宕下　青松寺山\n新宿　松平出羽守やしき\n日本はし　釘店\n深川　扇はし\nすがも　二ケ所\n牛込　御門前ほたんやしき【牡丹屋敷】向\n雑司ヶ谷　弐ケ所\n明う【？音は「茗荷」】が谷戸田吉ある【？】やしき二ケ所\n本所菊川丁　中のはし\n麻布中丁二丁目\n鮫ケはし\n青山六道の辻　荒川と申やしき\n本所　藤堂和泉守屋しき\n赤坂紀伊国坂　同堀脇\n小梅川舟\n芝　大久保加賀守\n本所相生丁\nあざぶ\n芝宇田川町　医師\n一番丁　御勘定　佐藤五郎左衛門\n佃しま　沖舟中\n上野御宮前\n昔　赤羽板はし\n麻布　日ケ窪\n浅草森下金龍寺\n同　小揚\n一新寺丁　真言宗寺　二軒\n白山伊賀　坂直　飯田と申やしき\n□【こうじ】丁成せ隼人正【尾張徳川家の付家老】\n外　さくら田　上杉屋しき前\n高田馬場わき\n同　長明寺之壱ケ所\n都合五十八ケ所也　昼八ツ時頃ゟ\n嘉永三年八月八日明七ツ時迄大雷\n\n【絵図中　上中央枠文字から左へ】\n外料骨接の名人\n\n足のりやうじ\n｢アゝ もちつとしづかに やつておくんなさいまし\nわたくしは こんど かやば丁の 米ぐらへ落やした\n所が たちまち火事に成て 買こんで隠た米\nを不残やいてしまう程の 火事たが もと\nより 火の中に斗いるからだゞから 火はなん\nともないが 左の足をくじいて 走事がなら\nぬ所を 雲かきて やつと たすかつたの\nで 厶【ござ-る？】り升【ます ？】\n\n背骨りやうじ\n｢ヲゝあつゝしか\nし又 いゝ心\nもちに成て\nきた おかげさまで\nよふ〳〵 鬼心がつき\nてした モシおい\n　　　　　　しや\nさま お聞なさりまし\nわたくしも 是迄 諸方\n一落ましたが 今度の\nよふな所へおちた事は\n厶りませぬ 森川の\nおやしきうちに ふう婦\nいてふと申て 大木が 厶り\n升が 其いてふは 根が\nまたに 成ており升\n其またの ちやうど\n真中へ おちまして\n背ぼねを打まして気\nがとをく成ました 其\n上 あいつは ふう婦中を\nさかふと思つて落やがつて かへつて う\nぬが背骨をぶつて いいきみだと 木花共\nが ぬかしおり升とさ こんなむまらぬ\n事は厶りません\n\n【絵図中　中央左から】\n尾にて尻を打やぶる\n〽ア こていられねへ 是此尾が 尻の中へ\nはいつていたものを いてへはづだ モシ\nおいしやさん わたしは 小石川の御屋\n敷の 御門の家根へ おちたのさ そこ\nで 家根瓦で こんなに尻を やぶ\nつて 大けがをして おせわに\n成ます\n\nひはらを□□□\n〽モシ わたしやァ 畑島の\n沖中の大船のはしらへ おち\nやした所が あいにく 川のふ\nきぶりだから 帆ばしらか\nねかして 有た 其上へ\nおちて ひはらを ひどく\nふつて すんでの事に\nそれ切に 成所で厶り升\nだが それでもうんのよ\n　　　　　　　　　さ\n\n【この文章の上にある盥絵の左文が続きと思われる】\nわたりりの ふねの\n帆ばしらたつて\n有ましたから\n其帆ばしらへ\nのぼつて やつと\n雲にすがつて\nよう〳〵たすかり\nました\n\n腕のりやうじ\n｢アイタ〳〵 うでがぬける〳〵 アゝ\nモシ 此うでが□□ましたが おか\nげで やつと□し□□厶り升\nもふ〳〵こり〳〵した こんだ\n田丁の質ぐらへ おちた所が 雲は上る\nでところはなし くらの二階中\n□□あるいて見てもしかたが\nねへから まどの□を やぶつて\n\n【この文章の下にある鬼絵の下の文が続きと思われる】\n▲やつと出た所が\nはらはへる あん\nな くるしかつた\n事は有ません\nそんでも てんとう\n鬼ころさずで\nちやうど 雲がき\nて やつとたすかつ\nたが 左のうでが\nぶらになつた こ\nんなひどいめに\n有た事は\nなしさ\n\n角ヲ折牛の角挿かへる\n〽アゝ いてへ〳〵 此通り 角をおる程\nひどくぶつたものから 気ぜ\nつを しました所で□が\n口へはいつたので やつと\nいきをふきかへし\nよく〳〵見れば\n浅草の地内\nのいなりさま\n　　　　　の■\n\n【この文章の下にある角の治療をされてる鬼絵の左文】\n〽鳥居のきわさ\nすんでの事で そ\nれ切ころりと行\nとこで厶り升た モシ\n其出合た角にして下\nさりまし 片ちんばでは\n見にくう厶り升\n　　　　から\n\n【この文章の上の子どもを抱いた女鬼の左文】\n子雷首くじき\n｢モシ おいしやさまへ 望事に 此子にはこまり升\nいふ事を聞ませぬから 此通り首をつゝこんで わたくしに、気を\nもませ升 又内のものも うちのもので厶り升 なんのつれて行ずば\nの事で厶り升のに 麻布のやしきへ親子ともに おちましたとさ\n親父は けがはいたしませんが 此子は ひどいめに あいましたが\n虫でも でねば よふ厶り升が\n\n怪我雷多勢",
+            "text": "【右上四角枠内】\n小石川　水戸殿通用門\n奥表之さかい水門石垣え一ケ所\n一ツ橋御門外　明地　松平紀伊守向\n御茶の水油坂　川副勝三郎【旗本】屋敷\n飯田丁　玉すしや前\n神田多丁　長谷川と申質屋\n下谷七曲り　井伊兵部少輔\n深川　小石川丁米屋\n御成道　石川やしき　庭\n深川　御舟蔵　脇\n青山御えんせう蔵\n浅草　熊ケ谷いなり　地内\n南茅場丁　米や土蔵　雷火\n白山丁　伊賀坂　松平備中守外\nつきぢ　加納備中守\n赤坂一ツ木丁　竹こし屋敷【尾張藩付家老竹腰家】\n麻布長坂丁　渡辺為右衛門やし\n森川宿　本多\n青山五十人丁　大嶋と申やしき向\n戸田隼人　正やしき\n千駄ヶ谷八まん　地内\nしふや六反　前ばし酒屋向\n伝通院　庭内\n愛宕下　青松寺山\n新宿　松平出羽守やしき\n日本はし　釘店\n深川　扇はし\nすがも　二ケ所\n牛込　御門前ほたんやしき【牡丹屋敷】向\n雑司ヶ谷　弐ケ所\n明う【？音は「茗荷」】が谷戸田吉ある【？】やしき二ケ所\n本所菊川丁　中のはし\n麻布中丁二丁目\n鮫ケはし\n青山六道の辻　荒川と申やしき\n本所　藤堂和泉守屋しき\n赤坂紀伊国坂　同堀脇\n小梅川舟\n芝　大久保加賀守\n本所相生丁\nあざぶ\n芝宇田川町　医師\n一番丁　御勘定　佐藤五郎左衛門\n佃しま　沖舟中\n上野御宮前\n昔　赤羽板はし\n麻布　日ケ窪\n浅草森下金龍寺\n同　小揚\n一新寺丁　真言宗寺　二軒\n白山伊賀　坂直　飯田と申やしき\n□【こうじ】丁成せ隼人正【尾張徳川家の付家老】\n外　さくら田　上杉屋しき前\n高田馬場わき\n同　長明寺之壱ケ所\n都合五十八ケ所也　昼八ツ時頃ゟ\n嘉永三年八月八日明七ツ時迄大雷\n\n【絵図中　上中央枠文字から左へ】\n外料骨接の名人\n\n足のりやうじ\n｢アゝ もちつとしづかに やつておくんなさいまし\nわたくしは こんど かやば丁の 米ぐらへ落やした\n所が たちまち火事に成て 買こんで隠た米\nを不残やいてしまう程の 火事たが もと\nより 火の中に斗いるからだゞから 火はなん\nともないが 左の足をくじいて 走事がなら\nぬ所を 雲かきて やつと たすかつたの\nで 厶【ござ-る？】り升【ます ？】\n\n背骨りやうじ\n｢ヲゝあつゝしか\nし又 いゝ心\nもちに成て\nきた おかげさまで\nよふ〳〵 鬼心がつき\nてした モシおい\n　　　　　　しや\nさま お聞なさりまし\nわたくしも 是迄 諸方\n一落ましたが 今度の\nよふな所へおちた事は\n厶りませぬ 森川の\nおやしきうちに ふう婦\nいてふと申て 大木が 厶り\n升が 其いてふは 根が\nまたに 成ており升\n其またの ちやうど\n真中へ おちまして\n背ぼねを打まして気\nがとをく成ました 其\n上 あいつは ふう婦中を\nさかふと思つて落やがつて かへつて う\nぬが背骨をぶつて いいきみだと 木花共\nが ぬかしおり升とさ こんなむまらぬ\n事は厶りません\n\n【絵図中　中央左から】\n尾にて尻を打やぶる\n〽ア こていられねへ 是此尾が 尻の中へ\nはいつていたものを いてへはづだ モシ\nおいしやさん わたしは 小石川の御屋\n敷の 御門の家根へ おちたのさ そこ\nで 家根瓦で こんなに尻を やぶ\nつて 大けがをして おせわに\n成ます\n\nひはらを□□□\n〽モシ わたしやァ 畑島の\n沖中の大船のはしらへ おち\nやした所が あいにく 川のふ\nきぶりだから 帆ばしらか\nねかして 有た 其上へ\nおちて ひはらを ひどく\nふつて すんでの事に\nそれ切に 成所で厶り升\nだが それでもうんのよ\n　　　　　　　　　さ\n\n【この文章の上にある盥絵の左文が続きと思われる】\nわたりりの ふねの\n帆ばしらたつて\n有ましたから\n其帆ばしらへ\nのぼつて やつと\n雲にすがつて\nよう〳〵たすかり\nました\n\n腕のりやうじ\n｢アイタ〳〵 うでがぬける〳〵 アゝ\nモシ 此うでが□□ましたが おか\nげで やつと□し□□厶り升\nもふ〳〵こり〳〵した こんだ\n田丁の質ぐらへ おちた所が 雲は上る\nでところはなし くらの二階中\n□□あるいて見てもしかたが\nねへから まどの□を やぶつて\n\n【この文章の下にある鬼絵の下の文が続きと思われる】\n▲やつと出た所が\nはらはへる あん\nな くるしかつた\n事は有ません\nそんでも てんとう\n鬼ころさずで\nちやうど 雲がき\nて やつとたすかつ\nたが 左のうでが\nぶらになつた こ\nんなひどいめに\n有た事は\nなしさ\n\n角ヲ折牛の角挿かへる\n〽アゝ いてへ〳〵 此通り 角をおる程\nひどくぶつたものから 気ぜ\nつを しました所で□が\n口へはいつたので やつと\nいきをふきかへし\nよく〳〵見れば\n浅草の地内\nのいなりさま\n　　　　　の■\n\n【この文章の下にある角の治療をされてる鬼絵の左文】\n〽鳥居のきわさ\nすんでの事で そ\nれ切ころりと行\nとこで厶り升た モシ\n其出合た角にして下\nさりまし 片ちんばでは\n見にくう厶り升\n　　　　から\n\n【この文章の上の子どもを抱いた女鬼の左文】\n子雷首くじき\n｢モシ おいしやさまへ 望事に 此子にはこまり升\nいふ事を聞ませぬから 此通り首をつゝこんで わたくしに、気を\nもませ升 又内のものも うちのもので厶り升 なんのつれて行ずば\nの事で厶り升のに 麻布のやしきへ親子ともに おちましたとさ\n親父は けがはいたしませんが 此子は ひどいめに あいましたが\n虫でも でねば よふ厶り升が\n\n怪我雷多勢",
+            "timestamp": {
+                "_nanoseconds": 635000000,
+                "_seconds": 1570852842
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9880d08d-b3f3-4849-995a-b6f18a2a99a3/canvas/p2",
+            "editedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "entryId": "8B10931F0E054B90D735896BC81E90C5",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 293000000,
+                "_seconds": 1570852952
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

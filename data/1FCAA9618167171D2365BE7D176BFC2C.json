@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9ea4afa47c6d5bea63ccad9af58d3914bf514748.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88487",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88487/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88487",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "1FCAA9618167171D2365BE7D176BFC2C",
+    "label": "火用心",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "火用心"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-060"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "その他"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "錦絵／国芳画／版元は玉惣"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25"
+        },
+        {
+            "label": "identifier",
+            "value": "e09943d6-2c71-4430-a4d1-e23c29385c37"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0107"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9ea4afa47c6d5bea63ccad9af58d3914bf514748.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e09943d6-2c71-4430-a4d1-e23c29385c37/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1FCAA9618167171D2365BE7D176BFC2C",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "火用心\n火の用心のうた\n火の元は 上にたつ人 見まはりて 内から火事を ださぬ用心\n火のもとは 夏とてゆたん せぬがよし もえたつ蚊遣 わけて用心\n火のもとは ふしんの場所の かんなくず 焚ちらしたる あとの用心\n火の元は きせる ちやうちん 火うち箱 しそくに つけ木 炬燵（こたつ）用心\n火のもとは 捨るはら灰 火けし壺 火にゑんの ある所の用心\n火の為に はしご 縄ひも 桶つるべ 蔵もつ人は つちの用心\n火のために わらし 手ぬぐひ たすき帯 薬小遣ひ常に用心\n火のくらに 入るは 見廻り あしきゆゑ 鼠穴なとべして用心\n火の為に 着かへの きもの さためおけ すはやと いへる時の用心\n火のために 手おけ 水がめ 庭の池 いつもたやさず 水の用心\n火のために 夜も ながすな 居風呂の湯も 朝こほせ これも用心\n火のときは 老人 子供 病人を けがせぬやうに にがす用心\n火のときは 火のある 火ばち 火入など あはてゝ 蔵へ 入れぬ用心\n火のときは 宝 過去帳 諸帳面 証文るゐを 焼かぬ用心\n火のときは 極大せつなものならば 蔵へ入ずに いたす用心\n火のときは 盗人 多くあるもの そ顔みて 荷もつわたす用心\n火のときは 金銀なとに めをかけて 大事の命 すてぬ用心",
+            "text": "火用心\n火の用心のうた\n火の元は 上にたつ人 見まはりて 内から火事を ださぬ用心\n火のもとは 夏とてゆたん せぬがよし もえたつ蚊遣 わけて用心\n火のもとは ふしんの場所の かんなくず 焚ちらしたる あとの用心\n火の元は きせる ちやうちん 火うち箱 しそくに つけ木 炬燵（こたつ）用心\n火のもとは 捨るはら灰 火けし壺 火にゑんの ある所の用心\n火の為に はしご 縄ひも 桶つるべ 蔵もつ人は つちの用心\n火のために わらし 手ぬぐひ たすき帯 薬小遣ひ常に用心\n火のくらに 入るは 見廻り あしきゆゑ 鼠穴なとべして用心\n火の為に 着かへの きもの さためおけ すはやと いへる時の用心\n火のために 手おけ 水がめ 庭の池 いつもたやさず 水の用心\n火のために 夜も ながすな 居風呂の湯も 朝こほせ これも用心\n火のときは 老人 子供 病人を けがせぬやうに にがす用心\n火のときは 火のある 火ばち 火入など あはてゝ 蔵へ 入れぬ用心\n火のときは 宝 過去帳 諸帳面 証文るゐを 焼かぬ用心\n火のときは 極大せつなものならば 蔵へ入ずに いたす用心\n火のときは 盗人 多くあるもの そ顔みて 荷もつわたす用心\n火のときは 金銀なとに めをかけて 大事の命 すてぬ用心",
+            "timestamp": {
+                "_nanoseconds": 26000000,
+                "_seconds": 1570017815
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e154202768165a310416f9a7a77256d1884df29b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88511",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88511/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88511",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "538E63C0FCB9E6914F206DB49EC1066D",
+    "label": "治る御代ひやかし鯰",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "治る御代ひやかし鯰"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-084"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×24.5"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-02-013"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "572489c8-5572-4c5f-a08c-8743df6b3515"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0131"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e154202768165a310416f9a7a77256d1884df29b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/572489c8-5572-4c5f-a08c-8743df6b3515/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "538E63C0FCB9E6914F206DB49EC1066D",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "＜割書：治る｜御代＞ひやかし鯰\n\n賑（にきハ）う江戸（ゑど）の花川戸（はなかハど）設（もうか）り宅（たく）の\n繁昌（はんじやう）を見物（けんぶつ）せんとぬら\nくらと格子（かうし）をのぞく大鯰（おほなまづ）\nかむろが見付（ミつけ）てさゝやけば\nおいらんハとんで出（いで）無理（むり）に\nとらえんとすれど抜（ぬけ）つ\nくゞりつつらまらねば\nもしへ早（はや）くひやうたんを\n持（もつ）て来（き）なましといへバ\n気転（きてん）のきゝし若（わか）イ者（もの）これで\nおさへれば大丈夫（だいじやうぶ）だと徳利（とつくり）を\n持来（もちきた）れバ何（なん）の苦（く）もなくおさへしゆへ\n是ハふしきと能々（よく〳〵）見れバ鹿嶋（かじま）の\n徳利（とつくり）だ\n\n\n女良　もしへぬしやァあんまり\nさますよこのぢうもだしぬけに\nきさつして大さわきを\nさせなました\nミせも\nにかいも\n一ときに\nひねりばなしじやァ\nめがまハるよウ\nぎりわるや\n\n\n客　そのひげを\nはなして\nくんねへそれを\nぬきやァおめへの\nこゝろいきも\nよつぽど\nかたひげた",
+            "text": "《割書：治る｜御代》ひやかし鯰\n\n賑（にきハ）う江戸（ゑど）の花川戸（はなかハど）設（もうか）り宅（たく）の\n繁昌（はんじやう）を見物（けんぶつ）せんとぬら\nくらと格子（かうし）をのぞく大鯰（おほなまづ）\nかむろが見付（ミつけ）てさゝやけば\nおいらんハとんで出（いで）無理（むり）に\nとらえんとすれど抜（ぬけ）つ\nくゞりつつらまらねば\nもしへ早（はや）くひやうたんを\n持（もつ）て来（き）なましといへバ\n気転（きてん）のきゝし若（わか）イ者（もの）これで\nおさへれば大丈夫（だいじやうぶ）だと徳利（とつくり）を\n持来（もちきた）れバ何（なん）の苦（く）もなくおさへしゆへ\n是ハふしきと能々（よく〳〵）見れバ鹿嶋（かじま）の\n徳利（とつくり）だ\n\n\n女良　もしへぬしやァあんまり\nさますよこのぢうもだしぬけに\nきさつして大さわきを\nさせなました\nミせも\nにかいも\n一ときに\nひねりばなしじやァ\nめがまハるよウ\nぎりわるや\n\n\n客　そのひげを\nはなして\nくんねへそれを\nぬきやァおめへの\nこゝろいきも\nよつぽど\nかたひげた",
+            "timestamp": {
+                "_nanoseconds": 63000000,
+                "_seconds": 1580109746
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

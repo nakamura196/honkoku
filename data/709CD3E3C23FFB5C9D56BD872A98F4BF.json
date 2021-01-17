@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5fc5a9b09c3ed294f9169ab98dd8dee30a0ba5eb.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88799",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88799/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88799",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "709CD3E3C23FFB5C9D56BD872A98F4BF",
+    "label": "[富士八景図 金時山の秋月]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富士八景図 金時山の秋月]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-010-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "17×22.5"
+        },
+        {
+            "label": "備考",
+            "value": "8枚組の内"
+        },
+        {
+            "label": "identifier",
+            "value": "257a92ea-a872-40a0-b8ca-156c00bfca8b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0419"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/5fc5a9b09c3ed294f9169ab98dd8dee30a0ba5eb.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/257a92ea-a872-40a0-b8ca-156c00bfca8b/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "709CD3E3C23FFB5C9D56BD872A98F4BF",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【左下図のみ翻刻】\n金時山秋月\n\n\n【一資料ずつ別項目になってい為、以上。】\n【参考に残りは　上野の暮雪。景島夕照。桜川橋の眺望。】\n\n",
+            "text": "【左下図のみ翻刻】\n金時山秋月\n\n\n【一資料ずつ別項目になってい為、以上。】\n【参考に残りは　上野の暮雪。景島夕照。桜川橋の眺望。】\n\n",
+            "timestamp": {
+                "_nanoseconds": 137000000,
+                "_seconds": 1569568821
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

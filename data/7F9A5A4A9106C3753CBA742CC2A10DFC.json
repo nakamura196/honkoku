@@ -1,0 +1,197 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/df28e82b22c6042399e168b9307ad8727f6a3366.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88788",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88788/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88788",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/37ed3c27728b5ba5c14cb9b868c5de7530176bc9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219893",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219893/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219893",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "hidden": true,
+    "id": "7F9A5A4A9106C3753CBA742CC2A10DFC",
+    "label": "庚申年富士山参詣群衆之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "庚申年富士山参詣群衆之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "万延1年?"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "一畴斉芳藤画／横山町北岡屋版／藤村秀賀誌「富士山略記」の記載あり"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25.5"
+        },
+        {
+            "label": "別タイトル",
+            "value": "富士山略記"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1860"
+        },
+        {
+            "label": "identifier",
+            "value": "0ad9d597-2bb7-4073-b29b-181888abd40b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0408"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/df28e82b22c6042399e168b9307ad8727f6a3366.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "7F9A5A4A9106C3753CBA742CC2A10DFC",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "庚申年富士山参詣群衆之図\n冨士山略記\n抑（そもそも）／当（とう）御山（おんやま）ハ三国（さんこく）／第（たい）一\n万国（はんこく）／無双（ぶさう）の霊山（れいさん）にて\n諸神（しょしん）／出世（しゆつせ）の仙元境（せんけんきやう）たり\n故（かるかゆへ）に冨士仙元大神（ふじせんけんたいしん）と称（しやう）ず\n祭（まつ）る所（ところ）／三座（さんさ）にして中央（じうわう）ハ\n天照太神（てんしやうたいしん）の神孫（かんまこ）／地神（ちじん）／第（だい）三／代（だい）\n瓊瓊杵尊（にゝきのみこと）と申（まふし）／奉（たてまつ）る\n嘗（かつ）て大神（おおかみ）の神勅（みことのり）を\n奉（ほう）じて高天（たかあま）ケ原（かはら）より豊（と□）\n芦原中国（あしはらなかつくに）《割書：日本国｜をいふ》に\n天降（あまくだ）り天（あめ）が\n下（した）を知（しら）し\n召（め）〼\n大山 祇（すみ）\n命（みこと）の女（むすめ）木花\n開耶姫命（さくやひめのみこと）を娶（めと）りて\n同四代 彦火々（ひこほほ）出見／尊（みこと）を生（うま）しめ\n玉（たま）ふ故（ゆへ）に大山／祇（つみ）／木花開耶姫（このはなさくやひめ）の二神\n左右として以上／三柱（みはしら）の神（かみ）を合せ崇（あかめ）て仙元\n大神と祭（まつ）る是（これ）　本／朝（てう）／守護（しゅこ）の霊神（れいしん）にて\n安産（あんさん）を守（まも）り又ハ蚕繭（さんけん）の道（みち）を護（まも）るの御神\nなれハ別して婦人（ふしん）ハ尊（そん）／信（□ん）做（な）し奉（たてまつ）るへき\n也扨又此御山／往昔（そのかみ）天地／開闢（かいひやく）の時／自然（しぜん）\n湧出（ゆしつ）の霊峰（れいほう）たれとも　　人皇五代\n孝照天皇（かうせうてんわう）の御宇（おんとき）／迄（まて）ハ雲霧（うんむ）繁（しけ）く未（いま）た天地の\n気滞（きたい）清（きよ）からさる故（ゆへ）に世人（せしん）／拝（はい）する□（こと）を得（え）す然（しか）るに\n同六代 孝安天皇（こうあんてんわう）九十二年 庚申（かのへさる）の夏（なつ）／漸（やうやう）雲（くも）\n霧（きり）／始（はちめ）て晴（はれ）万国の貴賤（きせん）これを\n\n",
+            "text": "庚申年富士山参詣群衆之図\n冨士山略記\n抑（そもそも）／当（とう）御山（おんやま）ハ三国（さんこく）／第（たい）一\n万国（はんこく）／無双（ぶさう）の霊山（れいさん）にて\n諸神（しょしん）／出世（しゆつせ）の仙元境（せんけんきやう）たり\n故（かるかゆへ）に冨士仙元大神（ふじせんけんたいしん）と称（しやう）ず\n祭（まつ）る所（ところ）／三座（さんさ）にして中央（じうわう）ハ\n天照太神（てんしやうたいしん）の神孫（かんまこ）／地神（ちじん）／第（だい）三／代（だい）\n瓊瓊杵尊（にゝきのみこと）と申（まふし）／奉（たてまつ）る\n嘗（かつ）て大神（おおかみ）の神勅（みことのり）を\n奉（ほう）じて高天（たかあま）ケ原（かはら）より豊（と□）\n芦原中国（あしはらなかつくに）《割書：日本国｜をいふ》に\n天降（あまくだ）り天（あめ）が\n下（した）を知（しら）し\n召（め）〼\n大山 祇（すみ）\n命（みこと）の女（むすめ）木花\n開耶姫命（さくやひめのみこと）を娶（めと）りて\n同四代 彦火々（ひこほほ）出見／尊（みこと）を生（うま）しめ\n玉（たま）ふ故（ゆへ）に大山／祇（つみ）／木花開耶姫（このはなさくやひめ）の二神\n左右として以上／三柱（みはしら）の神（かみ）を合せ崇（あかめ）て仙元\n大神と祭（まつ）る是（これ）　本／朝（てう）／守護（しゅこ）の霊神（れいしん）にて\n安産（あんさん）を守（まも）り又ハ蚕繭（さんけん）の道（みち）を護（まも）るの御神\nなれハ別して婦人（ふしん）ハ尊（そん）／信（□ん）做（な）し奉（たてまつ）るへき\n也扨又此御山／往昔（そのかみ）天地／開闢（かいひやく）の時／自然（しぜん）\n湧出（ゆしつ）の霊峰（れいほう）たれとも　　人皇五代\n孝照天皇（かうせうてんわう）の御宇（おんとき）／迄（まて）ハ雲霧（うんむ）繁（しけ）く未（いま）た天地の\n気滞（きたい）清（きよ）からさる故（ゆへ）に世人（せしん）／拝（はい）する□（こと）を得（え）す然（しか）るに\n同六代 孝安天皇（こうあんてんわう）九十二年 庚申（かのへさる）の夏（なつ）／漸（やうやう）雲（くも）\n霧（きり）／始（はちめ）て晴（はれ）万国の貴賤（きせん）これを\n\n",
+            "timestamp": {
+                "_nanoseconds": 328000000,
+                "_seconds": 1596162357
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0ad9d597-2bb7-4073-b29b-181888abd40b/canvas/p2",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "7F9A5A4A9106C3753CBA742CC2A10DFC",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "奉拝（ほうはい）すと云（いふ）／或（あるひ）ハ同七代\n孝霊（かうれい）天／皇（わう）五年近江\n国に忽地（たちまち）一夜に湖（こ）水／涌（ゆ）\n出（しゆつ）し同日（とうしつ）駿（する）河国に冨士山\n出現（しゆつけん）せしとも亦（また）ハ麓（ふもと）にある八海（はつかい）ハ則（すなはち）\n御山（おんやま）／涌出（ゆしゆつ）の跡（あと）なる共（とも）／云（いへ）り夫（それ）より同十二代\n景行天皇（けいこうてんわう）五十二年／日本武尊（やまとたけのみこと）\n東夷（とうい）／御征伐（こせいはつ）の御時（おんとき）／則（すなはち）／三神垂（さんしんすい）\n跡（しやく）の御山（おんやま）なれバとて是（これ）を勧請（くはんしやう）あり\nけるが此（この）御山ハ南景（なんけい）に出現（しゆつけん）\nたれば北方（ほつほう）子（ね）の方（かた）より詣人（けいしん）\n拝仰（はいこう）すべしと仮（かり）に華表（とりゐ）を\n御建立（ここんりう）あり茲（こゝ）に始（はしめ）て神威（しんゐ）を\n示（しめ）し三国（さんこく）第一（たいいち）山の額（かく）を掛（かけ）給ふ\n是（これ）や蓬莱（ほうらい）の仙境（せんきやう）にて塵外（ちんくはい）の\n霊場（れいしやう）祈（いの）るに利益（りやく）潔然（けつせん）として神徳（しんとく）\n耿々（くはう〳〵）たれバ誰（たれ）かこの御神（おんかみ）を信（しん）ぜ\nざらんや仰（あをか）ざらんや\n　　応需　藤村秀賀謹誌",
+            "text": "奉拝（ほうはい）すと云（いふ）／或（あるひ）ハ同七代\n孝霊（かうれい）天／皇（わう）五年近江\n国に忽地（たちまち）一夜に湖（こ）水／涌（ゆ）\n出（しゆつ）し同日（とうしつ）駿（する）河国に冨士山\n出現（しゆつけん）せしとも亦（また）ハ麓（ふもと）にある八海（はつかい）ハ則（すなはち）\n御山（おんやま）／涌出（ゆしゆつ）の跡（あと）なる共（とも）／云（いへ）り夫（それ）より同十二代\n景行天皇（けいこうてんわう）五十二年／日本武尊（やまとたけのみこと）\n東夷（とうい）／御征伐（こせいはつ）の御時（おんとき）／則（すなはち）／三神垂（さんしんすい）\n跡（しやく）の御山（おんやま）なれバとて是（これ）を勧請（くはんしやう）あり\nけるが此（この）御山ハ南景（なんけい）に出現（しゆつけん）\nたれば北方（ほつほう）子（ね）の方（かた）より詣人（けいしん）\n拝仰（はいこう）すべしと仮（かり）に華表（とりゐ）を\n御建立（ここんりう）あり茲（こゝ）に始（はしめ）て神威（しんゐ）を\n示（しめ）し三国（さんこく）第一（たいいち）山の額（かく）を掛（かけ）給ふ\n是（これ）や蓬莱（ほうらい）の仙境（せんきやう）にて塵外（ちんくはい）の\n霊場（れいしやう）祈（いの）るに利益（りやく）潔然（けつせん）として神徳（しんとく）\n耿々（くはう〳〵）たれバ誰（たれ）かこの御神（おんかみ）を信（しん）ぜ\nざらんや仰（あをか）ざらんや\n　　応需　藤村秀賀謹誌",
+            "timestamp": {
+                "_nanoseconds": 789000000,
+                "_seconds": 1596160833
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

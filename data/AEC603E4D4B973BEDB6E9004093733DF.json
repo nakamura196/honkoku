@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/23deb8f1ecaa98e6b8a7ed499ed8bfaa4a455eab.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88698",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88698/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88698",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "AEC603E4D4B973BEDB6E9004093733DF",
+    "label": "流行一口文句なぞなぞ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "流行一口文句なぞなぞ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-063"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "18×23"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "e97a78c2-ac2d-4357-83d2-d089ea60bc15"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0318"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/23deb8f1ecaa98e6b8a7ed499ed8bfaa4a455eab.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e97a78c2-ac2d-4357-83d2-d089ea60bc15/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "AEC603E4D4B973BEDB6E9004093733DF",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【中央下資料のみ翻刻。他資料は別ページにて翻刻対象】\n\n流行　一口文句なぞ〳〵\n【上段】\nこんどの地しんとかけて\n○おいらんのいきしとゝく\n　心は〽はりにおさるゝ\n\nよし原のさわぎとかけて\n○いろ男の日本一ととく\n　心は〽をんなころし\n\nたをれかゝつた家（いへ）とかけて\n○としよりのいろごととく\n　心は〽かとぐちでおじぎ\n\n十月二日の夜とかけて\n○見（み）にくひかねをとつたと\n　とく心は〽やけでたをれる\n\nかへにうづまつた人とかけて\n○ふるどうぐやの目きゝと\n　とく心は〽ほりだしがたくさん\n\n三十七ケ所の出火（しゆつくわ）とかけて\n○あめふりの空（そら）とゝく\n　心は〽とびかでない\n\nゆつ【り？】しづまつたぢしんとかけて\n○夕（ゆふ）がたのともしびとゝく\n　心は〽もふあんどう\n\n【下段】\n地しんよけのことばとかけて\n○三河の月まちととく\n　心は〽まんざいらく\n\nおすくひ小屋（こや）とかけて\n○大きな馬やととく\n　心は〽びん〳〵がつめかける\n\nなまづの大あれとかけて\n○しまやのさはぎととく\n心は〽どぞうが昃【？】きはやおけざんよ\n\n人〴〵の心がけとかけて\n○百性（ひやくせう）の門（もん）訴（そ）ととく\n　心は〽みのやうじん\n\nこのごろの七つやとかけて\n　○小町（こまち）のまたぐらと\n　とく心は〽一かう通用（つうよう）がない\n\n浅草の五重（ごぢう）のとうと\n　　かけて○福（ふ　）ろく寿（しゆ）の\n　　　おしぎととく\n　　心は〽あたまがまがる\n\nこれからの世（よ）の中と\n　　　　　　　　　かけて\n○画（え）にかいたぢしんと\nとく心は〽うごきや【見ゑ？ ァし？ 】ねへ\n\n\n",
+            "text": "【中央下資料のみ翻刻。他資料は別ページにて翻刻対象】\n\n流行　一口文句なぞ〳〵\n【上段】\nこんどの地しんとかけて\n○おいらんのいきしとゝく\n　心は〽はりにおさるゝ\n\nよし原のさわぎとかけて\n○いろ男の日本一ととく\n　心は〽をんなころし\n\nたをれかゝつた家（いへ）とかけて\n○としよりのいろごととく\n　心は〽かとぐちでおじぎ\n\n十月二日の夜とかけて\n○見（み）にくひかねをとつたと\n　とく心は〽やけでたをれる\n\nかへにうづまつた人とかけて\n○ふるどうぐやの目きゝと\n　とく心は〽ほりだしがたくさん\n\n三十七ケ所の出火（しゆつくわ）とかけて\n○あめふりの空（そら）とゝく\n　心は〽とびかでない\n\nゆつ【り？】しづまつたぢしんとかけて\n○夕（ゆふ）がたのともしびとゝく\n　心は〽もふあんどう\n\n【下段】\n地しんよけのことばとかけて\n○三河の月まちととく\n　心は〽まんざいらく\n\nおすくひ小屋（こや）とかけて\n○大きな馬やととく\n　心は〽びん〳〵がつめかける\n\nなまづの大あれとかけて\n○しまやのさはぎととく\n心は〽どぞうが昃【？】きはやおけざんよ\n\n人〴〵の心がけとかけて\n○百性（ひやくせう）の門（もん）訴（そ）ととく\n　心は〽みのやうじん\n\nこのごろの七つやとかけて\n　○小町（こまち）のまたぐらと\n　とく心は〽一かう通用（つうよう）がない\n\n浅草の五重（ごぢう）のとうと\n　　かけて○福（ふ　）ろく寿（しゆ）の\n　　　おしぎととく\n　　心は〽あたまがまがる\n\nこれからの世（よ）の中と\n　　　　　　　　　かけて\n○画（え）にかいたぢしんと\nとく心は〽うごきや【見ゑ？ ァし？ 】ねへ\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 892000000,
+                "_seconds": 1598079897
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

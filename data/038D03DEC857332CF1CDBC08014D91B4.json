@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b0f55bdab80753680138e63ed38b3561032d4dc6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88422",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88422/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88422",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "038D03DEC857332CF1CDBC08014D91B4",
+    "label": "常陸国鹿島神宮之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "常陸国鹿島神宮之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-042"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "50×64"
+        },
+        {
+            "label": "identifier",
+            "value": "27ba72b8-5543-4fc7-9988-30b684a37d61"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0042"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b0f55bdab80753680138e63ed38b3561032d4dc6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/27ba72b8-5543-4fc7-9988-30b684a37d61/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "038D03DEC857332CF1CDBC08014D91B4",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "古歌\n\n万葉集　　　　　　　　大舎人部千文\n霰降鹿島の神を祈つゝ皇軍に我はきにしを\n夫木集　　　　　　　　後京極摂政\n鹿島のや鷲の羽かひに乗てこし昔の跡は絶せさりけり\n歌枕名寄　　　　　　　光明峯寺入道\n我たのむ鹿島の宮の瑞垣の久しくなりぬ世々の契は\n同　　　　　　　　　　顕雅\n常陸なる鹿島の宮の宮柱なほ万代も君か為とか\n拾玉集　　　　　　　　慈鎮和尚\n秋のみや絶ぬしるしは鹿島山春日野まても□□□□\n拾遺愚草　　　　　　　定家卿\n鹿島のや桧原杉原ときはなる君かさかえは神のまに〳〵\n月清集　　　　　　　後京極摂政\nこの頃の心の床をよそに見て鹿島の野への秋の夕暮\n夫木集　　　　　　　光俊朝臣\n沼の尾の池の玉水神代よりたえぬや深き誓なるらむ\n同　　　　　　　　　同\nみ空より跡たれたりし跡の宮その代もしらす神さひに鳬\n同　　　　　　　　　同\n尋かねけふみつる哉千早振み山のおくの石のみましを\n同　　　　　　　　　同\nよそに見て袖やぬれなん常陸なる高間の浦の沖つ塩風\n同　　　　　　　　　後九条内大臣\n山もなき鹿島の崎の波間よりいつる月日や塩ひなるらむ\n同　　　　　　　　　道因法師\n夜もすから磯の松かね片しきて鹿島か崎の月を見る哉\n同　　　　　　　　　光俊朝臣　\n波高き鹿島の崎にたとりきて東の果をけふ見つる哉\n同　　　　　　　　　同\n神さふる鹿島をみれは玉垂の小かめはかりそまた残りける\n呉竹集\n常陸なるあいろこいろの山こえて鹿鳴国のはてとこそきけ\n新後撰集　　　　　　為氏\n浦人も夜や寒からし霰降鹿島の崎の沖つ塩風\n歌枕名寄\n塩ひる間人は鹿島の浦といふ波のよることみるへかりける\n方与集　　　　　　　頼政\n夜舟こき沖にて聞は常陸の海鹿島か崎に千鳥鳴也\n万葉集\n霰降鹿島か崎を波高み過てや行ん恋しきものを\n同\n常陸なるなさかの海の玉藻まて引はたえすれ跡かたはせん\n　　　　　　",
+            "text": "古歌\n\n万葉集　　　　　　　　大舎人部千文\n霰降鹿島の神を祈つゝ皇軍に我はきにしを\n夫木集　　　　　　　　後京極摂政\n鹿島のや鷲の羽かひに乗てこし昔の跡は絶せさりけり\n歌枕名寄　　　　　　　光明峯寺入道\n我たのむ鹿島の宮の瑞垣の久しくなりぬ世々の契は\n同　　　　　　　　　　顕雅\n常陸なる鹿島の宮の宮柱なほ万代も君か為とか\n拾玉集　　　　　　　　慈鎮和尚\n秋のみや絶ぬしるしは鹿島山春日野まても□□□□\n拾遺愚草　　　　　　　定家卿\n鹿島のや桧原杉原ときはなる君かさかえは神のまに〳〵\n月清集　　　　　　　後京極摂政\nこの頃の心の床をよそに見て鹿島の野への秋の夕暮\n夫木集　　　　　　　光俊朝臣\n沼の尾の池の玉水神代よりたえぬや深き誓なるらむ\n同　　　　　　　　　同\nみ空より跡たれたりし跡の宮その代もしらす神さひに鳬\n同　　　　　　　　　同\n尋かねけふみつる哉千早振み山のおくの石のみましを\n同　　　　　　　　　同\nよそに見て袖やぬれなん常陸なる高間の浦の沖つ塩風\n同　　　　　　　　　後九条内大臣\n山もなき鹿島の崎の波間よりいつる月日や塩ひなるらむ\n同　　　　　　　　　道因法師\n夜もすから磯の松かね片しきて鹿島か崎の月を見る哉\n同　　　　　　　　　光俊朝臣　\n波高き鹿島の崎にたとりきて東の果をけふ見つる哉\n同　　　　　　　　　同\n神さふる鹿島をみれは玉垂の小かめはかりそまた残りける\n呉竹集\n常陸なるあいろこいろの山こえて鹿鳴国のはてとこそきけ\n新後撰集　　　　　　為氏\n浦人も夜や寒からし霰降鹿島の崎の沖つ塩風\n歌枕名寄\n塩ひる間人は鹿島の浦といふ波のよることみるへかりける\n方与集　　　　　　　頼政\n夜舟こき沖にて聞は常陸の海鹿島か崎に千鳥鳴也\n万葉集\n霰降鹿島か崎を波高み過てや行ん恋しきものを\n同\n常陸なるなさかの海の玉藻まて引はたえすれ跡かたはせん\n　　　　　　",
+            "timestamp": {
+                "_nanoseconds": 537000000,
+                "_seconds": 1567501978
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,135 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3d158a10a2ac3a9c94298d01bc66c8c29c20733a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88693",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88693/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88693",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "0698CF491B951311705243E15E2554A3",
+    "label": "泪如来の損像 山の宿聖天町ニて有頂天五十日の間開帳",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "泪如来の損像 山の宿聖天町ニて有頂天五十日の間開帳"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-058"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24×29"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-01-017"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "341f540b-2c0b-46f9-8bc2-e2c7d30a48a4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0313"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3d158a10a2ac3a9c94298d01bc66c8c29c20733a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/341f540b-2c0b-46f9-8bc2-e2c7d30a48a4/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0698CF491B951311705243E15E2554A3",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "\n【上の資料】\n【タイトル】\n《割書：大地震｜大津波》安達原（あだちがはら）《割書：三段｜目》抜文句\n\n【一段目左へ】\n年寄（としよつ）たからだは　いつ何時の\nかうなり　はてた身の上\n一度におどろき　転（まろ）びおり垣（かき）押（をし）破（やぶ）り\n跡の詮（せん）義は某（それがし）が　よきやうに\nゆんでめでへ　はつたとけとばし\n天眼（てんがん）通（つう）は　得ざれども\nはしらんと　すれども\n皮（かは）もやぶれし　三味せんの\n浜（はま）ゆふが　とびたつばかり\n隙（ひま）入ほど　為にならぬ\n嘆（なげ）きは理（こと）はり　何かに付て\n爰（こゝ）迄くるは　きたれど\n\n【二段目】\n丸太（まるた）で　もたす古家（ふるいへ）\n穴掘（あなほつ）て埋（うづん）で　ゐる瀬戸物や\nろうじから　空地（くうち）へ逃出る人\n内にのこる　番頭\n川内へ押込（おしこん）で　来（き）た大船\nいつの何時にゆ　ると知た貌（かほ）する人\n途中（とちう）で地しんに　あふた人\nさんざひ中へ　ゆさ〳〵\n鳥羽（とば）浦　大つなみ\n工（く）手間 増（ます）船大工\n芝（しば）居茶や\nちり〴〵に　にげた人\n\n【三段目】\nはつとおどろき　またばつたり\nテモ扨も扨も〳〵　おもひがけない\n是はまた　あんまりきつい\n今思ひ知り　おつたか\nわが身ながら　あいそのついた\n聞て心も　こゝろならず\n追立られ　かしこの橋では\n八幡殿の　北の方\nおまへに問たら　しれるであろ\nわれ〳〵が　大望（たいもう）の妨（さまた）げ\nかきがねに錠（ぢやう）　しつかとおろし\n縄（なわ）引切て逃（にげ）出ん　と存ぜし所\n\n【四段目】\nつなみと聞て　気打する人\n座敷へ船の　みよし入られたの\n十一月五日の　夕かた\n爪（つめ）の長い　家主\n釣台（つりだい）で逃して　もらふ病人\nいせから奉公（ほうこ）に　来（き）てゐる人\n津波に　出合た茶舟\nしづかに　有た都\n江戸から　戻つて来た人\n京の　顔見せ\n家内連て在（ざい）　所へ逃る人\nつなみの　咄（はなし）する船頭（せんどう）\n\n【下の資料】\n【箱書タイトル】涙如来（なみだによらい）の損像（そんぞう）《割書：山の宿聖天町にて｜有頂天（うてうてん）五十日の間開帳》\n【内容】\nそも〳〵かりにあんじしたてまつるはしなのゝくにぜんくわうじの\nほんぞんほつこくでんらいしまおうこんの\nなみだによらいのそんぞうなりその\nむかしてれんてくだうそ八百だいの\nみかどけいせいてんわうのおんとき\nなまづだいじんのまつしややけのやんはちと\nいへるものこのそんぞうにあつくなり\nちうやあゆみをはこべ\nともごりやくなきを\nいきとふりたゝらを\nふませておはくろ\nとぶへなげこみしを\nわかひものとんだとじみつ\nやう〳〵ひきあけまいらせてせなかに\nおぶひたてまつりのろまのくにはなげ\nむらなるおきやくさんかねぼれじへつれ\nまいらせしばしかりねのおんちぎりあさ\nからずこれによつてこのたび山のしゆく\nせうでんてうをおんかりやとしてかいてうし\nたてまつりぼんぶけちゑんのために\nおとびらをひらきぼんのうぼたいを\nによき〳〵と出やうしたてまつるもの\nなりひとたびはいするともがらはたいへいの\nぢしんをゆらせうつきをさんじみらいは\nかならずひとつはちすのうてなでくらしうてうてんへ\nのぼりてまんざいらくねのたのしみにじゆめうの\nはなげをのばすことうたがひなしごしん〴〵の\nおんかたは一ぶもつてとこへまいられませう\n\n",
+            "text": "\n【上の資料】\n【タイトル】\n《割書：大地震｜大津波》安達原（あだちがはら）《割書：三段｜目》抜文句\n\n【一段目左へ】\n年寄（としよつ）たからだは　いつ何時の\nかうなり　はてた身の上\n一度におどろき　転（まろ）びおり垣（かき）押（をし）破（やぶ）り\n跡の詮（せん）義は某（それがし）が　よきやうに\nゆんでめでへ　はつたとけとばし\n天眼（てんがん）通（つう）は　得ざれども\nはしらんと　すれども\n皮（かは）もやぶれし　三味せんの\n浜（はま）ゆふが　とびたつばかり\n隙（ひま）入ほど　為にならぬ\n嘆（なげ）きは理（こと）はり　何かに付て\n爰（こゝ）迄くるは　きたれど\n\n【二段目】\n丸太（まるた）で　もたす古家（ふるいへ）\n穴掘（あなほつ）て埋（うづん）で　ゐる瀬戸物や\nろうじから　空地（くうち）へ逃出る人\n内にのこる　番頭\n川内へ押込（おしこん）で　来（き）た大船\nいつの何時にゆ　ると知た貌（かほ）する人\n途中（とちう）で地しんに　あふた人\nさんざひ中へ　ゆさ〳〵\n鳥羽（とば）浦　大つなみ\n工（く）手間 増（ます）船大工\n芝（しば）居茶や\nちり〴〵に　にげた人\n\n【三段目】\nはつとおどろき　またばつたり\nテモ扨も扨も〳〵　おもひがけない\n是はまた　あんまりきつい\n今思ひ知り　おつたか\nわが身ながら　あいそのついた\n聞て心も　こゝろならず\n追立られ　かしこの橋では\n八幡殿の　北の方\nおまへに問たら　しれるであろ\nわれ〳〵が　大望（たいもう）の妨（さまた）げ\nかきがねに錠（ぢやう）　しつかとおろし\n縄（なわ）引切て逃（にげ）出ん　と存ぜし所\n\n【四段目】\nつなみと聞て　気打する人\n座敷へ船の　みよし入られたの\n十一月五日の　夕かた\n爪（つめ）の長い　家主\n釣台（つりだい）で逃して　もらふ病人\nいせから奉公（ほうこ）に　来（き）てゐる人\n津波に　出合た茶舟\nしづかに　有た都\n江戸から　戻つて来た人\n京の　顔見せ\n家内連て在（ざい）　所へ逃る人\nつなみの　咄（はなし）する船頭（せんどう）\n\n【下の資料】\n【箱書タイトル】涙如来（なみだによらい）の損像（そんぞう）《割書：山の宿聖天町にて｜有頂天（うてうてん）五十日の間開帳》\n【内容】\nそも〳〵かりにあんじしたてまつるはしなのゝくにぜんくわうじの\nほんぞんほつこくでんらいしまおうこんの\nなみだによらいのそんぞうなりその\nむかしてれんてくだうそ八百だいの\nみかどけいせいてんわうのおんとき\nなまづだいじんのまつしややけのやんはちと\nいへるものこのそんぞうにあつくなり\nちうやあゆみをはこべ\nともごりやくなきを\nいきとふりたゝらを\nふませておはくろ\nとぶへなげこみしを\nわかひものとんだとじみつ\nやう〳〵ひきあけまいらせてせなかに\nおぶひたてまつりのろまのくにはなげ\nむらなるおきやくさんかねぼれじへつれ\nまいらせしばしかりねのおんちぎりあさ\nからずこれによつてこのたび山のしゆく\nせうでんてうをおんかりやとしてかいてうし\nたてまつりぼんぶけちゑんのために\nおとびらをひらきぼんのうぼたいを\nによき〳〵と出やうしたてまつるもの\nなりひとたびはいするともがらはたいへいの\nぢしんをゆらせうつきをさんじみらいは\nかならずひとつはちすのうてなでくらしうてうてんへ\nのぼりてまんざいらくねのたのしみにじゆめうの\nはなげをのばすことうたがひなしごしん〴〵の\nおんかたは一ぶもつてとこへまいられませう\n\n",
+            "timestamp": {
+                "_nanoseconds": 389000000,
+                "_seconds": 1607788970
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

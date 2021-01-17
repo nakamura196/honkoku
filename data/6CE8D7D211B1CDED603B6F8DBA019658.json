@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8f5e752098d469b244da8aa33787f2a935cc2e6a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88474",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88474/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88474",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "6CE8D7D211B1CDED603B6F8DBA019658",
+    "label": "万歳楽身の用心",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "万歳楽身の用心"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-047"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×25"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "22a5819a-c1b3-4a6a-b397-1361706411cf"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0094"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/8f5e752098d469b244da8aa33787f2a935cc2e6a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/22a5819a-c1b3-4a6a-b397-1361706411cf/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "6CE8D7D211B1CDED603B6F8DBA019658",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "万歳楽身の用心\n地震除（じしんよけ）の呪（まじない）　家内にはりおくべし\n材〽なむきめうてうらい〳〵まんざいらく私どもはこれまでじしんはさほどにおもひ\nましなんだがこんどの大へんでまことにおそろしう御座り升たがあんのんで\nしやうばいの材木がうれますからありがたふ御座り升なむ〳〵〳〵〳〵\nあらものや\n〽もしなまづさんおまへさんら大さはきをなさいましたあとはみんな小屋かけをするに\nそれとばをくれやれなはをくれこつちからはむしろをくれとその家内のはんぜうは\nまことにありがたいことで御座り升なむ〳〵〳〵〳〵\n金ものや\n〽いやわたくしはじしん火事あくる日からふるかねをうりにまいり升から買ては\nもふけまたうつてはもふけさて〳〵此やふなありがたいことは御座り升せんなむ〳〵〳〵〳〵\n工　官　家ね　いさみ　六方\n〽わたしともも大さはきのあとであつちからも来てくれこつちからもたのむと申やして\nそのうへ手間も先から半人ましてやるそれでいやなら一人でも二人でもましをやるといはれる\nのはじしんからのおたすけかとおもへば一合の酒もかんろのやふにのめやすそこで家ないも\nはんぜううちの山のかみもよろこび升からありがたふ御座り升なむ〳〵〳〵〳〵\n車力\n〽わしどもははや年中大道を車を引てゆくと人がじしんがいるやふだといゝますからこんどのじしんも大きな車を引のかと\nおもひましたところがぐら〳〵ぐはた〳〵火事のさはぎでわしどものちからわざにはいかねへほどの大へんしかし\nそれからは車の直かよくなつてさんどのめしもうまくたべられ升あゝありがたい〳〵なむ〳〵〳〵〳〵\nぞうりわらじみせ\n〽私どももぞうりわらじが\nあさからあみのめから手をだすやふにかいてが\nきてありがたふ御座り升なむ〳〵〳〵〳〵\nやたいみせ\n〽なんでも此ごろは安くさへうればみせへ人が山の\nやふに立てくれることはきめうてうらい〳〵\nなむ〳〵〳〵〳〵\n\nゆるぐともよもやぬけじの\nかなめいし\n鹿しまの\n神の\nあらん\nかぎりは　　　【拝】書",
+            "text": "万歳楽身の用心\n地震除（じしんよけ）の呪（まじない）　家内にはりおくべし\n材〽なむきめうてうらい〳〵まんざいらく私どもはこれまでじしんはさほどにおもひ\nましなんだがこんどの大へんでまことにおそろしう御座り升たがあんのんで\nしやうばいの材木がうれますからありがたふ御座り升なむ〳〵〳〵〳〵\nあらものや\n〽もしなまづさんおまへさんら大さはきをなさいましたあとはみんな小屋かけをするに\nそれとばをくれやれなはをくれこつちからはむしろをくれとその家内のはんぜうは\nまことにありがたいことで御座り升なむ〳〵〳〵〳〵\n金ものや\n〽いやわたくしはじしん火事あくる日からふるかねをうりにまいり升から買ては\nもふけまたうつてはもふけさて〳〵此やふなありがたいことは御座り升せんなむ〳〵〳〵〳〵\n工　官　家ね　いさみ　六方\n〽わたしともも大さはきのあとであつちからも来てくれこつちからもたのむと申やして\nそのうへ手間も先から半人ましてやるそれでいやなら一人でも二人でもましをやるといはれる\nのはじしんからのおたすけかとおもへば一合の酒もかんろのやふにのめやすそこで家ないも\nはんぜううちの山のかみもよろこび升からありがたふ御座り升なむ〳〵〳〵〳〵\n車力\n〽わしどもははや年中大道を車を引てゆくと人がじしんがいるやふだといゝますからこんどのじしんも大きな車を引のかと\nおもひましたところがぐら〳〵ぐはた〳〵火事のさはぎでわしどものちからわざにはいかねへほどの大へんしかし\nそれからは車の直かよくなつてさんどのめしもうまくたべられ升あゝありがたい〳〵なむ〳〵〳〵〳〵\nぞうりわらじみせ\n〽私どももぞうりわらじが\nあさからあみのめから手をだすやふにかいてが\nきてありがたふ御座り升なむ〳〵〳〵〳〵\nやたいみせ\n〽なんでも此ごろは安くさへうればみせへ人が山の\nやふに立てくれることはきめうてうらい〳〵\nなむ〳〵〳〵〳〵\n\nゆるぐともよもやぬけじの\nかなめいし\n鹿しまの\n神の\nあらん\nかぎりは　　　【拝】書",
+            "timestamp": {
+                "_nanoseconds": 982000000,
+                "_seconds": 1573788048
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

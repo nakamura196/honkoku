@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/fe2be6a769da89d5c2b64261a20b53c403c521e3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88509",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88509/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88509",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "57A424ACE7DE348A0A74E9DDA8FDBC3A",
+    "label": "鹿島恐",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鹿島恐"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-082"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "dfb28809-fb3f-408a-98f2-7d04d975a04c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0129"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/fe2be6a769da89d5c2b64261a20b53c403c521e3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dfb28809-fb3f-408a-98f2-7d04d975a04c/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "57A424ACE7DE348A0A74E9DDA8FDBC3A",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "鹿島恐（かしま　おそれ）\n大國（だいこく）のつちうごかして破家（はか）なきも\n君（きみ）の恵（めぐみ）に立（たち）かへる民の\n竈の賑はひは\nいとおほけ\nなき御いさほし\n別雷（わけいかづち）の神（かみ）かけてよもや\nぬけじの石御坐（かなめいし）うこかぬ\n御代（みよ）のしるし也けり\n\n世直（よなほ）しの地震（なへ）は\nいつしか跡（あと）もなく\nよき事ふれの\nかしましきかな\n\nゑんまのこ\n乁ゑんやらさ\nゑんまの子\nつぶれたのは\nいんがな子\n\n大工\n乁手間のよいのも\nきのふけふで\nござるヨイ〳〵\nしかししごとは\nヱロウ長ウござる\n　　　　　　ヨイ〳〵\n\nなまづ\n乁モウ〳〵【擦れのため以下解読不能】\n【擦れのため一行解読不能】\n【擦れのため解読不能】〳〵\n\n乁よなほし\nよのな□\nよい\n〳〵\n〳〵\n\nどかた\n乁はいかき\nぢきやう\nみちぶしん\nすきくわ\nつるぱし\nもくこう\nなんぞは\nどでごんす\n\n乁ゑんまのこ土方のこ\nゑんやらこのサ",
+            "text": "鹿島恐（かしま　おそれ）\n大國（だいこく）のつちうごかして破家（はか）なきも\n君（きみ）の恵（めぐみ）に立（たち）かへる民の\n竈の賑はひは\nいとおほけ\nなき御いさほし\n別雷（わけいかづち）の神（かみ）かけてよもや\nぬけじの石御坐（かなめいし）うこかぬ\n御代（みよ）のしるし也けり\n\n世直（よなほ）しの地震（なへ）は\nいつしか跡（あと）もなく\nよき事ふれの\nかしましきかな\n\nゑんまのこ\n乁ゑんやらさ\nゑんまの子\nつぶれたのは\nいんがな子\n\n大工\n乁手間のよいのも\nきのふけふで\nござるヨイ〳〵\nしかししごとは\nヱロウ長ウござる\n　　　　　　ヨイ〳〵\n\nなまづ\n乁モウ〳〵【擦れのため以下解読不能】\n【擦れのため一行解読不能】\n【擦れのため解読不能】〳〵\n\n乁よなほし\nよのな□\nよい\n〳〵\n〳〵\n\nどかた\n乁はいかき\nぢきやう\nみちぶしん\nすきくわ\nつるぱし\nもくこう\nなんぞは\nどでごんす\n\n乁ゑんまのこ土方のこ\nゑんやらこのサ",
+            "timestamp": {
+                "_nanoseconds": 769000000,
+                "_seconds": 1573285293
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

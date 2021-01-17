@@ -1,0 +1,179 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f124259197f1e37ddb84fa3c25fcf51708731b0f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56197",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56197/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56197",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/eaaebc6136ce34fa34788cdb3d56e4c37f32a24d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56198",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56198/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56198",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "B7486915277D6F75D66D585D6BBC09C7",
+    "label": "おそれなからなまづども一とうよりぬらつきをもつて御こたへ申上たてまつり候",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "おそれなからなまづども一とうよりぬらつきをもつて御こたへ申上たてまつり候"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-001からII-02-003は3枚続"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "bee38f0e-d6fc-444d-9140-8d70cebce110"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1039"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f124259197f1e37ddb84fa3c25fcf51708731b0f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p1",
+            "editedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "entryId": "B7486915277D6F75D66D585D6BBC09C7",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "tempText": "　　　おそれなからなまづども一とうより\n　　　ぬらつきをもつて御こたへ申上たてまつり候\n一わたくしどもぎはいちもんしんるいニいたるまでどろみづにすまゐつかまつり\nせぜうのたとへによつでにかゝつたなまづやろうなどゝふいごのむかふづら\nどうやうにとりあつかはれなまけものゝてほんといたされぬらくらとして\nくらし候だんてんたうのみやうりをかへりみさるいたしかた\nこのぎはいかにもおそれいりたてまつり候しかるところ\nさんぬる十月二日のよごふないきんさいにいたるまで\nらんほういたしいへどざうどうしやをゆりつぶし候\nきもわたくしどもなかまうちのしはざなりとごふしんを\nかふむり候だんおどろきいりたてまつり候ニつき\nいちもんのなまづれんをこと〴〵くとりしらべ候ところ\nいつかうにおぼへこれなきよしなにとぞさつそく\nかみ〴〵のごつうりきをもつてほか〳〵をごせんぎ\nあそはされくだしおかれ候はゝありがたきしあはせニそんじ\nたてまつり候ひつきやうわたくしども川うをのぎニ\nござ候へはいかほどてうめいつかまつり候ても\nぢのそこのすまゐあいなりがたくことにゑんま\n大王のごりやうぶんにてほかにミるめかぐはなの\nおんみつもござ候へばなまづう〳〵しくあばれ候はゞかま\nうでのかしやくはもちろんにござ候ぬら〳〵かんがへ候ニこのたびの\nちんじはいんやうがつたいいたさずてんちふうふのいさかいよりことおこりせかいの\nだうぐをうちこはしあたりきんじよにいたるまでゆりつぶし候ぎとさつしたてまつり候\nみぎいんやうのふうふげんくわもといもふとうをあいたゞし候ところぐわんらいにようぼうのりんき\nよりことおこり候ニつきよほどやきたてるいせうのわざはひもこれあり候かとそんじたてまつり候\nかつわたくしども一もんはなまけものとめうもくをよばれねんぢうぬらつきおり候ゆへみきやうの御\nうたがひもあい有り候ぎゆへいごはなまづくわづあいはたらきけつして\nいたぶりゆすりとふのごふしんかふむらざるやふもふしきけ□ふうぞくを　　　　なまづ惣代\nあいなをすべく候あいだしんこく一ゑんごついほうのぎはごゆうめん　　　　　　　下総国印旛沼\nなしくだされ候やふひとへニねがひあげたてまつり候きんじやう　　　　　　　　　　　住人\n　　　　　　　　　　　　　　　　　　　　　　　　　さいはい　　　　　　　　　　　　のらくら\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　同魚",
+            "text": "　　　おそれなからなまづども一とうより\n　　　ぬらつきをもつて御こたへ申上たてまつり候\n一わたくしどもぎはいちもんしんるいニいたるまでどろみづにすまゐつかまつり\nせぜうのたとへによつでにかゝつたなまづやろうなどゝふいごのむかふづら\nどうやうにとりあつかはれなまけものゝてほんといたされぬらくらとして\nくらし候だんてんたうのみやうりをかへりみさるいたしかた\nこのぎはいかにもおそれいりたてまつり候しかるところ\nさんぬる十月二日のよごふないきんさいにいたるまで\nらんほういたしいへどざうどうしやをゆりつぶし候\nきもわたくしどもなかまうちのしはざなりとごふしんを\nかふむり候だんおどろきいりたてまつり候ニつき\nいちもんのなまづれんをこと〴〵くとりしらべ候ところ\nいつかうにおぼへこれなきよしなにとぞさつそく\nかみ〴〵のごつうりきをもつてほか〳〵をごせんぎ\nあそはされくだしおかれ候はゝありがたきしあはせニそんじ\nたてまつり候ひつきやうわたくしども川うをのぎニ\nござ候へはいかほどてうめいつかまつり候ても\nぢのそこのすまゐあいなりがたくことにゑんま\n大王のごりやうぶんにてほかにミるめかぐはなの\nおんみつもござ候へばなまづう〳〵しくあばれ候はゞかま\nうでのかしやくはもちろんにござ候ぬら〳〵かんがへ候ニこのたびの\nちんじはいんやうがつたいいたさずてんちふうふのいさかいよりことおこりせかいの\nだうぐをうちこはしあたりきんじよにいたるまでゆりつぶし候ぎとさつしたてまつり候\nみぎいんやうのふうふげんくわもといもふとうをあいたゞし候ところぐわんらいにようぼうのりんき\nよりことおこり候ニつきよほどやきたてるいせうのわざはひもこれあり候かとそんじたてまつり候\nかつわたくしども一もんはなまけものとめうもくをよばれねんぢうぬらつきおり候ゆへみきやうの御\nうたがひもあい有り候ぎゆへいごはなまづくわづあいはたらきけつして\nいたぶりゆすりとふのごふしんかふむらざるやふもふしきけ□ふうぞくを　　　　なまづ惣代\nあいなをすべく候あいだしんこく一ゑんごついほうのぎはごゆうめん　　　　　　　下総国印旛沼\nなしくだされ候やふひとへニねがひあげたてまつり候きんじやう　　　　　　　　　　　住人\n　　　　　　　　　　　　　　　　　　　　　　　　　さいはい　　　　　　　　　　　　のらくら\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　同魚",
+            "timestamp": {
+                "_nanoseconds": 935000000,
+                "_seconds": 1568989512
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bee38f0e-d6fc-444d-9140-8d70cebce110/canvas/p2",
+            "editedBy": null,
+            "entryId": "B7486915277D6F75D66D585D6BBC09C7",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030650182
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

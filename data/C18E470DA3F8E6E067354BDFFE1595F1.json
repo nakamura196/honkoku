@@ -1,0 +1,186 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d57c4dde2f8ef83d63fe6115d5a664c7432d5e33.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88613",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88613/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88613",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c8e029e407e308e0103ef036b2b4b0cbd94fb606.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219871",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219871/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219871",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C18E470DA3F8E6E067354BDFFE1595F1",
+    "label": "明治廿四年十月二十八日大地震図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治廿四年十月二十八日大地震図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治24年10月28日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画：梅堂小国政／版元：日本橋区　福田熊次郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×73.5"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1891"
+        },
+        {
+            "label": "identifier",
+            "value": "fca1e83b-0cd2-46c5-a7a0-e5413200d50a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0233"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d57c4dde2f8ef83d63fe6115d5a664c7432d5e33.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "C18E470DA3F8E6E067354BDFFE1595F1",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "＜割書：明治廿四年｜十月廿八日＞大地震圖\n\n干時明治廿四年十月廿八日\n午前六時 過（すぎ）の地震（じしん）は別（わけ）て\n岐阜（ぎふ）名古屋（なごや）大垣（おおがき）地方 劇（はげ）\n列（しき）なる地震にて震動（しんどう）おび\nたゞしく地（ぢ）裂（さ）け家（いへ）倒（たほ）れ死人 何（なん）\n千人 成（なる）か數（かづ）しれず加（くわ）ふるに所々（しよ〳〵）\n出火し半身家にしかれ出（いづ）る\nことならす傍（かたわら）より火うつり生（いき）\nながら焼（や）け死したるもあり\n又は倒（たほ）れし家に親（おや）は壓死（あつし）し\nわづか四五才の小児一人 残（のこ）り死し\nたる親に取（とり）すがり泣（なき）きわめ\nくありさま目も當（あて）られぬ不便（ふびん）と\nいふもおろかなり進行（しんかう）の汽車（きしや）\n轉動（てんどう）常（つね）ならず乗客（じやうきゃく）ふしんに\n思（おも）ふ折（おり）進行を止（とゞむ）るや否（いな）前後（せんご）\nの山 崩（くづ）れて進退（しんたい）する能（あた）わず\n乗客（じやうきやく）終日（しゆうじつ）車中に居（ゐ）て食（しよく）を\n求（もと）むる事叶わず各（おの）〻（〳〵）【「各」下部の横線を揺すり点と判断しました】下車（おり）し獨（ひ）\n歩（とり）にて夫〻へ出 行（ゆき）ける又 近江（あふみ）\nの湖水（こすい）は水あふれ之（これ）が為（ため）人 命（めい）\nを失（うしな）ひ家（いへ）庫（くら）を押流（おしなが）す名古\n屋 電信局（でんしんきよく）并に傍（かたわら）なる旅舎（はたこや）\n秋琴楼（しうきんらう）破壊（はくわい）し又一家 残（のこ）\nらす生死（せうし）分（わか）らぬもあり負傷（けがにん）者\nは或（あるひ）は手を挫（くじ）き足を折（お）り頭（かしら）く\nだけ腹（はら）やふるゝなど実（じつ）に筆\nに尽（つく）しがたし景況（けいきやう）あらましを\n　　　　　　　　　　　　　圖す\n\n明治廿四年十一月　日印刷\n仝　　　年十一月　日出版\n日本橋区長谷川町十九バンチ\n＜割書：印刷兼｜発行者＞　福田熊次郎\n\n梅堂小國政筆",
+            "text": "《割書：明治廿四年｜十月廿八日》大地震圖\n\n干時明治廿四年十月廿八日\n午前六時 過（すぎ）の地震（じしん）は別（わけ）て\n岐阜（ぎふ）名古屋（なごや）大垣（おおがき）地方 劇（はげ）\n列（しき）なる地震にて震動（しんどう）おび\nたゞしく地（ぢ）裂（さ）け家（いへ）倒（たほ）れ死人 何（なん）\n千人 成（なる）か數（かづ）しれず加（くわ）ふるに所々（しよ〳〵）\n出火し半身家にしかれ出（いづ）る\nことならす傍（かたわら）より火うつり生（いき）\nながら焼（や）け死したるもあり\n又は倒（たほ）れし家に親（おや）は壓死（あつし）し\nわづか四五才の小児一人 残（のこ）り死し\nたる親に取（とり）すがり泣（なき）きわめ\nくありさま目も當（あて）られぬ不便（ふびん）と\nいふもおろかなり進行（しんかう）の汽車（きしや）\n轉動（てんどう）常（つね）ならず乗客（じやうきゃく）ふしんに\n思（おも）ふ折（おり）進行を止（とゞむ）るや否（いな）前後（せんご）\nの山 崩（くづ）れて進退（しんたい）する能（あた）わず\n乗客（じやうきやく）終日（しゆうじつ）車中に居（ゐ）て食（しよく）を\n求（もと）むる事叶わず各（おの）〻（〳〵）【「各」下部の横線を揺すり点と判断しました】下車（おり）し獨（ひ）\n歩（とり）にて夫〻へ出 行（ゆき）ける又 近江（あふみ）\nの湖水（こすい）は水あふれ之（これ）が為（ため）人 命（めい）\nを失（うしな）ひ家（いへ）庫（くら）を押流（おしなが）す名古\n屋 電信局（でんしんきよく）并に傍（かたわら）なる旅舎（はたこや）\n秋琴楼（しうきんらう）破壊（はくわい）し又一家 残（のこ）\nらす生死（せうし）分（わか）らぬもあり負傷（けがにん）者\nは或（あるひ）は手を挫（くじ）き足を折（お）り頭（かしら）く\nだけ腹（はら）やふるゝなど実（じつ）に筆\nに尽（つく）しがたし景況（けいきやう）あらましを\n　　　　　　　　　　　　　圖す\n\n明治廿四年十一月　日印刷\n仝　　　年十一月　日出版\n日本橋区長谷川町十九バンチ\n《割書：印刷兼｜発行者》　福田熊次郎\n\n梅堂小國政筆",
+            "timestamp": 1564561795993
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fca1e83b-0cd2-46c5-a7a0-e5413200d50a/canvas/p2",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "C18E470DA3F8E6E067354BDFFE1595F1",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "",
+            "text": "",
+            "timestamp": 1564562394457
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2145,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/86556f6788dfab749818cc7148688d06de6b80e1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2145,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88428",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88428/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88428",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "405FA1463E7D1ADE6B852D9DB7466AB0",
+    "label": "しばらくのそとね",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "しばらくのそとね"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "25×36"
+        },
+        {
+            "label": "別タイトル",
+            "value": "雨にハ困ります野じゅく しばらくのそとね"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-02-019"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "9ec6326f-0490-4ea6-b2cb-530d9d09bc7a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0048"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/86556f6788dfab749818cc7148688d06de6b80e1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9ec6326f-0490-4ea6-b2cb-530d9d09bc7a/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "405FA1463E7D1ADE6B852D9DB7466AB0",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【タイトル】\n雨（あめ）には\n困（こま）り【三升紋は市川家の紋所。「ます」と読ませ「雨には困ります」】野（の）じゆく\nしばらくのそとね【「暫のつらね」のもじり】\n市中三畳【団十郎の俳号「市川三升」に野宿の仮小屋三畳敷「市中三畳」を掛けている】\n自作\n【イラスト上の本文】\n東医（とうい）\n南蛮（なんばん）骨（ほね）\n接（つぎ）外料（ぐわいりやう）日（ひゞ）発（はつ）\n行（かう）地震（ぢしん）出火（しゆつくは）の\nその間（あいだ）にけが\nをなさゞ\nるもの\nあらん\nや\n数（かず）\n限（かぎ）り\nなき\n仲（なか）の\n丁（ちやう）先（まづ）\n吉原（よしはら）が\n随市川（ずいいちかは）つぶ\nれし家（いへ）の荒（あら）\n事（ごと）に忽（たちまち）火事（くはじ）に\n大太刀（おほだち）は強（つよ）くあたりし\n地（ぢ）しんの筋隈（すぢくま）日本堤（にほんづゝみ）の\nわれさきと転（ころ）びつ起（おき）つかけ\nゑぼしきやつ〳〵と騒（さは）ぐ猿若（さるわか）町\n芝居（しばゐ）の焼（やけ）も去年（こぞ）と二度重（にどかさ）ね鶴菱（つるびし）\n又灰（またはい）を柿（かき）の素袍（すほう）は何（いづ）れも様（さま）なんと\n早（はや）ひじや厶り【「ござり」】ませぬか実（じつ）に今度（こんど）の大（たい）\n変（へん）は嘘（うそ）じや厶らぬ本所（ほんじやう）深川（ふかがは）咄（はなし）は築地（つきぢ）芝（しば）\n山（やま）の手（て）丸（まる）の内（うち）から小川町（をがはまち）見渡（みわた）す焼場（やけば）の赤（あか）つつら\n太刀下（たちした）ならぬ梁下（はりした）に再（ふたゝ）び鋪（しか）れぬ其（その）為（ため）に罷（まか）り出（いで）たる某（それがし）は\n【イラスト下の本文】\n鹿嶋（かしま）太（だい）神宮（じんぐう）の\n御内（みうち）にて磐石（ばんじやく）\n太郎 礎（いしずへ）けふ\n手始（てはじ）めに\n鯰（なまず）をば\n要石（かなめいし）に\nて押（おさ）へし上は\n五重（ごぢう）の\n塔（とう）の九（く）\n輪（りん）はお\nろか一厘（いちりん）\nたり共\n動（うご）かさ　\nぬ誰（たれ）\nだと思（おもふ）\nアヽつがも\n内証（ないしよ）の\n立退（たちのき）芸（げい）\n者（しや）の鐗酒（かんさけ）\n焼（やけ）たつぶれ\nた其中（そのなか）で\n色（いろ）の世（せ）かいの繁（はん）\n昌（じやう）は動（うご）かぬ御世（みよ）の\n御恵（おんめぐみ）ありが太鼓（たいこ）に鉦（かね）\nの音（をと）絶（たへ）ぬ二日の大せが\nきホヽつらなつて坊主（ぼうず）\n　",
+            "text": "【タイトル】\n雨（あめ）には\n困（こま）り【三升紋は市川家の紋所。「ます」と読ませ「雨には困ります」】野（の）じゆく\nしばらくのそとね【「暫のつらね」のもじり】\n市中三畳【団十郎の俳号「市川三升」に野宿の仮小屋三畳敷「市中三畳」を掛けている】\n自作\n【イラスト上の本文】\n東医（とうい）\n南蛮（なんばん）骨（ほね）\n接（つぎ）外料（ぐわいりやう）日（ひゞ）発（はつ）\n行（かう）地震（ぢしん）出火（しゆつくは）の\nその間（あいだ）にけが\nをなさゞ\nるもの\nあらん\nや\n数（かず）\n限（かぎ）り\nなき\n仲（なか）の\n丁（ちやう）先（まづ）\n吉原（よしはら）が\n随市川（ずいいちかは）つぶ\nれし家（いへ）の荒（あら）\n事（ごと）に忽（たちまち）火事（くはじ）に\n大太刀（おほだち）は強（つよ）くあたりし\n地（ぢ）しんの筋隈（すぢくま）日本堤（にほんづゝみ）の\nわれさきと転（ころ）びつ起（おき）つかけ\nゑぼしきやつ〳〵と騒（さは）ぐ猿若（さるわか）町\n芝居（しばゐ）の焼（やけ）も去年（こぞ）と二度重（にどかさ）ね鶴菱（つるびし）\n又灰（またはい）を柿（かき）の素袍（すほう）は何（いづ）れも様（さま）なんと\n早（はや）ひじや厶り【「ござり」】ませぬか実（じつ）に今度（こんど）の大（たい）\n変（へん）は嘘（うそ）じや厶らぬ本所（ほんじやう）深川（ふかがは）咄（はなし）は築地（つきぢ）芝（しば）\n山（やま）の手（て）丸（まる）の内（うち）から小川町（をがはまち）見渡（みわた）す焼場（やけば）の赤（あか）つつら\n太刀下（たちした）ならぬ梁下（はりした）に再（ふたゝ）び鋪（しか）れぬ其（その）為（ため）に罷（まか）り出（いで）たる某（それがし）は\n【イラスト下の本文】\n鹿嶋（かしま）太（だい）神宮（じんぐう）の\n御内（みうち）にて磐石（ばんじやく）\n太郎 礎（いしずへ）けふ\n手始（てはじ）めに\n鯰（なまず）をば\n要石（かなめいし）に\nて押（おさ）へし上は\n五重（ごぢう）の\n塔（とう）の九（く）\n輪（りん）はお\nろか一厘（いちりん）\nたり共\n動（うご）かさ　\nぬ誰（たれ）\nだと思（おもふ）\nアヽつがも\n内証（ないしよ）の\n立退（たちのき）芸（げい）\n者（しや）の鐗酒（かんさけ）\n焼（やけ）たつぶれ\nた其中（そのなか）で\n色（いろ）の世（せ）かいの繁（はん）\n昌（じやう）は動（うご）かぬ御世（みよ）の\n御恵（おんめぐみ）ありが太鼓（たいこ）に鉦（かね）\nの音（をと）絶（たへ）ぬ二日の大せが\nきホヽつらなつて坊主（ぼうず）\n　",
+            "timestamp": {
+                "_nanoseconds": 104000000,
+                "_seconds": 1575700481
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4418,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f9159675a7b36aa9efcf1f62d4bfd370213c58dd.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4418,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56302",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5880
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56302/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56302",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5880
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7766,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e13fd20e29c96c91d9b91a173f8a79d4c4f018cf.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7766,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56303",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 11504
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56303/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56303",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 11504
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "9F63F72C4485872C6723D045BF884D9C",
+    "label": "一本木温泉之記",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "一本木温泉之記"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "年月日",
+            "value": "文政9年7月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "涼々堂板"
+        },
+        {
+            "label": "備考",
+            "value": "畳もの"
+        },
+        {
+            "label": "year",
+            "value": "1826"
+        },
+        {
+            "label": "identifier",
+            "value": "54962436-91be-463e-ae2c-f6492a08f0a2"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1075"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f9159675a7b36aa9efcf1f62d4bfd370213c58dd.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "9F63F72C4485872C6723D045BF884D9C",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【模様のみで、タイトル・画像・本文ともになし】",
+            "text": "【模様のみで、タイトル・画像・本文ともになし】",
+            "timestamp": {
+                "_nanoseconds": 997000000,
+                "_seconds": 1574077219
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/54962436-91be-463e-ae2c-f6492a08f0a2/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "9F63F72C4485872C6723D045BF884D9C",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n一本木温泉之記\n【本文】\n【俯瞰図右上】\n妙光山の元地獄谷に温泉ありけるを平原へ引出さん事をはかる人のそこはくありしか誰も志しを果さすして\n百余年を過きこしに時なる哉文化十三丙子の春何某等七人猛き志しを発し力を合していはゆる越の深雪をふみ\nわけ深山にたとり入て営みはしめしがはや其年の長月になむ苅やす原の一木の本に出しにけれは見る人きくると温泉のきよくこまやかなるをほめぬはなかりき斯て又のとしはたこやのはたちはかりを\n作りにたれは病る人もやまぬ人もむれ来てはやつきにけりこゝに又赤倉山の峯に霊湯ありしを文政元戊寅年\nひき出して元湯に並へたり抑かゝる大功の僅にみとせに\nしてめてたくそのいたるはひとつに我\n君の厚く下を憐み給ふおほん心はしのありかたきに\nそありけるされはこゝに浴する人は我\n君のおほん恵みの露とあふきにあふかは痰咳疝\n癪はさらに諸病になやまさるゝ事の年あるも或は\n瘡毒疥癬癩疾うち身に至るまてもいえすと\nいふ事やあらし入てみよ〳〵必其しるしお\n見し予今年文政七年八月痰疾の為に\nこゝにいりて初て温泉の能ある事を\nしれり又いりくたふれては四方を眺望するに\n一目百里にいたりて山海の佳景いふへくも\nあらす実に禁気を散す此佳景多く\nに見すつよくもおもほえす此一ト\nしの紙に図して其よし〳〵\nを記す事しか〳〵\n明月の\n露の凝たる\n世界かな\n魚都里　花押\n\n【俯瞰図中央】\n越後国頸城郡一本木ヨリ行程\n　江戸ヘ六十五里\n　善光寺ヘ九里余\n　高田ヘ七里余　柏崎ヘ十九里\n　今町ヘ十里余\n　糸魚川ヘ二十里\n　佐州小木ヘ海陸丗五里\n\n【俯瞰図左上角】\n文政九丙戌七月日上梓　　涼々堂板\n",
+            "text": "【タイトル】\n一本木温泉之記\n【本文】\n【俯瞰図右上】\n妙光山の元地獄谷に温泉ありけるを平原へ引出さん事をはかる人のそこはくありしか誰も志しを果さすして\n百余年を過きこしに時なる哉文化十三丙子の春何某等七人猛き志しを発し力を合していはゆる越の深雪をふみ\nわけ深山にたとり入て営みはしめしがはや其年の長月になむ苅やす原の一木の本に出しにけれは見る人きくると温泉のきよくこまやかなるをほめぬはなかりき斯て又のとしはたこやのはたちはかりを\n作りにたれは病る人もやまぬ人もむれ来てはやつきにけりこゝに又赤倉山の峯に霊湯ありしを文政元戊寅年\nひき出して元湯に並へたり抑かゝる大功の僅にみとせに\nしてめてたくそのいたるはひとつに我\n君の厚く下を憐み給ふおほん心はしのありかたきに\nそありけるされはこゝに浴する人は我\n君のおほん恵みの露とあふきにあふかは痰咳疝\n癪はさらに諸病になやまさるゝ事の年あるも或は\n瘡毒疥癬癩疾うち身に至るまてもいえすと\nいふ事やあらし入てみよ〳〵必其しるしお\n見し予今年文政七年八月痰疾の為に\nこゝにいりて初て温泉の能ある事を\nしれり又いりくたふれては四方を眺望するに\n一目百里にいたりて山海の佳景いふへくも\nあらす実に禁気を散す此佳景多く\nに見すつよくもおもほえす此一ト\nしの紙に図して其よし〳〵\nを記す事しか〳〵\n明月の\n露の凝たる\n世界かな\n魚都里　花押\n\n【俯瞰図中央】\n越後国頸城郡一本木ヨリ行程\n　江戸ヘ六十五里\n　善光寺ヘ九里余\n　高田ヘ七里余　柏崎ヘ十九里\n　今町ヘ十里余\n　糸魚川ヘ二十里\n　佐州小木ヘ海陸丗五里\n\n【俯瞰図左上角】\n文政九丙戌七月日上梓　　涼々堂板\n",
+            "timestamp": {
+                "_nanoseconds": 66000000,
+                "_seconds": 1574253295
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

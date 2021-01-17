@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9150e48c50b12c6dfed53442237ada48e53438aa.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56126",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56126/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56126",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6bc77f9dc50ed449fc9201cdb51bf3b66a0d5961.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56127",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56127/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56127",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "048BD3F180F379932AACE6E7FDD6E629",
+    "label": "野保台詩(「流行鯰・・・」)",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "野保台詩(「流行鯰・・・」)"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-01-002からII-01-007は6枚続き"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1004"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9150e48c50b12c6dfed53442237ada48e53438aa.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "048BD3F180F379932AACE6E7FDD6E629",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "人農（にんのう）虚（うそ）八百代 有頂天王（うてうてんのう）の\n御宇（ぎよう）気味悪大尽（きみわるだいじん）ぐら腰（こし）に\nわたりて家破台（やばだい）の詩（し）をよまんと\nすれども\n　 句々（くゝ）混雑（こんざつ）してその意（こころ）を解（げ）すこと\n　 不能（あたはず）其時（そのとき）天（てん）より一疋（いつひき）の小鯰（こなまづ）まひさがつて\n　　ひげを以（も）て字行（じぎやう）の導（みちびき）をなせしとぞ\n【上段右】\n流難休（りうなんやすみ）\n施行金（せこうのかね）　【行に左ルビ:ぎやうの】\n家人鯰（かひとなまづ）\n【上段中】\n金人潰（きんひとつぶれ）\n阿玉砕（あたまくだけ）\n胆飛縮（きもとぶちゝみ）\n【上段左】\n借小高（しやくこたかく）\n大銭通（たいせんつうじ）\n職動止（しよくうごきやんで）\n【下段右】\n土地灰（どぢはいの如く）\n面蔵青（めんぞうあをし）\n新児粉（しんのここの如く）\n【下段中】\n雑質散（ぞうしちさんず）\n什物焼（じふもつやけ）\n財空損（ざいむなしそんじ）\n【下段左】\n用安苦（ようあんくるしみ）\n勧心（くわんじん）の要（かなめ）\n野民為（のたみため）\n",
+            "text": "人農（にんのう）虚（うそ）八百代 有頂天王（うてうてんのう）の\n御宇（ぎよう）気味悪大尽（きみわるだいじん）ぐら腰（こし）に\nわたりて家破台（やばだい）の詩（し）をよまんと\nすれども\n　 句々（くゝ）混雑（こんざつ）してその意（こころ）を解（げ）すこと\n　 不能（あたはず）其時（そのとき）天（てん）より一疋（いつひき）の小鯰（こなまづ）まひさがつて\n　　ひげを以（も）て字行（じぎやう）の導（みちびき）をなせしとぞ\n【上段右】\n流難休（りうなんやすみ）\n施行金（せこうのかね）　【行に左ルビ:ぎやうの】\n家人鯰（かひとなまづ）\n【上段中】\n金人潰（きんひとつぶれ）\n阿玉砕（あたまくだけ）\n胆飛縮（きもとぶちゝみ）\n【上段左】\n借小高（しやくこたかく）\n大銭通（たいせんつうじ）\n職動止（しよくうごきやんで）\n【下段右】\n土地灰（どぢはいの如く）\n面蔵青（めんぞうあをし）\n新児粉（しんのここの如く）\n【下段中】\n雑質散（ぞうしちさんず）\n什物焼（じふもつやけ）\n財空損（ざいむなしそんじ）\n【下段左】\n用安苦（ようあんくるしみ）\n勧心（くわんじん）の要（かなめ）\n野民為（のたみため）\n",
+            "timestamp": {
+                "_nanoseconds": 247000000,
+                "_seconds": 1574170121
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f0a6fd8d-d11c-4384-9bf8-08ccf90c0b84/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "048BD3F180F379932AACE6E7FDD6E629",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】\n\n東京大学図書之印　００１１８４１５８２",
+            "text": "【裏】\n\n東京大学図書之印　００１１８４１５８２",
+            "timestamp": {
+                "_nanoseconds": 567000000,
+                "_seconds": 1574170310
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,127 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2b42e16e6032b7ec9b8cd6f49dd6d282cbfd3bf1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88619",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88619/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88619",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "3C1D9B46A02C3841D649FB85154E9D89",
+    "label": "大都会無事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大都会無事"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0239"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2b42e16e6032b7ec9b8cd6f49dd6d282cbfd3bf1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1dd4ca12-82ef-4cc4-a4a3-2a3d16e52bec/canvas/p1",
+            "editedBy": "2J5nnLPrEQZxBrGDqVSfiywwfj53",
+            "entryId": "3C1D9B46A02C3841D649FB85154E9D89",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "2J5nnLPrEQZxBrGDqVSfiywwfj53",
+            "tempText": "大都會（おほつゑ）無事（ふじ）\n〽大ちしん大さわぎそのとき\nあちこち火事がてゝ四方八方\nきやうてんし家（いへ）〳〵つぶれてござ\nりませんむすびをしてくれた\n用意（ようい）のにぎりめしおさきへたべませう\n\nやれ〳〵しぶといぢしんめといふ\nうちになんのてもなく一トつぶし\nいのちと金（かね）とのとりかへこでやう〳〵\nたすかつた　　　　　市中庵静丸章\n\n地震（じしん）吉凶（きつきよう）の弁（べん）\n地震ハ豊年（はうねん）の基（もと）ひなり何無愁事秋ハ草木（さうもく）土（つち）に\nもくり冬の気より土（ち）ちうに芽（め）をふくミ天のめぐミを\n地にはらミ万物（ばんもつ）を生ずるところ時のふしゆんを\nいへりすでに発（はつ）して地しんとなる地震ハ\n地の煩（わづら）ひゆゑ野（の）人ハ不息（やま）人ハ天地を父母と\nして万物の長四海（しかい）ミな兄弟（けいてい）なりゆゑに\n老（おひ）の若（わか）きを導（ミちび）き若（わか）きハ老を助（たす）くること\n人りんの常なり然る処（ところ）近来（きんらい）からきところハ\n人情（にんじやう）薄（うす）く\n自他（じた）の隔（へだて）強（つよ）く美飯（びはん）を\n好（この）ミ時ならざる花を楽（たの）しミ高金（かうきん）を費（つひや）すこと天理にかなハずたとへ\n地震のなんをのがるゝとも教（をしへ）に背（そむ）き一身全からず恐れつゝしむ\nべし\n夫（それ）天ハ陽なり上に位（くらゐ）して覆（おほ）ふこれ父の徳なり\n地ハ陰なり下に位してのする母の道なり然して\n陰陽（いんやう）交（かう）かんして五行（ごぎやう）を生ず其（その）氣（き）天にかへりて四（しい）\n時（じ）行（おこなハ）れ其形（かた）ち地に布（しひ）て\n人及び禽獣（きんじう）魚虫（ぎょちう）\n草木（さうもく）を生ず故に天地を大父母（ふぼ）と称（しやう）す\n人ハ秀（ひい）でたる五行の気をうけて生するを以（もつ）て\n万物（ばんもつ）の霊（れい）といふなりされバ天地の父母に順（したが）ふ\n\n\n\n\n\n\n\n\n\n",
+            "text": "大都會（おほつゑ）無事（ふじ）\n〽大ちしん大さわぎそのとき\nあちこち火事がてゝ四方八方\nきやうてんし家（いへ）〳〵つぶれてござ\nりませんむすびをしてくれた\n用意（ようい）のにぎりめしおさきへたべませう\n\nやれ〳〵しぶといぢしんめといふ\nうちになんのてもなく一トつぶし\nいのちと金（かね）とのとりかへこでやう〳〵\nたすかつた　　　　　市中庵静丸章\n\n地震（じしん）吉凶（きつきよう）の弁（べん）\n地震ハ豊年（はうねん）の基（もと）ひなり何無愁事秋ハ草木（さうもく）土（つち）に\nもくり冬の気より土（ち）ちうに芽（め）をふくミ天のめぐミを\n地にはらミ万物（ばんもつ）を生ずるところ時のふしゆんを\nいへりすでに発（はつ）して地しんとなる地震ハ\n地の煩（わづら）ひゆゑ野（の）人ハ不息（やま）人ハ天地を父母と\nして万物の長四海（しかい）ミな兄弟（けいてい）なりゆゑに\n老（おひ）の若（わか）きを導（ミちび）き若（わか）きハ老を助（たす）くること\n人りんの常なり然る処（ところ）近来（きんらい）からきところハ\n人情（にんじやう）薄（うす）く\n自他（じた）の隔（へだて）強（つよ）く美飯（びはん）を\n好（この）ミ時ならざる花を楽（たの）しミ高金（かうきん）を費（つひや）すこと天理にかなハずたとへ\n地震のなんをのがるゝとも教（をしへ）に背（そむ）き一身全からず恐れつゝしむ\nべし\n夫（それ）天ハ陽なり上に位（くらゐ）して覆（おほ）ふこれ父の徳なり\n地ハ陰なり下に位してのする母の道なり然して\n陰陽（いんやう）交（かう）かんして五行（ごぎやう）を生ず其（その）氣（き）天にかへりて四（しい）\n時（じ）行（おこなハ）れ其形（かた）ち地に布（しひ）て\n人及び禽獣（きんじう）魚虫（ぎょちう）\n草木（さうもく）を生ず故に天地を大父母（ふぼ）と称（しやう）す\n人ハ秀（ひい）でたる五行の気をうけて生するを以（もつ）て\n万物（ばんもつ）の霊（れい）といふなりされバ天地の父母に順（したが）ふ\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": 1568448459450
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7323,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/569debea5c48079eda522e931cebe760c09461f4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7323,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56172",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5503
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56172/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56172",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5503
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7323,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/342ff6e6cf70e983958657fb93993a8c377429a4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7323,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56173",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5503
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56173/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56173",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5503
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "6C4A657B6B40FDB7C651771143847582",
+    "label": "地震用心の歌",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震用心の歌"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-026"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-097"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f78e03c0-ad65-461f-bbc9-be0b5620c171"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1026"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/569debea5c48079eda522e931cebe760c09461f4.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "6C4A657B6B40FDB7C651771143847582",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "地震用心の歌\nものゝ名\n魚の名十\nさは（鯖）かしき（カジキ）なます（鯰）ふり（鰤）〳〵う こひ（鯉）たら（鱈）\nはや（鮠）く いな（鯔）せよ ふか（養鯨）きさ ゝわら（鰆）\n鳥の名十\n何 とき（鵇）も きし（雉子）か（鵞）なく 日（鶸）は う（鵜） かり（雁）すな\n藪へか け（鶏）とひ（鳶）さき（鷺）へ すゝめ（雀）よ\n虫の名十\nあふ（虻）な くも（蛛）け か（蛾）あり（蟻）し てふ（蝶）きいて だに（蟎）\n身に のみ（蚤）しみ（紙虫）て いとゞ（竃虫）か（蚊）なしき\n草の名十\nゆり（百合）やんで つ い（藺）には よし（葭）と きく（菊）とて も（藻）\nつた（蔦）な（菜）きとこに しば（芝）し ねむ（合歓）らん（蘭）\n木の名十\nつき（槻）ひ（檜）すき（杉）やむ かや（榧）と 気（き）を\n もみ（樅）きり（桐）ぬ まつ（松）もも（桃）ど かし（樫）\n地震（ぢしん）なき（椰）日を",
+            "text": "地震用心の歌\nものゝ名\n魚の名十\nさは（鯖）かしき（カジキ）なます（鯰）ふり（鰤）〳〵う こひ（鯉）たら（鱈）\nはや（鮠）く いな（鯔）せよ ふか（養鯨）きさ ゝわら（鰆）\n鳥の名十\n何 とき（鵇）も きし（雉子）か（鵞）なく 日（鶸）は う（鵜） かり（雁）すな\n藪へか け（鶏）とひ（鳶）さき（鷺）へ すゝめ（雀）よ\n虫の名十\nあふ（虻）な くも（蛛）け か（蛾）あり（蟻）し てふ（蝶）きいて だに（蟎）\n身に のみ（蚤）しみ（紙虫）て いとゞ（竃虫）か（蚊）なしき\n草の名十\nゆり（百合）やんで つ い（藺）には よし（葭）と きく（菊）とて も（藻）\nつた（蔦）な（菜）きとこに しば（芝）し ねむ（合歓）らん（蘭）\n木の名十\nつき（槻）ひ（檜）すき（杉）やむ かや（榧）と 気（き）を\n もみ（樅）きり（桐）ぬ まつ（松）もも（桃）ど かし（樫）\n地震（ぢしん）なき（椰）日を",
+            "timestamp": {
+                "_nanoseconds": 589000000,
+                "_seconds": 1576210080
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f78e03c0-ad65-461f-bbc9-be0b5620c171/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "6C4A657B6B40FDB7C651771143847582",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】\n東京大学図書之印\n００１１８４１８０６",
+            "text": "【裏】\n東京大学図書之印\n００１１８４１８０６",
+            "timestamp": {
+                "_nanoseconds": 700000000,
+                "_seconds": 1576210190
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

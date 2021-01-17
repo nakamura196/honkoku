@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f4a48fa76d21c885d5ccd52354511d7bd9185cb9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88704",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88704/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88704",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "C4E9A78B85162DB5E7A7C984E020D4FB",
+    "label": "十一月四日東海道筋大地震所々出火怪我人大損之場所",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "十一月四日東海道筋大地震所々出火怪我人大損之場所"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-069"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15.5×38"
+        },
+        {
+            "label": "備考",
+            "value": "3枚の内前半の1枚、05-043,044前半部分"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "7425ef65-8402-410a-8f0f-0da03e1a1979"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0324"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f4a48fa76d21c885d5ccd52354511d7bd9185cb9.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7425ef65-8402-410a-8f0f-0da03e1a1979/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "C4E9A78B85162DB5E7A7C984E020D4FB",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "十一月四日東海道筋大地震\n所〻出火怪我人大損之場所\n小田原　少〻損し\n箱根　　中損し\n三嶋　　大損し出火四丁\n豆州下田　津浪流死人多\n沼津　皆ツフれ出火少〻\n原　無事\n吉原　大潰出火少〻\n蒲原　〻出火多分\n由井　少〻\n興津　〻\n江尻　大潰出火多分\n　清水湊　〻\n府中　〻\n鞠子　半潰\n岡部　〻\n藤枝　大潰出火多分\n　田中　〻\n嶋田　半潰",
+            "text": "十一月四日東海道筋大地震\n所〻出火怪我人大損之場所\n小田原　少〻損し\n箱根　　中損し\n三嶋　　大損し出火四丁\n豆州下田　津浪流死人多\n沼津　皆ツフれ出火少〻\n原　無事\n吉原　大潰出火少〻\n蒲原　〻出火多分\n由井　少〻\n興津　〻\n江尻　大潰出火多分\n　清水湊　〻\n府中　〻\n鞠子　半潰\n岡部　〻\n藤枝　大潰出火多分\n　田中　〻\n嶋田　半潰",
+            "timestamp": {
+                "_nanoseconds": 856000000,
+                "_seconds": 1566177373
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

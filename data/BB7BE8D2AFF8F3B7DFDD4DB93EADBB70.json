@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/60e5df1ab337a6f7612677a83f91a83a33d355f6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88624",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88624/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88624",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "BB7BE8D2AFF8F3B7DFDD4DB93EADBB70",
+    "label": "世直し鯰の情",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "世直し鯰の情"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-021"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "45df2bd3-877a-4e6e-9dfc-425f8cab3f9a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0244"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/60e5df1ab337a6f7612677a83f91a83a33d355f6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/45df2bd3-877a-4e6e-9dfc-425f8cab3f9a/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "BB7BE8D2AFF8F3B7DFDD4DB93EADBB70",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "世（よ）直（なお）し鯰（なまづ）の情（なさけ）\n十月二日大地しんの時\nいせの御神馬（ごじんめ）が駈（かけ）て\nきて諸人（しよにん）を赦（たすけ）た\n其せうこにはその\n時きていた着物（きもの）の\nたもとを見ると白い毛が\n二三本づつはいつてあるなんと\n有がたひ事ではないかと咄（はなし）をして\nいる所へ一つの鯰（なまづ）がでて来（き）ていはく\nなまづ〽︎今の話（はなし）の神馬（じんめ）が赦（たすけ）たのではない\nありやおいらの仲間が赦（たすけ）たのだ　△〽︎なあに\nばかあいはつせへなまづは人をくるしめるか\nおどかすことよりしねへものがどふしてどふして〳〵\n赦（たすけ）るなぞと情（ぜう）が有 ものか今じや親（おや）の敵（かたき）だと\nいつて打殺（ぶちころ）されるは足元（あしもと）の明（あか）るひうちにげて\n行つせへ〳〵　　な〽︎さあそれだから大 笑（わらひ）だたとひ鯰（なまづ）に\nしても千百万 寄（よつ）ても此 大地（だいち）が一分でもうごくものか\n地しん陰陽（いんやう）の気（き）だそれに鯰（なまづ）をわるくにくむからその\nわるくいわねえ人ばかりを赦（たすけ）てやりやした　△〽︎ははあそれじやなまづ\nにも少（ちつと）は情（なさけ）があるのか　　な〽︎そりやおめへ魚（うを）心あれば水心ありだ",
+            "text": "世（よ）直（なお）し鯰（なまづ）の情（なさけ）\n十月二日大地しんの時\nいせの御神馬（ごじんめ）が駈（かけ）て\nきて諸人（しよにん）を赦（たすけ）た\n其せうこにはその\n時きていた着物（きもの）の\nたもとを見ると白い毛が\n二三本づつはいつてあるなんと\n有がたひ事ではないかと咄（はなし）をして\nいる所へ一つの鯰（なまづ）がでて来（き）ていはく\nなまづ〽︎今の話（はなし）の神馬（じんめ）が赦（たすけ）たのではない\nありやおいらの仲間が赦（たすけ）たのだ　△〽︎なあに\nばかあいはつせへなまづは人をくるしめるか\nおどかすことよりしねへものがどふしてどふして〳〵\n赦（たすけ）るなぞと情（ぜう）が有 ものか今じや親（おや）の敵（かたき）だと\nいつて打殺（ぶちころ）されるは足元（あしもと）の明（あか）るひうちにげて\n行つせへ〳〵　　な〽︎さあそれだから大 笑（わらひ）だたとひ鯰（なまづ）に\nしても千百万 寄（よつ）ても此 大地（だいち）が一分でもうごくものか\n地しん陰陽（いんやう）の気（き）だそれに鯰（なまづ）をわるくにくむからその\nわるくいわねえ人ばかりを赦（たすけ）てやりやした　△〽︎ははあそれじやなまづ\nにも少（ちつと）は情（なさけ）があるのか　　な〽︎そりやおめへ魚（うを）心あれば水心ありだ",
+            "timestamp": {
+                "_nanoseconds": 842000000,
+                "_seconds": 1571927060
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

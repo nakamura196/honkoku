@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7053,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bd8e4f2b371a0479f16f7c1a33b394bc17f27a08.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7053,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56233",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9387
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56233/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56233",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9387
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "E9A83087872AE8EC0295DA30C138D12A",
+    "label": "聞書東海道南海道国々大地震大つなミ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "聞書東海道南海道国々大地震大つなミ"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-015"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "東海道南海道国々大地震大つなみ"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-016"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "c5da21ff-b760-4082-9d86-be301fb3ed8f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1051"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/bd8e4f2b371a0479f16f7c1a33b394bc17f27a08.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c5da21ff-b760-4082-9d86-be301fb3ed8f/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "E9A83087872AE8EC0295DA30C138D12A",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【右端欄外】\n嘉永七年甲寅年十一月本しらべ\n\n聞書\n【枠内】\n＜割書：東海道｜南海道＞国々大地震大つなみ\n\n志州鳥羽\n十一月四日朝五ツ時ゟ大地震\nにて所々崩同五日昼七ツ半時\nより又々大地震と成候所へ\n大津なみにて御家中六部\n通り流レ町中も八部通崩或は流\n二部通り残たる所は破損あり惣而\n志摩一国無事成所一ケ所もなく\n誠に〳〵日本一の大あれ也\n死人凡一万余とも相わからず\n失人数しれず ゆり 凡 弐尺\n\n紀州\n同四日同刻ゟ大地震の上大つなみ\nにて川口流 死人 凡三百人余\n黒江 日高 藤代辺は床ゟ汐\n三尺斗り上り 死人凡百五十人\n崩家凡三百軒あまり也\n残りたる所皆々はそんあり\n尤町内くづれ所々沢山成事\nかず不知其外一々筆に尽がたし\n\n大地しん\n四日朝五ツ時 五日朝七ツ半時\n同夜四ツ時 同八ツ時 六日五ツ時\n同 四ツ時なり\n　　　　　ゆり 凡一尺五寸\n\n勢州\n同日同刻ゟ大地震にて松坂\n津 白子 神戸 山田の辺\n凡半崩破損の所かず不知\n　凡四五十人ヅヽ死人有よし\n　けが人多し\n\n四日市\n十一月【マヽ】朝五ツ時ゟ大地震となり\n家数凡五十軒余り同五日ひる\n七ツ時ゟ又々大地震となり大地割レ\n土蔵八十ケ所死人凡二百人\nけが人数不知其近在十二ケ村\n半くづれ 死人少々\nゆり一尺五寸 けが人多し\n\n桑名\n同日同刻ゟ大地震の後大津浪\nにて浜辺みな〳〵流れ大津辺まで\n大さはぎ けが人多し\n\n播州\n十一月四日朝五ツ時ゟ大地しん\n姫路御城下大はんくづれ残り\nたる所はそん有死人凡百人余\n　けが人多し ゆり 凡 八寸\n\n奥播州\n加東郡 栗野へん大地しん\nにて四部通り崩るはそんの家数不知\n其外在々皆々大坂同様なり\n\n泉州堺\n十一月四日朝五ツ時大地震にて\n処々崩れ同五日七ツ半時より\n又々大地しん大つなみにて\n新地 茶町 北島 米市場\n所々大つなみにて大にそんし\n大道すし所々崩ル破損数不知\n死人凡六十人けか人多し\n其近在十五ケ村所々崩大破損有り\n死人すくなしけか人多しゆり凡六寸\n\n崩たる橋の名爰に記\nあづま橋 さかへはし 龍神橋\n住吉橋 いさみ橋 相生ばし\n新栄橋 新相生橋\n　　　　みな〳〵おちる\n\n但し是にもれたる国々は\n大体大坂同様の事也\n十一月四日朝より八日夜迄\n八十度のゆりなり\n\n早飛脚にて申来り候由\n",
+            "text": "【右端欄外】\n嘉永七年甲寅年十一月本しらべ\n\n聞書\n【枠内】\n《割書：東海道｜南海道》国々大地震大つなみ\n\n志州鳥羽\n十一月四日朝五ツ時ゟ大地震\nにて所々崩同五日昼七ツ半時\nより又々大地震と成候所へ\n大津なみにて御家中六部\n通り流レ町中も八部通崩或は流\n二部通り残たる所は破損あり惣而\n志摩一国無事成所一ケ所もなく\n誠に〳〵日本一の大あれ也\n死人凡一万余とも相わからず\n失人数しれず ゆり 凡 弐尺\n\n紀州\n同四日同刻ゟ大地震の上大つなみ\nにて川口流 死人 凡三百人余\n黒江 日高 藤代辺は床ゟ汐\n三尺斗り上り 死人凡百五十人\n崩家凡三百軒あまり也\n残りたる所皆々はそんあり\n尤町内くづれ所々沢山成事\nかず不知其外一々筆に尽がたし\n\n大地しん\n四日朝五ツ時 五日朝七ツ半時\n同夜四ツ時 同八ツ時 六日五ツ時\n同 四ツ時なり\n　　　　　ゆり 凡一尺五寸\n\n勢州\n同日同刻ゟ大地震にて松坂\n津 白子 神戸 山田の辺\n凡半崩破損の所かず不知\n　凡四五十人ヅヽ死人有よし\n　けが人多し\n\n四日市\n十一月【マヽ】朝五ツ時ゟ大地震となり\n家数凡五十軒余り同五日ひる\n七ツ時ゟ又々大地震となり大地割レ\n土蔵八十ケ所死人凡二百人\nけが人数不知其近在十二ケ村\n半くづれ 死人少々\nゆり一尺五寸 けが人多し\n\n桑名\n同日同刻ゟ大地震の後大津浪\nにて浜辺みな〳〵流れ大津辺まで\n大さはぎ けが人多し\n\n播州\n十一月四日朝五ツ時ゟ大地しん\n姫路御城下大はんくづれ残り\nたる所はそん有死人凡百人余\n　けが人多し ゆり 凡 八寸\n\n奥播州\n加東郡 栗野へん大地しん\nにて四部通り崩るはそんの家数不知\n其外在々皆々大坂同様なり\n\n泉州堺\n十一月四日朝五ツ時大地震にて\n処々崩れ同五日七ツ半時より\n又々大地しん大つなみにて\n新地 茶町 北島 米市場\n所々大つなみにて大にそんし\n大道すし所々崩ル破損数不知\n死人凡六十人けか人多し\n其近在十五ケ村所々崩大破損有り\n死人すくなしけか人多しゆり凡六寸\n\n崩たる橋の名爰に記\nあづま橋 さかへはし 龍神橋\n住吉橋 いさみ橋 相生ばし\n新栄橋 新相生橋\n　　　　みな〳〵おちる\n\n但し是にもれたる国々は\n大体大坂同様の事也\n十一月四日朝より八日夜迄\n八十度のゆりなり\n\n早飛脚にて申来り候由\n",
+            "timestamp": {
+                "_nanoseconds": 730000000,
+                "_seconds": 1567770023
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

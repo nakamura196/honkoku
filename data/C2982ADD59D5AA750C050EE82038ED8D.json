@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7053,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/788adc3bf405c91a83963936af498478b044dff6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7053,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56234",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9387
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56234/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56234",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9387
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "C2982ADD59D5AA750C050EE82038ED8D",
+    "label": "聞書諸国并大阪大地震つなみ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "聞書諸国并大阪大地震つなみ"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "514e8d22-812d-44ff-80b2-c30382bba828"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1052"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/788adc3bf405c91a83963936af498478b044dff6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/514e8d22-812d-44ff-80b2-c30382bba828/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "C2982ADD59D5AA750C050EE82038ED8D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "嘉永七甲寅年十一月\n聞書諸国並大阪地震つなみ　\n　　　　　　　　　諸国　早飛脚へ　申来り候由\n【上段】\n　尼ケさき\n十一月四日朝五ツ半時ゟ大\n地震となりつき地凡家数\n二百けん余りくづれ辰巳のわたし\n南詰宿屋茶見世共残らず\nくづる市中凡三百軒余り崩\n内川八尺余の高水となる\n五日夜まで三十五六度のゆり\n死人数凡百人余けが人数知ず\n失人数有之由誠に哀至極目も\n当られぬ次第也\n六日の朝まで三十二度ゆり一尺二寸\n　　【津波挿絵】\n西ノ宮灘め 神戸（かうべ）す摩皆々\n同様のおおぢしんにて家数\n多くくづれ死人数知れず\nけが人多く失人凡八百人\n　　いづれもゆり同様\n　丹波園部\n同四日五ツ時ゟ大ぢしんとなり\n家かず凡二百軒余り死人二百人余\n失人数しれず近在五六ケ処\n大にそんじ\n亀山凡百軒あまりくすれ\n三田凡七十軒余くづれ\n其近在九ケ村大にそんじ\n家数凡百四五十軒余り崩\nけが人多く死人凡五十人斗\n失人数しれずいつれもゆり同様\n\n【中段】\n　　【津波挿絵】\n大坂つなみ\n十一月四日朝五ツ時ゟ大地震と成\n委しくは下段にしるす\n同五日又々度々はけしくゆり\n市中人々あわて舟へかけ出候所又々\n大つなみにて新田其外島々\n水につかり大船浪に追れ内川へ\nのり込にて逃出る舟人橋々崩おち\n人損じ又は□へ打上りさん〴〵の所\n逃る人々舟々向ふゟ追れ大船に\n敷れあたりさま〳〵して死す人凡千\n人共千五百人共かず不知\n大船□三百艘余小舟千艘あまり\nくづれ破そんのふね数しれず\n大船の為にくつれたる橋の名爰に記\n道頓ほり川筋日吉橋塩見ばし\n幸橋住吉ばし大黒橋にてとまる\nかなやばしくすれる堀江川筋水分橋\nくろがねばし長ほり高橋江子嶋かめ\n井ばし安治川橋落る　凡ゆり八寸\n　奈良\n同四日朝五ツ時より大地震と成一人も\n内にゐる者なし家内蔵くづれ清水\n辺西手貝通り五六軒くづれる\n五日より昼夜かけて又々はげしく先に\n残たる家みな〳〵くづれ\n郡山大躰同様の大地震也\n逃る人幾千とも数しれず\nたび〳〵の大地震ゆへ其混乱\n　　　　　　　　筆につくしがたし\n\n【下段】\n　大坂大地しん\n清水舞台みちんとなる\n天王寺村所々大にそんじ\nさのやばしすじ塩町北へ入高へい崩死人あり\n＜割書：京町ほり羽子板ばし｜北詰四五けんくづれ＞死人あり\n　かごや町角間口十七八間くづれ\n北久太郎町丼池北へ入四五けん同断\n永代はま大土蔵　同断\nざま石鳥井みぢん崩絵馬堂崩\nさつまぼり願教寺たいめん所くづれ\n北ほりへ四丁目五軒崩あみた池西門\n一すじ西の辻南へ四五けん幸町東樋\nより南へ五六けん堂しま桜橋南詰西へ\n七八軒順けい町丼池東へ二けん崩かゝり\n本町狐小路浄土寺高へいくづれ上福\n嶋天神の門井戸家形北江戸ぼり一丁目\n高塀十五けん崩天満天神御霊いなり\n高津皆境内井戸館絵馬堂大に\nそんじあはち町中ばし大道\nわれる也安治川三丁目十四五けん崩\n同所順正寺茶の間本堂くづれ\nいたちぼり中ばし□両かわ崩\n其外うち〳〵かし屋または\n土蔵などは一々筆につくし\nがたし\n天王寺境内いろ〳〵損じ幷に\n太鼓堂くづれる寺町色々損じる\n福しま五百らかんくづれる\n　　　　　凡ゆり　　五寸\n\n【挿絵内文章】\n市中毎夜〳〵如此にて大道べ\n畳等を敷屏風或はむしろにて\nかこひ夜を明し内に\nねる者一人もなく\n誠に〳〵哀至極\nなる事\n前代未聞\nの事なり\n\n",
+            "text": "嘉永七甲寅年十一月\n聞書諸国並大阪地震つなみ　\n　　　　　　　　　諸国　早飛脚へ　申来り候由\n【上段】\n　尼ケさき\n十一月四日朝五ツ半時ゟ大\n地震となりつき地凡家数\n二百けん余りくづれ辰巳のわたし\n南詰宿屋茶見世共残らず\nくづる市中凡三百軒余り崩\n内川八尺余の高水となる\n五日夜まで三十五六度のゆり\n死人数凡百人余けが人数知ず\n失人数有之由誠に哀至極目も\n当られぬ次第也\n六日の朝まで三十二度ゆり一尺二寸\n　　【津波挿絵】\n西ノ宮灘め 神戸（かうべ）す摩皆々\n同様のおおぢしんにて家数\n多くくづれ死人数知れず\nけが人多く失人凡八百人\n　　いづれもゆり同様\n　丹波園部\n同四日五ツ時ゟ大ぢしんとなり\n家かず凡二百軒余り死人二百人余\n失人数しれず近在五六ケ処\n大にそんじ\n亀山凡百軒あまりくすれ\n三田凡七十軒余くづれ\n其近在九ケ村大にそんじ\n家数凡百四五十軒余り崩\nけが人多く死人凡五十人斗\n失人数しれずいつれもゆり同様\n\n【中段】\n　　【津波挿絵】\n大坂つなみ\n十一月四日朝五ツ時ゟ大地震と成\n委しくは下段にしるす\n同五日又々度々はけしくゆり\n市中人々あわて舟へかけ出候所又々\n大つなみにて新田其外島々\n水につかり大船浪に追れ内川へ\nのり込にて逃出る舟人橋々崩おち\n人損じ又は□へ打上りさん〴〵の所\n逃る人々舟々向ふゟ追れ大船に\n敷れあたりさま〳〵して死す人凡千\n人共千五百人共かず不知\n大船□三百艘余小舟千艘あまり\nくづれ破そんのふね数しれず\n大船の為にくつれたる橋の名爰に記\n道頓ほり川筋日吉橋塩見ばし\n幸橋住吉ばし大黒橋にてとまる\nかなやばしくすれる堀江川筋水分橋\nくろがねばし長ほり高橋江子嶋かめ\n井ばし安治川橋落る　凡ゆり八寸\n　奈良\n同四日朝五ツ時より大地震と成一人も\n内にゐる者なし家内蔵くづれ清水\n辺西手貝通り五六軒くづれる\n五日より昼夜かけて又々はげしく先に\n残たる家みな〳〵くづれ\n郡山大躰同様の大地震也\n逃る人幾千とも数しれず\nたび〳〵の大地震ゆへ其混乱\n　　　　　　　　筆につくしがたし\n\n【下段】\n　大坂大地しん\n清水舞台みちんとなる\n天王寺村所々大にそんじ\nさのやばしすじ塩町北へ入高へい崩死人あり\n《割書：京町ほり羽子板ばし｜北詰四五けんくづれ》死人あり\n　かごや町角間口十七八間くづれ\n北久太郎町丼池北へ入四五けん同断\n永代はま大土蔵　同断\nざま石鳥井みぢん崩絵馬堂崩\nさつまぼり願教寺たいめん所くづれ\n北ほりへ四丁目五軒崩あみた池西門\n一すじ西の辻南へ四五けん幸町東樋\nより南へ五六けん堂しま桜橋南詰西へ\n七八軒順けい町丼池東へ二けん崩かゝり\n本町狐小路浄土寺高へいくづれ上福\n嶋天神の門井戸家形北江戸ぼり一丁目\n高塀十五けん崩天満天神御霊いなり\n高津皆境内井戸館絵馬堂大に\nそんじあはち町中ばし大道\nわれる也安治川三丁目十四五けん崩\n同所順正寺茶の間本堂くづれ\nいたちぼり中ばし□両かわ崩\n其外うち〳〵かし屋または\n土蔵などは一々筆につくし\nがたし\n天王寺境内いろ〳〵損じ幷に\n太鼓堂くづれる寺町色々損じる\n福しま五百らかんくづれる\n　　　　　凡ゆり　　五寸\n\n【挿絵内文章】\n市中毎夜〳〵如此にて大道べ\n畳等を敷屏風或はむしろにて\nかこひ夜を明し内に\nねる者一人もなく\n誠に〳〵哀至極\nなる事\n前代未聞\nの事なり\n\n",
+            "timestamp": {
+                "_nanoseconds": 430000000,
+                "_seconds": 1567181417
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

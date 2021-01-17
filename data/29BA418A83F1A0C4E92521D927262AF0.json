@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6c3ec0d98e9c74910c2c74b20640064a6c216634.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88708",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88708/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88708",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "29BA418A83F1A0C4E92521D927262AF0",
+    "label": "大坂大地震津浪記",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大坂大地震津浪記"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-073"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "難波 本清板"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×32"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "3f0b9c7c-d926-4cd3-9c9e-3e108560e327"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0328"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6c3ec0d98e9c74910c2c74b20640064a6c216634.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3f0b9c7c-d926-4cd3-9c9e-3e108560e327/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "29BA418A83F1A0C4E92521D927262AF0",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "大阪大地震津浪記　難波本清板\n\n嘉永七甲寅年十一月四日朝五ツ半刻大地震同五日七ツ半刻ゟ夜\n五ツ半時迄大地しん津波にて安治川木津川辺につなぎおき\nたる所の親舩大津浪にて一同に道頓堀の川へおし入日吉ばし\n汐見ばし幸橋住吉ばしを押やぶり大黒橋にてとまる川中は\n大舩にて十文字たて横におし破りかさなり合候ゆへ濱川蔵\n屋しき町家土蔵納屋こと〴〵く舩さきにて押やぶり小舟\n茶舟等は大舩におしつぶされ道とん堀大こく橋迄元舩入こみ\n候事は実に前代未もんの大さうどうに有之候\n一大坂地震にてくづれ候場所は左之通せんば辺は座摩の社内鳥居\nならびに門たをれ北久太郎町丼池大くづれ塩町佐の屋ばし角\n堀死人けがにん其数しれず南本願寺御堂は北西へぞんじ御霊\nの社井戸くづれじゆんけい町辺丼池大くづれにて出火致し程なく\nしつまり長堀へん板屋はし北詰大くづれ阿波座さつま堀へん\n願教寺たいめん所つぶれ永代橋京町堀へん三四軒やける天満\nの社内うら門近辺池田町ひがし天満へんはくつれば所数しれ\nす中のしま辺常あん橋角大にくづれ西横ほりへん新町遊女\n屋の所大くづれ堀江へん四ツはし御池通り土佐様おやしきの堀\nくつれあみたが池の辺大にくづるゝ安治川九條へん南は永町辺\n幸町の辺栄ばしへん西づめ大くづれなんば新地しん川辺また\nあんにう寺の鐘つきとうつふれ住よしの石とうろう残らすたをれる\nその外末社くづるゝ上町へんのばて上本町へん玉つくり辺御祓筋\nくずれ二けん茶屋へん上町清水ぶたいつふれ天王寺近へん此\n外市中くづれ場所数しれす\n摂州尼ケ崎の御城はそん御城下五十軒程つぶれ西ノ宮兵庫なだ\n三ヶ所大坂同様南海紀州熊野浦ゟしま遠江なた伊豆大浦迄\n凡百五里余の海がんの人家津波にて大半流出致候猶追々\n諸国の場処出板仕候\n",
+            "text": "大阪大地震津浪記　難波本清板\n\n嘉永七甲寅年十一月四日朝五ツ半刻大地震同五日七ツ半刻ゟ夜\n五ツ半時迄大地しん津波にて安治川木津川辺につなぎおき\nたる所の親舩大津浪にて一同に道頓堀の川へおし入日吉ばし\n汐見ばし幸橋住吉ばしを押やぶり大黒橋にてとまる川中は\n大舩にて十文字たて横におし破りかさなり合候ゆへ濱川蔵\n屋しき町家土蔵納屋こと〴〵く舩さきにて押やぶり小舟\n茶舟等は大舩におしつぶされ道とん堀大こく橋迄元舩入こみ\n候事は実に前代未もんの大さうどうに有之候\n一大坂地震にてくづれ候場所は左之通せんば辺は座摩の社内鳥居\nならびに門たをれ北久太郎町丼池大くづれ塩町佐の屋ばし角\n堀死人けがにん其数しれず南本願寺御堂は北西へぞんじ御霊\nの社井戸くづれじゆんけい町辺丼池大くづれにて出火致し程なく\nしつまり長堀へん板屋はし北詰大くづれ阿波座さつま堀へん\n願教寺たいめん所つぶれ永代橋京町堀へん三四軒やける天満\nの社内うら門近辺池田町ひがし天満へんはくつれば所数しれ\nす中のしま辺常あん橋角大にくづれ西横ほりへん新町遊女\n屋の所大くづれ堀江へん四ツはし御池通り土佐様おやしきの堀\nくつれあみたが池の辺大にくづるゝ安治川九條へん南は永町辺\n幸町の辺栄ばしへん西づめ大くづれなんば新地しん川辺また\nあんにう寺の鐘つきとうつふれ住よしの石とうろう残らすたをれる\nその外末社くづるゝ上町へんのばて上本町へん玉つくり辺御祓筋\nくずれ二けん茶屋へん上町清水ぶたいつふれ天王寺近へん此\n外市中くづれ場所数しれす\n摂州尼ケ崎の御城はそん御城下五十軒程つぶれ西ノ宮兵庫なだ\n三ヶ所大坂同様南海紀州熊野浦ゟしま遠江なた伊豆大浦迄\n凡百五里余の海がんの人家津波にて大半流出致候猶追々\n諸国の場処出板仕候\n",
+            "timestamp": {
+                "_nanoseconds": 52000000,
+                "_seconds": 1568547402
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

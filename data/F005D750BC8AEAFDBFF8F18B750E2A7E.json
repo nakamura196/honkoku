@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2535de5b57e5b4a4e2174fe402a191eae9b2806b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88815",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88815/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88815",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "F005D750BC8AEAFDBFF8F18B750E2A7E",
+    "label": "富士山頂図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士山頂図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "その他・\n木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "法橋光一画"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "32×45"
+        },
+        {
+            "label": "identifier",
+            "value": "0a78fc64-4a80-4841-8d1d-f7f6ff294f30"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0439"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2535de5b57e5b4a4e2174fe402a191eae9b2806b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a78fc64-4a80-4841-8d1d-f7f6ff294f30/canvas/p1",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "F005D750BC8AEAFDBFF8F18B750E2A7E",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "［画面右上］富士山頂図\n　　　　　　　□橋光一\n［画面右下］日本六十余州\n　　　　　　　回国\n　　　　　　　　鈴木金兵衛\n［画面左上］\n　　鰶か池より\n　　　　　下に□□\n　　　　　　　　　の峰\n\n　　人□□ついて\n　　　　□もとると\n　　　　　　不二の山\n\n　　　　　　古帳庵\n　　　　　　　　買翁",
+            "text": "［画面右上］富士山頂図\n　　　　　　　□橋光一\n［画面右下］日本六十余州\n　　　　　　　回国\n　　　　　　　　鈴木金兵衛\n［画面左上］\n　　鰶か池より\n　　　　　下に□□\n　　　　　　　　　の峰\n\n　　人□□ついて\n　　　　□もとると\n　　　　　　不二の山\n\n　　　　　　古帳庵\n　　　　　　　　買翁",
+            "timestamp": {
+                "_nanoseconds": 686000000,
+                "_seconds": 1571555392
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

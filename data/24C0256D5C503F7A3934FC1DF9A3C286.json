@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/fc74a9287856d31db83cf06aab103f5947bcd31c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88808",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88808/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88808",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "24C0256D5C503F7A3934FC1DF9A3C286",
+    "label": "[富士山之図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富士山之図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-015"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33×46"
+        },
+        {
+            "label": "identifier",
+            "value": "d4b67964-dde3-4cee-933d-69c1630ff67a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0428"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/fc74a9287856d31db83cf06aab103f5947bcd31c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d4b67964-dde3-4cee-933d-69c1630ff67a/canvas/p1",
+            "editedBy": "ZsYQwUervoeLiHLq2bgRMHBwY4j2",
+            "entryId": "24C0256D5C503F7A3934FC1DF9A3C286",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "ZsYQwUervoeLiHLq2bgRMHBwY4j2",
+            "tempText": "抑富士の御山は衆岳の宗\n日乃本の柱礎にして殊に\n霊験日月に等し然るに此度\n御山の地名神代の昔に\nあらためしを諸人に知らし\nめんかために図を以てすと云云\n\n釈迦の割石　割石\n薬師ヶ岳　　久須志ヶ岳\n勢至ヶ窪　　荒巻\n大日　　　　浅間\n東河原　　　東安河原\n\n西河原　　　西安河原\n経ヶ岳　　　成就ヶ岳\n不動石　　　磐石\n毘沙門石　　熊の岩\n仏石山　　　神石山\n　以上",
+            "text": "抑富士の御山は衆岳の宗\n日乃本の柱礎にして殊に\n霊験日月に等し然るに此度\n御山の地名神代の昔に\nあらためしを諸人に知らし\nめんかために図を以てすと云云\n\n釈迦の割石　割石\n薬師ヶ岳　　久須志ヶ岳\n勢至ヶ窪　　荒巻\n大日　　　　浅間\n東河原　　　東安河原\n\n西河原　　　西安河原\n経ヶ岳　　　成就ヶ岳\n不動石　　　磐石\n毘沙門石　　熊の岩\n仏石山　　　神石山\n　以上",
+            "timestamp": {
+                "_nanoseconds": 127000000,
+                "_seconds": 1588399029
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

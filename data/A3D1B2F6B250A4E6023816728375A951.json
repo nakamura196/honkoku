@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c75de76c48189a67757d0f8af295b44d2fdc8f8f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88705",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88705/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88705",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "A3D1B2F6B250A4E6023816728375A951",
+    "label": "[世相狂歌]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[世相狂歌]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-070"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "21×27"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "2d0f33bc-f372-4b2a-abdc-d49c6dd70f04"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0325"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c75de76c48189a67757d0f8af295b44d2fdc8f8f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2d0f33bc-f372-4b2a-abdc-d49c6dd70f04/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "A3D1B2F6B250A4E6023816728375A951",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【一段目右から】\n　平のかねもり\n下田をきゆら\nれにけりなおろしや\nぶね　みなよひ\nきみと\n人のいふまで\n\n　けん徳公\nあはれともいふべき\nとこは三嶋じく\n家がつぶれて\nこまるべきかな\n\n　中なごんかね平\nみなはらへたをれ\nいるのをなが\nむればわが\nていしをば\nこひしかるらん\n\n　大弐の三み\nありま山火\nのみのうへは\nひどかろふたつた\nひとりでこはいめをする\n\n　左京の大夫みち政\n今はたゞをう\nらいたへてはる\nより一人たちと\nとふすよしも\nかな\n\nうみのおとたへて\n久しくなり\nぬればまた\nつなみかと人は\nにげけり\n　大なこんきんとう　\n\n　藤原清すけあそん\nなきながら\nていしは\n二どの大\nししん湯もとよりも\n畑がかなしい\n\n　源のむねゆき\n山ざとはゆるぞ\n久しくかぎり\nなく人もその\n身もしすとおもへば\n\n【二段目右から】\n　かんけ\n此たびは大工\nしやかんはかねの山\nもちばのしごと\nきうのまに〳〵\n\n　西行ほうし\nなげきつゝ神や\nほとけをいのりても\nこういふときは\nきかぬものかな\n\n　文やのやすひで\nゆるからに秋はの\n町もしをれて\n山も地しんと\n人はいふらん\n\n　清正なごん\n夜をふけて\n鳥のなくまで\n子ぞうさんどうぐの\nばんはきつとゆるさじ\n\n　中なごん行平\nたちいでゝにけ\nゆくとこは山の\nうへをちつく時は\nまたかへりこん\n\n　さきの大僧正きやうそん\nもろともに\nあはれと\nおもへ大地\nしんやふよりほかに\nゐるとこはなし\n\n　かはらの左大じん\n道なかへたをれ\nふしたる大\nじしん地こそ\nひらいてわれ\nならなくに\n\n　みぶのたゞみね\nありがたき\nつゞく天下\nのおひざもと\n水屋のとよで江\n戸はけがなし\n\n【三段目右から】\n　そぜいほうし\n今に又いると\nおもふて人々が\nしたくこそして\nまちゐづるかな\n\n　しゆ徳いん\nせをはやく岩で\nくだけしひがき\nぶねもふこれからは\nのらんとぞおもふ\n\n　藤原よしたか\nきみがため\nおしからざりし\n命でも此\nじしんでは\nにげにけるかな\n\n　右大じんみちつなのはゝ\nなげきつゝ役者は\nみんなやすみゐる\nいかに久しき\nものとかはしる\n\n　三じやうのう大じん\nなにしおふ\nふた子の山も\nあれぬればいしが\nころげてくる\nよしもがな\n\n　やうせいゐん\nつりがねもうへ\nよりをつる\n大地しんおとぞ\nひゞきてみゝへなりぬる\n\n　大江の千さと\nいりぬればひゞに\n心もかなしけり\nわが身ひとりの\n事にはあらねど\n\n　じゆん徳いん\nもゝ引や古き\nじばんでかけ\nいだしあまりに\nつよきじしん\nなりける\n",
+            "text": "【一段目右から】\n　平のかねもり\n下田をきゆら\nれにけりなおろしや\nぶね　みなよひ\nきみと\n人のいふまで\n\n　けん徳公\nあはれともいふべき\nとこは三嶋じく\n家がつぶれて\nこまるべきかな\n\n　中なごんかね平\nみなはらへたをれ\nいるのをなが\nむればわが\nていしをば\nこひしかるらん\n\n　大弐の三み\nありま山火\nのみのうへは\nひどかろふたつた\nひとりでこはいめをする\n\n　左京の大夫みち政\n今はたゞをう\nらいたへてはる\nより一人たちと\nとふすよしも\nかな\n\nうみのおとたへて\n久しくなり\nぬればまた\nつなみかと人は\nにげけり\n　大なこんきんとう　\n\n　藤原清すけあそん\nなきながら\nていしは\n二どの大\nししん湯もとよりも\n畑がかなしい\n\n　源のむねゆき\n山ざとはゆるぞ\n久しくかぎり\nなく人もその\n身もしすとおもへば\n\n【二段目右から】\n　かんけ\n此たびは大工\nしやかんはかねの山\nもちばのしごと\nきうのまに〳〵\n\n　西行ほうし\nなげきつゝ神や\nほとけをいのりても\nこういふときは\nきかぬものかな\n\n　文やのやすひで\nゆるからに秋はの\n町もしをれて\n山も地しんと\n人はいふらん\n\n　清正なごん\n夜をふけて\n鳥のなくまで\n子ぞうさんどうぐの\nばんはきつとゆるさじ\n\n　中なごん行平\nたちいでゝにけ\nゆくとこは山の\nうへをちつく時は\nまたかへりこん\n\n　さきの大僧正きやうそん\nもろともに\nあはれと\nおもへ大地\nしんやふよりほかに\nゐるとこはなし\n\n　かはらの左大じん\n道なかへたをれ\nふしたる大\nじしん地こそ\nひらいてわれ\nならなくに\n\n　みぶのたゞみね\nありがたき\nつゞく天下\nのおひざもと\n水屋のとよで江\n戸はけがなし\n\n【三段目右から】\n　そぜいほうし\n今に又いると\nおもふて人々が\nしたくこそして\nまちゐづるかな\n\n　しゆ徳いん\nせをはやく岩で\nくだけしひがき\nぶねもふこれからは\nのらんとぞおもふ\n\n　藤原よしたか\nきみがため\nおしからざりし\n命でも此\nじしんでは\nにげにけるかな\n\n　右大じんみちつなのはゝ\nなげきつゝ役者は\nみんなやすみゐる\nいかに久しき\nものとかはしる\n\n　三じやうのう大じん\nなにしおふ\nふた子の山も\nあれぬればいしが\nころげてくる\nよしもがな\n\n　やうせいゐん\nつりがねもうへ\nよりをつる\n大地しんおとぞ\nひゞきてみゝへなりぬる\n\n　大江の千さと\nいりぬればひゞに\n心もかなしけり\nわが身ひとりの\n事にはあらねど\n\n　じゆん徳いん\nもゝ引や古き\nじばんでかけ\nいだしあまりに\nつよきじしん\nなりける\n",
+            "timestamp": {
+                "_nanoseconds": 641000000,
+                "_seconds": 1573183187
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

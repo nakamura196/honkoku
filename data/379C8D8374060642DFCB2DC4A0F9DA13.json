@@ -1,0 +1,179 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9672,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3c9a615a74bdeb08c53c8f2b96d688bd8732d43e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9672,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56185",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7267
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56185/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56185",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7267
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9672,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c394b23d7f365d5e22bef4433e81a59ec0764fd7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9672,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56186",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7267
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56186/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56186",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7267
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "379C8D8374060642DFCB2DC4A0F9DA13",
+    "label": "呉服橋外桶町河岸飆（つむじ）之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "呉服橋外桶町河岸飆（つむじ）之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-033"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "安政5年11月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "呉服橋外桶町河岸飆之図"
+        },
+        {
+            "label": "year",
+            "value": "1858"
+        },
+        {
+            "label": "identifier",
+            "value": "178b7733-3530-4307-93fc-57118c73f139"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1033"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3c9a615a74bdeb08c53c8f2b96d688bd8732d43e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "379C8D8374060642DFCB2DC4A0F9DA13",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【図題】\n呉服橋外桶町（ごふくばしそとをけちやう）\n河岸（がし）飆（つむじかぜ）之図（のづ）\n【左上記事】\n　安政五戌午年十一月十五日\n　　 下谷（したや）ねりべい小路（こうじ）より出（しゆつ）火して右に記す所の\n町々（まち〳〵）尽（こと〴〵）く類焼（るいしやう）す殊（こと）に火中につむじ風あり\n桶町（をけちやう）河岸（かし）において大に 巻（こと）こと三度（さんど）是（これ）が為（ため）に火（ひ）ひろがり\n　人なやむこと大かたならす実（じつ）に恐（おそ）るべきの甚（はなはだ）しきもの也\n　　　よつて今（いま）図（づ）ぐわしてもて後来（かうらい）の心得（こゝろえ）と為（なす）ことしす\n\n【右上四角枠内】\n町々（まち〳〵）焼（しやう）\n失（しつ）場（ば）\n所附（しよづけ）\n　【一段目】\nわかゞはかうじ\nさくま丁\nあいおい丁\nわらたな\nなか丁\nやなぎはう\nすぎ丁\nれんじやく\nさゑき丁\nきじ丁\n新白かね丁\nた丁\n上しらかべ丁\nしんごく丁\n三かは丁\nらうそく丁\nせき口丁\n　【二段目】\nよこだいく丁\nみながは丁\nながとみ丁【？】\nたてだいく丁\n新かはや丁\nまつ下丁\nかまくら丁\nかうけん丁\nなべ丁\nかぢ丁\nのりもの丁\n小やなぎ丁\nひらなが丁\nまつだ丁\nくろもん丁\n下しらかへ丁\nこんや丁\n　【三段目】\nいはい丁\nこんや丁\nくけん丁\nまつ下丁\nおたまが池\n岸丁\n三しま丁\nとみ山丁\nいはもと丁\nはまら丁【？】\nとみ山丁\nまつ枝丁\nながゐ丁\nこいづみ丁\n元のりもの丁\nへうごやき\nたるい□やき\n　【四段目】\nさゑき丁代ち【？】\nりう□丁代ち\nだいく丁代ち\nかまくら丁代ち\nさくま丁四丁□\n久右エ門丁\n元いはい丁\nやまと丁\nとしま丁\n□みまつ丁\n久右エ門丁代ち\n江がは丁\nいはい丁\nはしもと丁\n小でんま上丁\nかめい丁\nらうやき\n　【五段目】\nうめたてち\n大でんま北丁\nほん□□丁\n本こく丁\n□□\nてつ□□丁\n小でんま丁\nばくろ丁\nつけさ□な\nむまやん道\n□□さご丁\n大でんま丁\n大よこ丁\n本丁\nむろ丁\nかねふき丁\nりやうけへ丁【？】\n【六段目】\nするが丁\n北さや丁\nしなかは丁\nいは□□丁\nいせ丁\nほうどめ丁\nせともの丁\n本小だはら丁\nな□はま丁\n本ふな丁\nあんじん丁\nこぶな丁\nほりえ丁\nせきふか丁【？】\n小あみ丁\nあらめばし\n道□やうばし\n【七段目】\nおやぢばし\nわこくばし\n日ほんばし\nよつかいち\nしんみち\nにしがし\nよろづ丁\n青もの丁\nごふく丁\nなか一丁目\n同二\n同三\n同四\nひらまろ丁\n木つみだな\n本ざいもく丁\n元だいく丁\n【八段目】\n南あぶら丁\nさない丁\n小まつ丁\nすきや丁\n□えもん丁\n□□もの丁\n□□くや丁\n□□と正丁\n□□まやき\n上まき丁\n下まき丁\nとみまき丁\n新肴ば\n二らべゑやき\n中ばしうめう\n南てんま丁\n同二丁め\n【九段目】\n同三丁め\n南まき丁\nをが丁\nまさき丁\nをけ丁\n南さや丁\n□丁\n□け丁\n□□□\n□□□\n□□ぬし丁\n□□□\n□□ヱ丁\n同\nま□川丁\n同\n南□□□丁\n【十段目】\n同\n同\n同\nかのうやき\nすゞ木丁\nいなば丁\nときは丁\nはたやき\nやなぎ丁\n五ろべゑ丁\n同丁\nぐそく丁\n同\nやなぎ丁\n同\nす□丁\n同\n【十一段目】\n竹丁\n北こんや丁\nだいこんがし\n白魚やき\n京ばし\nはしぎは□\nやける\n【十二段目】\n□のうち\n火事□□□\nまつ□□□\nさ□□□□□\n□□□□□\n\n此外新道□□□\nなほ数多焼□□\nこといへども□紙の□□\n尽く記すには□□\nらす□んその大にやく□\nあげて四方の見らんに\nそなふといふ\n\n【最下段】\n死人\n　凡\n百十\n三人\nけが\n　人\n数\n多し\n",
+            "text": "【図題】\n呉服橋外桶町（ごふくばしそとをけちやう）\n河岸（がし）飆（つむじかぜ）之図（のづ）\n【左上記事】\n　安政五戌午年十一月十五日\n　　 下谷（したや）ねりべい小路（こうじ）より出（しゆつ）火して右に記す所の\n町々（まち〳〵）尽（こと〴〵）く類焼（るいしやう）す殊（こと）に火中につむじ風あり\n桶町（をけちやう）河岸（かし）において大に 巻（こと）こと三度（さんど）是（これ）が為（ため）に火（ひ）ひろがり\n　人なやむこと大かたならす実（じつ）に恐（おそ）るべきの甚（はなはだ）しきもの也\n　　　よつて今（いま）図（づ）ぐわしてもて後来（かうらい）の心得（こゝろえ）と為（なす）ことしす\n\n【右上四角枠内】\n町々（まち〳〵）焼（しやう）\n失（しつ）場（ば）\n所附（しよづけ）\n　【一段目】\nわかゞはかうじ\nさくま丁\nあいおい丁\nわらたな\nなか丁\nやなぎはう\nすぎ丁\nれんじやく\nさゑき丁\nきじ丁\n新白かね丁\nた丁\n上しらかべ丁\nしんごく丁\n三かは丁\nらうそく丁\nせき口丁\n　【二段目】\nよこだいく丁\nみながは丁\nながとみ丁【？】\nたてだいく丁\n新かはや丁\nまつ下丁\nかまくら丁\nかうけん丁\nなべ丁\nかぢ丁\nのりもの丁\n小やなぎ丁\nひらなが丁\nまつだ丁\nくろもん丁\n下しらかへ丁\nこんや丁\n　【三段目】\nいはい丁\nこんや丁\nくけん丁\nまつ下丁\nおたまが池\n岸丁\n三しま丁\nとみ山丁\nいはもと丁\nはまら丁【？】\nとみ山丁\nまつ枝丁\nながゐ丁\nこいづみ丁\n元のりもの丁\nへうごやき\nたるい□やき\n　【四段目】\nさゑき丁代ち【？】\nりう□丁代ち\nだいく丁代ち\nかまくら丁代ち\nさくま丁四丁□\n久右エ門丁\n元いはい丁\nやまと丁\nとしま丁\n□みまつ丁\n久右エ門丁代ち\n江がは丁\nいはい丁\nはしもと丁\n小でんま上丁\nかめい丁\nらうやき\n　【五段目】\nうめたてち\n大でんま北丁\nほん□□丁\n本こく丁\n□□\nてつ□□丁\n小でんま丁\nばくろ丁\nつけさ□な\nむまやん道\n□□さご丁\n大でんま丁\n大よこ丁\n本丁\nむろ丁\nかねふき丁\nりやうけへ丁【？】\n【六段目】\nするが丁\n北さや丁\nしなかは丁\nいは□□丁\nいせ丁\nほうどめ丁\nせともの丁\n本小だはら丁\nな□はま丁\n本ふな丁\nあんじん丁\nこぶな丁\nほりえ丁\nせきふか丁【？】\n小あみ丁\nあらめばし\n道□やうばし\n【七段目】\nおやぢばし\nわこくばし\n日ほんばし\nよつかいち\nしんみち\nにしがし\nよろづ丁\n青もの丁\nごふく丁\nなか一丁目\n同二\n同三\n同四\nひらまろ丁\n木つみだな\n本ざいもく丁\n元だいく丁\n【八段目】\n南あぶら丁\nさない丁\n小まつ丁\nすきや丁\n□えもん丁\n□□もの丁\n□□くや丁\n□□と正丁\n□□まやき\n上まき丁\n下まき丁\nとみまき丁\n新肴ば\n二らべゑやき\n中ばしうめう\n南てんま丁\n同二丁め\n【九段目】\n同三丁め\n南まき丁\nをが丁\nまさき丁\nをけ丁\n南さや丁\n□丁\n□け丁\n□□□\n□□□\n□□ぬし丁\n□□□\n□□ヱ丁\n同\nま□川丁\n同\n南□□□丁\n【十段目】\n同\n同\n同\nかのうやき\nすゞ木丁\nいなば丁\nときは丁\nはたやき\nやなぎ丁\n五ろべゑ丁\n同丁\nぐそく丁\n同\nやなぎ丁\n同\nす□丁\n同\n【十一段目】\n竹丁\n北こんや丁\nだいこんがし\n白魚やき\n京ばし\nはしぎは□\nやける\n【十二段目】\n□のうち\n火事□□□\nまつ□□□\nさ□□□□□\n□□□□□\n\n此外新道□□□\nなほ数多焼□□\nこといへども□紙の□□\n尽く記すには□□\nらす□んその大にやく□\nあげて四方の見らんに\nそなふといふ\n\n【最下段】\n死人\n　凡\n百十\n三人\nけが\n　人\n数\n多し\n",
+            "timestamp": {
+                "_nanoseconds": 60000000,
+                "_seconds": 1575258735
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/178b7733-3530-4307-93fc-57118c73f139/canvas/p2",
+            "editedBy": null,
+            "entryId": "379C8D8374060642DFCB2DC4A0F9DA13",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030646010
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

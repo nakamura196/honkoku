@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3068,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/94a759341c1fae89213fa8773b6c80a92791079f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3068,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88842",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88842/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88842",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "A21B5A4A101F83835FBF7226C17BA3A1",
+    "label": "諸国温泉一覧",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "諸国温泉一覧"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "番付"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×29.5"
+        },
+        {
+            "label": "identifier",
+            "value": "841eadf3-0f7b-4ccc-b7ef-f8fb0150d602"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0466"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/94a759341c1fae89213fa8773b6c80a92791079f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/841eadf3-0f7b-4ccc-b7ef-f8fb0150d602/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "A21B5A4A101F83835FBF7226C17BA3A1",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【中央の表題】\n　　　　　　　行　　　伊豆熱海之湯　勧進元　　　上州沢渡之湯\n諸国温泉一覧　　　紀伊熊野本宮之湯　　　　　紀伊熊野新宮之湯\n　　　　　　　司　　　津軽大鰐之湯　差　添　　　上州原湯之湯\n【枠外右上】\n第二十五号\n【右側一段目】\n東之方\n【右側二段目】\n大関　万病吉　　上州草津之湯\n関脇　諸病吉　　野州那須之湯\n小結　中風　　　秋田小鹿嶋之湯\n前頭　諸病吉　　上州伊香保之湯\n前頭　＜割書：ソウトク　｜　ニヨシ　＞　　豆州湯川原之湯\n前頭　フ人吉　　相州足之湯\n前頭　諸病　　　陸奥嶽之湯\n前頭　〃　　　　最上高湯之泉\n前頭　ヒセン吉　仙台成子之湯\n前頭　眼病　　　信州諏訪之湯\n【右側三段目】\n前頭　ソウトク　津軽嶽之湯\n同　　諸病吉　　相州湯元之湯\n同　　眼ヘウ　　豆州小名之湯\n同　　＜割書：センキ　｜　ニヨシ　＞　　信州渋之湯\n同　　＜割書：ウチ身　｜　　ヨシ　＞　　会津天仁寺之湯\n同　　＜割書：万へウ　｜　　ヨシ　＞　　越後松之山之湯\n同　　カツケ　　南部恐山之湯\n同　　諸病ヨシ　庄内田川之湯\n同　　ソウトク　岩城湯元之湯\n同　　諸病　　　米沢赤湯之湯\n同　　万ヘウ　　下野中禅寺之湯\n【右側四段目】\n同　　諸病吉　　秋田大滝之湯\n同　　ヒセン吉　奥州飯坂之湯\n同　　万病吉　　南部鹿角之湯\n同　　ガンヘウ　相州姥子之湯\n同　　センキ　　豆州修善寺之湯\n同　　諸病吉　　仙台川度之湯\n同　　万病吉　　庄内温海之湯\n同　　＜割書：ツカヘニ｜　　　吉　＞　　津軽温湯之泉\n同　　センキ　　米沢湯沢之湯\n同　　ツヽウ　　豆州権現之湯\n同　　万ヘウ　　会津熱塩之湯\n同　　疝キ　　　相州貴知之湯\n【右側五段目】\n同　　婦人吉　　野州塩原之湯\n同　　センキ　　庄内湯浜之湯\n同　　諸ヘウ　　津軽板留之湯\n同　　〃　　　　信州別所之湯\n同　　ソウトク　越後関之山之湯\n同　　中風吉　　南部台之湯\n同　　諸ヘウ　　伊達湯之村之湯\n同　　打ミ　　　最上銀山之湯\n同　　＜割書：シツ｜　ヒセン　　　＞　仙台釜崎之湯\n同　　シヤク　　会津滝之湯\n同　　ソウトク　米沢谷沢之湯\n同　　ツヽウ　　南部麻水之湯\n同　　諸ヘウ　　信州野沢之湯\n\n【左側一段目】\n西之方\n【左側二段目】\n大関　万病吉　　摂州有馬之湯\n関脇　諸病吉　　但州城之崎之湯\n小結　＜割書：デキモノニ｜　　　吉＞　　予州道後之湯\n前頭　＜割書：ソウトク　｜　ニヨシ＞　　加州山中之湯\n前頭　＜割書：ヒセンニ　｜　　ヨシ＞　　肥後阿蘇之湯\n前頭　＜割書：ソウトク　｜　ニ吉＞　　豊後浜脇之湯\n前頭　万病吉　　肥前温泉之湯\n前頭　同　　　　薩州霧嶋之湯\n前頭　眼病　　　豊後別府之湯\n前頭　諸病　　　肥後山家之湯\n【左側三段目】\n前頭　眼ヘウ　　濃州下良之湯\n同　　諸ヘウ吉　肥後雛久之湯\n同　　ウチミ吉　能州底倉之湯\n同　　諸ヘウ　　備中長府之湯\n同　　万ヘウ吉　薩州硫黄之湯\n同　　諸ヘウ吉　紀州田辺之湯\n同　　フ人ニ吉　但州湯川原之湯\n同　　ヒセン　　芸州川治之湯\n同　　ソウトク　紀州大世知之湯\n同　　万病　　　加州白山之湯\n同　　ヒセン　　伯州徒見之湯\n【左側四段目】\n同　　ガンヘウ　薩州桜嶋之湯\n同　　フ人ニヨシ肥前竹尾之湯\n同　　センキ　　石州河村之湯\n同　　ヒセン　　防州山口之湯\n同　　リンヘウ　肥前漆之湯\n同　　ソウトク　越中足倉之湯\n同　　ツヽウ　　越後塩沢之湯\n同　　ヒエセウ　相州塔之沢之湯\n同　　打ミ　　　秋田小安之湯\n同　　リンヘウ　薩州関外之湯\n同　　リンヘウ　相州宮下之湯\n同　　諸病　　　津軽矢立之湯\n【左側五段目】\n同　　ソウトク　信州湯瀬之湯\n同　　ツヽウ　　相州堂ヶ嶋之湯\n同　　センキ　　津軽浅出【虫】之湯\n同　　ツヽウ　　仙台阿灸之湯\n同　　ソウトク　越後出湯之泉\n同　　ウチミ　　最上上之山之湯\n同　　ソウトク　信州浅間之湯\n同　　ヒセン　　相州底倉之湯\n同　　中風　　　上州老神之湯\n同　　ソウトク　越後田上之湯\n同　　諸ヘウ　　津軽倉立之湯\n同　　ソウトク　能州足之湯\n同　　＜割書：諸ヘウ　　｜　ニ吉＞　　信州山田之湯\n同　　〃　　　　上州宝川之湯\n\n\n\n\n\n\n　",
+            "text": "【中央の表題】\n　　　　　　　行　　　伊豆熱海之湯　勧進元　　　上州沢渡之湯\n諸国温泉一覧　　　紀伊熊野本宮之湯　　　　　紀伊熊野新宮之湯\n　　　　　　　司　　　津軽大鰐之湯　差　添　　　上州原湯之湯\n【枠外右上】\n第二十五号\n【右側一段目】\n東之方\n【右側二段目】\n大関　万病吉　　上州草津之湯\n関脇　諸病吉　　野州那須之湯\n小結　中風　　　秋田小鹿嶋之湯\n前頭　諸病吉　　上州伊香保之湯\n前頭　《割書：ソウトク　｜　ニヨシ　》　　豆州湯川原之湯\n前頭　フ人吉　　相州足之湯\n前頭　諸病　　　陸奥嶽之湯\n前頭　〃　　　　最上高湯之泉\n前頭　ヒセン吉　仙台成子之湯\n前頭　眼病　　　信州諏訪之湯\n【右側三段目】\n前頭　ソウトク　津軽嶽之湯\n同　　諸病吉　　相州湯元之湯\n同　　眼ヘウ　　豆州小名之湯\n同　　《割書：センキ　｜　ニヨシ　》　　信州渋之湯\n同　　《割書：ウチ身　｜　　ヨシ　》　　会津天仁寺之湯\n同　　《割書：万へウ　｜　　ヨシ　》　　越後松之山之湯\n同　　カツケ　　南部恐山之湯\n同　　諸病ヨシ　庄内田川之湯\n同　　ソウトク　岩城湯元之湯\n同　　諸病　　　米沢赤湯之湯\n同　　万ヘウ　　下野中禅寺之湯\n【右側四段目】\n同　　諸病吉　　秋田大滝之湯\n同　　ヒセン吉　奥州飯坂之湯\n同　　万病吉　　南部鹿角之湯\n同　　ガンヘウ　相州姥子之湯\n同　　センキ　　豆州修善寺之湯\n同　　諸病吉　　仙台川度之湯\n同　　万病吉　　庄内温海之湯\n同　　《割書：ツカヘニ｜　　　吉　》　　津軽温湯之泉\n同　　センキ　　米沢湯沢之湯\n同　　ツヽウ　　豆州権現之湯\n同　　万ヘウ　　会津熱塩之湯\n同　　疝キ　　　相州貴知之湯\n【右側五段目】\n同　　婦人吉　　野州塩原之湯\n同　　センキ　　庄内湯浜之湯\n同　　諸ヘウ　　津軽板留之湯\n同　　〃　　　　信州別所之湯\n同　　ソウトク　越後関之山之湯\n同　　中風吉　　南部台之湯\n同　　諸ヘウ　　伊達湯之村之湯\n同　　打ミ　　　最上銀山之湯\n同　　《割書：シツ｜　ヒセン　　　》　仙台釜崎之湯\n同　　シヤク　　会津滝之湯\n同　　ソウトク　米沢谷沢之湯\n同　　ツヽウ　　南部麻水之湯\n同　　諸ヘウ　　信州野沢之湯\n\n【左側一段目】\n西之方\n【左側二段目】\n大関　万病吉　　摂州有馬之湯\n関脇　諸病吉　　但州城之崎之湯\n小結　《割書：デキモノニ｜　　　吉》　　予州道後之湯\n前頭　《割書：ソウトク　｜　ニヨシ》　　加州山中之湯\n前頭　《割書：ヒセンニ　｜　　ヨシ》　　肥後阿蘇之湯\n前頭　《割書：ソウトク　｜　ニ吉》　　豊後浜脇之湯\n前頭　万病吉　　肥前温泉之湯\n前頭　同　　　　薩州霧嶋之湯\n前頭　眼病　　　豊後別府之湯\n前頭　諸病　　　肥後山家之湯\n【左側三段目】\n前頭　眼ヘウ　　濃州下良之湯\n同　　諸ヘウ吉　肥後雛久之湯\n同　　ウチミ吉　能州底倉之湯\n同　　諸ヘウ　　備中長府之湯\n同　　万ヘウ吉　薩州硫黄之湯\n同　　諸ヘウ吉　紀州田辺之湯\n同　　フ人ニ吉　但州湯川原之湯\n同　　ヒセン　　芸州川治之湯\n同　　ソウトク　紀州大世知之湯\n同　　万病　　　加州白山之湯\n同　　ヒセン　　伯州徒見之湯\n【左側四段目】\n同　　ガンヘウ　薩州桜嶋之湯\n同　　フ人ニヨシ肥前竹尾之湯\n同　　センキ　　石州河村之湯\n同　　ヒセン　　防州山口之湯\n同　　リンヘウ　肥前漆之湯\n同　　ソウトク　越中足倉之湯\n同　　ツヽウ　　越後塩沢之湯\n同　　ヒエセウ　相州塔之沢之湯\n同　　打ミ　　　秋田小安之湯\n同　　リンヘウ　薩州関外之湯\n同　　リンヘウ　相州宮下之湯\n同　　諸病　　　津軽矢立之湯\n【左側五段目】\n同　　ソウトク　信州湯瀬之湯\n同　　ツヽウ　　相州堂ヶ嶋之湯\n同　　センキ　　津軽浅出【虫】之湯\n同　　ツヽウ　　仙台阿灸之湯\n同　　ソウトク　越後出湯之泉\n同　　ウチミ　　最上上之山之湯\n同　　ソウトク　信州浅間之湯\n同　　ヒセン　　相州底倉之湯\n同　　中風　　　上州老神之湯\n同　　ソウトク　越後田上之湯\n同　　諸ヘウ　　津軽倉立之湯\n同　　ソウトク　能州足之湯\n同　　《割書：諸ヘウ　　｜　ニ吉》　　信州山田之湯\n同　　〃　　　　上州宝川之湯\n\n\n\n\n\n\n　",
+            "timestamp": {
+                "_nanoseconds": 308000000,
+                "_seconds": 1571804120
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/95cc14816b850455d01a99c8dda8e4e7ee673e75.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88549",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88549/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88549",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "CDB64F9DF149345B81938919513E29E6",
+    "label": "聖代要石治万歳楽のつらね",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "聖代要石治万歳楽のつらね"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-122"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×49"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "21fc365e-633e-491b-b6be-869272897ea9"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0169"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/95cc14816b850455d01a99c8dda8e4e7ee673e75.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/21fc365e-633e-491b-b6be-869272897ea9/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "CDB64F9DF149345B81938919513E29E6",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【表題】\n【囲み】聖代要名治　\n万歳楽（まんざいらく）の津ら祢\n\n【本文】\n東西南北四（とうざいなんぼくし）\n夷八（ゐはつ）荒天地（くわうてんち）\n乾坤（けんこん）の其間（そのあいだ）に\n何（いづ）れの土地（とち）も\n動（ゆら）ざらんや遠（とほ）からん\n国（くに）は便（たより）にきけ近（ちか）くはゆつて\n眼（め）に泪（なみだ）神無月（かみなしづき）を幸（さいは）ひに家（いへ）\n蔵（くら）堂社（どうしや）をゆりこわし大地（だいぢ）が裂（さけ）て\n此世（このよ）から奈落（ならく）へ沈（しづ）むあびきや\nうかん【阿鼻叫喚】野宿（のじゆく）する身（み）の苦（く）は病（やまひ）\n五七が雨（あめ）と降（ふり）かゝる涙硯（なみだすゞり）の水（みづ）\nぐきに地震（ぢしん）の歌（うた）をしか〴〵と\n柿（かき）の素袍（すほう）や大太刀（おほだち）と借（かり）の\n衣装（いしやう）の成田屋（なりたや）もどき罷（まかり）出（いで）たる\n某（それがし）は鹿島要之助（かしまかなめのすけ）石（いし）｜座（ずへ）といふ\n神童（かんわらは）南（なん）贍部台（ぜんふたい）【膽の読みはタンで贍の誤りか】\n一ぱいに尾鰭（をひれ）はばする\nのらくら者（もの）鯰坊主（なまづほうづ）は吉例（きちれい）の顔見世（かほみせ）\n近（ちか）き十月二日｜最（もふ）是（これ）からは磐石（ばんじやく）と踏（ふみ）\n堅（かた）めたるあしはら皇国（みくに）ゆるがぬ御代（みよ）の万（まん）\n歳楽此後（ざいらくこのゝち）さまたげひろない筋骨抜（すしほねぬき）の\n蒲焼（かばやき）にして凡夫口（ぼんぶくち）へほふり込（こむ）とホヽ納（おさまつ）てもふす\n\n\n",
+            "text": "【表題】\n【囲み】聖代要名治　\n万歳楽（まんざいらく）の津ら祢\n\n【本文】\n東西南北四（とうざいなんぼくし）\n夷八（ゐはつ）荒天地（くわうてんち）\n乾坤（けんこん）の其間（そのあいだ）に\n何（いづ）れの土地（とち）も\n動（ゆら）ざらんや遠（とほ）からん\n国（くに）は便（たより）にきけ近（ちか）くはゆつて\n眼（め）に泪（なみだ）神無月（かみなしづき）を幸（さいは）ひに家（いへ）\n蔵（くら）堂社（どうしや）をゆりこわし大地（だいぢ）が裂（さけ）て\n此世（このよ）から奈落（ならく）へ沈（しづ）むあびきや\nうかん【阿鼻叫喚】野宿（のじゆく）する身（み）の苦（く）は病（やまひ）\n五七が雨（あめ）と降（ふり）かゝる涙硯（なみだすゞり）の水（みづ）\nぐきに地震（ぢしん）の歌（うた）をしか〴〵と\n柿（かき）の素袍（すほう）や大太刀（おほだち）と借（かり）の\n衣装（いしやう）の成田屋（なりたや）もどき罷（まかり）出（いで）たる\n某（それがし）は鹿島要之助（かしまかなめのすけ）石（いし）｜座（ずへ）といふ\n神童（かんわらは）南（なん）贍部台（ぜんふたい）【膽の読みはタンで贍の誤りか】\n一ぱいに尾鰭（をひれ）はばする\nのらくら者（もの）鯰坊主（なまづほうづ）は吉例（きちれい）の顔見世（かほみせ）\n近（ちか）き十月二日｜最（もふ）是（これ）からは磐石（ばんじやく）と踏（ふみ）\n堅（かた）めたるあしはら皇国（みくに）ゆるがぬ御代（みよ）の万（まん）\n歳楽此後（ざいらくこのゝち）さまたげひろない筋骨抜（すしほねぬき）の\n蒲焼（かばやき）にして凡夫口（ぼんぶくち）へほふり込（こむ）とホヽ納（おさまつ）てもふす\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 485000000,
+                "_seconds": 1575808682
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 6984,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b96b754b99d0ccaefd10519d875395a3adcd9828.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6984,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56191",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 13318
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56191/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56191",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 13318
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 6984,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/446b91c8eaaf90c73b85737352ff2b856fb09f5c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6984,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56192",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 13318
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56192/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56192",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 13318
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "F4FF82539612C312AAE4079FBA4CA501",
+    "label": "明治廿四年十月廿八日大地震後図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治廿四年十月廿八日大地震後図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-036"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治24年10月28日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "明治24年11月　深川区常磐町□　　印刷兼発行　石井□"
+        },
+        {
+            "label": "備考",
+            "value": "3枚続（裏は3枚続の役者絵「蔦模様血染御朱印」, [義経千本桜]）"
+        },
+        {
+            "label": "year",
+            "value": "1891"
+        },
+        {
+            "label": "identifier",
+            "value": "69001f19-436c-46e0-8c7f-679d3e7a903e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1036"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b96b754b99d0ccaefd10519d875395a3adcd9828.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "F4FF82539612C312AAE4079FBA4CA501",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "＜割書：明治廿四年｜十月廿八日＞大地震後図\n\n明治廿四年十月廿八日\n午前六時すきの地震\nはわけてぎふ名古屋大垣\n地方はけしくしんどう\nおひたゝしく山くづれ家\n屋ことごとくつぶれ死人\n何万人なるかかつしれ\nづおやにわかれおつと\nにわかれわつか二三才の小\n児一人のこる死したる\n骸？にとりすがりなき\nさけびたるありさまは目\nも当られぬふびんなり\nさつそく所々へきう\n助おもうけけがにんは\nお手あてなしたり\nじつに古今まれなる\n大地震といふへし\n\n\n\n豊原国輝画\n\n明治廿四年十一月\n深川区常盤町一\n十一ハン\n＜割書：印刷兼｜発行＞石井\n",
+            "text": "《割書：明治廿四年｜十月廿八日》大地震後図\n\n明治廿四年十月廿八日\n午前六時すきの地震\nはわけてぎふ名古屋大垣\n地方はけしくしんどう\nおひたゝしく山くづれ家\n屋ことごとくつぶれ死人\n何万人なるかかつしれ\nづおやにわかれおつと\nにわかれわつか二三才の小\n児一人のこる死したる\n骸？にとりすがりなき\nさけびたるありさまは目\nも当られぬふびんなり\nさつそく所々へきう\n助おもうけけがにんは\nお手あてなしたり\nじつに古今まれなる\n大地震といふへし\n\n\n\n豊原国輝画\n\n明治廿四年十一月\n深川区常盤町一\n十一ハン\n《割書：印刷兼｜発行》石井\n",
+            "timestamp": {
+                "_nanoseconds": 377000000,
+                "_seconds": 1567856137
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/69001f19-436c-46e0-8c7f-679d3e7a903e/canvas/p2",
+            "editedBy": "ZsYQwUervoeLiHLq2bgRMHBwY4j2",
+            "entryId": "F4FF82539612C312AAE4079FBA4CA501",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "ZsYQwUervoeLiHLq2bgRMHBwY4j2",
+            "tempText": "亀井六郎\n　中村寿三郎\n\n源義経\n　尾上菊五郎\n\n明治廿三年五月■日印刷出版\n日本橋区通三丁目十三番地\n＜割書：印刷兼｜発行者＞　小林鉄次郎\n　　　　　　　　　彫藤刀\n\n応需　香朝楼筆\n\n\n\n蔦模様血染御朱印\n\n細川ノ大主\n　市川権十郎\n\n長岡帯刀\n　中村清三郎\n\n奥方てり葉\n　若井松之助\n\nこし元タ栄\n　市川鯉之助\n\n香朝楼国貞筆",
+            "text": "亀井六郎\n　中村寿三郎\n\n源義経\n　尾上菊五郎\n\n明治廿三年五月■日印刷出版\n日本橋区通三丁目十三番地\n《割書：印刷兼｜発行者》　小林鉄次郎\n　　　　　　　　　彫藤刀\n\n応需　香朝楼筆\n\n\n\n蔦模様血染御朱印\n\n細川ノ大主\n　市川権十郎\n\n長岡帯刀\n　中村清三郎\n\n奥方てり葉\n　若井松之助\n\nこし元タ栄\n　市川鯉之助\n\n香朝楼国貞筆",
+            "timestamp": {
+                "_nanoseconds": 412000000,
+                "_seconds": 1588390821
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

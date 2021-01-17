@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cf30360de0bb244417db4b725ff0f59bf5db4ae7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88463",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 2109
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88463/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88463",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 2109
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "7FCC242DA00783C1AFBA45B724669BE9",
+    "label": "ゑんまの子のわけ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ゑんまの子のわけ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-036"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "aa5a4977-a5bf-4d87-a52d-dea76a1d3b63"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0083"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cf30360de0bb244417db4b725ff0f59bf5db4ae7.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aa5a4977-a5bf-4d87-a52d-dea76a1d3b63/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "7FCC242DA00783C1AFBA45B724669BE9",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "NNdDIVq56JMOwxpr08qHHFqe8Tq1",
+            "tempText": "【上下二段】\n【上段】\n【タイトルなし】\n「ゑゝ【ゑゝ：小書き】安政二年の十月二日\n夜は四つとき関八州を\n地震〳〵といふこゑ聞けば\n吉原大門火事の中\nつふれた人は家の中\n立喰たち呑\nだいど中\nけんのんすまゐは\nくいの中\nつつかひまる太は\nまちの中\nいたゞく御ぜんは\nはらの中\n雨露しのぐは\n小屋のなかあ【あ：小書き】\nふちやらか【ふちやらか：小書き】\nほえ〳〵【ほえ〳〵：小書き】\n【下段】\n【タイトル】\nゑんまの子の\n　　　　わけ\n【本文】\n高縄（たかなは）なる御殿山（ごてんやま）に\n土持（つちもち）ありしに多く人\n集（あつま）りかの土を\n荷（にな）ひ運（はこ）ふ中（うち）に\n業（わざ）にかしこく\n人を扱（あつか）ふものあり\nこれがかむりものを\n拵（こしら）へきせしが其かたち\n閻魔王（えんまわう）の冠（かんむり）に似（に）しより\n誰（たれ）いふとなくゑんまの子〳〵\nと異名（いめう）せしかば又｜地蔵（ぢざう）の子\nいふもの出来（いでき）て後（のち）には\n土方（どかた）の子などゝ\nいひておのづから\n流行言（はやりことば）となりぬ\nゑんやらさ【さ：小書き】かけ声に\n似たり【り：小書き】ゑんまの子\n地蔵にあらで\n地形するなり\n",
+            "text": "【上下二段】\n【上段】\n【タイトルなし】\n「ゑゝ【ゑゝ：小書き】安政二年の十月二日\n夜るは四つとすき関八州を\n地震〳〵といふこゑ聞けば\n吉原大門火事の中\nつふれた人は家の中\n立喰たち呑\nだいど中\nけんのんすまゐは\nくいの中\nつつかひまる太は\nまちの中\nいたゞく御ぜんは\nはらの中\n雨露しのぐは\n小屋のなかあ【あ：小書き】\nふちやらか【ふちやらか：小書き】\nほえ〳〵【ほえ〳〵：小書き】\n【下段】\n【タイトル】\nゑんまの子の\n　　　　わけ\n【本文】\n高縄（たかなは）なる御殿山（ごてんやま）に\n土持（つちもち）ありしに多く人\n集（あつま）りかの土を\n荷（にな）ひ運（はこ）ふ中（うち）に\n業（わざ）にかしこく\n人を扱（あつか）ふものあり\nこれがかむりものを\n拵（こしら）へきせしが其かたち\n閻魔王（えんまわう）の冠（かんむり）に似（に）しより\n誰（たれ）いふとなくゑんまの子〳〵\nと異名（いめう）せしかば又｜地蔵（ぢざう）の子\nいふもの出来（いでき）て後（のち）には\n土方（どかた）の子などゝ\nいひておのづから\n流行言（はやりことば）となりぬ\nゑんやらさ【さ：小書き】かけ声に\n似たり【り：小書き】ゑんまの子\n地蔵にあらで\n地形するなり\n",
+            "timestamp": {
+                "_nanoseconds": 228000000,
+                "_seconds": 1567512453
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

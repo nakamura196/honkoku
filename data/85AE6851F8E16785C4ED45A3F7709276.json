@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f8b97aced076d35a2e9492cde4d070be22e778f0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88850",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88850/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88850",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "85AE6851F8E16785C4ED45A3F7709276",
+    "label": "上州磯部鉱泉場一覧之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上州磯部鉱泉場一覧之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-026-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治19年9月25日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "著者・出版人：本郷区根津藍染町20 静岡県士族 益池龍之助／販売人：下谷区下谷北稲荷11 長谷川栄三郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34×50"
+        },
+        {
+            "label": "year",
+            "value": "1886"
+        },
+        {
+            "label": "identifier",
+            "value": "a352eec7-d98d-4c71-88d0-905a19333918"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0474"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f8b97aced076d35a2e9492cde4d070be22e778f0.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a352eec7-d98d-4c71-88d0-905a19333918/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "85AE6851F8E16785C4ED45A3F7709276",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【表題】\n上州磯部鉱泉場一覧之図\n\n【本文】\n明治十九年八月予偶閑ヲ得テ上野国碓氷郡西上磯部村ノ鉱泉ニ浴シテ宿痾ヲ医ス\n其地碓氷川ノ清流ニ沿ヒ溪風水面ヲ掃ヒ来リ清凉掬スヘシ精神頓ニ爽快ナラ\nシム且近傍勝地ニ富メリ西北二里許ニシテ白雲山アリ妙義神社結構高古断\n嵓絶壁之レヲ繞リ老杉長槐天ヲ蔽フ該村ヨリ社下ニ至ル道路平坦車馬往来ス\n中ノ岳四大石門ノ如キハ本邦無双ノ奇観ト云フベシ又浅間ノ噴煙碓氷ノ畳嶂\n及東赤城北榛名等ノ群山ヲ望ミ 風景頗ル絶佳其勝地ヲ探討セント欲ス\nルモ里程ノ遠近行路ノ便否等ヲ記スルモノ其地ニ備ハラス実ニ憾ナシトセス故ニ\n今此概図ヲ作リ以テ後来浴者ノ便ニ供スト云フ\n　附言鉱泉ノ湧出ハ古ヨリアルモノヽ如シ而シテ治病ノ用ニ供スルコト又久シ但其年所\n　ヲ詳ニセスト云フ近頃鉄道布設ニ際シ停車場ヲ該地ニ置カル浴客ハ大ニ往復ノ便ヲ\n　得里人ハ浴場改良ニ注意シ頗ル旺盛ノ状アリ旅舎ハ林屋、湯本、山城軒、鳳来館、\n　三景楼、共寿館等、高濶ナル新築ノ家屋ニシテ構造雅致其待遇尤モ\n　懇切ナリ\n　鉱泉医治効用ノ概略ハ胃弱、慢性腸胃加答児、血液不良、呑酸、肝臓病、\n　便秘、僂麻質斯、神経痛、皮膚病、肺労、気管支加答児、胸腹膜\n　炎、月経不順、子宮病、其他諸症ニ効アリ浴後常水ニテ能ク全身\n　ヲ洗フベシト云フ\n\n【下枠内】\n　　　里程表\n安中ヘ　一リ廿丁\n板鼻ヘ　二リ十丁\n高崎ヘ　五リ\n原市ヘ　廿七丁\n一ノ宮ヘ一リ十八丁\n富岡ヘ　二リ\n妙義ヘ　二リ十丁\n下仁田ヘ四リ余\n榛名ヘ　七リ余\n松井田ヘ一リ十八丁\n阪本へ　三リ廿丁\n\n【左端、上側の枠内】\n明治十九年八月十八日出版　御届\n同　　　　九月廿五日刻成\n\n【左端、下側の枠内】\n東京本郷根津藍染町廿番地\n　　　静岡県士族\n著者兼出版人　　　益池龍之助\n\n同下谷区下谷北稲荷町十一番地\n販売人　　　　　長谷川栄三郎\n",
+            "text": "【表題】\n上州磯部鉱泉場一覧之図\n\n【本文】\n明治十九年八月予偶閑ヲ得テ上野国碓氷郡西上磯部村ノ鉱泉ニ浴シテ宿痾ヲ医ス\n其地碓氷川ノ清流ニ沿ヒ溪風水面ヲ掃ヒ来リ清凉掬スヘシ精神頓ニ爽快ナラ\nシム且近傍勝地ニ富メリ西北二里許ニシテ白雲山アリ妙義神社結構高古断\n嵓絶壁之レヲ繞リ老杉長槐天ヲ蔽フ該村ヨリ社下ニ至ル道路平坦車馬往来ス\n中ノ岳四大石門ノ如キハ本邦無双ノ奇観ト云フベシ又浅間ノ噴煙碓氷ノ畳嶂\n及東赤城北榛名等ノ群山ヲ望ミ 風景頗ル絶佳其勝地ヲ探討セント欲ス\nルモ里程ノ遠近行路ノ便否等ヲ記スルモノ其地ニ備ハラス実ニ憾ナシトセス故ニ\n今此概図ヲ作リ以テ後来浴者ノ便ニ供スト云フ\n　附言鉱泉ノ湧出ハ古ヨリアルモノヽ如シ而シテ治病ノ用ニ供スルコト又久シ但其年所\n　ヲ詳ニセスト云フ近頃鉄道布設ニ際シ停車場ヲ該地ニ置カル浴客ハ大ニ往復ノ便ヲ\n　得里人ハ浴場改良ニ注意シ頗ル旺盛ノ状アリ旅舎ハ林屋、湯本、山城軒、鳳来館、\n　三景楼、共寿館等、高濶ナル新築ノ家屋ニシテ構造雅致其待遇尤モ\n　懇切ナリ\n　鉱泉医治効用ノ概略ハ胃弱、慢性腸胃加答児、血液不良、呑酸、肝臓病、\n　便秘、僂麻質斯、神経痛、皮膚病、肺労、気管支加答児、胸腹膜\n　炎、月経不順、子宮病、其他諸症ニ効アリ浴後常水ニテ能ク全身\n　ヲ洗フベシト云フ\n\n【下枠内】\n　　　里程表\n安中ヘ　一リ廿丁\n板鼻ヘ　二リ十丁\n高崎ヘ　五リ\n原市ヘ　廿七丁\n一ノ宮ヘ一リ十八丁\n富岡ヘ　二リ\n妙義ヘ　二リ十丁\n下仁田ヘ四リ余\n榛名ヘ　七リ余\n松井田ヘ一リ十八丁\n阪本へ　三リ廿丁\n\n【左端、上側の枠内】\n明治十九年八月十八日出版　御届\n同　　　　九月廿五日刻成\n\n【左端、下側の枠内】\n東京本郷根津藍染町廿番地\n　　　静岡県士族\n著者兼出版人　　　益池龍之助\n\n同下谷区下谷北稲荷町十一番地\n販売人　　　　　長谷川栄三郎\n",
+            "timestamp": {
+                "_nanoseconds": 650000000,
+                "_seconds": 1570703962
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

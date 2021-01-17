@@ -1,0 +1,242 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2afd08bc633845da8a7c8f7d237e8c8d20515242.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88806",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88806/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88806",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4e11915796283e9db0ad729ae4c91b0375b49ce2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219902",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219902/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219902",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4565f979805ab58ffa4df6eb40e00530af06f575.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219903",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219903/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219903",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "AFA8084F781BCE637EE6CA4836B688DF",
+    "label": "[富士山図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富士山図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-013"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永1年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "(貞秀画)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "95×100"
+        },
+        {
+            "label": "year",
+            "value": "1848"
+        },
+        {
+            "label": "identifier",
+            "value": "42de1b4a-01ad-4d05-bbe2-11a494787d5b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0426"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 3,
+    "projectId": "ishimoto",
+    "size": 3,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2afd08bc633845da8a7c8f7d237e8c8d20515242.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "AFA8084F781BCE637EE6CA4836B688DF",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n恵□し岩\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n□し岩\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n",
+            "text": "【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n【タイトルなし】\n【図右脇】\n絶頂釈迦割石ヨリ\n甲州身延山西\n五分ニ見　飛州乗鞍嶽西ノ九分ニ見\n信州諏訪戌亥ニ見\n勢至ヶ窪ヨリ\n駿州沼津駅\n巳八分\n豆州下田ノ湊\n丑六分\n大島巳二分\n三宅島丑正中\n観音ヶ嶽ヨリ\n相州江ノ島\n卯二分\n豆州天城山\n巳五分\n【図中央上】\nふしのやま\nのほりて見れは\n何もなし\nよきもあしきも\nわかこゝろなり\n【図中央下】\n三国の\nふしの\n裾野ゝ\nにし郷に\n南無阿弥\n陀仏の\n浄土あり\nけり\n恵□し岩\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n□し岩\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n\nみろくの\nたけと\n□□て三方\n目出たふ\n戸をさらぬ\n御世\n山真元子録\n",
+            "timestamp": {
+                "_nanoseconds": 126000000,
+                "_seconds": 1580082261
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "AFA8084F781BCE637EE6CA4836B688DF",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし】\n【図下】\n叙\n惟嶽為鎭\n□【□：奥か】棲僊真\n于養動\n植于利\n人民無言\n無語協于\n至仁山名不二\n実絶等倫正応\n\n臻志図便問津于肖其象\n高擬其身序学羅願韻\n語敷陳摺畳為帖観覧\n惟新克恭克敬百福来臻\n豈云無益懐袖之珍\n　嘉永戊申六月　　澤口正應\n\n富士之嶽為邦之鎭羣蛮所仰而未有\n詳記之者也窃以為憾因著冨士山志\n偶澤口正應有作冨士山図之挙屡来\n詢謀同心経営更欲登陟以窮幽\n隠更作善図以副山志志藁垂\n成将謀嗣刻\n　　　　　日下部　百枝\n万葉集三　詠不尽山歌并短歌\n　　　　　　　　高橋虫麻呂\n奈麻余美乃甲斐乃\n国、打緑流駿河能国\n與、己知其智乃、国之\n三中従、出之有不\n尽能\n高嶺者、云云\n\n本朝文粋十二\n冨士山記\n都良香\n冨士山者在駿\n河国峯如削成直\n聳属天其高不可\n測云云\n\n伊勢物語\n時志らぬ山は\nふしのね\nいつとてか\nかのこまたらに\n雪のふるらん\n　　　　　業平\n\n文章私集\n次九巌老師富士峯韻\n　　　　　　　朝鮮　翠屏\n風俗三韓比屋封古禅方\n丈有仙蹤華人亦願生東\n国一見金剛白玉峯\n\n人とはくいかゝつたへん\n　ことのはに及はぬ\n　　　　　　ふしの\n　　　　　　雪の\n　　　　　　あ□□\n□の\n読谷山王子\n　　　朝恒\n【図の左下角】\n和訓□【□：栞か】二十六　ふじ\n甲州上吉田村大鳥居より\n山頂まで三百五十七町十\n七間\n世事百譚三\n駿河の吉原宿より富士\n山の頂まで二百十六町二\n分一六＜割書：中｜畧＞里にすれ\nば六里〇〇六〇となれ\nり山の高さは三十五町六\n分二一六三\n【図の左上】\n【コマ一の図右脇と同文、略す】\n",
+            "text": "【タイトルなし】\n【図下】\n叙\n惟嶽為鎭\n□【□：奥か】棲僊真\n于養動\n植于利\n人民無言\n無語協于\n至仁山名不二\n実絶等倫正応\n\n臻志図便問津于肖其象\n高擬其身序学羅願韻\n語敷陳摺畳為帖観覧\n惟新克恭克敬百福来臻\n豈云無益懐袖之珍\n　嘉永戊申六月　　澤口正應\n\n富士之嶽為邦之鎭羣蛮所仰而未有\n詳記之者也窃以為憾因著冨士山志\n偶澤口正應有作冨士山図之挙屡来\n詢謀同心経営更欲登陟以窮幽\n隠更作善図以副山志志藁垂\n成将謀嗣刻\n　　　　　日下部　百枝\n万葉集三　詠不尽山歌并短歌\n　　　　　　　　高橋虫麻呂\n奈麻余美乃甲斐乃\n国、打緑流駿河能国\n與、己知其智乃、国之\n三中従、出之有不\n尽能\n高嶺者、云云\n\n本朝文粋十二\n冨士山記\n都良香\n冨士山者在駿\n河国峯如削成直\n聳属天其高不可\n測云云\n\n伊勢物語\n時志らぬ山は\nふしのね\nいつとてか\nかのこまたらに\n雪のふるらん\n　　　　　業平\n\n文章私集\n次九巌老師富士峯韻\n　　　　　　　朝鮮　翠屏\n風俗三韓比屋封古禅方\n丈有仙蹤華人亦願生東\n国一見金剛白玉峯\n\n人とはくいかゝつたへん\n　ことのはに及はぬ\n　　　　　　ふしの\n　　　　　　雪の\n　　　　　　あ□□\n□の\n読谷山王子\n　　　朝恒\n【図の左下角】\n和訓□【□：栞か】二十六　ふじ\n甲州上吉田村大鳥居より\n山頂まで三百五十七町十\n七間\n世事百譚三\n駿河の吉原宿より富士\n山の頂まで二百十六町二\n分一六《割書：中｜畧》里にすれ\nば六里〇〇六〇となれ\nり山の高さは三十五町六\n分二一六三\n【図の左上】\n【コマ一の図右脇と同文、略す】\n",
+            "timestamp": {
+                "_nanoseconds": 499000000,
+                "_seconds": 1580082373
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/42de1b4a-01ad-4d05-bbe2-11a494787d5b/canvas/p3",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "AFA8084F781BCE637EE6CA4836B688DF",
+            "index": 2,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし】\n【コマ二の図の右脇下に部分的に□中胎内之図を貼り付けたもの】\n【貼り付け図の上部中央】\n□【□：当か】山の裾野にあ\n□【□：り か】穴の中なた□\n□をの□の□形\n□【□：さ か】なから胞衣の\n□し実に天然の\n□巧人の目をお\n□【□：ど か】ろかしむよ□【□：り か】\n□【□：て か】図中に画んと\n□【□：す か】るに紙上せま\n□【□：く か】して□に□し\n□たし刻に画工を\n□【□：し か】てその状を□\n□して有信の\n□のに□□\n【コマ二と同じ画像の部分の翻刻は省略】\n",
+            "text": "【タイトルなし】\n【コマ二の図の右脇下に部分的に□中胎内之図を貼り付けたもの】\n【貼り付け図の上部中央】\n□【□：当か】山の裾野にあ\n□【□：り か】穴の中なた□\n□をの□の□形\n□【□：さ か】なから胞衣の\n□し実に天然の\n□巧人の目をお\n□【□：ど か】ろかしむよ□【□：り か】\n□【□：て か】図中に画んと\n□【□：す か】るに紙上せま\n□【□：く か】して□に□し\n□たし刻に画工を\n□【□：し か】てその状を□\n□して有信の\n□のに□□\n【コマ二と同じ画像の部分の翻刻は省略】\n",
+            "timestamp": {
+                "_nanoseconds": 839000000,
+                "_seconds": 1580082495
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

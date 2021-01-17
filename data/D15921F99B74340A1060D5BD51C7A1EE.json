@@ -1,0 +1,183 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e438ffe271d6dbca9f2c87d4a29055c60d8cf8ed.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56128",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56128/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56128",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2e54fde2bd1d50febee1b8f42c9ee1fb221f4038.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56129",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56129/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56129",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "hidden": true,
+    "id": "D15921F99B74340A1060D5BD51C7A1EE",
+    "label": "一ふくにてこりこりの薬妙ゆり出し",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "一ふくにてこりこりの薬妙ゆり出し"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-01-002からII-01-007は6枚続き"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "975ebb8a-129a-445d-91cc-ee84cc1532ee"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1005"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e438ffe271d6dbca9f2c87d4a29055c60d8cf8ed.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p1",
+            "editedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "entryId": "D15921F99B74340A1060D5BD51C7A1EE",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "tempText": "一ふくにてこり〳〵薬\n　妙ゆり出し　\n　かた〳〵ふるへるに妙なり\n【右表題の下】\n　但し\n　／質（しち）やの／内（うち）\n　ていりなく候間\n　　一名／不自由散（ふじゆうさん）と申候\n\n　　気ばかりながらつよひ／口上（ごうじやう）奉申上候\n一／抑此妙（そもこのめう）ゆりだしくづれの義ハ／先年信州（せんねんしんしう）にて／揺（ゆり）弘め候所大ゆれ大難渋\n　仕候間／決（けつ）して／他国（たこく）へせりゆりかしゆり／一切（いつせつ）致さず候所／近年諸（きんねんしよ）国に／紛敷（まきらしき）\nにせくづれ相見へ申候／別（べつ）して／京大坂東（きやうおほさかとう）かいどう／筋（すぢ）をおしゆり致し又々\n江戸／表（おもて）までもにせくづれ出しゆり仕／其上火事木（そのうへくわじき）とうをあげしごく\nぐらちの義二付／急度（きつと）ゆりどめ申付／私方（わたくしかた）いつほうゆりに仕候／尤最（もつともも）うたん\nとハゆり申さず当十月／限（かき）りにゆり／子（こ）へ申／渡（わたし）候間／逃出（にげだ）し／野宿（のしゆく）の御さわき\nなく／御安心（ごあんしん）被成／楽々（らく〳〵）と御／夫婦中（ふうふなか）よく／夜中（よなか）のゆり／出（だ）し候ぢしんに／毎夜〳〵（まいよ〳〵）二は\n二三ぶくづゝ御用ひ可被成候ハゝ／御子孫繁昌（ごしそんはんじやう）致しのらくらの御子供衆ハ\n無御座候間しつかり御だきつき被成アゝモウいつそいゝ／世（よ）の／中（なか）と／御評判（ごひやうばん）被成\n御求可被下候以上\n\n　　　／効能（かうのう）\n一《割書：目のまハるやうに｜いそがしい》／職人（しよくにん）一《割書：目のかすむのハ｜帳合さし引》／材木屋（さいもくや）一《割書：ねつのやうに｜あせをかく》車力一《割書：かたの｜はつた》日雇\n一《割書：よあかしで｜風を引た》／人入（ひといれ）一《割書：づつうに｜やんだ》／借金（しやくきん）一《割書：なんじうの｜やまひに》／施行（ほどこし）\n\n　　　　／禁物（きんもつ）\n一／高利座頭（こうりざとう）一／地面持（ぢめんもち）一／株持（かぶもち）一うけ／取（とり）《割書：なんでもとりる糾明一切いむなり》一／諸芸人参（しよげいにんじん）\n一／猫（ねこ）のぺん〳〵／草（くさ）并二《割書：大だいて｜小だいて》一／土蔵粉（どぞうこ）にしてミなこの／類（るい）いむべし\n〇用様《割書：二日のばんにぐわら〳〵と一度大きくゆり出しあとハたび〳〵ゆら〳〵とゆり出して｜人の手をかりずぢしんに用ひべし又せんぢるにハ火の用心を第一にすべし》\n\n　　　　　　　　こゝハどこ〳〵かまいいとうすぢしつかりとうけあつた町百丁目\n〇／本家取押糾明所（ほんけとりおさへきうめいところ）　　／要屋石蔵（かなめやいしさう）印\n\n\n\n\n\n\n\n",
+            "text": "一ふくにてこり〳〵薬\n　妙ゆり出し　\n　かた〳〵ふるへるに妙なり\n【右表題の下】\n　但し\n　／質（しち）やの／内（うち）\n　ていりなく候間\n　　一名／不自由散（ふじゆうさん）と申候\n\n　　気ばかりながらつよひ／口上（ごうじやう）奉申上候\n一／抑此妙（そもこのめう）ゆりだしくづれの義ハ／先年信州（せんねんしんしう）にて／揺（ゆり）弘め候所大ゆれ大難渋\n　仕候間／決（けつ）して／他国（たこく）へせりゆりかしゆり／一切（いつせつ）致さず候所／近年諸（きんねんしよ）国に／紛敷（まきらしき）\nにせくづれ相見へ申候／別（べつ）して／京大坂東（きやうおほさかとう）かいどう／筋（すぢ）をおしゆり致し又々\n江戸／表（おもて）までもにせくづれ出しゆり仕／其上火事木（そのうへくわじき）とうをあげしごく\nぐらちの義二付／急度（きつと）ゆりどめ申付／私方（わたくしかた）いつほうゆりに仕候／尤最（もつともも）うたん\nとハゆり申さず当十月／限（かき）りにゆり／子（こ）へ申／渡（わたし）候間／逃出（にげだ）し／野宿（のしゆく）の御さわき\nなく／御安心（ごあんしん）被成／楽々（らく〳〵）と御／夫婦中（ふうふなか）よく／夜中（よなか）のゆり／出（だ）し候ぢしんに／毎夜〳〵（まいよ〳〵）二は\n二三ぶくづゝ御用ひ可被成候ハゝ／御子孫繁昌（ごしそんはんじやう）致しのらくらの御子供衆ハ\n無御座候間しつかり御だきつき被成アゝモウいつそいゝ／世（よ）の／中（なか）と／御評判（ごひやうばん）被成\n御求可被下候以上\n\n　　　／効能（かうのう）\n一《割書：目のまハるやうに｜いそがしい》／職人（しよくにん）一《割書：目のかすむのハ｜帳合さし引》／材木屋（さいもくや）一《割書：ねつのやうに｜あせをかく》車力一《割書：かたの｜はつた》日雇\n一《割書：よあかしで｜風を引た》／人入（ひといれ）一《割書：づつうに｜やんだ》／借金（しやくきん）一《割書：なんじうの｜やまひに》／施行（ほどこし）\n\n　　　　／禁物（きんもつ）\n一／高利座頭（こうりざとう）一／地面持（ぢめんもち）一／株持（かぶもち）一うけ／取（とり）《割書：なんでもとりる糾明一切いむなり》一／諸芸人参（しよげいにんじん）\n一／猫（ねこ）のぺん〳〵／草（くさ）并二《割書：大だいて｜小だいて》一／土蔵粉（どぞうこ）にしてミなこの／類（るい）いむべし\n〇用様《割書：二日のばんにぐわら〳〵と一度大きくゆり出しあとハたび〳〵ゆら〳〵とゆり出して｜人の手をかりずぢしんに用ひべし又せんぢるにハ火の用心を第一にすべし》\n\n　　　　　　　　こゝハどこ〳〵かまいいとうすぢしつかりとうけあつた町百丁目\n〇／本家取押糾明所（ほんけとりおさへきうめいところ）　　／要屋石蔵（かなめやいしさう）印\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 270000000,
+                "_seconds": 1607490280
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/975ebb8a-129a-445d-91cc-ee84cc1532ee/canvas/p2",
+            "editedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "entryId": "D15921F99B74340A1060D5BD51C7A1EE",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "tempText": "＜蔵書印：東京大学図書之印＞",
+            "text": "《蔵書印：東京大学図書之印》",
+            "timestamp": 1567574900881
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

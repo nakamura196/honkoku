@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/151796b2b54f6b689f82d83557122c03511ef616.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88811",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88811/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88811",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "3FF2020223B8268ED28C7EF8B1070EBF",
+    "label": "富士山神宮麓八海北口正面略絵図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士山神宮麓八海北口正面略絵図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-018"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×53"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-03-015"
+        },
+        {
+            "label": "identifier",
+            "value": "365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0431"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/151796b2b54f6b689f82d83557122c03511ef616.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/365ffeab-7ec1-4e6d-9b29-4bfe0649c6bc/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "3FF2020223B8268ED28C7EF8B1070EBF",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\n富士山神宮麓八海北口正面略絵図\n\n【本文】\n夫三国第一富士山万国無双霊山\n諸神仙元境たり故称【す】富士仙元大神\n　祭神三座\n天津彦々火瓊々杵尊\n　　大屋萬津美命\n　　木花開耶姫命\n　加祭　小御嶽社\n　　　　岩長姫命\n　　　　素戔嗚尊\n\n神記曰皇御孫尊天降【り】先【す】\n娶【り】大山祇命之女開耶姫命を\n三子【を】生【？】狭名田【の】稲を以【て】天甜\n酒【を】醸し乳味【を】通し玉ふ安産を守り\n又八尋殿【に】座【？】繊維【を】玉【ふ】是婦人\n一道守護也然に人皇五代迄【は】\n雲霧【に】被に【れ】圍世上奉る拝事を\n不得同六代孝安天皇九十\n二年庚申【の】夏漸雲霧晴【れ】\n万国【の】貴賎奉【る】拝之同十二代\n景行天皇五十二年皇子\n日本武尊東夷御狩の時\n富士山北口迄啓行被為遊\n勅【る】命に此山南景に出現の山也\n然広き子方より世人【に】可為拝\n仮に大鳥居建立三国第一山と\n勅額【を】奉掛右略焉也\n\n【左端枠内】\n当社大鳥居高さ五丈八尺五寸\n大さ差渡壱丈五寸唯一本木也\n御額大さ竪九尺横六尺楠板二\n品親王の御筆則三国第一山\nと有手水石一丈五寸に二間二尺\n竪四尺七寸の石手水屋の柱\n石也石橋一丈二尺【に】一丈六尺の\n石以二牧為浮橋本道石燈篭\n凡百五十対余右略焉也\n\n【左下枠内】\n富士山鈴原\n　　壱岳より出\n\n【本文中カッコ内のかなは、本資料でははっきりしないが、富士北吉田住　田辺豊久と署名のある同名・同文(各行の改行位置は異なる)文書の記述をもとに加えた。なお、参照資料の加祭に素戔嗚尊は載っていない。】",
+            "text": "【表題】\n富士山神宮麓八海北口正面略絵図\n\n【本文】\n夫三国第一富士山万国無双霊山\n諸神仙元境たり故称【す】富士仙元大神\n　祭神三座\n天津彦々火瓊々杵尊\n　　大屋萬津美命\n　　木花開耶姫命\n　加祭　小御嶽社\n　　　　岩長姫命\n　　　　素戔嗚尊\n\n神記曰皇御孫尊天降【り】先【す】\n娶【り】大山祇命之女開耶姫命を\n三子【を】生【？】狭名田【の】稲を以【て】天甜\n酒【を】醸し乳味【を】通し玉ふ安産を守り\n又八尋殿【に】座【？】繊維【を】玉【ふ】是婦人\n一道守護也然に人皇五代迄【は】\n雲霧【に】被に【れ】圍世上奉る拝事を\n不得同六代孝安天皇九十\n二年庚申【の】夏漸雲霧晴【れ】\n万国【の】貴賎奉【る】拝之同十二代\n景行天皇五十二年皇子\n日本武尊東夷御狩の時\n富士山北口迄啓行被為遊\n勅【る】命に此山南景に出現の山也\n然広き子方より世人【に】可為拝\n仮に大鳥居建立三国第一山と\n勅額【を】奉掛右略焉也\n\n【左端枠内】\n当社大鳥居高さ五丈八尺五寸\n大さ差渡壱丈五寸唯一本木也\n御額大さ竪九尺横六尺楠板二\n品親王の御筆則三国第一山\nと有手水石一丈五寸に二間二尺\n竪四尺七寸の石手水屋の柱\n石也石橋一丈二尺【に】一丈六尺の\n石以二牧為浮橋本道石燈篭\n凡百五十対余右略焉也\n\n【左下枠内】\n富士山鈴原\n　　壱岳より出\n\n【本文中カッコ内のかなは、本資料でははっきりしないが、富士北吉田住　田辺豊久と署名のある同名・同文(各行の改行位置は異なる)文書の記述をもとに加えた。なお、参照資料の加祭に素戔嗚尊は載っていない。】",
+            "timestamp": {
+                "_nanoseconds": 738000000,
+                "_seconds": 1570426315
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

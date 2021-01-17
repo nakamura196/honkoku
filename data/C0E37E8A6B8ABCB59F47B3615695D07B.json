@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/892a284b8b1d4a40dd0181704ffcdec08ed09069.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88633",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88633/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88633",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C0E37E8A6B8ABCB59F47B3615695D07B",
+    "label": "難中時世の近在借家",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "難中時世の近在借家"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-030"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0253"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/892a284b8b1d4a40dd0181704ffcdec08ed09069.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/62e0dbd3-dd4d-4b3f-8a9a-8157c7bc2e4a/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "C0E37E8A6B8ABCB59F47B3615695D07B",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【表題】\n＜割書：おつま｜八郎兵衛＞難中（なんじう）時世（ときよ）の近在借家（いなかや）\n\n【本文】\n〽世（よ）の中（なか）の、またとあるまひ大騒（おほさわぎ）こん\n度（ど）まごつく気（き）苦労（ぐろう）はふゐに往（い）かれ\nぬ、縁者（えんしや）でもせ（合わ□）めてくわして\nいなか家（や）の、こまるといへど、\nかりの舎（やど）誰（合　たれ）もお江戸を、跡（あと）に\nして、へんぴへいそぐ旅心（たびごゝろ）重（おも）\nき包（つゝみ）をさしになひ\n〽コリヤたまりませぬ走（はし）る\n人さんどもに往（い）かふとま\nご〳〵して、アノ下町（したまち）をでぬ先（さき）\nは、たとへ日々のらにもでるかくご、\nしらぬ遠方（えんぽ）でたゞひとり\nひつそりくらすやうになり\nかなしう思（おも）ふもせかいがら\n",
+            "text": "【表題】\n《割書：おつま｜八郎兵衛》難中（なんじう）時世（ときよ）の近在借家（いなかや）\n\n【本文】\n〽世（よ）の中（なか）の、またとあるまひ大騒（おほさわぎ）こん\n度（ど）まごつく気（き）苦労（ぐろう）はふゐに往（い）かれ\nぬ、縁者（えんしや）でもせ（合わ□）めてくわして\nいなか家（や）の、こまるといへど、\nかりの舎（やど）誰（合　たれ）もお江戸を、跡（あと）に\nして、へんぴへいそぐ旅心（たびごゝろ）重（おも）\nき包（つゝみ）をさしになひ\n〽コリヤたまりませぬ走（はし）る\n人さんどもに往（い）かふとま\nご〳〵して、アノ下町（したまち）をでぬ先（さき）\nは、たとへ日々のらにもでるかくご、\nしらぬ遠方（えんぽ）でたゞひとり\nひつそりくらすやうになり\nかなしう思（おも）ふもせかいがら\n",
+            "timestamp": {
+                "_nanoseconds": 761000000,
+                "_seconds": 1569425035
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

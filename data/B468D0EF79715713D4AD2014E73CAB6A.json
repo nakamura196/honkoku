@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3007fe7b72d2ad697d5b0ce26871a3a8639fc786.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88853",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88853/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88853",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "B468D0EF79715713D4AD2014E73CAB6A",
+    "label": "七湯方角略図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "七湯方角略図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "広重模写／福住九蔵板"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33×47"
+        },
+        {
+            "label": "identifier",
+            "value": "858e2491-b15f-4fc9-bb4b-25a7895b080b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0477"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3007fe7b72d2ad697d5b0ce26871a3a8639fc786.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/858e2491-b15f-4fc9-bb4b-25a7895b080b/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "B468D0EF79715713D4AD2014E73CAB6A",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "七湯方角略図\n【左上】\n応需\n広重\n模写\n【右下枠内】\n湯本温泉ヨリ 諸方道法\n三枚橋エ　　六丁余\n小田原エ　　壱里半余\n登リ往還エ　四　丁\n湯本立場エ　七丁余\n畑　宿エ　　壱里八丁\n御関所エ　　二里半余\n塔之沢エ　　十二丁余\n堂ヶ島エ　　二　里\n宮之下エ　　二里余\n底　倉エ　　二里半\n木　賀エ　　二里半余\n芦之湯エ　　四里余\n　　　福住九蔵板",
+            "text": "七湯方角略図\n【左上】\n応需\n広重\n模写\n【右下枠内】\n湯本温泉ヨリ 諸方道法\n三枚橋エ　　六丁余\n小田原エ　　壱里半余\n登リ往還エ　四　丁\n湯本立場エ　七丁余\n畑　宿エ　　壱里八丁\n御関所エ　　二里半余\n塔之沢エ　　十二丁余\n堂ヶ島エ　　二　里\n宮之下エ　　二里余\n底　倉エ　　二里半\n木　賀エ　　二里半余\n芦之湯エ　　四里余\n　　　福住九蔵板",
+            "timestamp": {
+                "_nanoseconds": 183000000,
+                "_seconds": 1572133988
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

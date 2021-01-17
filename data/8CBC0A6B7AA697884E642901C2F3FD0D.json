@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5592,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/04ad0c17797c786d96e83cc3e3ac7d7d5fadeac1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5592,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56199",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7442
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56199/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56199",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7442
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5592,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ce9d4e65faba799b116f6436858806ed3f9b3b67.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5592,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56200",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7442
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56200/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56200",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7442
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "8CBC0A6B7AA697884E642901C2F3FD0D",
+    "label": "生捕ました三度の大地震",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "生捕ました三度の大地震"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-023"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "2fe5f21a-fa37-4dc6-9753-755df1ef3faa"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1040"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/04ad0c17797c786d96e83cc3e3ac7d7d5fadeac1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "8CBC0A6B7AA697884E642901C2F3FD0D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n生捕（いけどり）ました三（さん）度の大 地震（ぢしん）\n【右上】\nだいく\n〽ヱヽモシだんなこのてへくのわるひ\nところはとくといひきけやして\nとも〴〵おわびをいたしやしゆうから\nまアともかくもわつちらにおあづけ\nなすつてくださいやしじつのことわつちら\nはじめでくやらうまで日壱分とつて\nすきなすゐをたらふく けづり（呑）やすのも\nこのしやつのおかげでごぜへやすから\nみにかへてもこのおわびを□くさにや\nありやせんのヲかしら\nとびの者\n〽そうさ〳〵おめへのいふとをり\nこんなことでもなくつ\nちやアあいつのつらア\n見にゆくこともでぎやせんモシ〳〵\nこらア一ばん\nわつちらが\nつらアたてゝくだ\nせへましな\nたくわん\n〽あのしゆうの申\nますとをり人の\nうれひをよろこぶ\nのではございませんが\nこんなことでもなけ\nりやアはなのしたが\nひあがりますのヲ\nやゆ屋さんあゆへなん\n【破れ】□そふじやアねへか\n【破れ】\n〽ほんとうにさ\nつくろひし一ど\nぐれいしてゐた\n日にやアすきな\nこ□の水がのめや\nせんこちとらが\nためにや力\nいはぐいの\nちのおや\nどうゼんで\nござり\nます\nどうぞ△\n【左下】\n△かんべんして\nやつてくださひ\nまし\nや師\n〽へヱ〳〵わたくし\nなんぞもぢしんさまの\nおかけで五ほんや六本のお\nあしハあさのうちにとり升\nからぢしんまへのこめ\nやのかりも五つき\nたまつたたな\nちんもすつ\nはり【破れ】\nそ【破れ】\nらもおかん□【破れ】\nなすつて\nとうかこんどの\nところはお見\nのがしください\nまし\nて\nならふ\nことなら\nかり\nなく\nなつた\nじふん\nおつか\nまへくだ\nさいまし\nまたぜに\nもうげが\nできます\nからトてまへ\nがつてをならべ\nだてゝごた〳〵※\n※わびことを\nするにかしまの\nかみもこゝろにおか\nしくわらひをふくみ\nけるがわさとこゑをあららげ\n〽イヽヤならぬかゝるつみ\nあるやつをゆるしおき\nなば日本六十餘州の\nなまづどもよきことに\nこゝろへまた〳〵□□に\nしよ人ににうなんぎをさセ\n市中（しちう）を大 家破（かば）やきになさんも\nはかられねばいごのみせしめに\nなべやきのけいにおこなふべしと\nさらにきゝいれ給はざればせんかた\nなくみな〳〵ためいきをつきながら\n　　〽ユリせまアとらせう汁\n　　　　　　しらひやした\n\n\n",
+            "text": "【タイトル】\n生捕（いけどり）ました三（さん）度の大 地震（ぢしん）\n【右上】\nだいく\n〽ヱヽモシだんなこのてへくのわるひ\nところはとくといひきけやして\nとも〴〵おわびをいたしやしゆうから\nまアともかくもわつちらにおあづけ\nなすつてくださいやしじつのことわつちら\nはじめでくやらうまで日壱分とつて\nすきなすゐをたらふく けづり（呑）やすのも\nこのしやつのおかげでごぜへやすから\nみにかへてもこのおわびを□くさにや\nありやせんのヲかしら\nとびの者\n〽そうさ〳〵おめへのいふとをり\nこんなことでもなくつ\nちやアあいつのつらア\n見にゆくこともでぎやせんモシ〳〵\nこらア一ばん\nわつちらが\nつらアたてゝくだ\nせへましな\nたくわん\n〽あのしゆうの申\nますとをり人の\nうれひをよろこぶ\nのではございませんが\nこんなことでもなけ\nりやアはなのしたが\nひあがりますのヲ\nやゆ屋さんあゆへなん\n【破れ】□そふじやアねへか\n【破れ】\n〽ほんとうにさ\nつくろひし一ど\nぐれいしてゐた\n日にやアすきな\nこ□の水がのめや\nせんこちとらが\nためにや力\nいはぐいの\nちのおや\nどうゼんで\nござり\nます\nどうぞ△\n【左下】\n△かんべんして\nやつてくださひ\nまし\nや師\n〽へヱ〳〵わたくし\nなんぞもぢしんさまの\nおかけで五ほんや六本のお\nあしハあさのうちにとり升\nからぢしんまへのこめ\nやのかりも五つき\nたまつたたな\nちんもすつ\nはり【破れ】\nそ【破れ】\nらもおかん□【破れ】\nなすつて\nとうかこんどの\nところはお見\nのがしください\nまし\nて\nならふ\nことなら\nかり\nなく\nなつた\nじふん\nおつか\nまへくだ\nさいまし\nまたぜに\nもうげが\nできます\nからトてまへ\nがつてをならべ\nだてゝごた〳〵※\n※わびことを\nするにかしまの\nかみもこゝろにおか\nしくわらひをふくみ\nけるがわさとこゑをあららげ\n〽イヽヤならぬかゝるつみ\nあるやつをゆるしおき\nなば日本六十餘州の\nなまづどもよきことに\nこゝろへまた〳〵□□に\nしよ人ににうなんぎをさセ\n市中（しちう）を大 家破（かば）やきになさんも\nはかられねばいごのみせしめに\nなべやきのけいにおこなふべしと\nさらにきゝいれ給はざればせんかた\nなくみな〳〵ためいきをつきながら\n　　〽ユリせまアとらせう汁\n　　　　　　しらひやした\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 759000000,
+                "_seconds": 1575641411
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2fe5f21a-fa37-4dc6-9753-755df1ef3faa/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "8CBC0A6B7AA697884E642901C2F3FD0D",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【コマ１の裏】\n【東京大学図書館の蔵書印と整理番号のみ】\n",
+            "text": "【コマ１の裏】\n【東京大学図書館の蔵書印と整理番号のみ】\n",
+            "timestamp": {
+                "_nanoseconds": 38000000,
+                "_seconds": 1575642063
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2161,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/95b885fd5e35cd4049814a0a429b65a2f347b338.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2161,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88437",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88437/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88437",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "0D643A40B496D517D41266AF5E746DA5",
+    "label": "安政二年十月二日夜大地震鯰問答",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政二年十月二日夜大地震鯰問答"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23.5×36"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "bc8bb005-55af-4cdf-a5fd-f686fc53667f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0057"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/95b885fd5e35cd4049814a0a429b65a2f347b338.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc8bb005-55af-4cdf-a5fd-f686fc53667f/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "0D643A40B496D517D41266AF5E746DA5",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "＜題：＜割書：安政二年｜十月二日夜＞大地震鯰問答＞\n\n＜囲い書き：なまづ＞\nヤアあめりかのへげたれめ此日本をばかにして二三ねん\nあとからおしをつよくもきやアがるうぬらがくるので江戸の\nまちがそうぞうしいやくにもたたねへかうゑきなんぞ\nとりかへべいハよしてくれ江戸中あるくあめうりで\nたくさんだ用ハねへからはやくしりにほをかけて\nかぢをなをしてさつさと立され立され\n＜囲い書き：アメリカ＞\nなにをこしやくなまづぼうずてまへ\nたちのしるところでねへおらが国ハ\nおじひな国でしよく人でもかりうどでも\nなんでもじひをするものハけふまで野山を\nはたらひてもあすハ見だされ王となる\nそれゆえ諸々のくに〴〵からしたつてくるので\nがつしゆこくといふ国だアところがこまつた事ニハ\n人がふへてもくふものがねへから日本へ米や大こん\nにハとりをもらひに来てもくれやふがすけねへそれ\nゆへたびたびうるさくやつてくるハへ\n＜囲い書き：なまづ＞\nだまれペロリなんぼうぬらが口がしこくじひの国だと\nいつたとてくらいものがなければびんぼうこくにちがいねへ\nあめりかに神や仏があるならば五こくもたくさんでき\nそふなものねへとぬかすうへからはまいにちまいにちのくひ\nものを海（かい）ぞくなしてとつたにちがはぬこれをおもへば\nわが国の神々さまがあつまつてしなどの風をふき\nおこしうぬらがふねをはじめおろしやをうみへ\nしづめしもたしか去年の十一月神はひれいをうけ\nたまはずたはことつくなきくみゝはもたねへもたねへ\n＜囲い書き：アメリカ＞\nおかしくも道をこしらへていふなまづおのれ平日人間に\nひやうたんでおさへられながら去ねん霜月四日のひ\n下田ぬまづをうごかしてわれわれをおひかへさん\nとすされどうごかぬあめりかだましゐ\n＜囲い書き：なまづ＞\nヱゝやかましい毛（け）とうじんたちさらずば\nどろのなかへうづめてくれん\n＜囲い書き：アメリカ＞\nうづめるならうづめてみよおれもけんづき\nでつぽうだぞ\n＜囲い書き：左官＞\nアゝ両ほうともにしづまれしづまれとふからん\nものはひゞきのおとにもおきゝなせへ\nちかくはよつてめにもみますの土蔵の\nやぶれすみうらすみまでめらうちを\nたのむたのむとたのまれておちたるかべも\nのしつける小手のきいたる江戸ッ子と\nみなさん方のおほめにあづかるもこんどの\nじしんのさわぎからこれをおもへばありがてへ\nまづまづまづ御両所いざこざなしにくびつひき\nあゝ見たくでもねへおよしなせへ",
+            "text": "《題：《割書：安政二年｜十月二日夜》大地震鯰問答》\n\n《囲い書き：なまづ》\nヤアあめりかのへげたれめ此日本をばかにして二三ねん\nあとからおしをつよくもきやアがるうぬらがくるので江戸の\nまちがそうぞうしいやくにもたたねへかうゑきなんぞ\nとりかへべいハよしてくれ江戸中あるくあめうりで\nたくさんだ用ハねへからはやくしりにほをかけて\nかぢをなをしてさつさと立され立され\n《囲い書き：アメリカ》\nなにをこしやくなまづぼうずてまへ\nたちのしるところでねへおらが国ハ\nおじひな国でしよく人でもかりうどでも\nなんでもじひをするものハけふまで野山を\nはたらひてもあすハ見だされ王となる\nそれゆえ諸々のくに〴〵からしたつてくるので\nがつしゆこくといふ国だアところがこまつた事ニハ\n人がふへてもくふものがねへから日本へ米や大こん\nにハとりをもらひに来てもくれやふがすけねへそれ\nゆへたびたびうるさくやつてくるハへ\n《囲い書き：なまづ》\nだまれペロリなんぼうぬらが口がしこくじひの国だと\nいつたとてくらいものがなければびんぼうこくにちがいねへ\nあめりかに神や仏があるならば五こくもたくさんでき\nそふなものねへとぬかすうへからはまいにちまいにちのくひ\nものを海（かい）ぞくなしてとつたにちがはぬこれをおもへば\nわが国の神々さまがあつまつてしなどの風をふき\nおこしうぬらがふねをはじめおろしやをうみへ\nしづめしもたしか去年の十一月神はひれいをうけ\nたまはずたはことつくなきくみゝはもたねへもたねへ\n《囲い書き：アメリカ》\nおかしくも道をこしらへていふなまづおのれ平日人間に\nひやうたんでおさへられながら去ねん霜月四日のひ\n下田ぬまづをうごかしてわれわれをおひかへさん\nとすされどうごかぬあめりかだましゐ\n《囲い書き：なまづ》\nヱゝやかましい毛（け）とうじんたちさらずば\nどろのなかへうづめてくれん\n《囲い書き：アメリカ》\nうづめるならうづめてみよおれもけんづき\nでつぽうだぞ\n《囲い書き：左官》\nアゝ両ほうともにしづまれしづまれとふからん\nものはひゞきのおとにもおきゝなせへ\nちかくはよつてめにもみますの土蔵の\nやぶれすみうらすみまでめらうちを\nたのむたのむとたのまれておちたるかべも\nのしつける小手のきいたる江戸ッ子と\nみなさん方のおほめにあづかるもこんどの\nじしんのさわぎからこれをおもへばありがてへ\nまづまづまづ御両所いざこざなしにくびつひき\nあゝ見たくでもねへおよしなせへ",
+            "timestamp": {
+                "_nanoseconds": 159000000,
+                "_seconds": 1566952391
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

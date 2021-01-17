@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a3c2c33a08b13d977b3d353f335956b009570f23.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88394",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88394/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88394",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "3EAB508ABE83D4E5B2BBE488825912F8",
+    "label": "落涙山非常明王",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "落涙山非常明王"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-014"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34.5×46"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "0f2bf383-deb5-422f-a21a-7e8b55406ac0"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0014"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a3c2c33a08b13d977b3d353f335956b009570f23.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2bf383-deb5-422f-a21a-7e8b55406ac0/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "3EAB508ABE83D4E5B2BBE488825912F8",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【立て札のイラスト中の文章】\nくらの\n開扉\n落涙山（なみださん）非常（ひじやう）明王（めうわう）\n念仏題目等\n当十月二日夜四つ時より翌日朝迄\n一同今難渋者也\n地震院\n火事\n【ここより本尊像右側の本文】\nそも〳〵なみだ山 非常（ひじやう）明王は御救（おすくひ）の小屋山（こやさん）町法（てうほう）大事（だいじ）の御 作（さく）にして\n地震（ぢしん）雷（かみなり）火事（くわじ）親父（おやぢ）を倶足（ぐそく）し奉る本尊なり悪魔（あくま）降伏（かうぶく）は\nもちろん世上（せじやう）の人気（しんき）をなほし放蕩（はうとう）惰弱（だぢやく）を止（とゞめ）たまふとの御せいくわん也\n地震（ぢしん）と現（げん）じ給ふ時 強欲（がうよく）いんあくの土蔵（どさう）をおとし雷鳴（らいめい）とあら\nわるゝときは聾（つんぼう）の耳を貫（つらぬき）魂（たましい）を天蓋（てんがい）にとばして無慈悲（むじひ）の心（しん）\n中（ちう）をかわらしむ火事（くわじ）身（しん）を現（げん）じてはつぶれし家（いへ）より火（ひ）をはなち\n消人（けして）なければやけほうだい夜（よ）の明（あけ）るにしたがひていつしかきえてあと\nかたいなきの涙（なみだ）の箸（はし）もたぬまでになりても命（いのち）さへあれば一法（ひとほう）かきかへてくだなすとすれば親仁身（おやぢしん）それかけ出して野宿（のじゆく）の雨津浪（あめつなみ）\nくるとだまされて逃（にげ）たあとから盗（ぬす）みする極悪人（ごくあくにん）はいざしら浪（なみ）心を\n直（すぐ）にもつものは誓（ちかひ）て助（たす）けまゐらする非常（ひじやう）明王の御剱（みつるぎ）は\nおやの異見（いけん）の剱（けん）なるべし片手（かたて）にぎる財布尻（さいふじり）しめしを守（まも）る\n子孫（しそん）へあたへたまふとの御つげなればつぶれ\nしんで後悔（こうくわい）あられませう\n【ここより本尊像ひだり側の本文】\nやう〳〵\n安堵（あんど）し\nたてまつる\n本尊の由来（ゆらい）を\nくやしくたづぬるにむかし\n地震王（ぢしんわう）またかど焼亡（しやうほう）のきこえ\nありて商売（しやうはい）ださだまりかねて命（めい）をかうむり田原（たはら）俵（へう）だ\n火出（ひで）たと御すくひとして二合半のもつそうにておめに\nかりふくれがはらにおしよせたり此ときなみだ山 毎日（まいにち）大（たい）そう\n不そうおうをいのり施（ほどこ）し米（ごめ）のはかりれをもつて又門（またかど）の崩（くづ）れと\nなりしもこの尊像（そんざう）の御とくなり此ときのうたに\nまたかどでこめかみよりぞうたれける\nかはらおちたがさけりこそして\n【ここよりイラストの僧侶の言葉】\nさいなん\nけんのん\nらいよけ\n火なんよけ\nこゞとよけの\n御守は\nこれより\n出升\n\n",
+            "text": "【立て札のイラスト中の文章】\nくらの\n開扉\n落涙山（なみださん）非常（ひじやう）明王（めうわう）\n念仏題目等\n当十月二日夜四つ時より翌日朝迄\n一同今難渋者也\n地震院\n火事\n【ここより本尊像右側の本文】\nそも〳〵なみだ山 非常（ひじやう）明王は御救（おすくひ）の小屋山（こやさん）町法（てうほう）大事（だいじ）の御 作（さく）にして\n地震（ぢしん）雷（かみなり）火事（くわじ）親父（おやぢ）を倶足（ぐそく）し奉る本尊なり悪魔（あくま）降伏（かうぶく）は\nもちろん世上（せじやう）の人気（しんき）をなほし放蕩（はうとう）惰弱（だぢやく）を止（とゞめ）たまふとの御せいくわん也\n地震（ぢしん）と現（げん）じ給ふ時 強欲（がうよく）いんあくの土蔵（どさう）をおとし雷鳴（らいめい）とあら\nわるゝときは聾（つんぼう）の耳を貫（つらぬき）魂（たましい）を天蓋（てんがい）にとばして無慈悲（むじひ）の心（しん）\n中（ちう）をかわらしむ火事（くわじ）身（しん）を現（げん）じてはつぶれし家（いへ）より火（ひ）をはなち\n消人（けして）なければやけほうだい夜（よ）の明（あけ）るにしたがひていつしかきえてあと\nかたいなきの涙（なみだ）の箸（はし）もたぬまでになりても命（いのち）さへあれば一法（ひとほう）かきかへてくだなすとすれば親仁身（おやぢしん）それかけ出して野宿（のじゆく）の雨津浪（あめつなみ）\nくるとだまされて逃（にげ）たあとから盗（ぬす）みする極悪人（ごくあくにん）はいざしら浪（なみ）心を\n直（すぐ）にもつものは誓（ちかひ）て助（たす）けまゐらする非常（ひじやう）明王の御剱（みつるぎ）は\nおやの異見（いけん）の剱（けん）なるべし片手（かたて）にぎる財布尻（さいふじり）しめしを守（まも）る\n子孫（しそん）へあたへたまふとの御つげなればつぶれ\nしんで後悔（こうくわい）あられませう\n【ここより本尊像ひだり側の本文】\nやう〳〵\n安堵（あんど）し\nたてまつる\n本尊の由来（ゆらい）を\nくやしくたづぬるにむかし\n地震王（ぢしんわう）またかど焼亡（しやうほう）のきこえ\nありて商売（しやうはい）ださだまりかねて命（めい）をかうむり田原（たはら）俵（へう）だ\n火出（ひで）たと御すくひとして二合半のもつそうにておめに\nかりふくれがはらにおしよせたり此ときなみだ山 毎日（まいにち）大（たい）そう\n不そうおうをいのり施（ほどこ）し米（ごめ）のはかりれをもつて又門（またかど）の崩（くづ）れと\nなりしもこの尊像（そんざう）の御とくなり此ときのうたに\nまたかどでこめかみよりぞうたれける\nかはらおちたがさけりこそして\n【ここよりイラストの僧侶の言葉】\nさいなん\nけんのん\nらいよけ\n火なんよけ\nこゞとよけの\n御守は\nこれより\n出升\n\n",
+            "timestamp": {
+                "_nanoseconds": 765000000,
+                "_seconds": 1566136237
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/99ea23a0b887318f35cf40eb8a1d51f6d45aeaf4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88764",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88764/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88764",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "E656969DC69A095F1F90F176A8E8BE4C",
+    "label": "伊香保温泉名所一覧",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "伊香保温泉名所一覧"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-013-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "袋+5枚のうち：3枚は摺は違うが版は同じ／雪峰画／江戸広重写：古久屋与右衛門板"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×52"
+        },
+        {
+            "label": "identifier",
+            "value": "ce6fccca-f82f-4107-bc9f-0505d4fdfba4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0384"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/99ea23a0b887318f35cf40eb8a1d51f6d45aeaf4.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ce6fccca-f82f-4107-bc9f-0505d4fdfba4/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "E656969DC69A095F1F90F176A8E8BE4C",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【タイトル横書き】\n伊香保温泉名所一覧\n\n【絵図内】\n沼のふじ山　杜若の名所\nはるな　天神峠\n湯本不動尊\nむしや\n向山弁天\nはるな屋\n木あけ堂　\n諏訪明神　\n草津道\n\n薬師堂　\n医王寺　\n上野十二社二宮　伊香保神社　\n温泉寺\n\n黒かそ山\n二ツ嶽\n物きゝ山金毘羅宮\n水沢山\n二ツだけ道　\n六地蔵道\n境沢稲荷\n天宗寺\n天満宮\n八幡宮\n地藏河原　\n辻地蔵\n中子稲荷\n丸山稲荷　つゝじ名所\n\n　　　　仲書保　　雪峰図\n　　　　江　戸\n　　　　細　画　　広重写　　　　　古久屋与右衛門\n\n\n【同版が三枚続けて収集されているらしい資料二枚目なので、一・三枚目は翻刻せずに完了にし、状態の良いこの二枚目だけ翻刻します】\n【一冊にまとまった資料の各ページがばらばらに項目立てされているようです】\n\n",
+            "text": "【タイトル横書き】\n伊香保温泉名所一覧\n\n【絵図内】\n沼のふじ山　杜若の名所\nはるな　天神峠\n湯本不動尊\nむしや\n向山弁天\nはるな屋\n木あけ堂　\n諏訪明神　\n草津道\n\n薬師堂　\n医王寺　\n上野十二社二宮　伊香保神社　\n温泉寺\n\n黒かそ山\n二ツ嶽\n物きゝ山金毘羅宮\n水沢山\n二ツだけ道　\n六地蔵道\n境沢稲荷\n天宗寺\n天満宮\n八幡宮\n地藏河原　\n辻地蔵\n中子稲荷\n丸山稲荷　つゝじ名所\n\n　　　　仲書保　　雪峰図\n　　　　江　戸\n　　　　細　画　　広重写　　　　　古久屋与右衛門\n\n\n【同版が三枚続けて収集されているらしい資料二枚目なので、一・三枚目は翻刻せずに完了にし、状態の良いこの二枚目だけ翻刻します】\n【一冊にまとまった資料の各ページがばらばらに項目立てされているようです】\n\n",
+            "timestamp": {
+                "_nanoseconds": 196000000,
+                "_seconds": 1568679681
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,182 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7f1e9b165c8e0f44df86257114055edb9907b700.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56148",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56148/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56148",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/444a07cb6914133c4ea397c3d0ccc7ea2e72c5f0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56149",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56149/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56149",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "957135DC62C59D93C279E92E428242B6",
+    "label": "持丸のはらにたもたずはきいだしひんのやまひはこれで直る世",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "持丸のはらにたもたずはきいだしひんのやまひはこれで直る世"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-014"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "4c1d0ab7-7614-4d49-bfcb-f88203646301"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1014"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/7f1e9b165c8e0f44df86257114055edb9907b700.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p1",
+            "editedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "entryId": "957135DC62C59D93C279E92E428242B6",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "tempText": "持丸の\nはらに\nたもたず\nはき\n　いだし\nひんのやまひは\n　これで\n　　　直る世（よ）\n\nがまんして\n　たんと\n　おはき\n\nあゝ\nくる\nしい\n　くるしい\n\n此\n　へとは\n　犬に\n　くわれ\n　　ては\n　　大\n　　へん〳〵",
+            "text": "持丸の\nはらに\nたもたず\nはき\n　いだし\nひんのやまひは\n　これで\n　　　直る世（よ）\n\nがまんして\n　たんと\n　おはき\n\nあゝ\nくる\nしい\n　くるしい\n\n此\n　へとは\n　犬に\n　くわれ\n　　ては\n　　大\n　　へん〳〵",
+            "timestamp": {
+                "_nanoseconds": 50000000,
+                "_seconds": 1605668142
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4c1d0ab7-7614-4d49-bfcb-f88203646301/canvas/p2",
+            "editedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "entryId": "957135DC62C59D93C279E92E428242B6",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "tempText": "【状裏・白紙】",
+            "text": "【状裏・白紙】",
+            "timestamp": {
+                "_nanoseconds": 157000000,
+                "_seconds": 1605668248
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

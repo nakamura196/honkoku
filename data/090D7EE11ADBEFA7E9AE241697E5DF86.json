@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5709,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e18af466550d29a154bc180c4b024998ea29279f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5709,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56162",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7598
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56162/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56162",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7598
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5709,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ee7c5b4d367dec7820c1f931f77a58cd31b38d5b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5709,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56163",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7598
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56163/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56163",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7598
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "090D7EE11ADBEFA7E9AE241697E5DF86",
+    "label": "骨抜どうせうなまづ大家破焼",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "骨抜どうせうなまづ大家破焼"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-021"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "a15baf5f-c2cb-4e8e-9742-f66294a855ee"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1021"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e18af466550d29a154bc180c4b024998ea29279f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "090D7EE11ADBEFA7E9AE241697E5DF86",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "(看板)\n骨抜どうせう\nなまづ大家破焼\n【店頭二皿の値札】\n二十四文\n十六文\n\nかしま\n「さあ〳〵おかいなさい〳〵これは\nこんどの大ちしんいへくらやいた\nいしゆかへし大くし小くしの\nなまづのかはやきしかしこの\nせつのことはりけんきんうりが\nかなめいしひやうたんくひやう\nばん〳〵ときこへるかしらぬ\nくわし\n「もし〳〵そこへゆくのは雷公と\nおやぢどのではないか　おやち「そう\nいふは火事公かどこへゆくのだ\nくわじ\n「かしまさまがなまづを\nやく火につかはれぬうち\nきへるつもりさ　おやぢ「それが\nいゝくわじやぢしんはやぼの\nうへなしだ　くわじ　しておまへ\nがたはいきなせかいかね\nかみなり「たちのきがはやると\nいふからいんきよとこつそり\nしんそうかいだ　くわじ「そいつは\nおたのしみだがしかしらい\nこうはあけまいぜ　かみなり「\nなせ〳〵　くわじ「てまへはきん\nじよのごろつきだから\nげいしや\n「もし三みせんやさんこのごろは\nおいそがしいかへ\n三みせんや\n「どうして〳〵ぢしんこのかた\n三すぢはおろか一とすぢの\nおあしもとれずまえ\nにこまつたよつぢさ\nじつにどうしやうかと\nおもふおまへなんぞはおでん\nかんざけであつたまつたと\nいふうはさでごさり\nますぜ\nげいしや\n「それもほんのあの\nとうざさながくすると\nみそをつけますよ\nせんどう\n「ほんにわつちらがしやう\nばいもやつぱりにたり\nよつたりでわづか\n二朱か三てうの\nちよきがりさへ\nできやせぬ\nごふくや\n「いづくのうらぢも\nおなじことかなきん\nもうかる\nはなしは\nなく\nひまな\n上田に\nなんぎに\nあをめ\nぐちばつ\nかりを\n　ゆうきじま▲\n\n▲りやうり　　　　　　　　かみなり\n「たんもの　　　　　　　　「おいらもこん\nよりは　　　　　　　　　　　どのちしんでは\n口の　　　　　　　　　　　　いやもふまつ\nはやい　　　　　　　　　　　さきになつて\nりやうりで　　　　　　　　　　かけだした　\nさへもくひてはなく　　　　　　\nくわいせきしやう\nばいになりやせぬ●\n【二段目】\n●かしほんや\n「いやわたしなぞも\nほんはやきはらひはとれず\nこのくれは中本のなきほんさ\nはやく一夜あけてわらひぼんの\nせかいとしたいこのくらうを\nしらぬのはおかこさんおまへたね\nかこいもの\n「なにさたんなのうちづまる\nやけゆへわたいのほうまで \nおはちがまはらず\nたべるものさへふじゆう\nがちだはね\nはなしか\n「その口かせぎにわたしらも\nくみ合のしうのこはいろ\nをつかひしごとにでたが\n口ほどにかたがたつしやに\nきかぬゆへあふぎなめに\nあいましたこれものちの\nはなしのたねさ\nおどりのしせう\n「とうじんばなしで\nおやしきのおきやうげんは\nあがつたりなんぎな\nところへこんどのふぢま\nしやうもやうも中むら\nやでけがをせぬのが\nしあはせさ\n【三段目】\n小道ぐや\n「じつにこんどのぢしんでは大小となく\nどぞうをふるひみぢん七字？にどうぐ\nやはあきないはひまそのうへに\nせつぱつまつたかさくの\nいりようふちかしらを\nかいております\nかうしやくし\n「ぢしんとくわじの\nかけもちからながらう\nじやうのひやうろう\nぜめすでにらくぜう\nするところよう〳〵\nやかうでとりつきました\nとうぶつや\n「みなさんよりはとり\nわけてかひてのないどう\nぶつげるゐいつそらしやや\nとろめんか\nじんめの毛なら\nうれるであらう\nはいくわいし\n「あきうどしうより\n又ひまはなくても\nこまらぬはいくわいし\n百いんのてんりやうも\nとらねばとめのきれ\nじにてにははあはず\n此せつは一くもでずだ\nごうち\n「もしそうしよういかゞ\nでごさるやつがれなぞは\nおでいりのおやしきがたが\nみなつぶれどう\nかうといふめう\nしゆもなく\nほんのいのちを\nつなぐのみで\nござる\n茶人\n「ふねいちや\nなどはのうちうが\nだん〳〵うすちやに\nそこがみへればこい\nちやはしあんを\nせずはなります\nまい\nくわんけ\n「たれかれ\nといふ\nなか\nでも\n二日このかた\n一文のおあしも\nもらわぬ大きな\nそんじつに\nぢしんはごめ\nんのかん\nけだ\nけいしや\n「なまづのしりふるは\nあとがこわい\nかみくづひろひ\n「やけばに\nかみくづのないのは\nわかつたが\nぢしんのいつたは\nよるだから\nあとに\nかみくづが\nあり\nそふな\nものだ\n【看板の左側の台詞】\n三みせんや\n「むねは二上がりは\nふるもん\nくだ○\n○こんどはきん\nたまがそう\nあがりだ\n\n",
+            "text": "(看板)\n骨抜どうせう\nなまづ大家破焼\n【店頭二皿の値札】\n二十四文\n十六文\n\nかしま\n「さあ〳〵おかいなさい〳〵これは\nこんどの大ちしんいへくらやいた\nいしゆかへし大くし小くしの\nなまづのかはやきしかしこの\nせつのことはりけんきんうりが\nかなめいしひやうたんくひやう\nばん〳〵ときこへるかしらぬ\nくわし\n「もし〳〵そこへゆくのは雷公と\nおやぢどのではないか　おやち「そう\nいふは火事公かどこへゆくのだ\nくわじ\n「かしまさまがなまづを\nやく火につかはれぬうち\nきへるつもりさ　おやぢ「それが\nいゝくわじやぢしんはやぼの\nうへなしだ　くわじ　しておまへ\nがたはいきなせかいかね\nかみなり「たちのきがはやると\nいふからいんきよとこつそり\nしんそうかいだ　くわじ「そいつは\nおたのしみだがしかしらい\nこうはあけまいぜ　かみなり「\nなせ〳〵　くわじ「てまへはきん\nじよのごろつきだから\nげいしや\n「もし三みせんやさんこのごろは\nおいそがしいかへ\n三みせんや\n「どうして〳〵ぢしんこのかた\n三すぢはおろか一とすぢの\nおあしもとれずまえ\nにこまつたよつぢさ\nじつにどうしやうかと\nおもふおまへなんぞはおでん\nかんざけであつたまつたと\nいふうはさでごさり\nますぜ\nげいしや\n「それもほんのあの\nとうざさながくすると\nみそをつけますよ\nせんどう\n「ほんにわつちらがしやう\nばいもやつぱりにたり\nよつたりでわづか\n二朱か三てうの\nちよきがりさへ\nできやせぬ\nごふくや\n「いづくのうらぢも\nおなじことかなきん\nもうかる\nはなしは\nなく\nひまな\n上田に\nなんぎに\nあをめ\nぐちばつ\nかりを\n　ゆうきじま▲\n\n▲りやうり　　　　　　　　かみなり\n「たんもの　　　　　　　　「おいらもこん\nよりは　　　　　　　　　　　どのちしんでは\n口の　　　　　　　　　　　　いやもふまつ\nはやい　　　　　　　　　　　さきになつて\nりやうりで　　　　　　　　　　かけだした　\nさへもくひてはなく　　　　　　\nくわいせきしやう\nばいになりやせぬ●\n【二段目】\n●かしほんや\n「いやわたしなぞも\nほんはやきはらひはとれず\nこのくれは中本のなきほんさ\nはやく一夜あけてわらひぼんの\nせかいとしたいこのくらうを\nしらぬのはおかこさんおまへたね\nかこいもの\n「なにさたんなのうちづまる\nやけゆへわたいのほうまで \nおはちがまはらず\nたべるものさへふじゆう\nがちだはね\nはなしか\n「その口かせぎにわたしらも\nくみ合のしうのこはいろ\nをつかひしごとにでたが\n口ほどにかたがたつしやに\nきかぬゆへあふぎなめに\nあいましたこれものちの\nはなしのたねさ\nおどりのしせう\n「とうじんばなしで\nおやしきのおきやうげんは\nあがつたりなんぎな\nところへこんどのふぢま\nしやうもやうも中むら\nやでけがをせぬのが\nしあはせさ\n【三段目】\n小道ぐや\n「じつにこんどのぢしんでは大小となく\nどぞうをふるひみぢん七字？にどうぐ\nやはあきないはひまそのうへに\nせつぱつまつたかさくの\nいりようふちかしらを\nかいております\nかうしやくし\n「ぢしんとくわじの\nかけもちからながらう\nじやうのひやうろう\nぜめすでにらくぜう\nするところよう〳〵\nやかうでとりつきました\nとうぶつや\n「みなさんよりはとり\nわけてかひてのないどう\nぶつげるゐいつそらしやや\nとろめんか\nじんめの毛なら\nうれるであらう\nはいくわいし\n「あきうどしうより\n又ひまはなくても\nこまらぬはいくわいし\n百いんのてんりやうも\nとらねばとめのきれ\nじにてにははあはず\n此せつは一くもでずだ\nごうち\n「もしそうしよういかゞ\nでごさるやつがれなぞは\nおでいりのおやしきがたが\nみなつぶれどう\nかうといふめう\nしゆもなく\nほんのいのちを\nつなぐのみで\nござる\n茶人\n「ふねいちや\nなどはのうちうが\nだん〳〵うすちやに\nそこがみへればこい\nちやはしあんを\nせずはなります\nまい\nくわんけ\n「たれかれ\nといふ\nなか\nでも\n二日このかた\n一文のおあしも\nもらわぬ大きな\nそんじつに\nぢしんはごめ\nんのかん\nけだ\nけいしや\n「なまづのしりふるは\nあとがこわい\nかみくづひろひ\n「やけばに\nかみくづのないのは\nわかつたが\nぢしんのいつたは\nよるだから\nあとに\nかみくづが\nあり\nそふな\nものだ\n【看板の左側の台詞】\n三みせんや\n「むねは二上がりは\nふるもん\nくだ○\n○こんどはきん\nたまがそう\nあがりだ\n\n",
+            "timestamp": {
+                "_nanoseconds": 611000000,
+                "_seconds": 1575206456
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a15baf5f-c2cb-4e8e-9742-f66294a855ee/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "090D7EE11ADBEFA7E9AE241697E5DF86",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "\n\n【この資料は画像が裏返っているので文字もうすくなっていて判読できません】\n\n【印「東京大学図書印」】0011841756",
+            "text": "\n\n【この資料は画像が裏返っているので文字もうすくなっていて判読できません】\n\n【印「東京大学図書印」】0011841756",
+            "timestamp": {
+                "_nanoseconds": 533000000,
+                "_seconds": 1585902625
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

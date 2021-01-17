@@ -1,0 +1,175 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4789,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1785d110560166c6e18d5b2535c54db31ef4126b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4789,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56174",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6373
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56174/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56174",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6373
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4789,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e76bf34f1ffc745d286a115a7d35d23b158d790a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4789,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56175",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6373
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56175/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56175",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6373
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "9662784119C30F67AD8045A3D23C1A40",
+    "label": "[善光寺地震摺物]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[善光寺地震摺物]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-027"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化4年3月24日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1847"
+        },
+        {
+            "label": "identifier",
+            "value": "faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1027"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1785d110560166c6e18d5b2535c54db31ef4126b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "9662784119C30F67AD8045A3D23C1A40",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "去ル三月廿四日\n夜四ツ時信州\n善光寺より\n丹波嶋追分\nいなり山の宿々凡\n五里余りの大地しん\n天地もくつがへらんとまたゝく\nうちに坊舎旅宿百姓家\n一時にゆりたをし里人旅客\nにげ出る間なく尽く押にうたれ\n命を全ふしのがれたるハ稀也とぞ\n其うへ処々より出火して\nたふれたる家々にもへうつる折から\n暴風はげしく善光寺たんバ嶋\nいなり山の宿々一円の火焔となり\n又これが為に死人けが人其数をしらず\nさて又名にしおふ丹波川ハ川上の山\nゆりくづし二十余ケ村大洪水川下忽\n干川となりて水一てきもなくまことに\n古今未曾有のことなりけりしかるにふしぎ成ハ\n善光寺本堂大門大勧進の三ヶ所ハ少しも\n地しんに損せず三ヶ所のミ焼のこり此夜\n本堂にこもりたる信者ハ一人もけがなかりしハ\nまつたく如来の冥助による処と信心肝に\nめいずるあまり旅人に聞得たるまゝを記して\n信心の人々に御仏の供徳をしらしむるもの也　\n\n\n\n\n\n\n\n\n\n",
+            "text": "去ル三月廿四日\n夜四ツ時信州\n善光寺より\n丹波嶋追分\nいなり山の宿々凡\n五里余りの大地しん\n天地もくつがへらんとまたゝく\nうちに坊舎旅宿百姓家\n一時にゆりたをし里人旅客\nにげ出る間なく尽く押にうたれ\n命を全ふしのがれたるハ稀也とぞ\n其うへ処々より出火して\nたふれたる家々にもへうつる折から\n暴風はげしく善光寺たんバ嶋\nいなり山の宿々一円の火焔となり\n又これが為に死人けが人其数をしらず\nさて又名にしおふ丹波川ハ川上の山\nゆりくづし二十余ケ村大洪水川下忽\n干川となりて水一てきもなくまことに\n古今未曾有のことなりけりしかるにふしぎ成ハ\n善光寺本堂大門大勧進の三ヶ所ハ少しも\n地しんに損せず三ヶ所のミ焼のこり此夜\n本堂にこもりたる信者ハ一人もけがなかりしハ\nまつたく如来の冥助による処と信心肝に\nめいずるあまり旅人に聞得たるまゝを記して\n信心の人々に御仏の供徳をしらしむるもの也　\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 297000000,
+                "_seconds": 1567143776
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/faeb9a0c-d4cb-41f9-97b7-8d0967cd28ae/canvas/p2",
+            "editedBy": null,
+            "entryId": "9662784119C30F67AD8045A3D23C1A40",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030641972
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

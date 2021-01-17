@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b760c549963e6f69610d378e8eb079ed2ccb1433.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88413",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88413/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88413",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "31168344091FAC91070AB2ADCA6199F3",
+    "label": "地震并津浪之説",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震并津浪之説"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-033"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "断簡"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "14×20"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "0cc30fa3-c885-45a1-9f8c-60fdf7484e3a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0033"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b760c549963e6f69610d378e8eb079ed2ccb1433.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0cc30fa3-c885-45a1-9f8c-60fdf7484e3a/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "31168344091FAC91070AB2ADCA6199F3",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "地震幷津浪之 説（わけ）\n\n【挿絵内】\n地震（ぢしん）　　　　　　　　　南　　　　　　　　西南海\n　　　　　東　　日本六十余州　　　西\n　　　　　　　　 其余外国異国（ソノヨグワイコクイコク）\n　　　　　国　　皆此上ニ有ト云　　国\n之 図（づ）　　　　　　　　　北　　　　　　　　北氷海\n\n【挿絵内・右上より時計回りに】　要石　正月　二月　三月　四月　五月　六月　七月　八月　九月　十月　十一月　十二月\n\n\n夫地震（それぢしん）といふは其 象（かた）ち別に地底（ちてい）にあるにあらず陽気（やうき）\n陰（いん）の下に伏（ふく）して陰気に迫（せま）り昇（のぼ）ること能（あた）はず陽気 渋滞（とゞこふり）て\n歳月を経（ふ）るに従（したが）ひ地裂（ちさけ）て陽気天に発せんとして振動（しんどう）する\nなり又 津浪（つなみ）といふて別に地中より水を発（はつ）するの謂（いひ）にあらず\n天地の間（あいだ）陽陰につゝまれて動発（どうはつ）する事 大底（たいてい）地震に等（ひと）し故（ゆへ）に\n地震（ぢしん）に依（よつ）て起（をこ）り或は大風雨に就（つい）て起（をこ）る其発する所一ならざるを以知（もつてしる）べし\n\n",
+            "text": "地震幷津浪之 説（わけ）\n\n【挿絵内】\n地震（ぢしん）　　　　　　　　　南　　　　　　　　西南海\n　　　　　東　　日本六十余州　　　西\n　　　　　　　　 其余外国異国（ソノヨグワイコクイコク）\n　　　　　国　　皆此上ニ有ト云　　国\n之 図（づ）　　　　　　　　　北　　　　　　　　北氷海\n\n【挿絵内・右上より時計回りに】　要石　正月　二月　三月　四月　五月　六月　七月　八月　九月　十月　十一月　十二月\n\n\n夫地震（それぢしん）といふは其 象（かた）ち別に地底（ちてい）にあるにあらず陽気（やうき）\n陰（いん）の下に伏（ふく）して陰気に迫（せま）り昇（のぼ）ること能（あた）はず陽気 渋滞（とゞこふり）て\n歳月を経（ふ）るに従（したが）ひ地裂（ちさけ）て陽気天に発せんとして振動（しんどう）する\nなり又 津浪（つなみ）といふて別に地中より水を発（はつ）するの謂（いひ）にあらず\n天地の間（あいだ）陽陰につゝまれて動発（どうはつ）する事 大底（たいてい）地震に等（ひと）し故（ゆへ）に\n地震（ぢしん）に依（よつ）て起（をこ）り或は大風雨に就（つい）て起（をこ）る其発する所一ならざるを以知（もつてしる）べし\n\n",
+            "timestamp": {
+                "_nanoseconds": 428000000,
+                "_seconds": 1570439229
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/882d17e524f282618ec11fc20b6c88a35fc0f808.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88682",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88682/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88682",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "85A74DDB10EFD6A9613DB411301EA964",
+    "label": "新ばんわらいの種本",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "新ばんわらいの種本"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-047"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "19×25"
+        },
+        {
+            "label": "備考",
+            "value": "嘉永7年の津波か?"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "5aafc977-9b1b-4e11-81db-d7880e6b3bbd"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0302"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/882d17e524f282618ec11fc20b6c88a35fc0f808.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5aafc977-9b1b-4e11-81db-d7880e6b3bbd/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "85A74DDB10EFD6A9613DB411301EA964",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【上段右端】【別ページに翻刻あり】\nかたし\n信州善光寺\n大地しんの\n　　次第\n\n\n\n\n【上段中】\n\n新ぱんわらいの種本\n\nおそろしい大きいねへ　今朝のじしん\nあれさなかれるよ　つなみの人々\nこしがふら〳〵するよ　今朝のじしんで\n利上をしないからながれたよ　下田のつなみ\nまたつゞけるのかへわたしやいやたね　二度目のじしん\n\nにきつたらはやくおいれよ　火事の弁当\nわたしやもうがつかりしたよ　地しんのあと\nあれさしにますよ　じしんの牛馬\nあれさいくよ　御国のはや使\nいつそうれしいねへ　御ひざもと\n\n\n\n\n【上段左端】【別ページに翻刻あり】\n大地震　　【割書出来ず】\n大津波　　太功記十段目　　秡文句\nしあん投首（なげくび）　　　津なみては船し□□【？】荷主\nおもひをくことさらになし　　よういしてばんばへ出□【？】へ\n□【？】ほゆへ引とりゐへ　　□をすてつなみの噂（うはさ）聞く人\nあはやと見やる表（おもて）に数か所の手疵（きす）　ふる家急に宿かへする人",
+            "text": "【上段右端】【別ページに翻刻あり】\nかたし\n信州善光寺\n大地しんの\n　　次第\n\n\n\n\n【上段中】\n\n新ぱんわらいの種本\n\nおそろしい大きいねへ　今朝のじしん\nあれさなかれるよ　つなみの人々\nこしがふら〳〵するよ　今朝のじしんで\n利上をしないからながれたよ　下田のつなみ\nまたつゞけるのかへわたしやいやたね　二度目のじしん\n\nにきつたらはやくおいれよ　火事の弁当\nわたしやもうがつかりしたよ　地しんのあと\nあれさしにますよ　じしんの牛馬\nあれさいくよ　御国のはや使\nいつそうれしいねへ　御ひざもと\n\n\n\n\n【上段左端】【別ページに翻刻あり】\n大地震　　【割書出来ず】\n大津波　　太功記十段目　　秡文句\nしあん投首（なげくび）　　　津なみては船し□□【？】荷主\nおもひをくことさらになし　　よういしてばんばへ出□【？】へ\n□【？】ほゆへ引とりゐへ　　□をすてつなみの噂（うはさ）聞く人\nあはやと見やる表（おもて）に数か所の手疵（きす）　ふる家急に宿かへする人",
+            "timestamp": {
+                "_nanoseconds": 193000000,
+                "_seconds": 1598079651
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

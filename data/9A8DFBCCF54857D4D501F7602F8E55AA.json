@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bb522becba18e2531714880a9ea9474f321d0c53.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88684",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88684/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88684",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "9A8DFBCCF54857D4D501F7602F8E55AA",
+    "label": "大地震大津浪太功記十段目秡文句",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震大津浪太功記十段目秡文句"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-049"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "16×21"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "630d1262-f819-44ec-91b7-561c4259dd31"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0304"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/bb522becba18e2531714880a9ea9474f321d0c53.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/630d1262-f819-44ec-91b7-561c4259dd31/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "9A8DFBCCF54857D4D501F7602F8E55AA",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "\n＜割書：大地震｜大津浪＞大功記十段目【斜め書】抜文句\n\n【上段、左へ】\nしあん投首（なけくび）　津なみては船した荷（に）主\nおもひをくことさらになし　よういしてばんばへ出た人\n早本国へ引とり給へ　遠方てつなみの噂（うわさ）聞人\nあはやと見やる表（をもて）口数ケ所の手 疵（きす）　ふる家急に宿かへする人\n顕（あら）はれ出（いて）たる　まいはん西に黒雲\nぬき足（あし）さし足　へたり掛たる家へ忘物取に這入人\nわつと玉（たま）ぎる女のなき声（こえ）　 地（ち）しん最中（さいちう）産（さん）の気（け）の付（つい）た人\n聞（きこ）ゆるもの音（おと）こゝろえたりと　 大道（だいどう）疊敷（たたみしい）て内にゐる人\n互（たかい）の身（み）のしあはせ　 注文物（ちうもんもの）船（ふね）へつまなんた人\n水あげかねし風（ふ）ぜいにて　大地しん蔵仲仕（くらなかし）\n末世（まつせ）の記録（きろく）にのこしてたべ 　大黒（たいこく）ばしへつまつた船\n操（みさお）の鏡（かゞみ）くもりなき　住よしの浜（はま）つなみなし\n\n【下段】\n他家へ縁付して下され　大はそんした家ぬし\n詞はゆるかぬ大はん石　大坂の御城\nしるしは目前これを見よ　家ちんのやすい古家\n追〳〵都へはせのほる　諸国よりの見舞状\n高名てがらを見るやうな　普請方\n我（われ）又 孫呉（そんご）が秘術をつくし　大道へ素人細工の小家たてる人\nとかう言内時こくが延る　かんばん出した道頓堀の芝居\nまだ祝言のさかつきを　地しんて延（のひ）たこん礼\nあたりまばゆき出立は　下やしきへ逃（にげ）る北辺の御寮人（これうにん）\n行方しらすなりにけり　津なみておちた橋〳〵\nさやうなれは御遠慮なし　明地のある所へとまりに行人\nめでたい〳〵　家内にけがのないの\n\n\n【下の別記事】\n頃は嘉永七寅十一月四日五つ時舞坂\nしらすかあら井宿大津なみ人家そんし\nよし田御城下より岡さき御城下宮より七里渡\n大きにあれる舟そんし夫より桑名御城下よりかめ山\n江州路大津辺まて仲仙道宿々大きにそん\nしる也京都はかく別の事も無くいせ路\n津松坂山田辺大神宮さ□御宮さふりなし\n志州鳥羽大地震大津浪町屋三町程も\n流し在々まてもあれ大舟小舟そのか\nつしれす人家大きにそんしるなり同月は\n六日大しん大津浪かたの浦くまのうら\n大津浪人家大きに流し和哥山在々大き\nにそんつるなり同月五日六日大坂あし川口\n天保山崩れ并あし川橋ふなとはしたかはし\n三大橋を流し人家七百けん程流し\n大せん七十そう　小舟そのかつ\n　　　　　　　　しれす\n　　　　　　　　人家そん\n　　　　　　　　しること\n　　　　　　　　すくなから\n　　　　　　　　すあまか崎\n　　　　　　　　御城下町屋か\n　　　　　　　　ん崎へん残らす\n　　　　　　　　あわち嶋辺も津浪の\n　　　　　　　　よし中国□辺もしひ\n　　　　　　　　きしなり誠に古\n　　　　　　　　来よりかみ大しん\n　　　　　　　　大つ浪よつて諸変\n　　　　　　　　かくらんに\n　　　　　　　　そなへるもの也\n",
+            "text": "\n《割書：大地震｜大津浪》大功記十段目【斜め書】抜文句\n\n【上段、左へ】\nしあん投首（なけくび）　津なみては船した荷（に）主\nおもひをくことさらになし　よういしてばんばへ出た人\n早本国へ引とり給へ　遠方てつなみの噂（うわさ）聞人\nあはやと見やる表（をもて）口数ケ所の手 疵（きす）　ふる家急に宿かへする人\n顕（あら）はれ出（いて）たる　まいはん西に黒雲\nぬき足（あし）さし足　へたり掛たる家へ忘物取に這入人\nわつと玉（たま）ぎる女のなき声（こえ）　 地（ち）しん最中（さいちう）産（さん）の気（け）の付（つい）た人\n聞（きこ）ゆるもの音（おと）こゝろえたりと　 大道（だいどう）疊敷（たたみしい）て内にゐる人\n互（たかい）の身（み）のしあはせ　 注文物（ちうもんもの）船（ふね）へつまなんた人\n水あげかねし風（ふ）ぜいにて　大地しん蔵仲仕（くらなかし）\n末世（まつせ）の記録（きろく）にのこしてたべ 　大黒（たいこく）ばしへつまつた船\n操（みさお）の鏡（かゞみ）くもりなき　住よしの浜（はま）つなみなし\n\n【下段】\n他家へ縁付して下され　大はそんした家ぬし\n詞はゆるかぬ大はん石　大坂の御城\nしるしは目前これを見よ　家ちんのやすい古家\n追〳〵都へはせのほる　諸国よりの見舞状\n高名てがらを見るやうな　普請方\n我（われ）又 孫呉（そんご）が秘術をつくし　大道へ素人細工の小家たてる人\nとかう言内時こくが延る　かんばん出した道頓堀の芝居\nまだ祝言のさかつきを　地しんて延（のひ）たこん礼\nあたりまばゆき出立は　下やしきへ逃（にげ）る北辺の御寮人（これうにん）\n行方しらすなりにけり　津なみておちた橋〳〵\nさやうなれは御遠慮なし　明地のある所へとまりに行人\nめでたい〳〵　家内にけがのないの\n\n\n【下の別記事】\n頃は嘉永七寅十一月四日五つ時舞坂\nしらすかあら井宿大津なみ人家そんし\nよし田御城下より岡さき御城下宮より七里渡\n大きにあれる舟そんし夫より桑名御城下よりかめ山\n江州路大津辺まて仲仙道宿々大きにそん\nしる也京都はかく別の事も無くいせ路\n津松坂山田辺大神宮さ□御宮さふりなし\n志州鳥羽大地震大津浪町屋三町程も\n流し在々まてもあれ大舟小舟そのか\nつしれす人家大きにそんしるなり同月は\n六日大しん大津浪かたの浦くまのうら\n大津浪人家大きに流し和哥山在々大き\nにそんつるなり同月五日六日大坂あし川口\n天保山崩れ并あし川橋ふなとはしたかはし\n三大橋を流し人家七百けん程流し\n大せん七十そう　小舟そのかつ\n　　　　　　　　しれす\n　　　　　　　　人家そん\n　　　　　　　　しること\n　　　　　　　　すくなから\n　　　　　　　　すあまか崎\n　　　　　　　　御城下町屋か\n　　　　　　　　ん崎へん残らす\n　　　　　　　　あわち嶋辺も津浪の\n　　　　　　　　よし中国□辺もしひ\n　　　　　　　　きしなり誠に古\n　　　　　　　　来よりかみ大しん\n　　　　　　　　大つ浪よつて諸変\n　　　　　　　　かくらんに\n　　　　　　　　そなへるもの也\n",
+            "timestamp": {
+                "_nanoseconds": 141000000,
+                "_seconds": 1573354460
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

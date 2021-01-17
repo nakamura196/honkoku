@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ac84d5fed9b5539d8276a7d2093ed5735d6edd8b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88654",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88654/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88654",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "2F99C4052C97DB712FA5FA9459A20074",
+    "label": "[弘化三丙午正月十五日大火類焼図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[弘化三丙午正月十五日大火類焼図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化3年1月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "31×46"
+        },
+        {
+            "label": "year",
+            "value": "1846"
+        },
+        {
+            "label": "identifier",
+            "value": "be0de553-9012-4cab-a27e-9f5acb8375f5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0274"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ac84d5fed9b5539d8276a7d2093ed5735d6edd8b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/be0de553-9012-4cab-a27e-9f5acb8375f5/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "2F99C4052C97DB712FA5FA9459A20074",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "頃は弘化三丙午\n正月十五日昼八ツ半\n時ゟ本郷丸山辺\nより出火にて\n神田明神近\n辺残らず\n焼る明神\nは残る西北\nの風はげしく\n昌平橋焼落る是ゟ\n明神下焼る佐久間町ニ而\n留る一口は駿河台飛火し\n今川橋辺不残類焼す\n是より本町通日本橋江戸橋\n落る永代橋辺霊岸島\n鉄砲洲佃島又一口は通\n四町中橋辺不残焼る\n京橋竹河岸ニ而翌九ツ時ニ而\nよふ〳〵静り人々安土の思ひを\nなしにける\n　　火元ゟ火先迄【省画】壱里十丁余\n　　町数　　　　　　　　五百八十家町余\n\n此度大火類焼ニ付\n御公儀様より御すくひ小や\n御立被下其上一人ニ付\n弁当被下候事ま事に\n御仁徳の程難有\n御代世に生るゝ人\nの幸なる哉\n\n\n",
+            "text": "頃は弘化三丙午\n正月十五日昼八ツ半\n時ゟ本郷丸山辺\nより出火にて\n神田明神近\n辺残らず\n焼る明神\nは残る西北\nの風はげしく\n昌平橋焼落る是ゟ\n明神下焼る佐久間町ニ而\n留る一口は駿河台飛火し\n今川橋辺不残類焼す\n是より本町通日本橋江戸橋\n落る永代橋辺霊岸島\n鉄砲洲佃島又一口は通\n四町中橋辺不残焼る\n京橋竹河岸ニ而翌九ツ時ニ而\nよふ〳〵静り人々安土の思ひを\nなしにける\n　　火元ゟ火先迄【省画】壱里十丁余\n　　町数　　　　　　　　五百八十家町余\n\n此度大火類焼ニ付\n御公儀様より御すくひ小や\n御立被下其上一人ニ付\n弁当被下候事ま事に\n御仁徳の程難有\n御代世に生るゝ人\nの幸なる哉\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 699000000,
+                "_seconds": 1566906373
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

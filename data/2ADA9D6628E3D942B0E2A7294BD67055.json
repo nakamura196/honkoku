@@ -1,0 +1,135 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4a746b9e7e61ca6eec40a466dc4d9730ce0b0ca6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88390",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88390/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88390",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "2ADA9D6628E3D942B0E2A7294BD67055",
+    "label": "安政五年午十一月十五日江戸大火細見図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政五年午十一月十五日江戸大火細見図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政5年11月5日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×49"
+        },
+        {
+            "label": "備考",
+            "value": "合羽摺"
+        },
+        {
+            "label": "year",
+            "value": "1858"
+        },
+        {
+            "label": "identifier",
+            "value": "2f054b0b-a723-455c-94cf-bb70ee637c14"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0010"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4a746b9e7e61ca6eec40a466dc4d9730ce0b0ca6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f054b0b-a723-455c-94cf-bb70ee637c14/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "2ADA9D6628E3D942B0E2A7294BD67055",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "安政五年午十一月十五日江戸大火細見図\n十一月十五日寅刻佐久間町辺より出火北風強内神田\n豊島町え飛火〇西神田三河町鎌倉川岸\n御堀端鍛治橋迄〇東神田馬喰丁横山町\n大伝馬町小伝馬町今川橋より\n南国橋迄不残〇日本橋本町\n辺迄日本橋南呉服町\n青物丁四日市\n本材木丁\n\n通一丁目\n東西共京橋\n迄〇田所丁瀬戸物\n丁伊勢丁堀留堀江丁\n小舟町人形町富沢丁\n小網丁辺迄八丁堀平一面に\n焼失",
+            "text": "安政五年午十一月十五日江戸大火細見図\n十一月十五日寅刻佐久間町辺より出火北風強内神田\n豊島町え飛火〇西神田三河町鎌倉川岸\n御堀端鍛治橋迄〇東神田馬喰丁横山町\n大伝馬町小伝馬町今川橋より\n南国橋迄不残〇日本橋本町\n辺迄日本橋南呉服町\n青物丁四日市\n本材木丁\n\n通一丁目\n東西共京橋\n迄〇田所丁瀬戸物\n丁伊勢丁堀留堀江丁\n小舟町人形町富沢丁\n小網丁辺迄八丁堀平一面に\n焼失",
+            "timestamp": {
+                "_nanoseconds": 746000000,
+                "_seconds": 1604025932
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

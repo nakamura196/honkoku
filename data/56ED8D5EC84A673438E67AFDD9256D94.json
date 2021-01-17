@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 1995,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d6b16849f57994f2302a20143f1bb2a9f606e670.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1995,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88805",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88805/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88805",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "56ED8D5EC84A673438E67AFDD9256D94",
+    "label": "[富士山に異国人登山]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富士山に異国人登山]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-012"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "その他"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "万延1年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×30"
+        },
+        {
+            "label": "year",
+            "value": "1860"
+        },
+        {
+            "label": "identifier",
+            "value": "9d569078-e879-4195-8fad-bc46fbf21229"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0425"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d6b16849f57994f2302a20143f1bb2a9f606e670.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9d569078-e879-4195-8fad-bc46fbf21229/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "56ED8D5EC84A673438E67AFDD9256D94",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "抑々富士山は人皇六代\n孝安天皇の御時一夜に\nあらはれたもふ御山に\nして其後やまと\nだけのみこと御山\nをふみひらき\n三国第一の\n御がくをかく\nせたもふまつ\nる神は木の花\nさくやひめの尊\nれいげんあらた\nなる事諸人しると\nころなり六十一年目庚\n申の年には男女とも登山\nいたす当年　御ゑんねん\nの事なれば男女とも\nさんけいくんじゆ【群集】なす\n当七月中旬いこく人\nふじ山へ登山いたしたき\nむね相願右いこく人ふじ\n山とざんいたし候ところ\n七合五勺めころに\n相なりにはかにくも出る\nかと見へしが風ふき出しくもの中にてわれ\nこそは御山の中ころにある小みたけ石そんなり\n御山は日本第一のあらたなる　れいざんなりいじんは\n登山すべからずはやく下ざんいたすべしと御こへ有し\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　とかや",
+            "text": "抑々富士山は人皇六代\n孝安天皇の御時一夜に\nあらはれたもふ御山に\nして其後やまと\nだけのみこと御山\nをふみひらき\n三国第一の\n御がくをかく\nせたもふまつ\nる神は木の花\nさくやひめの尊\nれいげんあらた\nなる事諸人しると\nころなり六十一年目庚\n申の年には男女とも登山\nいたす当年　御ゑんねん\nの事なれば男女とも\nさんけいくんじゆ【群集】なす\n当七月中旬いこく人\nふじ山へ登山いたしたき\nむね相願右いこく人ふじ\n山とざんいたし候ところ\n七合五勺めころに\n相なりにはかにくも出る\nかと見へしが風ふき出しくもの中にてわれ\nこそは御山の中ころにある小みたけ石そんなり\n御山は日本第一のあらたなる　れいざんなりいじんは\n登山すべからずはやく下ざんいたすべしと御こへ有し\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　とかや",
+            "timestamp": {
+                "_nanoseconds": 391000000,
+                "_seconds": 1575852912
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

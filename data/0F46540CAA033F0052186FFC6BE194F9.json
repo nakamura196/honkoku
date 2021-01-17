@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3876,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/246daf8b68352a7be54460afdf5e4fe96d9cdba0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3876,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88835",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88835/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88835",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "0F46540CAA033F0052186FFC6BE194F9",
+    "label": "[紀州熊野本宮湯峯温泉]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[紀州熊野本宮湯峯温泉]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-015-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)\n・木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24.5×33"
+        },
+        {
+            "label": "備考",
+            "value": "効能書+図とも2枚"
+        },
+        {
+            "label": "identifier",
+            "value": "24840f4c-0119-4f27-9e02-c56cee534679"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0459"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/246daf8b68352a7be54460afdf5e4fe96d9cdba0.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24840f4c-0119-4f27-9e02-c56cee534679/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0F46540CAA033F0052186FFC6BE194F9",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "熊野本宮湯峰薬王山東光寺の\n霊場（れいじやう）に扶桑（ひのした）第一の温泉（ゆ）あり薬師\n如来の仏体ハ湯のはなにて自然と\n出現なりいにしへハ御 胸（むね）の中より温泉（をんせん）\n湧出（わきだ）しなり御 胸（むね）にその痕（あと）あり脇立\n日光月光十二神将ハ弘法大師の御作\nなり此温泉ハ往古（むかし）小栗判官といふ人\n毒（どく）酒に傷（やぶ）られこの温泉に浴（いる）事一ト臘（まハり）にて\n篤病（たいびやう）散癒（さつそくいゆ）病後ミづから力を試（ため）さんとて\n玉のことき小石を以大石へ心安く圧（おし）入れぬ\nそれよりこの石を小栗のちから石と\n称（いふ）又小栗温泉 浴（いる）の間 藁蘂（わらしべ）にて\n髪（かミ）を束（ゆひ）其しべを棄（すて）てし所今に至る\nまで毎年自然と稲（いね）を生す是を不播（まかず）\nの稲（いね）と号（なづ）く湯のみミねより北の方三丁\nばかり道のほとりにありい今まかず\nの稲とちから石を図（ず）して諸人に\n示（しめ）すものなり\n\n［上段絵の説明］\n　右　まかすのいね　　　左　小栗ちから石\n\n下段枠\n　紀州熊野本宮\n　湯峯温泉之図\n　●（赤）ハ湯\n　●（青）ハ水",
+            "text": "熊野本宮湯峰薬王山東光寺の\n霊場（れいじやう）に扶桑（ひのした）第一の温泉（ゆ）あり薬師\n如来の仏体ハ湯のはなにて自然と\n出現なりいにしへハ御 胸（むね）の中より温泉（をんせん）\n湧出（わきだ）しなり御 胸（むね）にその痕（あと）あり脇立\n日光月光十二神将ハ弘法大師の御作\nなり此温泉ハ往古（むかし）小栗判官といふ人\n毒（どく）酒に傷（やぶ）られこの温泉に浴（いる）事一ト臘（まハり）にて\n篤病（たいびやう）散癒（さつそくいゆ）病後ミづから力を試（ため）さんとて\n玉のことき小石を以大石へ心安く圧（おし）入れぬ\nそれよりこの石を小栗のちから石と\n称（いふ）又小栗温泉 浴（いる）の間 藁蘂（わらしべ）にて\n髪（かミ）を束（ゆひ）其しべを棄（すて）てし所今に至る\nまで毎年自然と稲（いね）を生す是を不播（まかず）\nの稲（いね）と号（なづ）く湯のみミねより北の方三丁\nばかり道のほとりにありい今まかず\nの稲とちから石を図（ず）して諸人に\n示（しめ）すものなり\n\n［上段絵の説明］\n　右　まかすのいね　　　左　小栗ちから石\n\n下段枠\n　紀州熊野本宮\n　湯峯温泉之図\n　●（赤）ハ湯\n　●（青）ハ水",
+            "timestamp": {
+                "_nanoseconds": 151000000,
+                "_seconds": 1574841955
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3d2431dcd032ce0ce921638543a8f3b0cda1680e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88669",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88669/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88669",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "563B85A6CCFCC3718264292071FC77B2",
+    "label": "[安政三年辰八月二十五日江戸大風雨]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[安政三年辰八月二十五日江戸大風雨]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-035"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政3年8月25日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "22.5×31"
+        },
+        {
+            "label": "year",
+            "value": "1856"
+        },
+        {
+            "label": "identifier",
+            "value": "c7235e30-8f91-4fb4-b646-6cbc4cc73f6b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0289"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3d2431dcd032ce0ce921638543a8f3b0cda1680e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c7235e30-8f91-4fb4-b646-6cbc4cc73f6b/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "563B85A6CCFCC3718264292071FC77B2",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "頃わ安政三年辰八月廿五日夜六ツ時ころより南\n大嵐吹出し其はけしき事筆に余り家をつぶし\n家根を吹立川筋波を打上ケ舟わこと如くこわれし\n事めも当らぬ次第也此時雷鳴渡り地震出火も有之\nめずら式次第のあらましを書しるしぬ\n日本橋南は通丁筋かく別の事なし【？】中橋京はし同芝口辺\n少々のいたみ芝山内わ大木を根より引ぬけ又は打おれし\nも有御堂も少々ツヽいたみ有之芝片門せん\nより出火いたし半丁斗やけ大門通り少々\n神明御社残り\n門前丁神明丁\n裏通り不残\n三嶋丁両かは\n浜松丁壱丁目\n片かは宇田川丁\n少々にてやけ\nとまり金杉\n本芝海片大方\nこわれ御屋鋪\n株【？】海岸通り\n別して多\nし芝田丁\n七丁目半丁斗\n　　　此近へん\n山道崩れ往来\n留所有高\n輪辺品川\n海岸遊女\n屋不残こはれ\n山の手麻布\n白銀へんはらく【？】\n\n【右下　９行目下】\n○海岸汐打上け\n津波如し\n\n【左下】\n築【筑】地御門跡御堂事\nこわれ汐留はし半谷落\n鉄炮す汐留大材木吹上\n\n",
+            "text": "頃わ安政三年辰八月廿五日夜六ツ時ころより南\n大嵐吹出し其はけしき事筆に余り家をつぶし\n家根を吹立川筋波を打上ケ舟わこと如くこわれし\n事めも当らぬ次第也此時雷鳴渡り地震出火も有之\nめずら式次第のあらましを書しるしぬ\n日本橋南は通丁筋かく別の事なし【？】中橋京はし同芝口辺\n少々のいたみ芝山内わ大木を根より引ぬけ又は打おれし\nも有御堂も少々ツヽいたみ有之芝片門せん\nより出火いたし半丁斗やけ大門通り少々\n神明御社残り\n門前丁神明丁\n裏通り不残\n三嶋丁両かは\n浜松丁壱丁目\n片かは宇田川丁\n少々にてやけ\nとまり金杉\n本芝海片大方\nこわれ御屋鋪\n株【？】海岸通り\n別して多\nし芝田丁\n七丁目半丁斗\n　　　此近へん\n山道崩れ往来\n留所有高\n輪辺品川\n海岸遊女\n屋不残こはれ\n山の手麻布\n白銀へんはらく【？】\n\n【右下　９行目下】\n○海岸汐打上け\n津波如し\n\n【左下】\n築【筑】地御門跡御堂事\nこわれ汐留はし半谷落\n鉄炮す汐留大材木吹上\n\n",
+            "timestamp": {
+                "_nanoseconds": 165000000,
+                "_seconds": 1571098553
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

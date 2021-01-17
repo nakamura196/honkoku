@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1eab9a791b8a008993ad20be588f2e6c2bbbe57e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88687",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88687/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88687",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "69DDAE96E42CA595171724C1508B01C4",
+    "label": "夜中笑いの種",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "夜中笑いの種"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-052"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "19×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "76ce2b03-9187-4894-b2a1-75114e7a685d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0307"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1eab9a791b8a008993ad20be588f2e6c2bbbe57e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/76ce2b03-9187-4894-b2a1-75114e7a685d/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "69DDAE96E42CA595171724C1508B01C4",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【ここは中央下資料の翻刻ページですが、中央上資料が翻刻してある分もそのまま残しておきます】\nわらいの種ほん\n\nほんとうかね\n所々へ仮宅の出きるはなし\n\nはやくしておくれなね\n小屋かけを\n\nわたしゃ一どでがっかりしたよ\nこんどの地しん\n\nまたするのかへ\nいりかへしの地しん\n\nおあいだくねへ\nやけしんだひと\n\nうれしいね\nおすくいの出たはなし\n\nたいそうおおきいね\nおすくいの小屋のたき出し\n\nかみはないのかへ\n十月だものを\n\nもうおよしよ\n土しんのはなし\n\nよかったねえ\nえこういんのあなほり\n\n\n【画像中央下の資料】\n夜中笑いの種\n【上段】\nほんとうかへ\n〽自身（じしん）\n\nうれしいねへ\n〽気（き）のついた見廻物（みまいもの）\n\nひとがくるとみるよ\n〽弁当（べんたう）の燗（かん）どくり\n\nもつときつくついておくれよ\n〽龍吐（りうど）すいの水（みづ）\n\nあれさぬけますよ\n〽風（ふう）れつの湯（ゆ）\n\nがつかりしたよ\n〽夜廻（よまは）りのひざがしら\n\n【下段】\nおだましでないよ\n〽御褒美（ごほうび）\n\nもつとこつちへをよりよ\n〽詰番居所（つめばんゐどころ）\n\nはやくおしよ\n〽ふれつぎの拍子木\n\nよくなつてきたよ\n〽引（ひい）てきた鉄（かな）ぼう\n\n日本中が一つになるよ\n〽火の用心\n\nもふおかへりよ\n〽あけ番（ばん）の大屋さま\n\n",
+            "text": "【ここは中央下資料の翻刻ページですが、中央上資料が翻刻してある分もそのまま残しておきます】\nわらいの種ほん\n\nほんとうかね\n所々へ仮宅の出きるはなし\n\nはやくしておくれなね\n小屋かけを\n\nわたしゃ一どでがっかりしたよ\nこんどの地しん\n\nまたするのかへ\nいりかへしの地しん\n\nおあいだくねへ\nやけしんだひと\n\nうれしいね\nおすくいの出たはなし\n\nたいそうおおきいね\nおすくいの小屋のたき出し\n\nかみはないのかへ\n十月だものを\n\nもうおよしよ\n土しんのはなし\n\nよかったねえ\nえこういんのあなほり\n\n\n【画像中央下の資料】\n夜中笑いの種\n【上段】\nほんとうかへ\n〽自身（じしん）\n\nうれしいねへ\n〽気（き）のついた見廻物（みまいもの）\n\nひとがくるとみるよ\n〽弁当（べんたう）の燗（かん）どくり\n\nもつときつくついておくれよ\n〽龍吐（りうど）すいの水（みづ）\n\nあれさぬけますよ\n〽風（ふう）れつの湯（ゆ）\n\nがつかりしたよ\n〽夜廻（よまは）りのひざがしら\n\n【下段】\nおだましでないよ\n〽御褒美（ごほうび）\n\nもつとこつちへをよりよ\n〽詰番居所（つめばんゐどころ）\n\nはやくおしよ\n〽ふれつぎの拍子木\n\nよくなつてきたよ\n〽引（ひい）てきた鉄（かな）ぼう\n\n日本中が一つになるよ\n〽火の用心\n\nもふおかへりよ\n〽あけ番（ばん）の大屋さま\n\n",
+            "timestamp": {
+                "_nanoseconds": 614000000,
+                "_seconds": 1598079365
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

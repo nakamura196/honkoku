@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cb69f1c93a362650e98e71b0fe7014d5a94569f1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88773",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88773/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88773",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "8CE1663624AF358CC6F7EEEBE4DFFC98",
+    "label": "[熱海温泉全図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[熱海温泉全図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-021"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "重田吉兵衛版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×50"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-11-004／附：孛国ドクトル「マルチン」氏分析表, 伊豆国熱海鉱泉定性定量表"
+        },
+        {
+            "label": "identifier",
+            "value": "24fe337c-b6e1-4881-afd4-df03e07d45dd"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0393"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cb69f1c93a362650e98e71b0fe7014d5a94569f1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/24fe337c-b6e1-4881-afd4-df03e07d45dd/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8CE1663624AF358CC6F7EEEBE4DFFC98",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【右上の説明部分】\n孛国ドフトル「マルチン」氏分析表\n　伊豆国熱海鉱泉定性定量表\n一鉱泉一千立法センチメートル即一リートル中\n　左ノ成分ヲ含メリ\nコロールカトリウム　　三七九〇〇　　コロールマクネシユム　　二三三三〇\nコロールカトリエム　　　八一〇〇　　コロールカルシユム　　　一七六七〇\n硫酸石炭　　　　　　　　一九三〇　　重炭酸石灰　　　　　　　〇〇〇四三\n重炭酸亜酸化銕　　　　　　　　三　　珪酸　　　　　　　　　　〇一一〇〇\n第一コロールマンカン　痕跡　　　　　有機物　　　　　　　　　同\nバロームカトリウム　　同　　　　　　ブロームナトリウム　　　同\n　　惣量一〇〇一〇四カラム\n\n【左上の説明部分】\n　　当所ヨリ\n東亰　　廿七里　　江ノ島　十五里\n横浜　　廿　里　　伊豆山　十八丁\n小田原　七　里　　日金山　五十丁\n箱根　　五　里　　修善寺　八　里\n三島　　五　里　　伊東　　五　里\n下田　　十八里　　静岡　　廿一里\n　　　　　　　　　網代　　二　里\n　　産物\n一雁皮紙　　　　　一楠細工\n一挽物細工　　　　一塗物細工\n一寄木細工　　　　一青木箸\n一木之葉形温泉化石",
+            "text": "【右上の説明部分】\n孛国ドフトル「マルチン」氏分析表\n　伊豆国熱海鉱泉定性定量表\n一鉱泉一千立法センチメートル即一リートル中\n　左ノ成分ヲ含メリ\nコロールカトリウム　　三七九〇〇　　コロールマクネシユム　　二三三三〇\nコロールカトリエム　　　八一〇〇　　コロールカルシユム　　　一七六七〇\n硫酸石炭　　　　　　　　一九三〇　　重炭酸石灰　　　　　　　〇〇〇四三\n重炭酸亜酸化銕　　　　　　　　三　　珪酸　　　　　　　　　　〇一一〇〇\n第一コロールマンカン　痕跡　　　　　有機物　　　　　　　　　同\nバロームカトリウム　　同　　　　　　ブロームナトリウム　　　同\n　　惣量一〇〇一〇四カラム\n\n【左上の説明部分】\n　　当所ヨリ\n東亰　　廿七里　　江ノ島　十五里\n横浜　　廿　里　　伊豆山　十八丁\n小田原　七　里　　日金山　五十丁\n箱根　　五　里　　修善寺　八　里\n三島　　五　里　　伊東　　五　里\n下田　　十八里　　静岡　　廿一里\n　　　　　　　　　網代　　二　里\n　　産物\n一雁皮紙　　　　　一楠細工\n一挽物細工　　　　一塗物細工\n一寄木細工　　　　一青木箸\n一木之葉形温泉化石",
+            "timestamp": {
+                "_nanoseconds": 109000000,
+                "_seconds": 1574168589
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

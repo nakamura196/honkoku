@@ -1,0 +1,196 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/259a55d51b72707cfa793a9e05a88564e3d3a607.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88787",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88787/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88787",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e2aea1bcc0e7a35347e97e340e25dae83bdcaf4d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219892",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219892/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219892",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "A322F8BEFA25D83A0A602A2EC8FBD174",
+    "label": "富士詣独案内",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士詣独案内"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政6年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "橋本玉蘭画・両国太平版／「富士山略記」の記載あり"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25"
+        },
+        {
+            "label": "別タイトル",
+            "value": "富士山略記"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1859"
+        },
+        {
+            "label": "identifier",
+            "value": "88c4b611-8495-4faf-86e3-9ccc7609a2f5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0407"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/259a55d51b72707cfa793a9e05a88564e3d3a607.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "A322F8BEFA25D83A0A602A2EC8FBD174",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【コマ一にタイトルなし】\n【右図の下に本文】\n日本橋ヨリ　品川ヘ　　六里\n品川ヨリ　　川嵜へ　　二リ半\n川崎ヨリ　　神名川ヘ　三リ半\n神名川ヨリ　程ケ谷ヘ　一リ九丁\n程ケ谷ヨリ　戸塚へ　　二リ九丁\n戸塚ヨリ　　藤沢ヘ　　一リ丗丁\n藤澤ヨリ　　平塚ヘ　　三リ半\n平塚ヨリ　　大礒へ　　廿六丁\n大礒ヨリ　　小田原ヘ　四里\n小田原ヨリ　箱根ヘ　　四リ八丁\n箱根ヨリ　　三島ヘ　　三リ廿八丁\n三嶋ヨリ　　沼津へ　　二リ半\n沼津ヨリ　　原ヘ　　　一リ半\n原ヨリ　　　吉原へ　　三リ六丁\n吉原ヨリ＜割書：大宮ヘ三リ｜蒲原ヘ二リ丗丁＞\n蒲原ヨリ　　由井ヘ　　三十丁\n由井ヨリ　　奥津ヘ　　二リ十六丁\n奥津ヨリ　　江尻ヘ　　一リ九丁\n江尻ヨリ　　久能山ヘ　二リ半\n清見寺下ヨリ＜割書：三保ノ先マデ｜海上三里＞\n三保ノ松原ハ西ヨリ東ヘ長ク\n出ル□【□：コトか？】一リ半南北廿丁羽衣ノ\n神社羽衣ノ井同古松アリ三\n保三社アリ此所ヨリ冨士ヲ見\nルニ竒【竒：奇の異体字】㬌言語ニ述ガタシ\n橋本玉蘭画図\n両国大平板\n【左図の上に本文】\n冨士山畧記ニ曰\n夫富士山ハ天地開\n闢已来自然涌出ノ\n御山ニテ万物出生ノ\n根元也然レハ人皇五\n\n代マデハ雲霧ニ囲レ\n世上奉拝スル□【□：コトか？】ヲ得ズ\n人皇六代孝安天王\n九十二年庚申年初\nテ雲霧晴テ国中ノ\n貴賎奉拝之ヲ同十\n二景行天王五十二\n年夏東夷征伐ノ\n御時北□【□：国か？】ニ行幸有\nテ此山南果ニ出現ノ\n山也□国富士山ヨリ\n西北東ニ当ル也北方\n広ク子ノ方ヨリ丗人為\n拝之旨勅宣上仮ニ華\n表ヲ御建立被成下夫\nヨリ已来三国第一山ト\n奉号鎮座仙元太神\n地神三代瓊々杵命皇\n后木花開耶姫神亦\n御名鹿茸津姫命大\n山祇命女子安産\n養蚕ノ守護神也\n吉田口麓仙元大華表\n高五丈八尺五寸太サ径七\n尺五寸但一本木也勅額\n竪九尺横六尺楠一枚\n板三国第一山トアリ\n【左図の左下角】\n橋本\n玉蘭画図\n両国大平板\n",
+            "text": "【コマ一にタイトルなし】\n【右図の下に本文】\n日本橋ヨリ　品川ヘ　　六里\n品川ヨリ　　川嵜へ　　二リ半\n川崎ヨリ　　神名川ヘ　三リ半\n神名川ヨリ　程ケ谷ヘ　一リ九丁\n程ケ谷ヨリ　戸塚へ　　二リ九丁\n戸塚ヨリ　　藤沢ヘ　　一リ丗丁\n藤澤ヨリ　　平塚ヘ　　三リ半\n平塚ヨリ　　大礒へ　　廿六丁\n大礒ヨリ　　小田原ヘ　四里\n小田原ヨリ　箱根ヘ　　四リ八丁\n箱根ヨリ　　三島ヘ　　三リ廿八丁\n三嶋ヨリ　　沼津へ　　二リ半\n沼津ヨリ　　原ヘ　　　一リ半\n原ヨリ　　　吉原へ　　三リ六丁\n吉原ヨリ《割書：大宮ヘ三リ｜蒲原ヘ二リ丗丁》\n蒲原ヨリ　　由井ヘ　　三十丁\n由井ヨリ　　奥津ヘ　　二リ十六丁\n奥津ヨリ　　江尻ヘ　　一リ九丁\n江尻ヨリ　　久能山ヘ　二リ半\n清見寺下ヨリ《割書：三保ノ先マデ｜海上三里》\n三保ノ松原ハ西ヨリ東ヘ長ク\n出ル□【□：コトか？】一リ半南北廿丁羽衣ノ\n神社羽衣ノ井同古松アリ三\n保三社アリ此所ヨリ冨士ヲ見\nルニ竒【竒：奇の異体字】㬌言語ニ述ガタシ\n橋本玉蘭画図\n両国大平板\n【左図の上に本文】\n冨士山畧記ニ曰\n夫富士山ハ天地開\n闢已来自然涌出ノ\n御山ニテ万物出生ノ\n根元也然レハ人皇五\n\n代マデハ雲霧ニ囲レ\n世上奉拝スル□【□：コトか？】ヲ得ズ\n人皇六代孝安天王\n九十二年庚申年初\nテ雲霧晴テ国中ノ\n貴賎奉拝之ヲ同十\n二景行天王五十二\n年夏東夷征伐ノ\n御時北□【□：国か？】ニ行幸有\nテ此山南果ニ出現ノ\n山也□国富士山ヨリ\n西北東ニ当ル也北方\n広ク子ノ方ヨリ丗人為\n拝之旨勅宣上仮ニ華\n表ヲ御建立被成下夫\nヨリ已来三国第一山ト\n奉号鎮座仙元太神\n地神三代瓊々杵命皇\n后木花開耶姫神亦\n御名鹿茸津姫命大\n山祇命女子安産\n養蚕ノ守護神也\n吉田口麓仙元大華表\n高五丈八尺五寸太サ径七\n尺五寸但一本木也勅額\n竪九尺横六尺楠一枚\n板三国第一山トアリ\n【左図の左下角】\n橋本\n玉蘭画図\n両国大平板\n",
+            "timestamp": {
+                "_nanoseconds": 35000000,
+                "_seconds": 1577017913
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88c4b611-8495-4faf-86e3-9ccc7609a2f5/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "A322F8BEFA25D83A0A602A2EC8FBD174",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n富士詣独案内\n【俯瞰図の下に本文】\n日本橋ヨリ　府中ヘ　　九里\n府中ヨリ　　日野ヘ　　二リ八丁\n日野ヨリ　　八王子ヘ　廿八丁\n八王子ヨリ　駒木野へ　廿丁\n＜割書：小仏峠右｜高尾山左＞追分上リ口マテ五丁\n両山トモニ五十丁高尾山ヨリ\n峯越五十丁峠ニ至ル峠ヨリ\n小原ヘ下リ坂一里二十二丁\n二タ瀬越ヨリ吉野へ　　廿丁\n吉野ヨリ　　関野ヘ　　廿六丁\n関野ヨリ　　上野原ヘ　二里\n上野原ヨリ　鶴川ヘ　　十八丁\n鶴川ヨリ　　野田尻ヘ　一リ六丁\n野田尻ヨリ　犬目ヘ　　三十一丁\n犬目ヨリ　　鳥沢ヘ　　一リ十二丁\n鳥沢ヨリ　　猿橋ヘ　　廿八丁\n猿橋ヨリ　　大月ヘ　　一リ八丁\n大月ヨリ　　四日市ヘ　一リ半\n四日市ヨリ　谷村ヘ　　廿五丁\n谷村ヨリ　　小野ヘ　　一リ半\n小野ヨリ　　下吉田ヘ　一リ半\n下吉田＜割書：ヨリ｜御師ノ丁＞上吉田ヘ十八丁\n橋本玉蘭画図\n両国太平板\n",
+            "text": "【タイトル】\n富士詣独案内\n【俯瞰図の下に本文】\n日本橋ヨリ　府中ヘ　　九里\n府中ヨリ　　日野ヘ　　二リ八丁\n日野ヨリ　　八王子ヘ　廿八丁\n八王子ヨリ　駒木野へ　廿丁\n《割書：小仏峠右｜高尾山左》追分上リ口マテ五丁\n両山トモニ五十丁高尾山ヨリ\n峯越五十丁峠ニ至ル峠ヨリ\n小原ヘ下リ坂一里二十二丁\n二タ瀬越ヨリ吉野へ　　廿丁\n吉野ヨリ　　関野ヘ　　廿六丁\n関野ヨリ　　上野原ヘ　二里\n上野原ヨリ　鶴川ヘ　　十八丁\n鶴川ヨリ　　野田尻ヘ　一リ六丁\n野田尻ヨリ　犬目ヘ　　三十一丁\n犬目ヨリ　　鳥沢ヘ　　一リ十二丁\n鳥沢ヨリ　　猿橋ヘ　　廿八丁\n猿橋ヨリ　　大月ヘ　　一リ八丁\n大月ヨリ　　四日市ヘ　一リ半\n四日市ヨリ　谷村ヘ　　廿五丁\n谷村ヨリ　　小野ヘ　　一リ半\n小野ヨリ　　下吉田ヘ　一リ半\n下吉田《割書：ヨリ｜御師ノ丁》上吉田ヘ十八丁\n橋本玉蘭画図\n両国太平板\n",
+            "timestamp": {
+                "_nanoseconds": 646000000,
+                "_seconds": 1577069616
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

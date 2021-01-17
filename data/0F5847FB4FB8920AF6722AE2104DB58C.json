@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9ecaa348d5ba3ffb64e0c015d089d08006bc343f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88729",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88729/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88729",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "0F5847FB4FB8920AF6722AE2104DB58C",
+    "label": "雷神秋の夕立鏡",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "雷神秋の夕立鏡"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-07-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "雷図"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治16年8月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "国利画／版元：安藤勝五郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×46.5"
+        },
+        {
+            "label": "備考",
+            "value": "2枚組"
+        },
+        {
+            "label": "year",
+            "value": "1883"
+        },
+        {
+            "label": "identifier",
+            "value": "bfb19bad-1c86-4ea7-9e0a-0025eb21b08f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0349"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9ecaa348d5ba3ffb64e0c015d089d08006bc343f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bfb19bad-1c86-4ea7-9e0a-0025eb21b08f/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "0F5847FB4FB8920AF6722AE2104DB58C",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【タイトル】\n雷神秋（らいじんあき）の夕立鏡（ゆうだちがゝみ）【かゞみの誤りか】\n\n【図内右上紺地部分】\n明寺十六年八月十五日\n　落雷場所\n麹町区　　祝田町　土手\n神田区　　金沢町　十三番地\n芝　区　　公園地　四ケ所\n\n【図内左上紺地部分】\n四ツ谷区　鮫ケ橋\n牛込区　　神楽町二番地\n小石川区　大塚町三十六番地\n本郷区　　根津八重垣町\n\n【図内雷セリフ右上から左下】\n〽よほどのけが人かあまり\nさわぎがつよいから\nなりたけしづかに\nするがよかろふ\n\n〽はうぼうの\nおまつりで若へものが\nさわぎだしこれも\nさけの上でござり升\n\n〽おとすりを\nおあがんなさりませ\n\n〽大そうにそんじたの\nま事【こと】にせがれにも\nこまるなんぞ\nと\nいふと\nさきに\nたち\nむかし\nおちかごや\nくもすけいまは\nなんだろう\nな\n\n〽くも助ではないくもの上から\nおつこちさ\n\n〽おちもおちたが犬の上ひざを\nくいつかれあいつのはには\nどくがある\nそうだ\n\n〽いぬには\nくろざとうが\nくすりだ\n\n〽大かたから八\nだろう\n\n〽此たいこはたれのだこんなじやうだんを\nするからだ\n\n〽かんじんのつのには\nさわりはないよ\n\n〽おつかさん\nおとつさんはおつのが\nおれたのかい\nおつかさん【が？】\nおこま【り】だねへ\n\n【前部欠損】\nほどの御けが御養生\nかんじん\n〳〵\n\n〽のんでおりました\nからそれでなけれ【ば？】\nおちませんとらや\nなんぞとは\nちがいます\n\n〽おこしはいたみは\nいたし\nま\nせ\nん\nか\n\n〽おちもおちたが\n石の上さんねん\nどこかへいちどて\nこり〳〵だ\n\n〽大きにごくろう〳〵\nなりたけしづかに\nしておくれよ\n\n〽ぜんてひ一ト口\nのんだときには\nよせばよいに\n\n〽これさらのなり\nそとへねか\nそう\n\n【左下署名】\n御届\n九月一日出板人画工兼\n本郷二町目五月女勝五郎\n\n【画署名】\n国利戯墨\n",
+            "text": "【タイトル】\n雷神秋（らいじんあき）の夕立鏡（ゆうだちがゝみ）【かゞみの誤りか】\n\n【図内右上紺地部分】\n明寺十六年八月十五日\n　落雷場所\n麹町区　　祝田町　土手\n神田区　　金沢町　十三番地\n芝　区　　公園地　四ケ所\n\n【図内左上紺地部分】\n四ツ谷区　鮫ケ橋\n牛込区　　神楽町二番地\n小石川区　大塚町三十六番地\n本郷区　　根津八重垣町\n\n【図内雷セリフ右上から左下】\n〽よほどのけが人かあまり\nさわぎがつよいから\nなりたけしづかに\nするがよかろふ\n\n〽はうぼうの\nおまつりで若へものが\nさわぎだしこれも\nさけの上でござり升\n\n〽おとすりを\nおあがんなさりませ\n\n〽大そうにそんじたの\nま事【こと】にせがれにも\nこまるなんぞ\nと\nいふと\nさきに\nたち\nむかし\nおちかごや\nくもすけいまは\nなんだろう\nな\n\n〽くも助ではないくもの上から\nおつこちさ\n\n〽おちもおちたが犬の上ひざを\nくいつかれあいつのはには\nどくがある\nそうだ\n\n〽いぬには\nくろざとうが\nくすりだ\n\n〽大かたから八\nだろう\n\n〽此たいこはたれのだこんなじやうだんを\nするからだ\n\n〽かんじんのつのには\nさわりはないよ\n\n〽おつかさん\nおとつさんはおつのが\nおれたのかい\nおつかさん【が？】\nおこま【り】だねへ\n\n【前部欠損】\nほどの御けが御養生\nかんじん\n〳〵\n\n〽のんでおりました\nからそれでなけれ【ば？】\nおちませんとらや\nなんぞとは\nちがいます\n\n〽おこしはいたみは\nいたし\nま\nせ\nん\nか\n\n〽おちもおちたが\n石の上さんねん\nどこかへいちどて\nこり〳〵だ\n\n〽大きにごくろう〳〵\nなりたけしづかに\nしておくれよ\n\n〽ぜんてひ一ト口\nのんだときには\nよせばよいに\n\n〽これさらのなり\nそとへねか\nそう\n\n【左下署名】\n御届\n九月一日出板人画工兼\n本郷二町目五月女勝五郎\n\n【画署名】\n国利戯墨\n",
+            "timestamp": {
+                "_nanoseconds": 513000000,
+                "_seconds": 1572913532
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

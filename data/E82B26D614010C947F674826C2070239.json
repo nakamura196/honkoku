@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3188,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a9532dc6fb4b931ee380fa47e84972b49ae30047.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3188,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88658",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88658/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88658",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "E82B26D614010C947F674826C2070239",
+    "label": "世中当座帳",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "世中当座帳"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "番付"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "51×35"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "fa9aacc0-9500-40e7-aad6-37d94b390fed"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0278"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a9532dc6fb4b931ee380fa47e84972b49ae30047.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fa9aacc0-9500-40e7-aad6-37d94b390fed/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "E82B26D614010C947F674826C2070239",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【中央の表題】\n世中当座帳\n　　　　　行　土方人足　ざいもくや　諸職人　　関東　安政二卯年\n　　　　　司　 風雅聞人　ぜいたくや　諸芸人　江戸大地震大火\n　　　　　　　　　　　　　　　　　　　　　　　八州　十月二日夜\n\n【右側一段目、右から左へ】\nもちゐられるもの\n【右側二段目】\n大関　ひら家住居\n関取　あな蔵\n小結　こけらぶき\n前頭　わらんじ\n前頭　しるし半天\n前頭　わらそうり\n前頭　どんぶりめし\n前頭　干ものゝおかづ\n前頭　二八そば\n前頭　もも引\n前頭　三じやく帯\n前頭　素人火けし\n【右側三段目】\n前頭　大道の立喰\n同　　こんにやく\n同　　長い刀に一門付袴\n同　　ひら家の茶つけ\n同　　甲州刀のつば\n同　　くぎぬき\n同　　さんま\n同　　金もの屋\n同　　あらもの屋\n同　　木綿着もの\n同　　茶わんさけ\n同　　車りき\n同　　くぎ屋\n同　　土こね【つちこね。左官のこと】\n同　　すぎ丸太\n同　　おでんかん酒\n【右側四段目】\n同　　大ふくもち\n同　　素人壁の蔵打\n同　　さしツこ半天\n同　　すきくわ\n同　　こてりやうぢ\n同　　しつくひや\n同　　火事羽織\n同　　正札附安賣\n同　　吉原立のき\n同　　とまぶき家根\n同　　町飛脚\n同　　木ひろい\n同　　ぶたなへ\n大関　大工棟梁\n関取　左官棟梁\n小結　家根屋棟梁\n【右側五段目、右から左へ】\n大火方\n【右側六段目】\n大関　明暦三丸山　本妙寺振袖出火\n関取　明和九　目黒行人坂出火\n小結　文化三寅年　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　佐久間町二丁目出火\n前頭　弘化四　本郷丸山ヨリ出火\n前頭　嘉永三　麹町ヨリ出火\n前頭　弘化三　青山ヨリ出火\n前頭　天明八　京都大火\n前頭　安永七　江戸大火\n前頭　寛政五　根津大火\n前頭　享保九　大坂大火\n【右側七段目】\n同　　　享保三　江戸大火\n同　　　天保二　江戸大火\n同　　　寛文元　京都大火\n同　　　天保五　江戸大火\n同　　　天保二　江戸大火\n同　　　安政元　江戸大火\n同　　　安政二　江戸大火\n同　　　安政元　神田出火\n同　　　寛政四　糀町出火\n同　　　嘉永　　　京都大火\n同　　　寛政　　　中國大火\n同　　　同　　　　　南部大火\n同　　　安政元　中仙道大火\n同　　　同年　　　東海道大火\n同　　　同年　　　大坂大火\n同　　　同年　　　宇都宮大火\n\n【左側一段目、右から左へ】\nおあひたなもの\n【左側二段目】\n大関　土蔵住居\n関取　三階家作\n小結　かわら家根\n前頭　せつた\n前頭　紋つき羽おり\n前頭　あしだ\n前頭　會席料理\n前頭　煮つけさかな\n前頭　うなき蒲焼\n前頭　ぱつち\n前頭　どんすの帯\n前頭　こわいろつかい\n【左側三段目】\n前頭　　二階のお料理\n同　　　このしろ魚でん\n同　　　茶亭のはかま\n同　　　どんぶりうなき\n同　　　ぞうかん入の鍔\n同　　　べつ甲細工\n同　　　鮎の煮びたし\n同　　　びいどろ屋\n同　　　質屋\n同　　　べんへらきもの\n同　　　ちび〳〵上戸酒\n同　　　堀の船やど\n同　　　分見道具や\n同　　　歌舞伎役者\n同　　　四ツ谷丸太\n同　　　てうしさかつき\n【左側四段目】\n同　　　上くわし\n同　　　持あそひ屋\n同　　　縮めんの着物\n同　　　釣りばり\n同　　　たいこ医者\n同　　　こて〳〵ぬつた女\n同　　　ゆうきの羽織\n同　　　かし本屋\n同　　　かこひもの\n同　　　寄せの五りん\n同　　　絹糸わたり\n同　　　居ざり\n同　　　はなしか\n大関　茶の湯師匠\n関取　踊師匠\n小結　三味線ノ師匠\n【左側五段目、右から左へ】\n地震方\n【左側六段目】\n大関　弘化四信濃　善光寺開帳地震\n関取　文政十一　越後國大地震\n小結　嘉永元　小田原大地震\n前頭　寛永四　関東大地震\n前頭　安政元　大坂大地震\n前頭　寛政十　小田原大地震\n前頭　元禄十六　関八州大地震\n前頭　天和三　日光大地震\n前頭　文化九　関東大地震\n前頭　安政元　信州大地震\n前頭　同年　　　紀州大地震\n前頭　同年　　　播州大地震\n【左側七段目】\n同　　　安政元　攝州大地震\n同　　　同年　　　甲斐大地震\n同　　　同年　　　駿河大地震\n同　　　同年　　　遠州大地震\n同　　　安政二　船橋大地震\n同　　　同年　　　神奈川大地震\n同　　　安政元　阿波大地震\n同　　　同年　　　伊予大地震\n同　　　安政二　中山道筋地震\n同　　　同年　　　東海道筋地震\n同　　　同年　　　水街道中地震\n同　　　同年　　　日光道中地震\n同　　　同年　　　上総大地震\n同　　　同年　　　下総大地震\n同　　　同年　　　青梅道地震\n同　　　同年　　　秩父大地震\n\n【欄外左下】\n日野要腎齋蔵板",
+            "text": "【中央の表題】\n世中当座帳\n　　　　　行　土方人足　ざいもくや　諸職人　　関東　安政二卯年\n　　　　　司　 風雅聞人　ぜいたくや　諸芸人　江戸大地震大火\n　　　　　　　　　　　　　　　　　　　　　　　八州　十月二日夜\n\n【右側一段目、右から左へ】\nもちゐられるもの\n【右側二段目】\n大関　ひら家住居\n関取　あな蔵\n小結　こけらぶき\n前頭　わらんじ\n前頭　しるし半天\n前頭　わらそうり\n前頭　どんぶりめし\n前頭　干ものゝおかづ\n前頭　二八そば\n前頭　もも引\n前頭　三じやく帯\n前頭　素人火けし\n【右側三段目】\n前頭　大道の立喰\n同　　こんにやく\n同　　長い刀に一門付袴\n同　　ひら家の茶つけ\n同　　甲州刀のつば\n同　　くぎぬき\n同　　さんま\n同　　金もの屋\n同　　あらもの屋\n同　　木綿着もの\n同　　茶わんさけ\n同　　車りき\n同　　くぎ屋\n同　　土こね【つちこね。左官のこと】\n同　　すぎ丸太\n同　　おでんかん酒\n【右側四段目】\n同　　大ふくもち\n同　　素人壁の蔵打\n同　　さしツこ半天\n同　　すきくわ\n同　　こてりやうぢ\n同　　しつくひや\n同　　火事羽織\n同　　正札附安賣\n同　　吉原立のき\n同　　とまぶき家根\n同　　町飛脚\n同　　木ひろい\n同　　ぶたなへ\n大関　大工棟梁\n関取　左官棟梁\n小結　家根屋棟梁\n【右側五段目、右から左へ】\n大火方\n【右側六段目】\n大関　明暦三丸山　本妙寺振袖出火\n関取　明和九　目黒行人坂出火\n小結　文化三寅年　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　佐久間町二丁目出火\n前頭　弘化四　本郷丸山ヨリ出火\n前頭　嘉永三　麹町ヨリ出火\n前頭　弘化三　青山ヨリ出火\n前頭　天明八　京都大火\n前頭　安永七　江戸大火\n前頭　寛政五　根津大火\n前頭　享保九　大坂大火\n【右側七段目】\n同　　　享保三　江戸大火\n同　　　天保二　江戸大火\n同　　　寛文元　京都大火\n同　　　天保五　江戸大火\n同　　　天保二　江戸大火\n同　　　安政元　江戸大火\n同　　　安政二　江戸大火\n同　　　安政元　神田出火\n同　　　寛政四　糀町出火\n同　　　嘉永　　　京都大火\n同　　　寛政　　　中國大火\n同　　　同　　　　　南部大火\n同　　　安政元　中仙道大火\n同　　　同年　　　東海道大火\n同　　　同年　　　大坂大火\n同　　　同年　　　宇都宮大火\n\n【左側一段目、右から左へ】\nおあひたなもの\n【左側二段目】\n大関　土蔵住居\n関取　三階家作\n小結　かわら家根\n前頭　せつた\n前頭　紋つき羽おり\n前頭　あしだ\n前頭　會席料理\n前頭　煮つけさかな\n前頭　うなき蒲焼\n前頭　ぱつち\n前頭　どんすの帯\n前頭　こわいろつかい\n【左側三段目】\n前頭　　二階のお料理\n同　　　このしろ魚でん\n同　　　茶亭のはかま\n同　　　どんぶりうなき\n同　　　ぞうかん入の鍔\n同　　　べつ甲細工\n同　　　鮎の煮びたし\n同　　　びいどろ屋\n同　　　質屋\n同　　　べんへらきもの\n同　　　ちび〳〵上戸酒\n同　　　堀の船やど\n同　　　分見道具や\n同　　　歌舞伎役者\n同　　　四ツ谷丸太\n同　　　てうしさかつき\n【左側四段目】\n同　　　上くわし\n同　　　持あそひ屋\n同　　　縮めんの着物\n同　　　釣りばり\n同　　　たいこ医者\n同　　　こて〳〵ぬつた女\n同　　　ゆうきの羽織\n同　　　かし本屋\n同　　　かこひもの\n同　　　寄せの五りん\n同　　　絹糸わたり\n同　　　居ざり\n同　　　はなしか\n大関　茶の湯師匠\n関取　踊師匠\n小結　三味線ノ師匠\n【左側五段目、右から左へ】\n地震方\n【左側六段目】\n大関　弘化四信濃　善光寺開帳地震\n関取　文政十一　越後國大地震\n小結　嘉永元　小田原大地震\n前頭　寛永四　関東大地震\n前頭　安政元　大坂大地震\n前頭　寛政十　小田原大地震\n前頭　元禄十六　関八州大地震\n前頭　天和三　日光大地震\n前頭　文化九　関東大地震\n前頭　安政元　信州大地震\n前頭　同年　　　紀州大地震\n前頭　同年　　　播州大地震\n【左側七段目】\n同　　　安政元　攝州大地震\n同　　　同年　　　甲斐大地震\n同　　　同年　　　駿河大地震\n同　　　同年　　　遠州大地震\n同　　　安政二　船橋大地震\n同　　　同年　　　神奈川大地震\n同　　　安政元　阿波大地震\n同　　　同年　　　伊予大地震\n同　　　安政二　中山道筋地震\n同　　　同年　　　東海道筋地震\n同　　　同年　　　水街道中地震\n同　　　同年　　　日光道中地震\n同　　　同年　　　上総大地震\n同　　　同年　　　下総大地震\n同　　　同年　　　青梅道地震\n同　　　同年　　　秩父大地震\n\n【欄外左下】\n日野要腎齋蔵板",
+            "timestamp": {
+                "_nanoseconds": 257000000,
+                "_seconds": 1573565021
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

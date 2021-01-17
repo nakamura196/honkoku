@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0d502ce62ccc510c51697fc8b4da30b023118a60.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88749",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88749/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88749",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/65cab907a70a7b9e7e4ab682ebb61ed85ba195db.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219885",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219885/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219885",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "760954D9172F4B3BA487476C61BD2D32",
+    "label": "上州伊香保温泉之略図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上州伊香保温泉之略図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "豊原周春筆／下谷金杉13　長谷川升次郎／神田旅籠町22　榎本藤兵"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×23"
+        },
+        {
+            "label": "別タイトル",
+            "value": "温泉記 内務省分析表"
+        },
+        {
+            "label": "備考",
+            "value": "附：温泉記 内務省分析表"
+        },
+        {
+            "label": "identifier",
+            "value": "3549dce0-2d6c-4402-8c30-5c417912f3ab"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0369"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0d502ce62ccc510c51697fc8b4da30b023118a60.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p1",
+            "editedBy": "KzT5GoGTOsh5IN1acmAY3MaCENB2",
+            "entryId": "760954D9172F4B3BA487476C61BD2D32",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "KzT5GoGTOsh5IN1acmAY3MaCENB2",
+            "tempText": "【この右は切れている】\n平常に浴し給ふとなん\n伊香保名所図絵の記者\n篠田仙果\n\n【円内】\n明治十三年\n御届\n五月\n\n上野北大門丁十一番地\n画工　橋本直義\n\n浅草茅野丁六十五番地\n出板人　山村金三郎\n\n楊洲周延筆\n\n【タイトル】\n上州伊香保温泉之略図\n\n【地名は図中に記す】\n\n温泉記\n内務省衛生局分析表\n左の成分は一リートル中に含有するもの也\n硫酸曹達　〇、六一二……\n【この左は切れている】\n\n",
+            "text": "【この右は切れている】\n平常に浴し給ふとなん\n伊香保名所図絵の記者\n篠田仙果\n\n【円内】\n明治十三年\n御届\n五月\n\n上野北大門丁十一番地\n画工　橋本直義\n\n浅草茅野丁六十五番地\n出板人　山村金三郎\n\n楊洲周延筆\n\n【タイトル】\n上州伊香保温泉之略図\n\n【地名は図中に記す】\n\n温泉記\n内務省衛生局分析表\n左の成分は一リートル中に含有するもの也\n硫酸曹達　〇、六一二……\n【この左は切れている】\n\n",
+            "timestamp": {
+                "_nanoseconds": 804000000,
+                "_seconds": 1585142269
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3549dce0-2d6c-4402-8c30-5c417912f3ab/canvas/p2",
+            "editedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "entryId": "760954D9172F4B3BA487476C61BD2D32",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "tempText": "【図内左上枠内】\n温泉記\n　内務省衛生局分析表\n　　左の成分は一リートル中に含有するもの也\n硫酸曹達　〇、六七七五ガラム\n硫酸加里　痕跡\n硫酸广屈涅矢亜【マグネシア】　痕跡\n硫酸加爾基【カルキ】　〇、一一二〇ガラム\n格魯児【クロル】ナトリユーム　〇、三一五八ガラム\n格魯児カリユーム　痕跡\n重炭酸加爾基　〇、一九八〇ガラム\n重炭酸广屈涅矢亜　〇、一一九〇ガラム\n重炭酸亜酸化鉄　〇、〇〇七一ガラム\n珪酸　〇、〇三五ガラム\n此 鉱泉（ゆ）の主成分（しゆせいぶん）は硫酸曹達（りうさんそうだ）塩化（えんくわ）ナトリユームにして解凝（こりをとき）下泄（つうじをつける）能力（ちから）あるを以（もつ）て\n左（さ）の諸病（しよびやう）に効（こう）あり\n〇 胃弱（いのよわさ）〇 白帯下（しろこしけ）\n　右の病者内服効（びやうにんのみてこう）を得（う）べし　\n〇 経久悪性僂广質私（ひさしきあくしやうれいまちつ）〇 僂广質私（れいまちつ）\n性関節病腰痛（にてふしのいたみこしのいたみ）〇 神経病（しんけいびやう）〇 鉱毒（くわうどく）より\n発（はつ）せし病（やまひ）〇 皮膚病麻疹痘瘡（ひふびやうはしかはうさう）より\n発する頑癬（わるきかさ）\n　右の病者外用して効を得へし\n〇 貧血症（ちのすくなきせう）〇 子宮官能変（こつぼのびやうき）常 月経不順（つきのめぐりふじゆん）\n　右の病者内外共に服用して効を\n得べし\n\n【絵の左下署名】\n豊原周春曙射筆\n　　　　御届　　下谷金杉八十三バンチ\n　　　　　月　　　　　はせ川升次郎\n　　　　　　　　神田ハタコ丁二十二バンチ\n　　　　　　　　　　　榎本藤兵衛\n",
+            "text": "【図内左上枠内】\n温泉記\n　内務省衛生局分析表\n　　左の成分は一リートル中に含有するもの也\n硫酸曹達　〇、六七七五ガラム\n硫酸加里　痕跡\n硫酸广屈涅矢亜【マグネシア】　痕跡\n硫酸加爾基【カルキ】　〇、一一二〇ガラム\n格魯児【クロル】ナトリユーム　〇、三一五八ガラム\n格魯児カリユーム　痕跡\n重炭酸加爾基　〇、一九八〇ガラム\n重炭酸广屈涅矢亜　〇、一一九〇ガラム\n重炭酸亜酸化鉄　〇、〇〇七一ガラム\n珪酸　〇、〇三五ガラム\n此 鉱泉（ゆ）の主成分（しゆせいぶん）は硫酸曹達（りうさんそうだ）塩化（えんくわ）ナトリユームにして解凝（こりをとき）下泄（つうじをつける）能力（ちから）あるを以（もつ）て\n左（さ）の諸病（しよびやう）に効（こう）あり\n〇 胃弱（いのよわさ）〇 白帯下（しろこしけ）\n　右の病者内服効（びやうにんのみてこう）を得（う）べし　\n〇 経久悪性僂广質私（ひさしきあくしやうれいまちつ）〇 僂广質私（れいまちつ）\n性関節病腰痛（にてふしのいたみこしのいたみ）〇 神経病（しんけいびやう）〇 鉱毒（くわうどく）より\n発（はつ）せし病（やまひ）〇 皮膚病麻疹痘瘡（ひふびやうはしかはうさう）より\n発する頑癬（わるきかさ）\n　右の病者外用して効を得へし\n〇 貧血症（ちのすくなきせう）〇 子宮官能変（こつぼのびやうき）常 月経不順（つきのめぐりふじゆん）\n　右の病者内外共に服用して効を\n得べし\n\n【絵の左下署名】\n豊原周春曙射筆\n　　　　御届　　下谷金杉八十三バンチ\n　　　　　月　　　　　はせ川升次郎\n　　　　　　　　神田ハタコ丁二十二バンチ\n　　　　　　　　　　　榎本藤兵衛\n",
+            "timestamp": {
+                "_nanoseconds": 222000000,
+                "_seconds": 1573347135
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2431968eb77dd53cf5a7ffd611351d951bc75ce9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88782",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88782/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88782",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "0FDEE7C481C24B65BADE009AB8EC3D7B",
+    "label": "[箱根温泉図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[箱根温泉図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-030"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "引札"
+        },
+        {
+            "label": "年月日",
+            "value": "天保13年秋月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "東都宮亀年写／宮下 藤屋勘右衛門蔵版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33×48"
+        },
+        {
+            "label": "year",
+            "value": "1842"
+        },
+        {
+            "label": "identifier",
+            "value": "b576835f-9f68-4c92-b182-6bf971c3b289"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0402"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2431968eb77dd53cf5a7ffd611351d951bc75ce9.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b576835f-9f68-4c92-b182-6bf971c3b289/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0FDEE7C481C24B65BADE009AB8EC3D7B",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【左下四角囲み上　開始】\n底倉宮ノ下ゟ\n　小田原＜割書：江｜＞　　三里半\n　湯元＜割書：江｜＞　　　二里\n　塔ノ澤＜割書：江｜＞　　一里半\n　堂ケ島＜割書：江｜＞　　五丁\n　木賀＜割書：江｜＞　　　半道\n　芦ノ湯＜割書：江｜＞　　一里半\n　箱根権現＜割書：江｜＞　二里十丁\n　姥　子＜割書：江｜＞　　三里半\n　小地獄＜割書：江｜＞　　半道\n　熱海＜割書：江｜＞日金越六里\n　道了権現＜割書：江｜＞　六里半\n　大山＜割書：江｜＞　　　十里は半\n\n富士\n　須走口＜割書：江｜＞　五里百丁\n　吉田口＜割書：江｜＞　九里百丁\n【左下四角囲み上　終了】\n\n【左下四角囲み下　開始】\n応需　東都宮亀年写\n【湯元】\n福住九蔵\n小川万右エ門\n【底倉】\n万屋孫左エ門\n梅屋又左エ門\n蔦屋平左エ門\n仙石屋丈助\n【塔ノ澤】\n元湯甚五兵衛\n一ノ湯澤右エ門\n藤屋喜八\n田村兵蔵\n田村久兵衛\n福住喜平治\n瀧湯十左エ門\n【木賀】\n仙石屋七兵衛\n松坂屋寿平治\n亀屋新太郎\n【堂ケ島】\n奈良屋六郎兵衛\n江戸屋与惣治\n丸屋孫兵衛\n大和屋太郎左エ門\n近江屋半兵衛\n【芦ノ湯】\n亀屋兵蔵\n伊勢屋清左エ門\n吉田屋平兵衛\n松坂屋万右エ門\n紀国屋忠右エ門\n大黒屋金左エ門\n【宮ノ下】\n奈良屋平治\n伊勢屋八右エ門\n吉田屋勘兵衛\n\n藤屋勘右エ門\n【宮ノ下】\n藤屋勘右エ門\n　　　蔵板\n天保十三年\n壬寅秋再板\n【左下四角囲み下　終了】\n\n",
+            "text": "【左下四角囲み上　開始】\n底倉宮ノ下ゟ\n　小田原《割書：江｜》　　三里半\n　湯元《割書：江｜》　　　二里\n　塔ノ澤《割書：江｜》　　一里半\n　堂ケ島《割書：江｜》　　五丁\n　木賀《割書：江｜》　　　半道\n　芦ノ湯《割書：江｜》　　一里半\n　箱根権現《割書：江｜》　二里十丁\n　姥　子《割書：江｜》　　三里半\n　小地獄《割書：江｜》　　半道\n　熱海《割書：江｜》日金越六里\n　道了権現《割書：江｜》　六里半\n　大山《割書：江｜》　　　十里は半\n\n富士\n　須走口《割書：江｜》　五里百丁\n　吉田口《割書：江｜》　九里百丁\n【左下四角囲み上　終了】\n\n【左下四角囲み下　開始】\n応需　東都宮亀年写\n【湯元】\n福住九蔵\n小川万右エ門\n【底倉】\n万屋孫左エ門\n梅屋又左エ門\n蔦屋平左エ門\n仙石屋丈助\n【塔ノ澤】\n元湯甚五兵衛\n一ノ湯澤右エ門\n藤屋喜八\n田村兵蔵\n田村久兵衛\n福住喜平治\n瀧湯十左エ門\n【木賀】\n仙石屋七兵衛\n松坂屋寿平治\n亀屋新太郎\n【堂ケ島】\n奈良屋六郎兵衛\n江戸屋与惣治\n丸屋孫兵衛\n大和屋太郎左エ門\n近江屋半兵衛\n【芦ノ湯】\n亀屋兵蔵\n伊勢屋清左エ門\n吉田屋平兵衛\n松坂屋万右エ門\n紀国屋忠右エ門\n大黒屋金左エ門\n【宮ノ下】\n奈良屋平治\n伊勢屋八右エ門\n吉田屋勘兵衛\n\n藤屋勘右エ門\n【宮ノ下】\n藤屋勘右エ門\n　　　蔵板\n天保十三年\n壬寅秋再板\n【左下四角囲み下　終了】\n\n",
+            "timestamp": {
+                "_nanoseconds": 563000000,
+                "_seconds": 1574842402
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

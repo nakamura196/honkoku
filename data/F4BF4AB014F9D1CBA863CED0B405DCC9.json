@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c5f40990f6376c30a2dfb25ee57439b0adf9f56d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88628",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88628/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88628",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "F4BF4AB014F9D1CBA863CED0B405DCC9",
+    "label": "かけ合あふむ石",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "かけ合あふむ石"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "上総 内藤の印あり"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×50"
+        },
+        {
+            "label": "備考",
+            "value": "2枚組"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "d00a86c8-22d2-49f4-9475-3294cd01a8bb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0248"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c5f40990f6376c30a2dfb25ee57439b0adf9f56d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d00a86c8-22d2-49f4-9475-3294cd01a8bb/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "F4BF4AB014F9D1CBA863CED0B405DCC9",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\nかけ合\nあふむ石\n【凡例】\n●白屋権八\nばんじやくいん\n■鹿嶋や長兵衛\n【本文】\n■とわれてなんのなに\n神（かみ）となのるやうな神号（しんこう）\nてもム【ござ】り升【ませ？】ぬしかし社（やしろ）は東（あづま）路（ぢ）に気（き）も\n浮（うき）たつた銚（てう）子（し）の鼻（はな）江（ゑ）戸（ど）でうはさの\n常陸（ひたち）帯（おひ）盤石院（ばんじやくいん）の長兵衛といふ\n唯一（ゆいち）の社（やしろ）さ●スリヤ神国（しんこく）にて隠（かく）れなき鯰（なまつ）\nおさへた磐石（ばんじやく）の■アヽもし〳〵そふいわれ\nちやアめんほくねへがわしは此間（このあいた）いつものとふり仲間の手合の\n寄（より）合（あい）に出雲（いづも）へ立（たつ）たもきのふけふるすに震（ふるつ）た大鯰（おほなまづ）ほんの事だが是（これ）迄（まで）は\nお江戸に地震（ぢしん）のないやうにとねた間も石はゆるめませぬ神前（しんぜん）\nならはどのやうにも手強（てづよ）ひ神詫もいゝましやうがほんの途中（とちう）で\nすねツかぎり江戸の鼻（はな）迄（まで）帰（かへつ）たおかげにやア気がつよい\nよはひ鯰（なまづ）は除（よけ）てとふし強（つよ）ひやつ\nならむかふづら此（この）以後（いご）に大鯰（なまづ）が\n出（で）て左右（さゆう）の髭（ひげ）をふつてきても\nびくともさせる事じやアごぜへ\nませぬおよばずなから要（かなめ）のいし\nづへ家根（やね）の瓦（かわら）はおちてわれ\n破れた家（いへ）はまだ\n野宿（のじゆく）よしわら\n五町を火事（くはじ）でやけ\n江戸の鯰（なまづ）と口〴〵に\nなまづのなかの鯰（なまづ）\n一疋（いつひき）いつでもまいりに\nござりませ神前（しんぜん）浄（きよめ）て\nまつて居（い）ます\n",
+            "text": "【表題】\nかけ合\nあふむ石\n【凡例】\n●白屋権八\nばんじやくいん\n■鹿嶋や長兵衛\n【本文】\n■とわれてなんのなに\n神（かみ）となのるやうな神号（しんこう）\nてもム【ござ】り升【ませ？】ぬしかし社（やしろ）は東（あづま）路（ぢ）に気（き）も\n浮（うき）たつた銚（てう）子（し）の鼻（はな）江（ゑ）戸（ど）でうはさの\n常陸（ひたち）帯（おひ）盤石院（ばんじやくいん）の長兵衛といふ\n唯一（ゆいち）の社（やしろ）さ●スリヤ神国（しんこく）にて隠（かく）れなき鯰（なまつ）\nおさへた磐石（ばんじやく）の■アヽもし〳〵そふいわれ\nちやアめんほくねへがわしは此間（このあいた）いつものとふり仲間の手合の\n寄（より）合（あい）に出雲（いづも）へ立（たつ）たもきのふけふるすに震（ふるつ）た大鯰（おほなまづ）ほんの事だが是（これ）迄（まで）は\nお江戸に地震（ぢしん）のないやうにとねた間も石はゆるめませぬ神前（しんぜん）\nならはどのやうにも手強（てづよ）ひ神詫もいゝましやうがほんの途中（とちう）で\nすねツかぎり江戸の鼻（はな）迄（まで）帰（かへつ）たおかげにやア気がつよい\nよはひ鯰（なまづ）は除（よけ）てとふし強（つよ）ひやつ\nならむかふづら此（この）以後（いご）に大鯰（なまづ）が\n出（で）て左右（さゆう）の髭（ひげ）をふつてきても\nびくともさせる事じやアごぜへ\nませぬおよばずなから要（かなめ）のいし\nづへ家根（やね）の瓦（かわら）はおちてわれ\n破れた家（いへ）はまだ\n野宿（のじゆく）よしわら\n五町を火事（くはじ）でやけ\n江戸の鯰（なまづ）と口〴〵に\nなまづのなかの鯰（なまづ）\n一疋（いつひき）いつでもまいりに\nござりませ神前（しんぜん）浄（きよめ）て\nまつて居（い）ます\n",
+            "timestamp": {
+                "_nanoseconds": 243000000,
+                "_seconds": 1572607393
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

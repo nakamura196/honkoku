@@ -1,0 +1,192 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ec8052c5c43068a8d42623d72e4c5e93c922a692.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88750",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88750/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88750",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/409c5c0b5205f396f26345ea90d0c07e0df4c90f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219886",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219886/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219886",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "777F82A2A22F48AC79A2223A9BE39F04",
+    "label": "上野国伊香保温泉繁栄之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上野国伊香保温泉繁栄之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治15年3月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "応需広重筆／画工：東?町27 安藤徳兵衛／出版人：神田旅籠町1丁目　榎本藤兵衛"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1882"
+        },
+        {
+            "label": "identifier",
+            "value": "584aa0ce-5d40-433c-9e24-9e5b2ebf55d8"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0370"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ec8052c5c43068a8d42623d72e4c5e93c922a692.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p1",
+            "editedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "entryId": "777F82A2A22F48AC79A2223A9BE39F04",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "tempText": "＜割書：上野国｜伊香保＞　温泉繁栄之図　　　　　　　　　　　応需　広重画\n\n当所温泉を内務省衛生\n局にて分析の上左の病には殊に\n効験ありと決定られたり\n◯年久しく悪性の僂麻質私（れいまちす）\n◯レイマチスにて関節（ふし）の痛（いたみ）\n◯｜腰（こし）の痛（いたみ）　神経病\n◯｜鉱毒（くわうとく）より来する所の麻痺（しひれ）\n◯麻疹痘瘡より発したる\n　 頑（？つ）きできもの又｜貧血（ちのすくな）き症（ひと）\n◯月経不順の者は浴入服用し\n　てよろし　又 胃弱（いのよはき）者\n◯白帯下の病者は内服すへし\n此外効能しるしかたし\n\n　上野国西群馬郡\n　　伊香保温泉\n　　　　入浴舎　\n\n御届明治十五年三月　日\n神田旅籠町一丁目\n　出板人榎本藤兵衛\n南紺屋町弐十七\n　画工安藤徳兵衛\n【額の文字】\n爽髄泉\n寿延",
+            "text": "《割書：上野国｜伊香保》　温泉繁栄之図　　　　　　　　　　　応需　広重画\n\n当所温泉を内務省衛生\n局にて分析の上左の病には殊に\n効験ありと決定られたり\n◯年久しく悪性の僂麻質私（れいまちす）\n◯レイマチスにて関節（ふし）の痛（いたみ）\n◯｜腰（こし）の痛（いたみ）　神経病\n◯｜鉱毒（くわうとく）より来する所の麻痺（しひれ）\n◯麻疹痘瘡より発したる\n　 頑（？つ）きできもの又｜貧血（ちのすくな）き症（ひと）\n◯月経不順の者は浴入服用し\n　てよろし　又 胃弱（いのよはき）者\n◯白帯下の病者は内服すへし\n此外効能しるしかたし\n\n　上野国西群馬郡\n　　伊香保温泉\n　　　　入浴舎　\n\n御届明治十五年三月　日\n神田旅籠町一丁目\n　出板人榎本藤兵衛\n南紺屋町弐十七\n　画工安藤徳兵衛\n【額の文字】\n爽髄泉\n寿延",
+            "timestamp": {
+                "_nanoseconds": 682000000,
+                "_seconds": 1571113115
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/584aa0ce-5d40-433c-9e24-9e5b2ebf55d8/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "777F82A2A22F48AC79A2223A9BE39F04",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "入浴風呂を\n見る図",
+            "text": "入浴風呂を\n見る図",
+            "timestamp": {
+                "_nanoseconds": 13000000,
+                "_seconds": 1570950063
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

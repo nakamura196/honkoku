@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2e69ab52543223a8488f451270493a887e2acfe2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88523",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88523/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88523",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "1DE848C3A022443B0AA587EB3DCCE447",
+    "label": "[すい神のおしえにいのちたすかりて]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[すい神のおしえにいのちたすかりて]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-096"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "abb1d110-6902-42d4-96de-257ef00bd381"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0143"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2e69ab52543223a8488f451270493a887e2acfe2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/abb1d110-6902-42d4-96de-257ef00bd381/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "1DE848C3A022443B0AA587EB3DCCE447",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【表題】\nすい神のおしえにいのちたすかりて\n六部のかづに入そうれしき\n\n【本文　上】\n安政二年十月二日夜\n江戸幷関東筋\n大地震大火に付\n鹿島（かしま）大神御｜帰（かへり）\nあつていからせ玉ひ\nの玉ふよふ　　　「大せかい\n日本の地は天｜照（しやう）大神を\nはじめとし諸（しよ）神のしゆこ\nにして地は堅牢（けんろう）地神とそれがしがあづかりなり\nしかるに例年（れひねん）のさだめあれば此月朔日｜出雲（いづも）の\n大やしろへ参宮（さんぐう）のるすを見こみなまづども乱ばうに\nおよび御｜府内（ふない）きん国までゆりつぶし家（いへ）やら石がき\nとうをくづし出火となりあまたの焼失（せうしつ）のみ\nならずけがにんはなん万のかづをしらず死人は\n二拾七万六千八百余人におよぶときくこれみな\nその方どものわざならずやわがかなめ石の\nくるしみばかりか大つゑに瓢（ひよう）たんのくがい\nをわすれぬらりくらりとつらまへどこなき\n大ざい人いかにそれがしるすなりとてかゝる\nいへんのあるうへはわがしゆ役（やく）のかどたゝず\nよつてそのつみかろからねばなまづいつとう\nほねぬきのうへかばやきにおこ\nなはるゝものなりそれうなぎども\nなまづをいち〳〵うちとれよ\n\n\n【本文　中右】\nなまづいつとう身をふるわせ\nこれまであなたがおるすでも市川\n団十郎といふひようたんの\nおや玉がおられましており〳〵\nなり田へ参けいのついで\nには此かしまをとう\nられますゆへ身うごき\nもなりませなんだが\nその人もおられぬゆへ\nつい〳〵ひれがゆるみ\nましてまことに\nおそれいりました\nせめてはかばやきと\nなつてしよくにん\nしゆうのはら\nでもたん\nと\nこやしま\nしやう\n\n\n【本文　右下】\nうなぎは【破れ。二文字分を東京都立図書館蔵同名史料にて補う】\nいさみ\nすゝみいで\n「此なまづらはわれ〳〵の\nあるゆへにうなぎやへあき\nなはれますそのしたしみも\nうちわすれ\nわたくしらどもが\nすまいます\nつりしも\nはりを\n\n\n【本文　左下】\nおろさ\nれぬ\n石がきさへ\nもくづ\nしました\nまだその\nうへにあめ\nふればで水に\nまぎれて田はたさへ\nつゝきおよぐのやつなればまだも\nあくじがござりませうわたくしどもが\nせめたゝきはらのどろをばはかせませう\n",
+            "text": "【表題】\nすい神のおしえにいのちたすかりて\n六部のかづに入そうれしき\n\n【本文　上】\n安政二年十月二日夜\n江戸幷関東筋\n大地震大火に付\n鹿島（かしま）大神御｜帰（かへり）\nあつていからせ玉ひ\nの玉ふよふ　　　「大せかい\n日本の地は天｜照（しやう）大神を\nはじめとし諸（しよ）神のしゆこ\nにして地は堅牢（けんろう）地神とそれがしがあづかりなり\nしかるに例年（れひねん）のさだめあれば此月朔日｜出雲（いづも）の\n大やしろへ参宮（さんぐう）のるすを見こみなまづども乱ばうに\nおよび御｜府内（ふない）きん国までゆりつぶし家（いへ）やら石がき\nとうをくづし出火となりあまたの焼失（せうしつ）のみ\nならずけがにんはなん万のかづをしらず死人は\n二拾七万六千八百余人におよぶときくこれみな\nその方どものわざならずやわがかなめ石の\nくるしみばかりか大つゑに瓢（ひよう）たんのくがい\nをわすれぬらりくらりとつらまへどこなき\n大ざい人いかにそれがしるすなりとてかゝる\nいへんのあるうへはわがしゆ役（やく）のかどたゝず\nよつてそのつみかろからねばなまづいつとう\nほねぬきのうへかばやきにおこ\nなはるゝものなりそれうなぎども\nなまづをいち〳〵うちとれよ\n\n\n【本文　中右】\nなまづいつとう身をふるわせ\nこれまであなたがおるすでも市川\n団十郎といふひようたんの\nおや玉がおられましており〳〵\nなり田へ参けいのついで\nには此かしまをとう\nられますゆへ身うごき\nもなりませなんだが\nその人もおられぬゆへ\nつい〳〵ひれがゆるみ\nましてまことに\nおそれいりました\nせめてはかばやきと\nなつてしよくにん\nしゆうのはら\nでもたん\nと\nこやしま\nしやう\n\n\n【本文　右下】\nうなぎは【破れ。二文字分を東京都立図書館蔵同名史料にて補う】\nいさみ\nすゝみいで\n「此なまづらはわれ〳〵の\nあるゆへにうなぎやへあき\nなはれますそのしたしみも\nうちわすれ\nわたくしらどもが\nすまいます\nつりしも\nはりを\n\n\n【本文　左下】\nおろさ\nれぬ\n石がきさへ\nもくづ\nしました\nまだその\nうへにあめ\nふればで水に\nまぎれて田はたさへ\nつゝきおよぐのやつなればまだも\nあくじがござりませうわたくしどもが\nせめたゝきはらのどろをばはかせませう\n",
+            "timestamp": {
+                "_nanoseconds": 329000000,
+                "_seconds": 1572225031
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,172 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9019,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3004f84aecc84369096520130ce8766e772e088a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9019,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56344",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6777
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56344/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56344",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6777
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9019,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/627ff7fb961b2d3b00b4a6091605959786a238e6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9019,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56345",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6777
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56345/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56345",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6777
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "62262430B30AE0D583838B97ED2D33E4",
+    "label": "儒者競",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "儒者競"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-026"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "番付"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "identifier",
+            "value": "df6a328d-2882-4be7-ac70-c995a9afd014"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1098"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3004f84aecc84369096520130ce8766e772e088a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "62262430B30AE0D583838B97ED2D33E4",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【中央表題】\n　　　　　　　鵞峰林春斎　世　寄斎三宅玄蕃　　　　年　丈山石川嘉右エ門　勧　清原秀賢\n儒者競　行司　羅山林道春　話　直方佐藤五郎左エ門　　　石斎鵜飼権平　　　進　藤原惺窩\n　　　　　　　鳳岡林春常　役　淡淵中西曾七郎　　　寄　省菴安藤市之進　　元　中江藤樹\n　　　　　　　　　　　　　　　　　　　　　　　　　　　澹泊安積覚兵衛　　差　南村梅軒\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　添\n【欄外右側】\n日ノ下儒者　精里古賀弥助　斯外ニ東西ニ儒者数多御座候学派荒ましハ左之通ニ御座候\n【欄外上側右】\n東之方\n【欄外上側左】\n西之方\n【本文右側一段目】\n大関　京都　仁斎伊藤源佐\n関脇　江戸　徂徠荻生惣右エ門\n小結　備前　蕃山熊澤五郎八\n前頭　京都　東涯伊藤源蔵\n前頭　江州　明霞宇野三平\n前頭　信州　春臺太宰弥右エ門\n前頭　京都　篤所北村伊兵衛\n前頭　丹波　天民並河簡亮\n前頭　下野　東野安藤仁右エ門\n前頭　播州　龍洲岡太仲\n【右側二段目】\n前頭　京都　淇園皆川文蔵\n同　　江戸　鵬斎亀田文左エ門\n同　　上野　兼山片山忠蔵\n同　　江戸　北山山本喜六郎\n同　　賀州　錦城太田才佐\n同　　京都　南郭服部小右エ門\n同　　長門　周南山縣少助\n同　　肥後　昔陽古屋重治郎\n同　　京都　蘭嵎伊藤才蔵\n同　　播州　滄洲大川良平\n同　　京都　執斎三輪善蔵\n同　　信州　金峨井上文平\n【右側三段目】\n同　　尾州  平洲細井甚三郎\n同　　下総　大室渋井平左エ門\n同　　信州　大湫南宮弥六\n同　　奥州　金華平賀源右エ門\n同　　京都　武龍武田三弥\n同　　奥州　熊耳大内忠太夫\n同　　上総　灊水宇佐美惠助\n同　　丹波  観海松崎才蔵\n同　　京都　栲亭村瀬嘉右エ門\n同　　筑前　南冥亀井道載\n同　　摂州　 旭山平澤五助\n同　　丹波　誠所並河五一郎\n同　　江戸　蘭臺井上嘉膳\n【右側四段目】\n同　　播州　儋叟清田文興\n同　　越前　錦里伊藤惣司\n同　　江戸　南溟入江幸八\n同　　大坂　白賁服部多門\n同　　備前　常山湯浅新兵衛\n同　　奥州　迂斎宮田宇右エ門\n同　　紀州　龍門宮瀬三右エ門\n同　　播州　北海江村傳左エ門\n同　　江戸　鼇渚大塩与右エ門\n同　　仝　　竹溪三浦平太夫\n同　　下野　澹園秋元喜内\n同　　江戸　白岩稲垣茂左エ門\n同　　長門　鶴臺瀧弥八\n同　　播州　太痩赤松秘呂女\n【右側五段目】\n同　　常陸　澹園戸崎五郎太夫\n同　　江戸　藍田伊東金蔵\n同　　伏見　草廬龍彦三郎\n同　　彦根　琴所沢村喜内\n同　　江戸　江南田中三郎右エ門\n同　　京都　山陰佐野少進\n同　　下野　清河安達文仲\n同　　江戸　桐江菊地大助\n同　　周防　東溟林周助\n同　　三河　爽鳩鷹見三郎兵衛\n同　　京都　龍溪岩垣長門介\n同　　江戸　鶴鳴市川藤兵衛\n同　　大坂　因是葛西健蔵\n同　　三河　東海岳太仲\n同　　江戸　芸閣千葉茂右エ門【「芸」の字はゲイでなくウン】\n\n【本文左側一段目】\n大関　京都　闇斎山崎嘉右エ門\n関脇　姫路　活所那波道圓\n小結　土州　兼山野中傳右エ門\n前頭　京都　順菴木下平之允\n前頭　賀州　鳩巣室新助\n前頭　江戸　白石新井勘解由\n前頭　筑前　益軒貝原久兵衛\n前頭　京都　惕斎中村七左エ門\n前頭　仝　　尺五松永昌三郎\n前頭　對州　芳洲雨森東五郎\n【左側二段目】\n前頭　阿波　栗山柴野彦輔\n同　　播州　絅斎浅見重二郎\n同　　若狭　成斎西依義兵衛\n同　　江州　尚斎三宅丹治\n同　　摂州　栗斎服部善蔵\n同　　江戸　蛻岩梁田才右エ門\n同　　仝　　篁洲榊原玄甫\n同　　大坂　蘭洲五井藤九郎\n同　　仝　　竹山中井善太\n同　　仝　　履軒中井徳治\n同　　播州　魯堂那波主膳\n同　　肥後　玉山秋山儀右エ門\n【左側三段目】\n同　　周防　遯菴宇都宮由的\n同　　京都　貞斎毛利香之進\n同　　江戸　蘭林中村深蔵\n同　　尼崎　強斎若林新七\n同　　大坂　二洲尾藤良助\n同　　勢州　春水頼弥太郎\n同　　江戸　玉水村士行蔵\n同　　播州　松斎奥田尚斎\n同　　江戸　静斎河口三八\n同　　熊本　孤山藪茂二郎\n同　　筑前　春菴竹田助太夫\n同　　京都　観瀾三宅九十郎\n同　　紀州　南海祇園与市郎\n【左側四段目】\n同　　長崎　冠山岡嶋援之\n同　　長州　鹿門小倉彦平\n同　　筑前　耻斎貝原市之進\n同　　筑後　懶斎藤井藤蔵\n同　　京都　蒙斎多田儀兵衛\n同　　江戸　兼山管野勘平\n同　　肥前　華沼岩瀬勘平\n同　　備前　西涯近藤六之丞\n同　　江戸　寒泉岡田清助\n同　　仙臺　東山蘆孝七郎\n同　　阿波　大嶼集堂弓五郎\n同　　對州　霞沼松浦儀右エ門\n同　　江戸　東海篠崎金吾\n同　　紀州　木菴那波采女\n【左側五段目】\n同　　土州　芝山大高清介\n同　　仝　　一斎谷三之助\n同　　薩摩　海門赤崎源助\n同　　尾州　朝暘岡田彦左エ門\n同　　江戸　松窗関永一郎\n同　　讃州　芝山後藤三郎兵衛\n同　　水戸　錬斎鵜飼金平\n同　　京都　道乙三宅忠兵衛\n同　　水戸　潜峰栗山源助\n同　　江戸　迂斎稲葉十左エ門\n同　　出羽　雪樓山宮勘兵衛\n同　　中津　龍渚倉成善司\n同　　和州　持軒五井加助\n同　　大坂　訂斎久米断二郎\n同　　豊前　麟洲石川平兵衛",
+            "text": "【中央表題】\n　　　　　　　鵞峰林春斎　世　寄斎三宅玄蕃　　　　年　丈山石川嘉右エ門　勧　清原秀賢\n儒者競　行司　羅山林道春　話　直方佐藤五郎左エ門　　　石斎鵜飼権平　　　進　藤原惺窩\n　　　　　　　鳳岡林春常　役　淡淵中西曾七郎　　　寄　省菴安藤市之進　　元　中江藤樹\n　　　　　　　　　　　　　　　　　　　　　　　　　　　澹泊安積覚兵衛　　差　南村梅軒\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　添\n【欄外右側】\n日ノ下儒者　精里古賀弥助　斯外ニ東西ニ儒者数多御座候学派荒ましハ左之通ニ御座候\n【欄外上側右】\n東之方\n【欄外上側左】\n西之方\n【本文右側一段目】\n大関　京都　仁斎伊藤源佐\n関脇　江戸　徂徠荻生惣右エ門\n小結　備前　蕃山熊澤五郎八\n前頭　京都　東涯伊藤源蔵\n前頭　江州　明霞宇野三平\n前頭　信州　春臺太宰弥右エ門\n前頭　京都　篤所北村伊兵衛\n前頭　丹波　天民並河簡亮\n前頭　下野　東野安藤仁右エ門\n前頭　播州　龍洲岡太仲\n【右側二段目】\n前頭　京都　淇園皆川文蔵\n同　　江戸　鵬斎亀田文左エ門\n同　　上野　兼山片山忠蔵\n同　　江戸　北山山本喜六郎\n同　　賀州　錦城太田才佐\n同　　京都　南郭服部小右エ門\n同　　長門　周南山縣少助\n同　　肥後　昔陽古屋重治郎\n同　　京都　蘭嵎伊藤才蔵\n同　　播州　滄洲大川良平\n同　　京都　執斎三輪善蔵\n同　　信州　金峨井上文平\n【右側三段目】\n同　　尾州  平洲細井甚三郎\n同　　下総　大室渋井平左エ門\n同　　信州　大湫南宮弥六\n同　　奥州　金華平賀源右エ門\n同　　京都　武龍武田三弥\n同　　奥州　熊耳大内忠太夫\n同　　上総　灊水宇佐美惠助\n同　　丹波  観海松崎才蔵\n同　　京都　栲亭村瀬嘉右エ門\n同　　筑前　南冥亀井道載\n同　　摂州　 旭山平澤五助\n同　　丹波　誠所並河五一郎\n同　　江戸　蘭臺井上嘉膳\n【右側四段目】\n同　　播州　儋叟清田文興\n同　　越前　錦里伊藤惣司\n同　　江戸　南溟入江幸八\n同　　大坂　白賁服部多門\n同　　備前　常山湯浅新兵衛\n同　　奥州　迂斎宮田宇右エ門\n同　　紀州　龍門宮瀬三右エ門\n同　　播州　北海江村傳左エ門\n同　　江戸　鼇渚大塩与右エ門\n同　　仝　　竹溪三浦平太夫\n同　　下野　澹園秋元喜内\n同　　江戸　白岩稲垣茂左エ門\n同　　長門　鶴臺瀧弥八\n同　　播州　太痩赤松秘呂女\n【右側五段目】\n同　　常陸　澹園戸崎五郎太夫\n同　　江戸　藍田伊東金蔵\n同　　伏見　草廬龍彦三郎\n同　　彦根　琴所沢村喜内\n同　　江戸　江南田中三郎右エ門\n同　　京都　山陰佐野少進\n同　　下野　清河安達文仲\n同　　江戸　桐江菊地大助\n同　　周防　東溟林周助\n同　　三河　爽鳩鷹見三郎兵衛\n同　　京都　龍溪岩垣長門介\n同　　江戸　鶴鳴市川藤兵衛\n同　　大坂　因是葛西健蔵\n同　　三河　東海岳太仲\n同　　江戸　芸閣千葉茂右エ門【「芸」の字はゲイでなくウン】\n\n【本文左側一段目】\n大関　京都　闇斎山崎嘉右エ門\n関脇　姫路　活所那波道圓\n小結　土州　兼山野中傳右エ門\n前頭　京都　順菴木下平之允\n前頭　賀州　鳩巣室新助\n前頭　江戸　白石新井勘解由\n前頭　筑前　益軒貝原久兵衛\n前頭　京都　惕斎中村七左エ門\n前頭　仝　　尺五松永昌三郎\n前頭　對州　芳洲雨森東五郎\n【左側二段目】\n前頭　阿波　栗山柴野彦輔\n同　　播州　絅斎浅見重二郎\n同　　若狭　成斎西依義兵衛\n同　　江州　尚斎三宅丹治\n同　　摂州　栗斎服部善蔵\n同　　江戸　蛻岩梁田才右エ門\n同　　仝　　篁洲榊原玄甫\n同　　大坂　蘭洲五井藤九郎\n同　　仝　　竹山中井善太\n同　　仝　　履軒中井徳治\n同　　播州　魯堂那波主膳\n同　　肥後　玉山秋山儀右エ門\n【左側三段目】\n同　　周防　遯菴宇都宮由的\n同　　京都　貞斎毛利香之進\n同　　江戸　蘭林中村深蔵\n同　　尼崎　強斎若林新七\n同　　大坂　二洲尾藤良助\n同　　勢州　春水頼弥太郎\n同　　江戸　玉水村士行蔵\n同　　播州　松斎奥田尚斎\n同　　江戸　静斎河口三八\n同　　熊本　孤山藪茂二郎\n同　　筑前　春菴竹田助太夫\n同　　京都　観瀾三宅九十郎\n同　　紀州　南海祇園与市郎\n【左側四段目】\n同　　長崎　冠山岡嶋援之\n同　　長州　鹿門小倉彦平\n同　　筑前　耻斎貝原市之進\n同　　筑後　懶斎藤井藤蔵\n同　　京都　蒙斎多田儀兵衛\n同　　江戸　兼山管野勘平\n同　　肥前　華沼岩瀬勘平\n同　　備前　西涯近藤六之丞\n同　　江戸　寒泉岡田清助\n同　　仙臺　東山蘆孝七郎\n同　　阿波　大嶼集堂弓五郎\n同　　對州　霞沼松浦儀右エ門\n同　　江戸　東海篠崎金吾\n同　　紀州　木菴那波采女\n【左側五段目】\n同　　土州　芝山大高清介\n同　　仝　　一斎谷三之助\n同　　薩摩　海門赤崎源助\n同　　尾州　朝暘岡田彦左エ門\n同　　江戸　松窗関永一郎\n同　　讃州　芝山後藤三郎兵衛\n同　　水戸　錬斎鵜飼金平\n同　　京都　道乙三宅忠兵衛\n同　　水戸　潜峰栗山源助\n同　　江戸　迂斎稲葉十左エ門\n同　　出羽　雪樓山宮勘兵衛\n同　　中津　龍渚倉成善司\n同　　和州　持軒五井加助\n同　　大坂　訂斎久米断二郎\n同　　豊前　麟洲石川平兵衛",
+            "timestamp": {
+                "_nanoseconds": 231000000,
+                "_seconds": 1575881703
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/df6a328d-2882-4be7-ac70-c995a9afd014/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "62262430B30AE0D583838B97ED2D33E4",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "東京大学図書印\n0011842523",
+            "text": "東京大学図書印\n0011842523",
+            "timestamp": {
+                "_nanoseconds": 474000000,
+                "_seconds": 1572763508
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/744c5e6525402b1de31963219e2aa0ed6328e531.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88497",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88497/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88497",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "63C6750340B09AE4A8D1A3661FBBE2E9",
+    "label": "大坂川口新田之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大坂川口新田之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-070"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月5日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "前の69番と組"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24.5"
+        },
+        {
+            "label": "備考",
+            "value": "I-02-069と組み"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "5d3242b2-3327-4b22-b9e9-20233f385275"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0117"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/744c5e6525402b1de31963219e2aa0ed6328e531.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d3242b2-3327-4b22-b9e9-20233f385275/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "63C6750340B09AE4A8D1A3661FBBE2E9",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【ここには中央下資料のみ翻刻でよいと思われるが残しておく】\n\n【上図表題】\n十一月五日の夜（よ）\n大津浪\n来る前\n大坂\n前（まへ）垂（たれ）\n島（しま）に\n出る\n怪異（くわゐ）の図（づ）\n\n【本文】\n〇十一月五日｜夜（よ）暮（くれ）六つ半時｜津（つ）浪（なみ）にて橋（はし）落（おち）し分（ぶん）\n〇｜道（とう）頓（とん）堀（ほり）川西ヨリ日吉橋｜汐（しほ）見（み）はし｜幸（さいわひ）橋　住吉はし\n〇堀江川　｜水分（みづわけ）橋｜鉄（くろがね）はし〇西｜横（よこ）堀｜金（かな）屋はし\n〇安治川橋〇亀井橋〇玉津はし都合（つかう）十一橋\n〇天保山津｜浪（なみ）突上（つきのぼ）り此｜辺（へん）の漁師（れうし）民家（みんか）とも水\n　つきけるゆへ皆々（みな〳〵）天保山へ逃登（にげのほ）る民家大そんじ\n　小家｜崩（くづ）れながるゝすべて此辺の新田（しんでん）水突入\n　ける故百姓家｜各（おの〳〵）堤（つゝみ）に逃登る其後｜皆（みな）堤（つゝみ）の上に\n　｜仮小屋（かりこや）立（たて）是（これ）に住居（ぢうきよ）す\n\n【下図表題】\n大阪川口新田之図\n【残り文字は画像内に翻刻】\n\n\n",
+            "text": "【ここには中央下資料のみ翻刻でよいと思われるが残しておく】\n\n【上図表題】\n十一月五日の夜（よ）\n大津浪\n来る前\n大坂\n前（まへ）垂（たれ）\n島（しま）に\n出る\n怪異（くわゐ）の図（づ）\n\n【本文】\n〇十一月五日｜夜（よ）暮（くれ）六つ半時｜津（つ）浪（なみ）にて橋（はし）落（おち）し分（ぶん）\n〇｜道（とう）頓（とん）堀（ほり）川西ヨリ日吉橋｜汐（しほ）見（み）はし｜幸（さいわひ）橋　住吉はし\n〇堀江川　｜水分（みづわけ）橋｜鉄（くろがね）はし〇西｜横（よこ）堀｜金（かな）屋はし\n〇安治川橋〇亀井橋〇玉津はし都合（つかう）十一橋\n〇天保山津｜浪（なみ）突上（つきのぼ）り此｜辺（へん）の漁師（れうし）民家（みんか）とも水\n　つきけるゆへ皆々（みな〳〵）天保山へ逃登（にげのほ）る民家大そんじ\n　小家｜崩（くづ）れながるゝすべて此辺の新田（しんでん）水突入\n　ける故百姓家｜各（おの〳〵）堤（つゝみ）に逃登る其後｜皆（みな）堤（つゝみ）の上に\n　｜仮小屋（かりこや）立（たて）是（これ）に住居（ぢうきよ）す\n\n【下図表題】\n大阪川口新田之図\n【残り文字は画像内に翻刻】\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 587000000,
+                "_seconds": 1568341917
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

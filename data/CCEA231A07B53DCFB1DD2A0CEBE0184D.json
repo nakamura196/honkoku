@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/99fd80af5d46897fe6f3674009abcfc60ab46300.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88695",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88695/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88695",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "CCEA231A07B53DCFB1DD2A0CEBE0184D",
+    "label": "地震出火例のおわらひ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震出火例のおわらひ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-060"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "18×23"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "6c523d64-950d-4b9a-aac1-541f4427e911"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0315"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/99fd80af5d46897fe6f3674009abcfc60ab46300.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6c523d64-950d-4b9a-aac1-541f4427e911/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "CCEA231A07B53DCFB1DD2A0CEBE0184D",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "地震　　　　　　　　　　○印の分は先へつゝけて\n出火　　 例（れい）のおわらひ　　　よむへし跡は小字と\n　　　　　　　　　　　　　 合わせてよむなり\n\n\n○びつくり　　　　　　　　○こん夜は\n　　　　したよ　　　　　　　　ねかさないよ\n　〽地しんと　　　　　　　　〽とき〴〵の\n　　　　 火（くわ）事　　　　　　　　ゆりかへし\n\n○オヤマアこんなに　　　　○じつに\n　　　たつているよ　　　　　　　うれしいよ\n　〽七ヶ所の　　　　　　　　〽おすくひの\n　　　おすくひ小家　　　　　　　　　おむすひ\n\n○ひとがくると　　　　　　○はだかに\n　　　　　見るよ　　　　　　　なつておしよ\n　〽つぶれた　　　　　　　　〽かうばりの\n　　　　家くら　　　　　　　　　 手（て）つだい\n\n○あれサぬけ　　　　　　　○ヲヤ〳〵おまへも\n　　　　そうたよ　　　　　　　　おだしたねへ\n　〽はや仕舞の　　　　　　　〽かうらいの\n　　　　せんとう　　　　　　　　　　にもつ\n\n○ほねもかわも　　　　　　○大そう\n　　　ひとつになるよ　　　　　　でたよ\n　〽よ□はらの　　　　　　　〽まち〳〵の\n　　　　　　死人　　　　　　　　　ほとこし\n\n○日本ぢうが　　　　　　　○はやく\n　　　いつしよだよ　　　　　　　おやりよ\n　〽きよねんからの　　　　　〽四斗たるの\n　　　　地しんさわき　　　　　　かりとむらひ\n\n○アレもふ　　　　　　　　○かつかり\n　　　いつたよ　　　　　　　　　　したよ\n　〽はりの下の　　　　　　　〽こんとの　\n　　　　おうしやう　　　　　　　　大へん\n\n",
+            "text": "地震　　　　　　　　　　○印の分は先へつゝけて\n出火　　 例（れい）のおわらひ　　　よむへし跡は小字と\n　　　　　　　　　　　　　 合わせてよむなり\n\n\n○びつくり　　　　　　　　○こん夜は\n　　　　したよ　　　　　　　　ねかさないよ\n　〽地しんと　　　　　　　　〽とき〴〵の\n　　　　 火（くわ）事　　　　　　　　ゆりかへし\n\n○オヤマアこんなに　　　　○じつに\n　　　たつているよ　　　　　　　うれしいよ\n　〽七ヶ所の　　　　　　　　〽おすくひの\n　　　おすくひ小家　　　　　　　　　おむすひ\n\n○ひとがくると　　　　　　○はだかに\n　　　　　見るよ　　　　　　　なつておしよ\n　〽つぶれた　　　　　　　　〽かうばりの\n　　　　家くら　　　　　　　　　 手（て）つだい\n\n○あれサぬけ　　　　　　　○ヲヤ〳〵おまへも\n　　　　そうたよ　　　　　　　　おだしたねへ\n　〽はや仕舞の　　　　　　　〽かうらいの\n　　　　せんとう　　　　　　　　　　にもつ\n\n○ほねもかわも　　　　　　○大そう\n　　　ひとつになるよ　　　　　　でたよ\n　〽よ□はらの　　　　　　　〽まち〳〵の\n　　　　　　死人　　　　　　　　　ほとこし\n\n○日本ぢうが　　　　　　　○はやく\n　　　いつしよだよ　　　　　　　おやりよ\n　〽きよねんからの　　　　　〽四斗たるの\n　　　　地しんさわき　　　　　　かりとむらひ\n\n○アレもふ　　　　　　　　○かつかり\n　　　いつたよ　　　　　　　　　　したよ\n　〽はりの下の　　　　　　　〽こんとの　\n　　　　おうしやう　　　　　　　　大へん\n\n",
+            "timestamp": {
+                "_nanoseconds": 811000000,
+                "_seconds": 1570018083
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

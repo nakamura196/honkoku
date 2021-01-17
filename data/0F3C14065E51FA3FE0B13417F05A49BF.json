@@ -1,0 +1,181 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4716,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5d03cdc9cefd364bd06fb010d56ac63b41e90f1b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4716,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56268",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 16932
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56268/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56268",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 16932
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4716,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2018ef056b2c93f16f52508d31145cc59e3f5cf4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4716,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56269",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 16932
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56269/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56269",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 16932
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "0F3C14065E51FA3FE0B13417F05A49BF",
+    "label": "寛政四年四月朔日島原雲仙嶽焼崩一件写",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "寛政四年四月朔日島原雲仙嶽焼崩一件写"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-033"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "書付"
+        },
+        {
+            "label": "年月日",
+            "value": "寛政4年4月1日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "本来は2枚続"
+        },
+        {
+            "label": "year",
+            "value": "1792"
+        },
+        {
+            "label": "identifier",
+            "value": "c40168da-4e53-49a0-8718-3be8c3581356"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1069"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/5d03cdc9cefd364bd06fb010d56ac63b41e90f1b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0F3C14065E51FA3FE0B13417F05A49BF",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "　　寛政四壬子年四月朔日嶋原雲仙嶽焼崩一件\n\n去る十三日熊本え着仕御客屋ヘ参申候処\n指支御座候故笠屋藤右衛門方へ参早速\n藤右衛門取次を以御文箱差上申候処御返答\n隙取申候間逗留仕候様藤右衛門申聞候に付\n翌十四日高橋尾村両所え罷越承居\n申候処四月朔日ゟ地震強御座候処嶋原の\n前山海中に崩込津浪にて村々損人死\nの義は別紙之通り咄申候死失残候者共は\n御調の上下河原にて御養被仰付候此人数\n四百人程去る二日ゟ十日比迄御養御坐候由にて\n御座候嶋原殿様森山と申処被遊\n御坐候に付其処去る十八日罷越三室村\n大庄屋竹添治右衛門と申者取次にて\n御文箱差上申候右治右衛門咄申候処\n左の通に御座候嶋原御領の内不現山\n押ケ谷と申処去十二月鹿猿其外鳥\n類死凶事の始にて御座候色々へん\n成義は御座候由\n一　当正月十八日右不現山石□【「壇」か】崩焼\n　出申候焼穴ゟ石等を吹出壱日二三里\n　程宛焼下り昼夜地震強鳴申候義\n　無限右に付嶋原中は不及申隣国迄\n　土蔵塀石垣等迄もゆるき塗壁\n　等損し申候由に 御座候\n一　二月下旬之比ゟ嶋原御城下中に梨\n　の木牡丹の花咲申候藪竹梨が\n　なり唐梅の木に八升豆なりふしぎ\n　の義と皆々申由御座候\n一　四月朔日朝六つ時分ゟ山海夥敷\n　しんとう仕候処諸人驚き居申候処\n　同夜五つ時分別て震働強御坐候処\n　不現山の前山壱里半程抜け\n　御城下町不残且安徳寺村今村右\n　潰下に相成生残者無御座候\n一　右崩嶋原海中に突出し嶋数多分に\n　出来申候\n一　右崩之時分大成る火之玉肥前地ゟ壱つ\n　熊本ゟ壱つ飛来双方海中にて行逢\n　くたけ万方にちり海中わきゆの\n　□□□【「ことく」か】相成申候魚類多分に死浮\n　揚申候由御座候\n一　殿様四月二日早朝御領六里程へ\n　たゝり森山村大庄や中野佐左衛門\n　宅え被遊御越今以御逗留に御座候\n一　御子様方前以森山村に御退去\n　被遊候由御座候\n一　御城下之儀は崩不申尤地震にて過半\n　破損御座候由に有之候\n一　御家中御屋敷も右同断一統御家中迄\n　も森山村三室村山田村右三ヶ村へ不残\n　御引越の由御座候\n一　鉄炮町と申諸奉公人居候町残申候\n　尤御城下町の内家数弐拾軒程残申候\n一　近在破損村の義は別紙書付\n　有之候通り死失人数得と相分不申候\n　凡弐万余も死失と申事に御座候\n右の通大庄屋竹添治右衛門ゟ\n承り申処御座候\n\n子四月廿二日",
+            "text": "　　寛政四壬子年四月朔日嶋原雲仙嶽焼崩一件\n\n去る十三日熊本え着仕御客屋ヘ参申候処\n指支御座候故笠屋藤右衛門方へ参早速\n藤右衛門取次を以御文箱差上申候処御返答\n隙取申候間逗留仕候様藤右衛門申聞候に付\n翌十四日高橋尾村両所え罷越承居\n申候処四月朔日ゟ地震強御座候処嶋原の\n前山海中に崩込津浪にて村々損人死\nの義は別紙之通り咄申候死失残候者共は\n御調の上下河原にて御養被仰付候此人数\n四百人程去る二日ゟ十日比迄御養御坐候由にて\n御座候嶋原殿様森山と申処被遊\n御坐候に付其処去る十八日罷越三室村\n大庄屋竹添治右衛門と申者取次にて\n御文箱差上申候右治右衛門咄申候処\n左の通に御座候嶋原御領の内不現山\n押ケ谷と申処去十二月鹿猿其外鳥\n類死凶事の始にて御座候色々へん\n成義は御座候由\n一　当正月十八日右不現山石□【「壇」か】崩焼\n　出申候焼穴ゟ石等を吹出壱日二三里\n　程宛焼下り昼夜地震強鳴申候義\n　無限右に付嶋原中は不及申隣国迄\n　土蔵塀石垣等迄もゆるき塗壁\n　等損し申候由に 御座候\n一　二月下旬之比ゟ嶋原御城下中に梨\n　の木牡丹の花咲申候藪竹梨が\n　なり唐梅の木に八升豆なりふしぎ\n　の義と皆々申由御座候\n一　四月朔日朝六つ時分ゟ山海夥敷\n　しんとう仕候処諸人驚き居申候処\n　同夜五つ時分別て震働強御坐候処\n　不現山の前山壱里半程抜け\n　御城下町不残且安徳寺村今村右\n　潰下に相成生残者無御座候\n一　右崩嶋原海中に突出し嶋数多分に\n　出来申候\n一　右崩之時分大成る火之玉肥前地ゟ壱つ\n　熊本ゟ壱つ飛来双方海中にて行逢\n　くたけ万方にちり海中わきゆの\n　□□□【「ことく」か】相成申候魚類多分に死浮\n　揚申候由御座候\n一　殿様四月二日早朝御領六里程へ\n　たゝり森山村大庄や中野佐左衛門\n　宅え被遊御越今以御逗留に御座候\n一　御子様方前以森山村に御退去\n　被遊候由御座候\n一　御城下之儀は崩不申尤地震にて過半\n　破損御座候由に有之候\n一　御家中御屋敷も右同断一統御家中迄\n　も森山村三室村山田村右三ヶ村へ不残\n　御引越の由御座候\n一　鉄炮町と申諸奉公人居候町残申候\n　尤御城下町の内家数弐拾軒程残申候\n一　近在破損村の義は別紙書付\n　有之候通り死失人数得と相分不申候\n　凡弐万余も死失と申事に御座候\n右の通大庄屋竹添治右衛門ゟ\n承り申処御座候\n\n子四月廿二日",
+            "timestamp": {
+                "_nanoseconds": 642000000,
+                "_seconds": 1574840949
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c40168da-4e53-49a0-8718-3be8c3581356/canvas/p2",
+            "editedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "entryId": "0F3C14065E51FA3FE0B13417F05A49BF",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "tempText": "＜蔵書印：東京大学図書之印＞",
+            "text": "《蔵書印：東京大学図書之印》",
+            "timestamp": 1567570643463
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

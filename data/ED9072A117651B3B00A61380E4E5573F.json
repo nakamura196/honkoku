@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f48e37f5c628a10e4aecac06e198cc956af294ba.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88634",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88634/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88634",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "ED9072A117651B3B00A61380E4E5573F",
+    "label": "当時流行いろは壁",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "当時流行いろは壁"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-031"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×24.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "2bcd2596-d7c1-4b1c-83b7-e96086d6c38e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0254"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f48e37f5c628a10e4aecac06e198cc956af294ba.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2bcd2596-d7c1-4b1c-83b7-e96086d6c38e/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "ED9072A117651B3B00A61380E4E5573F",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "かりの舎（やど）誰（合　たれ）もお江戸を後（あと）に\nして、へんぴへいそぐ旅心重（だひごゝろおも）\nき包（つゝみ）をさしになひ\n〽コリヤたまりませぬ走（はし）る\n人さんどもに往（い）うふとま\nご〳〵して、アノ下町（したまち）をでぬ先（さき）\nハ、たとへ日ゝのらにもでるかくご、\nしらぬ遠方（えんぽ）でたゞひとり、\nひつそりつゝすやうになり、\nかなしう思（おも）ふもせかいが\n\n\n\nいのうちの\nかわづだい\nかいしらず\n\nいなかへ\nいってこまる\n江戸ッ子\n\nへをひって\nしりす\nぼめる\n\nけとうじん\nめがなき\nがほをみな\n\nはな\nより\nだんこ\n\nゆさん\nどころか\nたべるやうじん\n\nとをき\nしんるいちか\nしきたにん\n\nひっこす\nならばとも\nどもにゆく\n\nほねおり\nぞんのくた\nびれまうけ\n\nへんぴへ\nやったにもつ\nるいしやう\n\nちりつ\nもって\nやまとなる\n\nごぢせつ\nがらださけは\nおやめよ\n\n当時流行いろは壁\n\nよしの\nずいからてん\nじやうのぞく\n\nおゝきな\nおせははなし\nまち〳〵\n\nらく\nあれば\nくある\n\nぢめんを\nしよってうご\nかれもせづ\n\nえてに\nほを\nあげる\n\nつみだす\nにもつひっ\nきりもなし\n\nしら\nぬが\nほとけ\n\nおやのさは\nぐをことも\nにこ〳〵\n\nふみをやる\nにもかく\nてはもたぬ\n\nとびはなれ\nたる江戸の\nていしゆへ\n\nゑん\nはゐな\nもの\n\nたこくへ\nゆきてくらす\n江戸っ子\n\n\n【人物集合の絵の部分】\nまご\n\nとこしば\n\nめしもり\nめし\n〽あんにしろ\nりやうはう\nともまうけ\nさつせへ\n\nひきやく\n\nくもすけ\nくも\n〽どッこいそうハ\nさせねへぞおらが\nほうがかねまう\nけがおゝいそ\n\nしやりき\nしや\n〽イゝヤおれのほうが\nおゝくかねまう\nけをするぞ\n\nあらものや\n\nかごや\n\nのりものや\n\nせんどう\n",
+            "text": "かりの舎（やど）誰（合　たれ）もお江戸を後（あと）に\nして、へんぴへいそぐ旅心重（だひごゝろおも）\nき包（つゝみ）をさしになひ\n〽コリヤたまりませぬ走（はし）る\n人さんどもに往（い）うふとま\nご〳〵して、アノ下町（したまち）をでぬ先（さき）\nハ、たとへ日ゝのらにもでるかくご、\nしらぬ遠方（えんぽ）でたゞひとり、\nひつそりつゝすやうになり、\nかなしう思（おも）ふもせかいが\n\n\n\nいのうちの\nかわづだい\nかいしらず\n\nいなかへ\nいってこまる\n江戸ッ子\n\nへをひって\nしりす\nぼめる\n\nけとうじん\nめがなき\nがほをみな\n\nはな\nより\nだんこ\n\nゆさん\nどころか\nたべるやうじん\n\nとをき\nしんるいちか\nしきたにん\n\nひっこす\nならばとも\nどもにゆく\n\nほねおり\nぞんのくた\nびれまうけ\n\nへんぴへ\nやったにもつ\nるいしやう\n\nちりつ\nもって\nやまとなる\n\nごぢせつ\nがらださけは\nおやめよ\n\n当時流行いろは壁\n\nよしの\nずいからてん\nじやうのぞく\n\nおゝきな\nおせははなし\nまち〳〵\n\nらく\nあれば\nくある\n\nぢめんを\nしよってうご\nかれもせづ\n\nえてに\nほを\nあげる\n\nつみだす\nにもつひっ\nきりもなし\n\nしら\nぬが\nほとけ\n\nおやのさは\nぐをことも\nにこ〳〵\n\nふみをやる\nにもかく\nてはもたぬ\n\nとびはなれ\nたる江戸の\nていしゆへ\n\nゑん\nはゐな\nもの\n\nたこくへ\nゆきてくらす\n江戸っ子\n\n\n【人物集合の絵の部分】\nまご\n\nとこしば\n\nめしもり\nめし\n〽あんにしろ\nりやうはう\nともまうけ\nさつせへ\n\nひきやく\n\nくもすけ\nくも\n〽どッこいそうハ\nさせねへぞおらが\nほうがかねまう\nけがおゝいそ\n\nしやりき\nしや\n〽イゝヤおれのほうが\nおゝくかねまう\nけをするぞ\n\nあらものや\n\nかごや\n\nのりものや\n\nせんどう\n",
+            "timestamp": {
+                "_nanoseconds": 674000000,
+                "_seconds": 1570345823
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

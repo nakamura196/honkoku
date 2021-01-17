@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4187,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/67f1755d64591144d2b1d5095f5d8fb12c2d76d2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4187,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56187",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5572
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56187/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56187",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5572
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4187,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a7bbdeff706d09840f2d0f907afea9389d1fed63.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4187,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56188",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5572
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56188/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56188",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5572
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "1B2ACC3CC59264512453D3DEC31925FB",
+    "label": "野保台詩(「仮宅盛・・・」)",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "野保台詩(「仮宅盛・・・」)"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-034"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "95ece5a6-ede9-4cb6-8520-446eef821358"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1034"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/67f1755d64591144d2b1d5095f5d8fb12c2d76d2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1B2ACC3CC59264512453D3DEC31925FB",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "（上段右）\n仮火衰（かりくわおとろへ）\n贅宅止（ぜいたくとゞまる）\n新住盛（しんすまいさかる）\n（上段中）\n水是洩（すいこれあぶれ）\n非道鯰（ひどうなまづ）\n大性割（だいしやうわれて）\n（上段左）\n話貧隠（はなしひんかくれ）\n大家傾（たいかかたむき）\n街嘆退（さとなげきしりぞく）\n（下段右）\n番丸少（ばんまるすくなし）\n滅太（めつたに）＜割書：　｜の＞建（たてる）\n銭杖労（しんつえつかれ）\n（下段中）\n役長急（やくてういそがし）\n未（まつ）【末】者愁（しやうれひ）\n医泣間（いかなしむひま）\n（下段左）\n夜最息（やさいいき）\n女中勧（ぢよちうのよろこび）\n夢楽鯰（むたのしみなまづ）",
+            "text": "（上段右）\n仮火衰（かりくわおとろへ）\n贅宅止（ぜいたくとゞまる）\n新住盛（しんすまいさかる）\n（上段中）\n水是洩（すいこれあぶれ）\n非道鯰（ひどうなまづ）\n大性割（だいしやうわれて）\n（上段左）\n話貧隠（はなしひんかくれ）\n大家傾（たいかかたむき）\n街嘆退（さとなげきしりぞく）\n（下段右）\n番丸少（ばんまるすくなし）\n滅太（めつたに）《割書：　｜の》建（たてる）\n銭杖労（しんつえつかれ）\n（下段中）\n役長急（やくてういそがし）\n未（まつ）【末】者愁（しやうれひ）\n医泣間（いかなしむひま）\n（下段左）\n夜最息（やさいいき）\n女中勧（ぢよちうのよろこび）\n夢楽鯰（むたのしみなまづ）",
+            "timestamp": {
+                "_nanoseconds": 608000000,
+                "_seconds": 1574987013
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95ece5a6-ede9-4cb6-8520-446eef821358/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "1B2ACC3CC59264512453D3DEC31925FB",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】",
+            "text": "【裏】",
+            "timestamp": {
+                "_nanoseconds": 274000000,
+                "_seconds": 1574987071
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

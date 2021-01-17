@@ -1,0 +1,127 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c883b0bd5342e1eff048fb5d60b27c6aa610b5a8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88407",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88407/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88407",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "620B9A2D45B1A52AE229C2449F4C9E1C",
+    "label": "江戸大地しん大火場所附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地しん大火場所附"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-027"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×51"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "1d4a87b7-00f5-4c3e-b7b8-a1712a194d54"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0027"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c883b0bd5342e1eff048fb5d60b27c6aa610b5a8.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1d4a87b7-00f5-4c3e-b7b8-a1712a194d54/canvas/p1",
+            "editedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "entryId": "620B9A2D45B1A52AE229C2449F4C9E1C",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "tempText": "【左下上段】\n日本橋ヨリ諸方江道法\n神田明神江二十六丁\n湯嶋天神江二十六丁\n上野江三十二丁\n王子江一り三十丁\n東門跡江三十五丁\n浅草観音江一り二丁\n新吉原江一り四丁\n梅若町江一り四丁\n両国江十三丁\n向島江一り\n梅若塚江一り十八丁\n亀戸天神江一り五丁\n五百羅漢江一り十二丁\n深川八幡江二十三丁\n洲嵜三十三間堂二十九丁\n西門跡江十八丁\n【左下下段】\n佃島住吉江十八丁\n芝神明江廿八丁\n愛宕山江廿五丁\n増上寺江廿九丁\n泉岳寺江一り□五丁\n御殿山江一り□□五丁\n池上江二り半\n大師河原江五り余\n目黒不動江二り八丁\n祐天寺江二り十丁\n品□東海寺江□\n新田江四り\n四谷新宿江一り□\n堀之内江二り□\n雑司ヶ谷江\n傳通院\n□\n□",
+            "text": "【左下上段】\n日本橋ヨリ諸方江道法\n神田明神江二十六丁\n湯嶋天神江二十六丁\n上野江三十二丁\n王子江一り三十丁\n東門跡江三十五丁\n浅草観音江一り二丁\n新吉原江一り四丁\n梅若町江一り四丁\n両国江十三丁\n向島江一り\n梅若塚江一り十八丁\n亀戸天神江一り五丁\n五百羅漢江一り十二丁\n深川八幡江二十三丁\n洲嵜三十三間堂二十九丁\n西門跡江十八丁\n【左下下段】\n佃島住吉江十八丁\n芝神明江廿八丁\n愛宕山江廿五丁\n増上寺江廿九丁\n泉岳寺江一り□五丁\n御殿山江一り□□五丁\n池上江二り半\n大師河原江五り余\n目黒不動江二り八丁\n祐天寺江二り十丁\n品□東海寺江□\n新田江四り\n四谷新宿江一り□\n堀之内江二り□\n雑司ヶ谷江\n傳通院\n□\n□",
+            "timestamp": 1567390296427
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8323022b5b796aefff7703965ad83e15ea67111c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88678",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88678/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88678",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "F69AF338CB1F31A3C7778959BC2CBFD6",
+    "label": "[東海道宿場震災状況]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[東海道宿場震災状況]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-043"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "前欠日本橋左内町和泉屋甚兵衛"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×38"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "88bf39a1-3b43-4a1b-abd9-a00585f662b9"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0298"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/8323022b5b796aefff7703965ad83e15ea67111c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/88bf39a1-3b43-4a1b-abd9-a00585f662b9/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "F69AF338CB1F31A3C7778959BC2CBFD6",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "金谷　　大半損候\n日坂　　〃\n掛川　　御城損候人家潰れ出火に相成候\n　横須賀　御城損候人家潰れ\n袋井　　右同断\n見附　　大損し\n浜松　　少々\n舞坂　　〃\n新井　　御関所大半損候津浪御坐候人家潰れ\n白須賀　大半損し\n二タ川　少々\n吉田　　大損し\n御油　　少々\n赤坂　　〃\n藤川　　〃\n岡崎　　御城損し矢作橋損し\n　三州西尾　御城損し人家潰れ\n池鯉鮒　少々\n鳴海　　〃\n宮　　　人家潰れ津浪御坐候\n　名古屋　少々損じ\n桑名　　大損じ\n四日市　〃\n石薬師庄野　少々損じ      【石薬師から京都まで括りあり】\n亀山　　　　〃\n関　坂ノ下　〃\n土山\n水口　　　　　外に紀州浦々大津浪大損じ\n石部　少\n草津　々\n大津　損　　　外に伊せ浦々大津浪大損じ　\n伏見　じ\n京都\n大坂　　橋々落大津浪ニ而大舟打上ケ死人多く大損じ\n津　　　半損じ\n松坂　　〃\n山田　　大損じ\n右之通御座候此段為御知\n申上候以上　日本橋佐内町\n　　　　　　　和泉屋甚兵衛\n　　月日\n\n\n【立札】　　　　　　　　　当分之内ほどこし致しんじ候\nうち身くじき　りやうじ所\n　　　　　　　　　　ゑんま堂　\n\nゑんま「いそくな〳〵おれか子になつてきたものよくせずにおくものかあをあかの\n　　　　鬼どもやくすりをつけて早くまいてやれいたかろうかわいそうに〳〵\nしやうつか「地蔵さんのおいかりもゑんまさんのおなげきもおれが引合にだされて\n　　　　　　てつだうのもあのなまづゆへださてにくいやつだナしなれぬことはたいぎた〳〵\n地蔵「おれがまもる此地めんを度々うごかされてはおしやかのまへゑすまぬ地蔵の\n　　　かほも三度だそかしまとのへはなしてきたかくごしろふといやつだ\n",
+            "text": "金谷　　大半損候\n日坂　　〃\n掛川　　御城損候人家潰れ出火に相成候\n　横須賀　御城損候人家潰れ\n袋井　　右同断\n見附　　大損し\n浜松　　少々\n舞坂　　〃\n新井　　御関所大半損候津浪御坐候人家潰れ\n白須賀　大半損し\n二タ川　少々\n吉田　　大損し\n御油　　少々\n赤坂　　〃\n藤川　　〃\n岡崎　　御城損し矢作橋損し\n　三州西尾　御城損し人家潰れ\n池鯉鮒　少々\n鳴海　　〃\n宮　　　人家潰れ津浪御坐候\n　名古屋　少々損じ\n桑名　　大損じ\n四日市　〃\n石薬師庄野　少々損じ      【石薬師から京都まで括りあり】\n亀山　　　　〃\n関　坂ノ下　〃\n土山\n水口　　　　　外に紀州浦々大津浪大損じ\n石部　少\n草津　々\n大津　損　　　外に伊せ浦々大津浪大損じ　\n伏見　じ\n京都\n大坂　　橋々落大津浪ニ而大舟打上ケ死人多く大損じ\n津　　　半損じ\n松坂　　〃\n山田　　大損じ\n右之通御座候此段為御知\n申上候以上　日本橋佐内町\n　　　　　　　和泉屋甚兵衛\n　　月日\n\n\n【立札】　　　　　　　　　当分之内ほどこし致しんじ候\nうち身くじき　りやうじ所\n　　　　　　　　　　ゑんま堂　\n\nゑんま「いそくな〳〵おれか子になつてきたものよくせずにおくものかあをあかの\n　　　　鬼どもやくすりをつけて早くまいてやれいたかろうかわいそうに〳〵\nしやうつか「地蔵さんのおいかりもゑんまさんのおなげきもおれが引合にだされて\n　　　　　　てつだうのもあのなまづゆへださてにくいやつだナしなれぬことはたいぎた〳〵\n地蔵「おれがまもる此地めんを度々うごかされてはおしやかのまへゑすまぬ地蔵の\n　　　かほも三度だそかしまとのへはなしてきたかくごしろふといやつだ\n",
+            "timestamp": {
+                "_nanoseconds": 607000000,
+                "_seconds": 1566539630
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9b155f0efacf0ee1bbf2262b455e747513494094.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88529",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88529/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88529",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "6553B8C5C48AF50E9419A7AD804F3642",
+    "label": "[地震死者施餓鬼図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[地震死者施餓鬼図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-102"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×25"
+        },
+        {
+            "label": "備考",
+            "value": "安政2年の錦絵、分類は「鯰絵」とする"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "dbaf45b0-19d9-4b54-bb83-a0a00561fbd9"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0149"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9b155f0efacf0ee1bbf2262b455e747513494094.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbaf45b0-19d9-4b54-bb83-a0a00561fbd9/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "6553B8C5C48AF50E9419A7AD804F3642",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "安政二卯年十月二日\n大地震にて死亡する\n者の為に十一月二日\n大施餓鬼これある\n寺院名前幷\n死人惣数\n\n天台宗\n　　東叡山凌【ニスイに麦】雲院\n　　　浅草寺にて勤る\n浄土宗本所\n　　　　　回向院\n\n古義真言宗\n二本榎　西南院\n同　白金台町\n　　　　圓満院\n新義真言宗\n　　　　大護院\n済家宗品川\n　　　　東海寺\n曽洞宗貝塚\n　　　　青松寺\n黄檗宗本所\n　　　　羅漢寺\n\n時宗浅草\n　　　　日輪寺\n日蓮宗下谷\n一致派　宗延寺\n\n一向宗筑地\n　　　　西本願寺\n同　浅草\n　　　　東本願寺\n\n日蓮宗浅草\n勝劣派　慶印寺\n　\n十一月十五日改ル死人\n　　　　　　男\n　　　　　　　〆三万七百七十九人\n　　　　　　女\n　　　　　　　〆二万千百六十五人\n",
+            "text": "安政二卯年十月二日\n大地震にて死亡する\n者の為に十一月二日\n大施餓鬼これある\n寺院名前幷\n死人惣数\n\n天台宗\n　　東叡山凌【ニスイに麦】雲院\n　　　浅草寺にて勤る\n浄土宗本所\n　　　　　回向院\n\n古義真言宗\n二本榎　西南院\n同　白金台町\n　　　　圓満院\n新義真言宗\n　　　　大護院\n済家宗品川\n　　　　東海寺\n曽洞宗貝塚\n　　　　青松寺\n黄檗宗本所\n　　　　羅漢寺\n\n時宗浅草\n　　　　日輪寺\n日蓮宗下谷\n一致派　宗延寺\n\n一向宗筑地\n　　　　西本願寺\n同　浅草\n　　　　東本願寺\n\n日蓮宗浅草\n勝劣派　慶印寺\n　\n十一月十五日改ル死人\n　　　　　　男\n　　　　　　　〆三万七百七十九人\n　　　　　　女\n　　　　　　　〆二万千百六十五人\n",
+            "timestamp": {
+                "_nanoseconds": 780000000,
+                "_seconds": 1570106791
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2110,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/252f6a47b9c36db002393365b8795b4aaa41f0c8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2110,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88432",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88432/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88432",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "D71A549840F55A637D8789E70BCE1450",
+    "label": "鯰のかば焼き大ばん振舞",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鯰のかば焼き大ばん振舞"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23.5×34"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b3854160-3d19-4667-a42f-eddc7e5dfd1c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0052"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/252f6a47b9c36db002393365b8795b4aaa41f0c8.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b3854160-3d19-4667-a42f-eddc7e5dfd1c/canvas/p1",
+            "editedBy": "bPN4Y4f4K3ROeS2vYVTfYdZMU673",
+            "entryId": "D71A549840F55A637D8789E70BCE1450",
+            "index": 0,
+            "prevStatus": "editing",
+            "requestReview": false,
+            "share": true,
+            "status": "editing",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【タイトル】\n＜割書：【不明瞭】旅客（おきやく）は 八百万神（はつひやくばんしん）の 大一座（おゝいちざ）｜馳走（ちそう）は鹿嶋（ていしゆ）が地震（ぢしん）の手料理（てれうり）＞鯰（なまづ）のかば焼（やき）大（おゝ）ばん振舞（ぶるまひ）\n【本文】\n鹿嶋（かしま）大 明神（みやうじん）出雲（いづも）の大社（おゝやしろ）に\nかいして諸々（もろ〳〵）の神（かみ）達（たち）とともに\n氏子（うぢこ）の者（もの）の縁結（えんむすび）をして\n居（ゐ）給ひしに本国（ほんごく）より早飛脚（はやびきやく）を\nもつて府内（えど）の大変（たいへん）を告（つげ）こし\nたるにぞ取（とる）ものもとりあへず神（じん）\n通（つう）をもつて数百里（すひやくり）の道（みち）をその\n夜（よ）のうちにとつてかへしすぐさま\nかの大鯰（おゝなまづ）をとつておさへ以後（いご）の見せ\nしめなればきびしき刑罰（けいばつ）等おこなはんと\nせらるゝところへ日本（につほん）六十余州（ろくしふよしう）大小（だいせう）の神（じん）\n祇（ぎ）も縁（ゑん）むすびはそこ〳〵にとりしまひ\nおい〳〵うちそろひて鹿（か）しまへ見舞（みまい）に\nきたまひしがこのていを見てかしまの\nかみのはたらきをかんじまたなまつの\nいと強大（きやうだい）なるにおどろきしさら【より？】\nたんし給ふことこゑもしばしやま\nざりけりあるじの明神はなんろ\nの所さつそくにお見まひくだ\nされしだんありがたくぞんずると\nいち〳〵にれいをのべさて諸神\nだちへ【なに】が【に】のちそうせんと\nおもわれしがかくにはかの\nきやくらいといひことに八百万\nの大きやくなればつきはせんと\nゑびすこんひらの二神へだんかう\nせられしになにかにといはふより\nこの大なまづをかばやきにして\nふるまひなばよきもてなし \nならんといふにげにもとお\nもひにはかにそのようゐを\nなしてづから大なまづを\nさきてかばやきになし\n八百万神たち\nをもてなし\n給ひし【こと】神武\nいらいはなし\nにもきかざる\nうそ八百を\nおみきの\nあまりに\nよふて\nつぶる\n",
+            "text": "【タイトル】\n《割書：【不明瞭】旅客（おきやく）は 八百万神（はつひやくばんしん）の 大一座（おゝいちざ）｜馳走（ちそう）は鹿嶋（ていしゆ）が地震（ぢしん）の手料理（てれうり）》鯰（なまづ）のかば焼（やき）大（おゝ）ばん振舞（ぶるまひ）\n【本文】\n鹿嶋（かしま）大 明神（みやうじん）出雲（いづも）の大社（おゝやしろ）に\nかいして諸々（もろ〳〵）の神（かみ）達（たち）とともに\n氏子（うぢこ）の者（もの）の縁結（えんむすび）をして\n居（ゐ）給ひしに本国（ほんごく）より早飛脚（はやびきやく）を\nもつて府内（えど）の大変（たいへん）を告（つげ）こし\nたるにぞ取（とる）ものもとりあへず神（じん）\n通（つう）をもつて数百里（すひやくり）の道（みち）をその\n夜（よ）のうちにとつてかへしすぐさま\nかの大鯰（おゝなまづ）をとつておさへ以後（いご）の見せ\nしめなればきびしき刑罰（けいばつ）等おこなはんと\nせらるゝところへ日本（につほん）六十余州（ろくしふよしう）大小（だいせう）の神（じん）\n祇（ぎ）も縁（ゑん）むすびはそこ〳〵にとりしまひ\nおい〳〵うちそろひて鹿（か）しまへ見舞（みまい）に\nきたまひしがこのていを見てかしまの\nかみのはたらきをかんじまたなまつの\nいと強大（きやうだい）なるにおどろきしさら【より？】\nたんし給ふことこゑもしばしやま\nざりけりあるじの明神はなんろ\nの所さつそくにお見まひくだ\nされしだんありがたくぞんずると\nいち〳〵にれいをのべさて諸神\nだちへ【なに】が【に】のちそうせんと\nおもわれしがかくにはかの\nきやくらいといひことに八百万\nの大きやくなればつきはせんと\nゑびすこんひらの二神へだんかう\nせられしになにかにといはふより\nこの大なまづをかばやきにして\nふるまひなばよきもてなし \nならんといふにげにもとお\nもひにはかにそのようゐを\nなしてづから大なまづを\nさきてかばやきになし\n八百万神たち\nをもてなし\n給ひし【こと】神武\nいらいはなし\nにもきかざる\nうそ八百を\nおみきの\nあまりに\nよふて\nつぶる\n",
+            "timestamp": {
+                "_nanoseconds": 940000000,
+                "_seconds": 1570098840
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

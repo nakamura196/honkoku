@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/362757cc2a51ebfde985a32da3a15ddc0d90943f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88598",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88598/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88598",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7ed141971726d570dba5a053178f9eb865160ce4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219862",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219862/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219862",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "9E97B50B1D316269A054FC9B624783C8",
+    "label": "大正大震災双六（袋）",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大正大震災双六（袋）"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-037-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "双六"
+        },
+        {
+            "label": "年月日",
+            "value": "大正12年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "32×26"
+        },
+        {
+            "label": "備考",
+            "value": "本体はI-03-037-002"
+        },
+        {
+            "label": "year",
+            "value": "1923"
+        },
+        {
+            "label": "identifier",
+            "value": "362dc068-7361-4a7d-8c4d-6be2ad7f6b07"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0218"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/362757cc2a51ebfde985a32da3a15ddc0d90943f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "9E97B50B1D316269A054FC9B624783C8",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "大正大震災双六\n\n月火屋(印)\n\n",
+            "text": "大正大震災双六\n\n月火屋(印)\n\n",
+            "timestamp": {
+                "_nanoseconds": 543000000,
+                "_seconds": 1568448791
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/362dc068-7361-4a7d-8c4d-6be2ad7f6b07/canvas/p2",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "9E97B50B1D316269A054FC9B624783C8",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【同じステージ3の初めの方の　大正大震災双六　の下半分に当たる。ここでは上半分画像で翻刻していない最下段のみ翻刻する。】\n\n芝公園\n一　行衛不明\n二　迷子　軍隊　警察収容\n三　死亡　ゆり出し　(戻り)\n四　御目出度\n五　怪我　赤十字外救護班\n六　発病　同上\n\n家の中\n一二三　避難場所ゆき\n四五　遭難\n\nゆり出し\n一五　家の中\n二三四六　避難場所へ　かけ出し\n\n庭前\n一三　怪我　赤十字救護班\n四　死亡　ゆり出し　(戻り)\n五六　焼残り　倒潰修繕　帰宅　(上り)\n\n避難場所\n一　日比谷公園　芝公園\n二　被服廠\n三　丸の内　船の中\n四　庭前　浅草公園\n五　招魂社\n六　上野公園\n\n\n",
+            "text": "【同じステージ3の初めの方の　大正大震災双六　の下半分に当たる。ここでは上半分画像で翻刻していない最下段のみ翻刻する。】\n\n芝公園\n一　行衛不明\n二　迷子　軍隊　警察収容\n三　死亡　ゆり出し　(戻り)\n四　御目出度\n五　怪我　赤十字外救護班\n六　発病　同上\n\n家の中\n一二三　避難場所ゆき\n四五　遭難\n\nゆり出し\n一五　家の中\n二三四六　避難場所へ　かけ出し\n\n庭前\n一三　怪我　赤十字救護班\n四　死亡　ゆり出し　(戻り)\n五六　焼残り　倒潰修繕　帰宅　(上り)\n\n避難場所\n一　日比谷公園　芝公園\n二　被服廠\n三　丸の内　船の中\n四　庭前　浅草公園\n五　招魂社\n六　上野公園\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 132000000,
+                "_seconds": 1568448465
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

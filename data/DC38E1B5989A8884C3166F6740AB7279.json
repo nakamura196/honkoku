@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/46ab39fca679d3180e7b85c8b9b7b14301fa9308.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88809",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88809/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88809",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "DC38E1B5989A8884C3166F6740AB7279",
+    "label": "富士山頂上八峯内院并諸国遠見図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士山頂上八峯内院并諸国遠見図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治10年6月20日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "著者：静岡県富士郡第二大区第二小区厚原村二 土屋勝太郎, 静岡県富士郡第二大区第四小区大宮町九六 富士神一郎／定価：二銭"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×54"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-10-017"
+        },
+        {
+            "label": "year",
+            "value": "1877"
+        },
+        {
+            "label": "identifier",
+            "value": "dbbedebb-0048-40a3-ae65-8a443a50dc7f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0429"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/46ab39fca679d3180e7b85c8b9b7b14301fa9308.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbbedebb-0048-40a3-ae65-8a443a50dc7f/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "DC38E1B5989A8884C3166F6740AB7279",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n冨士山頂上八峯内院\n　并諸国遠見図\n【俯瞰図上部に本文】\n冨士山は駿河国に在り其峯雲際に聳\nえ高サ一万四千百七十尺其ノ形四面皆同じく\n山巓四時雪を頂き十三州よりこれを\n望む皇国第一の高山なり其の登岳　\nの路次四所あり表面を大宮村山口と\n云ひ南面を須山口と云ひ東面を須\n走口と云ひ北面を吉田口と云ふ抑\n山頂に鎮座せらるゝ大神を木花\n之佐久夜毘売命と称し大山津見\n神の御女也此の大神は容貌の麗\n美なるのみならず其の神徳亦艶\n美なるを以てサクヤの＜割書：サクヤは｜開（サキ）光（ハ）映（ヤ）也＞神号\nあるなり嘗て天皇迩々杵命遊幸\nして笠沙（カサヽノ）御崎（みさき）に至り大神に行き逢\nひ玉ひ其鮮妍なるを喜び将に娶ら\nんとなし玉ふに大神輙ち諾せずして曰\nく父あり宜く垂問すべしと天皇即ち\n使を大山津見神に遣し固く娶らんと\n乞ひ玉ひ立て皇后と為す後大神娠め\nるあつて産月に臨み天皇宜く汝娠める\n子吾ガ子に非ず必ず国ツ神の子ならん\nと大神聞且ツ怨み無戸室を造り其\n内に入り玉ひ誓て曰く吾ガ娠む所若\nし天孫＜割書：迩々杵命｜を称す＞の胤に非ざれは当に焦\n滅すべし実に天孫の胤なれば火も損害\nする能はじと則火を放ち室を焼くに果\nして損害あらず烟煙中ニ皇子を生み玉\nふこれ則天神の安産火難を守護防\n禦し給ふの原因とする所なり夫れ皇\n別の諸姓は皆大神の末流にして其ノ\n子孫は則大神の遠孫也 嗟夫（アヽ）諸国の\n人民歳々相増し年々相加し陸続参拝\nする所以のものは其の余沢の万分の一\nを謝せんと欲する所乎余嘗て聞く群\n参中道路旧跡に鮮明ならず山頂に彷\n徨するもの往々これあると甚遺憾\nにたえず為に聊か知る所を図し以て\n登岳の階梯に備ふとしか云\n　明治十年六月二十日版権免許\n【俯瞰図内上部右枠内】\n駿州龍爪山　申二ト\n甲州身延山　酉五ト\n信州訪諏湖　戌五ト\n飛州乗鞍山　酉九ト\n【俯瞰図内上部中央枠内】\n豆州三宅島　午五ト\n駿州三穂岬　同八ト\n勢州二見浦　未二ト\n遠州今ノ切　同三ト\n同　秋葉山　申五ト\n【俯瞰図内上部左】\n静岡県平民\n　著者土屋勝太郎\n　　駿河国冨士郡第二大区\n　　二小区厚原村二番地住\n静岡県平民\n　出版人冨士神一郎\n　　駿河国冨士郡第二大区\n　　四小区大宮町九十六番地住\n【俯瞰図内中部右枠内】\n信州八ッヵ嶽　寅二ト\n同　浅間山　同八ト\n上野山三国嶺　子七ト\n野州日光山　同九ト\n武州高尾山　丑六ト\n【俯瞰図内中部左枠内】\n相州　大山　寅七ト\n同　　江島　卯四ト\n駿州　沼津　巳二ト\n豆州　大島　同\n同　天城山　同\n",
+            "text": "【タイトル】\n冨士山頂上八峯内院\n　并諸国遠見図\n【俯瞰図上部に本文】\n冨士山は駿河国に在り其峯雲際に聳\nえ高サ一万四千百七十尺其ノ形四面皆同じく\n山巓四時雪を頂き十三州よりこれを\n望む皇国第一の高山なり其の登岳　\nの路次四所あり表面を大宮村山口と\n云ひ南面を須山口と云ひ東面を須\n走口と云ひ北面を吉田口と云ふ抑\n山頂に鎮座せらるゝ大神を木花\n之佐久夜毘売命と称し大山津見\n神の御女也此の大神は容貌の麗\n美なるのみならず其の神徳亦艶\n美なるを以てサクヤの《割書：サクヤは｜開（サキ）光（ハ）映（ヤ）也》神号\nあるなり嘗て天皇迩々杵命遊幸\nして笠沙（カサヽノ）御崎（みさき）に至り大神に行き逢\nひ玉ひ其鮮妍なるを喜び将に娶ら\nんとなし玉ふに大神輙ち諾せずして曰\nく父あり宜く垂問すべしと天皇即ち\n使を大山津見神に遣し固く娶らんと\n乞ひ玉ひ立て皇后と為す後大神娠め\nるあつて産月に臨み天皇宜く汝娠める\n子吾ガ子に非ず必ず国ツ神の子ならん\nと大神聞且ツ怨み無戸室を造り其\n内に入り玉ひ誓て曰く吾ガ娠む所若\nし天孫《割書：迩々杵命｜を称す》の胤に非ざれは当に焦\n滅すべし実に天孫の胤なれば火も損害\nする能はじと則火を放ち室を焼くに果\nして損害あらず烟煙中ニ皇子を生み玉\nふこれ則天神の安産火難を守護防\n禦し給ふの原因とする所なり夫れ皇\n別の諸姓は皆大神の末流にして其ノ\n子孫は則大神の遠孫也 嗟夫（アヽ）諸国の\n人民歳々相増し年々相加し陸続参拝\nする所以のものは其の余沢の万分の一\nを謝せんと欲する所乎余嘗て聞く群\n参中道路旧跡に鮮明ならず山頂に彷\n徨するもの往々これあると甚遺憾\nにたえず為に聊か知る所を図し以て\n登岳の階梯に備ふとしか云\n　明治十年六月二十日版権免許\n【俯瞰図内上部右枠内】\n駿州龍爪山　申二ト\n甲州身延山　酉五ト\n信州訪諏湖　戌五ト\n飛州乗鞍山　酉九ト\n【俯瞰図内上部中央枠内】\n豆州三宅島　午五ト\n駿州三穂岬　同八ト\n勢州二見浦　未二ト\n遠州今ノ切　同三ト\n同　秋葉山　申五ト\n【俯瞰図内上部左】\n静岡県平民\n　著者土屋勝太郎\n　　駿河国冨士郡第二大区\n　　二小区厚原村二番地住\n静岡県平民\n　出版人冨士神一郎\n　　駿河国冨士郡第二大区\n　　四小区大宮町九十六番地住\n【俯瞰図内中部右枠内】\n信州八ッヵ嶽　寅二ト\n同　浅間山　同八ト\n上野山三国嶺　子七ト\n野州日光山　同九ト\n武州高尾山　丑六ト\n【俯瞰図内中部左枠内】\n相州　大山　寅七ト\n同　　江島　卯四ト\n駿州　沼津　巳二ト\n豆州　大島　同\n同　天城山　同\n",
+            "timestamp": {
+                "_nanoseconds": 341000000,
+                "_seconds": 1582080898
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

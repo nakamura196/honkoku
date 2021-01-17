@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/862f1e20d858ec6e79f6ae0854a787f0b53a6885.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88427",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88427/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88427",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "187CB42EBE490FB6C9360CC2C8EAA4AE",
+    "label": "[為火防]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[為火防]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-047"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "その他"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "26×17"
+        },
+        {
+            "label": "備考",
+            "value": "袖に記述あり「此書を家内にはり置かば、神々守り玉へはかならす火なんのうれいなし」"
+        },
+        {
+            "label": "identifier",
+            "value": "c2f26d29-baf6-4b7d-aa05-e291cb55fbd0"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0047"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/862f1e20d858ec6e79f6ae0854a787f0b53a6885.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c2f26d29-baf6-4b7d-aa05-e291cb55fbd0/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "187CB42EBE490FB6C9360CC2C8EAA4AE",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "3dS5v3JjVmWcT7LgJLN6tXRCoqA2",
+            "tempText": "【枠外】此書を家内ニはり置バ神々守り玉へはかならす火なんのうれひなし\n【右の枠】\n【一段目　　　　　　　　　二段目　　　　　　　　　　　三段目　　】\n大関　安泰山無火右衛門　　前頭　室結【詰？】北右衛門　前頭　なかやわり竹蔵\n関脇　当番野纏之助　　　　同　　拍子木打太郎　　　　　同　　高はり【高張提灯の意味か】付太郎\n小結　陣笠ヶ浦金右衛門　　同　　水のほり竿之助　　　　同　　ふんこ山土蔵\n前頭　袴越水左衛門　　　　同　　たはし野藁右衛門　　　同　　半鐘釣右衛門\n同　　竹階掛右衛門　　　　同　　素人山消右衛門　　　　同　　用心なは〆八\n同　　鈴虫林弥　　　　　　同　　籠つるべあミ蔵　　　　同　　火の見山高蔵\n同　　割竹引蔵　　　　　　同　　ふれかき張太郎　　　　同　　見舞野なし吉\n同　　玄番川𥶡衛門　　　　　　同　　水鉄砲つき蔵　　同　　はや馬乗右衛門\n　　　　　　　　　　　　　同　　粥ヶ焚夜右衛門　　　　同　　火のとり五九郎\n　　　　　　　　　　　　　同　　くすへ川羽織之助　　　同　　丁走番太郎　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　夜廻り祢む八\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　せけん山火事内\n【真ん中の枠】\n　　　　　　　　　　　　　　　　　　　　稲荷大明神\n　　　　　　　　　　　　　　　　　　　　三峯山　　　　　　　秋葉大権現\n為火防　　　大光院呑龍坊　　\n　　　　　　　　　　　　　　　　　　　　根本山神　　　　　　愛宕大権現\n　　　　　　　　　　　　　　　　　　　　御嶽山\n【左の枠】\n【一段目　　　　　　　　　二段目　　　　　　　　　　　三段目　　】\n大関　無事川安五郎　　　　前頭　南川通右衛門　　　　　前頭　くわが□樫右衛門\n関脇　差股力蔵　　　　　　同　　太鼓川とん五郎　　　　同　　てうちんとほ四郎\n小結　火元見馬五郎　　　　同　　水番札右衛門　　　　　同　　穴くらふた四郎\n前頭　桶の山積右衛門　　　同　　渋うちわ張吉　　　　　同　　はん木山吉右衛門\n同　　木階子登之助　　　　同　　店半天染五郎　　　　　同　　わらし嶽はき蔵\n同　　鉄棒突右衛門　　　　同　　鳶口山鍵之助　　　　　同　　用心籠右衛門\n同　　釣瓶川汲右衛門　　　同　　天水川桶右衛門　　　　同　　むね当紋太郎\n同　　渋塗桶九郎　　　　　同　　店消札五郎　　　　　　同　　欠付早之助　\n　　　　　　　　　　　　　同　　大家山行司郎　　　　　同　　増番介左衛門\n　　　　　　　　　　　　　同　　火事頭巾かふ六　　　　同　　ろじの浦番介\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　店ばん秋太郎\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　やじ馬あぶ内\n［枠外］大頭　いろは山組右衛門\n",
+            "text": "【枠外】此書を家内ニはり置バ神々守り玉へはかならす火なんのうれひなし\n【右の枠】\n【一段目　　　　　　　　　二段目　　　　　　　　　　　三段目　　】\n大関　安泰山無火右衛門　　前頭　室結【詰？】北右衛門　前頭　なかやわり竹蔵\n関脇　当番野纏之助　　　　同　　拍子木打太郎　　　　　同　　高はり【高張提灯の意味か】付太郎\n小結　陣笠ヶ浦金右衛門　　同　　水のほり竿之助　　　　同　　ふんこ山土蔵\n前頭　袴越水左衛門　　　　同　　たはし野藁右衛門　　　同　　半鐘釣右衛門\n同　　竹階掛右衛門　　　　同　　素人山消右衛門　　　　同　　用心なは〆八\n同　　鈴虫林弥　　　　　　同　　籠つるべあミ蔵　　　　同　　火の見山高蔵\n同　　割竹引蔵　　　　　　同　　ふれかき張太郎　　　　同　　見舞野なし吉\n同　　玄番川臨□【たけかんむりに輪】右衛門　　　　　　同　　水鉄砲つき蔵　　同　　はや馬乗右衛門\n　　　　　　　　　　　　　同　　粥ヶ焚夜右衛門　　　　同　　火のとり五九郎\n　　　　　　　　　　　　　同　　くすへ川羽織之助　　　同　　丁走番太郎　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　夜廻り祢む八\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　せけん山火事内\n【真ん中の枠】\n　　　　　　　　　　　　　　　　　　　　稲荷大明神\n　　　　　　　　　　　　　　　　　　　　三峯山　　　　　　　秋葉大権現\n為火防　　　大光院呑龍坊　　\n　　　　　　　　　　　　　　　　　　　　根本山神　　　　　　愛宕大権現\n　　　　　　　　　　　　　　　　　　　　御嶽山\n【左の枠】\n【一段目　　　　　　　　　二段目　　　　　　　　　　　三段目　　】\n大関　無事川安五郎　　　　前頭　南川通右衛門　　　　　前頭　くわが□樫右衛門\n関脇　差股力蔵　　　　　　同　　太鼓川とん五郎　　　　同　　てうちんとほ四郎\n小結　火元見馬五郎　　　　同　　水番札右衛門　　　　　同　　穴くらふた四郎\n前頭　桶の山積右衛門　　　同　　渋うちわ張吉　　　　　同　　はん木山吉右衛門\n同　　木階子登之助　　　　同　　店半天染五郎　　　　　同　　わらし嶽はき蔵\n同　　鉄棒突右衛門　　　　同　　鳶口山鍵之助　　　　　同　　用心籠右衛門\n同　　釣瓶川汲右衛門　　　同　　天水川桶右衛門　　　　同　　むね当紋太郎\n同　　渋塗桶九郎　　　　　同　　店消札五郎　　　　　　同　　欠付早之助　\n　　　　　　　　　　　　　同　　大家山行司郎　　　　　同　　増番介左衛門\n　　　　　　　　　　　　　同　　火事頭巾かふ六　　　　同　　ろじの浦番介\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　店ばん秋太郎\n　　　　　　　　　　　　　　　　　　　　　　　　　　　同　　やじ馬あぶ内\n［枠外］大頭　いろは山組右衛門\n",
+            "timestamp": {
+                "_nanoseconds": 203000000,
+                "_seconds": 1588404273
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

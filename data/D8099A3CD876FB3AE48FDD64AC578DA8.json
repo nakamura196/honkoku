@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5592,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6fcdff9b7ae1b2f6eb98499461188e942f5c3b09.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5592,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56258",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 19000
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56258/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56258",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 19000
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7668,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5a2f06843913e490e4504e0b1322af4ff9d14d94.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7668,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56259",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 10206
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56259/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56259",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 10206
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "D8099A3CD876FB3AE48FDD64AC578DA8",
+    "label": "方角場所附 [江戸大火]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "方角場所附 [江戸大火]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-030"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "文政12年3月21日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1829"
+        },
+        {
+            "label": "identifier",
+            "value": "b924627d-fa0f-47ad-b857-97107e67d99a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1066"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6fcdff9b7ae1b2f6eb98499461188e942f5c3b09.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "D8099A3CD876FB3AE48FDD64AC578DA8",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "文政十二年己丑三月廿一日江戸大火\n\n　　　　　　方角場所附　　　両国廣小路一ヶ所\n合印\n御上屋敷■ 土蔵之数凢八百二三十ヶ所橋の数凢八拾五ヶ所程\n御中屋敷▲   御救小屋　常盤橋御門外一ヶ所　神田橋御門外二ヶ所\n飛　火　●     数寄屋橋御門外一ヶ所　幸橋御門外一ヶ所　筋違御門外一ヶ所\n江戸橋一ヶ所　築地一ヶ所　八丁堀二ヶ所\n見てハなをはなし聞てもおそろしきハ去三月廿一日朝四ツ半頃ゟ西北\nの大風はげしく空一面物すごき折から外神田邊ゟ出火し\n和泉橋焼おち土手下佐野様富田様細川様九軒丁□□\n豊嶋丁久右衛門丁江川丁橋本丁岩井丁松枝丁馬喰丁しほ丁横山丁\n吉川丁米沢丁同朋丁柳橋両国邊不残橘丁久松丁村松丁へん\nやのくら山伏井戸濱丁△小笠原様松平伯耆様佐竹様水野様并\n御旗本様方不残焼◯【記号右側に「外」】御玉ヶ池小柳丁平永丁紺や丁代地共岩元丁\n富山丁市橋様□此へん御旗本様丁家不残小傳馬丁牢御やしき\n大傳馬丁通旅こ町大丸やける油丁大門通人形町通長谷川丁\n此邊不残◯【記号右側に「を」】堀留堀江丁小舟丁小網丁通新材木丁杉森稲荷\n乗物丁富沢丁高砂丁なにハ丁住吉丁堺丁中村坐ふきや丁市村\n座人形芝居ともよし丁泉丁甚左衛門丁銀座松嶋丁△水野壱岐様\n松平越前様室賀様戸田様近藤様牧野様本多肥後守様□\n酒井伊□様横山様△酒井様横瀬様安藤様□戸田様越中様\nとうけ堀行徳かし永久橋やけ落△土井様松平伊豆様久世大和様\n箱崎丁北新堀御舟手御組屋敷此時永代橋危うし湊橋乙女橋落\n大川端濱丁白銀町新川檜川岸川口町東ミなと丁此時風弥強\n霊巌嶋一面ニ火さかんニ而欠バニ迷ひ難義成事言語ニのべがたく誠\nあハれなり同刻越前様御中屋しき御舟手組御やしき焼稲荷橋\n焼おち鉄ほうつ稲荷の社より川岸通本ミなと丁△松平阿ハ様\n□細川様松平内匠様同所舟松丁十軒丁明石丁向佃しま\n不残并大船五十そう小舟数不知◯【記号右側に「小」】東（こ）北（ち）風つよく西神田すだ丁\n新石丁なへ丁かじ町松田丁白かへ丁かまくらがし豊嶋や迄焼龍閑はし\n松下丁富永丁同とかし今川橋白かね丁白旗社十けん店石丁甚丁\n瀬戸物丁本舟丁安針丁小田原丁駿河丁越後や店不残むろ丁\n金吹丁両かへ丁金座さや丁釘店日本橋江戸橋あらめ橋焼落\n四日市土手くら西かし青物丁万丁呉服丁平松丁音ハ丁通丁\n白木や焼本材木丁新は此邊不残中はし南傳馬町大工丁桶丁\n五郎兵へ丁かじ丁よゝき丁常ハ丁柳丁具足丁金六丁竹丁此へん\n不残京橋四方店白うをやしき三十間堀太刀賣弓丁かんせしん\n道西紺屋丁肴丁弥左衛門丁すきやかし京橋ゟ通ハ銀座丁尾張丁\n布袋やゑひすや不残やけ竹川丁出も丁金春やしき新橋ニ而とまる\n◯【記号右側に「す」】鍋丁瀧山丁宗十郎丁山王丁さへき丁かゝ丁八かん【八官】丁丸や丁此丁家\n山下丁より土橋迄西かハ残る◯【記号右側に「四」】かいそく橋やけ落枝野様九鬼様\n小濱様坂本丁かやは丁薬師堂八丁堀松平越前守様御組やしき\n不残御類焼小嶋丁亀嶋丁日比谷丁同かし古着店幸丁岡崎丁\n松や丁同橋弾正橋本八丁堀通不残南八丁ほり土佐様くらやしき\n□本多下総様△松平右近将監様井伊かもん様中川修理大夫様\n□松平遠江守様小笠原様△奥平様脇坂様築地柳原同朋丁\n小田原丁本郷丁寒橋△堀田様松平安藝様一橋様越中様\n南八丁堀のつゝき□伊達紀伊守様新店様松村丁木挽丁芝居\nきのくに橋紀州様御くらやしき△松平周防守様坂倉様能登様\n曲渕様狩野様□諏訪様△大久保様□柳生様仙石様△本多様\n△溝口様田沼様□奥平大膳大夫様しほ留芝口西側通丁□□ \n脇坂中務太夫様御上屋敷ニ而留る◯築地△松平土佐様松下様\n松平飛騨様桑山様青山様稲葉様本多弾正様秋田様\n木下様亀井様畠山様△栃木様西尾様津田様戸川様\n□永井様三浦様△松平内蔵様このへん御旗もと様方\nのこらす西本願寺御坊地中とも不残やけ向つきし阿部様\n村垣様□稲葉様二軒とも尾州様御蔵やしきニ而留るさて\n去廿一日朝四ツ過よりの出火ニて殊ニ大風はけしく人々東西南\n北にまよひ親をすて子にはなれあハれなる事云つくしかたし\n末代のはなしの種ニもと書しるすものなり\n　　　　町数凢千二百丁余\n　　　　　　　　　焼亡人老若男女凢四千人余\n　　　　　　　　　此外水死又ハ行衛相不分者数不知\n\n去三月廿一日の大火ゟ日々物しつかならず然ルに\n御公儀様ゟ厳重之御觸故人々安堵のおもひおなし候所同四月六日\n朝より大南風吹出し昼九ツ過頃麻布長坂ゟ出火し東かわ町家少々やけ\n坂上大長寺光照寺□大田原様△池田様坂上町家并角有馬様飯倉\n片町通おかめだんご□牧野甚三郎様上杉様角少々△内藤様野沢千太郎様\n御やきニ而とまる一口ハ天野左近様長田百助様□織田大蔵太輔様諏訪様\nかぜんぼ御組屋しき少々市兵衛町中角山口様田賀大助様日根野権十郎様ニ而留\n市兵衛町不やの丁へん畠山様并御旗本様方△石川様六けん丁木戸さわニて留る\n又なたれ坂善照寺圓林寺真上寺大仙寺ニ而留る谷町御組やしき并町家とも\n△相馬様少々永正寺西光寺□真田様△黒田様少し□松平日向様山口様\n南かわ横田様土岐様御やしきニて夕方しづまる\n",
+            "text": "文政十二年己丑三月廿一日江戸大火\n\n　　　　　　方角場所附　　　両国廣小路一ヶ所\n合印\n御上屋敷■ 土蔵之数凢八百二三十ヶ所橋の数凢八拾五ヶ所程\n御中屋敷▲   御救小屋　常盤橋御門外一ヶ所　神田橋御門外二ヶ所\n飛　火　●     数寄屋橋御門外一ヶ所　幸橋御門外一ヶ所　筋違御門外一ヶ所\n江戸橋一ヶ所　築地一ヶ所　八丁堀二ヶ所\n見てハなをはなし聞てもおそろしきハ去三月廿一日朝四ツ半頃ゟ西北\nの大風はげしく空一面物すごき折から外神田邊ゟ出火し\n和泉橋焼おち土手下佐野様富田様細川様九軒丁□□\n豊嶋丁久右衛門丁江川丁橋本丁岩井丁松枝丁馬喰丁しほ丁横山丁\n吉川丁米沢丁同朋丁柳橋両国邊不残橘丁久松丁村松丁へん\nやのくら山伏井戸濱丁△小笠原様松平伯耆様佐竹様水野様并\n御旗本様方不残焼◯【記号右側に「外」】御玉ヶ池小柳丁平永丁紺や丁代地共岩元丁\n富山丁市橋様□此へん御旗本様丁家不残小傳馬丁牢御やしき\n大傳馬丁通旅こ町大丸やける油丁大門通人形町通長谷川丁\n此邊不残◯【記号右側に「を」】堀留堀江丁小舟丁小網丁通新材木丁杉森稲荷\n乗物丁富沢丁高砂丁なにハ丁住吉丁堺丁中村坐ふきや丁市村\n座人形芝居ともよし丁泉丁甚左衛門丁銀座松嶋丁△水野壱岐様\n松平越前様室賀様戸田様近藤様牧野様本多肥後守様□\n酒井伊□様横山様△酒井様横瀬様安藤様□戸田様越中様\nとうけ堀行徳かし永久橋やけ落△土井様松平伊豆様久世大和様\n箱崎丁北新堀御舟手御組屋敷此時永代橋危うし湊橋乙女橋落\n大川端濱丁白銀町新川檜川岸川口町東ミなと丁此時風弥強\n霊巌嶋一面ニ火さかんニ而欠バニ迷ひ難義成事言語ニのべがたく誠\nあハれなり同刻越前様御中屋しき御舟手組御やしき焼稲荷橋\n焼おち鉄ほうつ稲荷の社より川岸通本ミなと丁△松平阿ハ様\n□細川様松平内匠様同所舟松丁十軒丁明石丁向佃しま\n不残并大船五十そう小舟数不知◯【記号右側に「小」】東（こ）北（ち）風つよく西神田すだ丁\n新石丁なへ丁かじ町松田丁白かへ丁かまくらがし豊嶋や迄焼龍閑はし\n松下丁富永丁同とかし今川橋白かね丁白旗社十けん店石丁甚丁\n瀬戸物丁本舟丁安針丁小田原丁駿河丁越後や店不残むろ丁\n金吹丁両かへ丁金座さや丁釘店日本橋江戸橋あらめ橋焼落\n四日市土手くら西かし青物丁万丁呉服丁平松丁音ハ丁通丁\n白木や焼本材木丁新は此邊不残中はし南傳馬町大工丁桶丁\n五郎兵へ丁かじ丁よゝき丁常ハ丁柳丁具足丁金六丁竹丁此へん\n不残京橋四方店白うをやしき三十間堀太刀賣弓丁かんせしん\n道西紺屋丁肴丁弥左衛門丁すきやかし京橋ゟ通ハ銀座丁尾張丁\n布袋やゑひすや不残やけ竹川丁出も丁金春やしき新橋ニ而とまる\n◯【記号右側に「す」】鍋丁瀧山丁宗十郎丁山王丁さへき丁かゝ丁八かん【八官】丁丸や丁此丁家\n山下丁より土橋迄西かハ残る◯【記号右側に「四」】かいそく橋やけ落枝野様九鬼様\n小濱様坂本丁かやは丁薬師堂八丁堀松平越前守様御組やしき\n不残御類焼小嶋丁亀嶋丁日比谷丁同かし古着店幸丁岡崎丁\n松や丁同橋弾正橋本八丁堀通不残南八丁ほり土佐様くらやしき\n□本多下総様△松平右近将監様井伊かもん様中川修理大夫様\n□松平遠江守様小笠原様△奥平様脇坂様築地柳原同朋丁\n小田原丁本郷丁寒橋△堀田様松平安藝様一橋様越中様\n南八丁堀のつゝき□伊達紀伊守様新店様松村丁木挽丁芝居\nきのくに橋紀州様御くらやしき△松平周防守様坂倉様能登様\n曲渕様狩野様□諏訪様△大久保様□柳生様仙石様△本多様\n△溝口様田沼様□奥平大膳大夫様しほ留芝口西側通丁□□ \n脇坂中務太夫様御上屋敷ニ而留る◯築地△松平土佐様松下様\n松平飛騨様桑山様青山様稲葉様本多弾正様秋田様\n木下様亀井様畠山様△栃木様西尾様津田様戸川様\n□永井様三浦様△松平内蔵様このへん御旗もと様方\nのこらす西本願寺御坊地中とも不残やけ向つきし阿部様\n村垣様□稲葉様二軒とも尾州様御蔵やしきニ而留るさて\n去廿一日朝四ツ過よりの出火ニて殊ニ大風はけしく人々東西南\n北にまよひ親をすて子にはなれあハれなる事云つくしかたし\n末代のはなしの種ニもと書しるすものなり\n　　　　町数凢千二百丁余\n　　　　　　　　　焼亡人老若男女凢四千人余\n　　　　　　　　　此外水死又ハ行衛相不分者数不知\n\n去三月廿一日の大火ゟ日々物しつかならず然ルに\n御公儀様ゟ厳重之御觸故人々安堵のおもひおなし候所同四月六日\n朝より大南風吹出し昼九ツ過頃麻布長坂ゟ出火し東かわ町家少々やけ\n坂上大長寺光照寺□大田原様△池田様坂上町家并角有馬様飯倉\n片町通おかめだんご□牧野甚三郎様上杉様角少々△内藤様野沢千太郎様\n御やきニ而とまる一口ハ天野左近様長田百助様□織田大蔵太輔様諏訪様\nかぜんぼ御組屋しき少々市兵衛町中角山口様田賀大助様日根野権十郎様ニ而留\n市兵衛町不やの丁へん畠山様并御旗本様方△石川様六けん丁木戸さわニて留る\n又なたれ坂善照寺圓林寺真上寺大仙寺ニ而留る谷町御組やしき并町家とも\n△相馬様少々永正寺西光寺□真田様△黒田様少し□松平日向様山口様\n南かわ横田様土岐様御やしきニて夕方しづまる\n",
+            "timestamp": {
+                "_nanoseconds": 416000000,
+                "_seconds": 1567392401
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b924627d-fa0f-47ad-b857-97107e67d99a/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "D8099A3CD876FB3AE48FDD64AC578DA8",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 943000000,
+                "_seconds": 1566539628
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/90beb08254bb4dd0b0f4123881859d5f4fb14210.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88689",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88689/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88689",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "B3FB46C45730EC88387EFB444580CDC4",
+    "label": "ぢしんほうぼうゆり状の事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ぢしんほうぼうゆり状の事"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-054"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24×31"
+        },
+        {
+            "label": "備考",
+            "value": "単色刷り"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "9a4a32ad-5f5b-40a7-b34f-96766014a90b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0309"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/90beb08254bb4dd0b0f4123881859d5f4fb14210.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/9a4a32ad-5f5b-40a7-b34f-96766014a90b/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "B3FB46C45730EC88387EFB444580CDC4",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "　　　ぢしんほう〴〵ゆり狀の事\n一此ゆり助と申者生国かしま要郡ゆるぎ村にて慥成ぐら付\n　者ニ付らい共請人に相立いへんえいたぶりほう〴〵えゆり出し\n　申候所ぢしん也年季の義ハ去ル未信州より八年かに\n　相当り御きう近国として越後三州慥ニ\n　おどろき申候御しきせの義ハ夏ハがふらじまふるへ\n　物一枚冬ハみぢんつなミぬのこ一枚下さるべく候事\n一上方筋五畿内五か国之義ハ申ニおよバす\n　四国九州まで相ゆるがせ申候若此者\n　表中おさん殿のねまへはいこみない\n　しやうのぢしんいたし候か又ハ\n　御大せつなる土蔵をこハしゆり\n　にげかべおちいたし候ハヾ急度したる左（さ）官（くわん）\n　をもつて早（さつ）速（そく）埒（らち）明（あけ）可申候事\n一宗旨の義ハ豆州さうどうはにて寺ハ\n　下田横町ミなこけ横町ぐら〴〵さんつぶ\n　れんじなむさんぼふつなミニまぎれ御坐なく候\n　五八そうのなんせんニてハ無之若此ぢしん\n　の義ニ付跡々ニてゆり出し候者無之万一ゆり\n　かへし等致候ハヾ我等ぢしんにまかり出かなめ石を以て\n　ぎうとおしつけきでんえ駿抄も御くらふ相かけ申\n　間敷候五七留一たんゆつて九は病の如し\n　　　　　　　　　　　　　　　　　　　いなかけんのんじ門前\n　　　しんどう元年　　　　　　　　　　　家内つぶれ兵へ店\n　　　　　なまづ十一月　　　　　請人　　　もへ出シや火事兵衛\n　　　　　　　　　　　　　　　　　　　あさからゆり通り\n　　　　　　　　　　　　　　　　　　　　　　にげ出し横丁\n　　　　　　　　　　　　　　　　　　　　ひらきや大地郎店\n　　　　　　　　　　　　　　　　人主　　　ぶる〳〵やこわ右衛門\n　大坂町屋敷大つなミ打寄場\n　　　橋〳〵屋おち右衛門様",
+            "text": "　　　ぢしんほう〴〵ゆり狀の事\n一此ゆり助と申者生国かしま要郡ゆるぎ村にて慥成ぐら付\n　者ニ付らい共請人に相立いへんえいたぶりほう〴〵えゆり出し\n　申候所ぢしん也年季の義ハ去ル未信州より八年かに\n　相当り御きう近国として越後三州慥ニ\n　おどろき申候御しきせの義ハ夏ハがふらじまふるへ\n　物一枚冬ハみぢんつなミぬのこ一枚下さるべく候事\n一上方筋五畿内五か国之義ハ申ニおよバす\n　四国九州まで相ゆるがせ申候若此者\n　表中おさん殿のねまへはいこみない\n　しやうのぢしんいたし候か又ハ\n　御大せつなる土蔵をこハしゆり\n　にげかべおちいたし候ハヾ急度したる左（さ）官（くわん）\n　をもつて早（さつ）速（そく）埒（らち）明（あけ）可申候事\n一宗旨の義ハ豆州さうどうはにて寺ハ\n　下田横町ミなこけ横町ぐら〴〵さんつぶ\n　れんじなむさんぼふつなミニまぎれ御坐なく候\n　五八そうのなんせんニてハ無之若此ぢしん\n　の義ニ付跡々ニてゆり出し候者無之万一ゆり\n　かへし等致候ハヾ我等ぢしんにまかり出かなめ石を以て\n　ぎうとおしつけきでんえ駿抄も御くらふ相かけ申\n　間敷候五七留一たんゆつて九は病の如し\n　　　　　　　　　　　　　　　　　　　いなかけんのんじ門前\n　　　しんどう元年　　　　　　　　　　　家内つぶれ兵へ店\n　　　　　なまづ十一月　　　　　請人　　　もへ出シや火事兵衛\n　　　　　　　　　　　　　　　　　　　あさからゆり通り\n　　　　　　　　　　　　　　　　　　　　　　にげ出し横丁\n　　　　　　　　　　　　　　　　　　　　ひらきや大地郎店\n　　　　　　　　　　　　　　　　人主　　　ぶる〳〵やこわ右衛門\n　大坂町屋敷大つなミ打寄場\n　　　橋〳〵屋おち右衛門様",
+            "timestamp": {
+                "_nanoseconds": 884000000,
+                "_seconds": 1573532924
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

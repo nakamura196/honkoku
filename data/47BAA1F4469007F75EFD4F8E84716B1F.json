@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3314c747416e7c6e3ecf244748e71026d679f588.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88632",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88632/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88632",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "47BAA1F4469007F75EFD4F8E84716B1F",
+    "label": "太平優美論",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "太平優美論"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×48.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "4230ffe2-0864-467a-b493-b76c206f4abc"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0252"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3314c747416e7c6e3ecf244748e71026d679f588.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4230ffe2-0864-467a-b493-b76c206f4abc/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "47BAA1F4469007F75EFD4F8E84716B1F",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "abLao6wEVxMPSPbg3sDolIMcJ2y2",
+            "tempText": "【右上から】\n【かすれて見えないが　内容から推定する　かるこ】\n乁わしらがかつてゞかせぐのではねへあち\nこちからたのまれてよんどころなく\n金もうけをするのだしかしふだんは\nかるこ〳〵とかる〳〵しくおひつかはれる\nからちつとの\nものでも\nおも〳〵しく\nかついでたんと\nぜにをとつて\nやりやす\n\nのり物や\n乁さて〳〵こんどはいそがしい\nのでせけんから見たら\n金もうけと見えませう\nけれど今のぶんではよう\nござりますがしまいは\nやつぱり太郎【良】兵へで\nござります\n\nせんどう\n乁此ごろのやう\nではじつに\nまうかつて\nしようがねへ\nときにちつと\n御入ようなら\nおあづけもう\nそうか\nおくり状のねへ\nにもつが\n船に二三べい\nあつてまことに\nこまりきり\nますは\n\n【右はし中段】\n□□□□【内容から推察すると車力か】\n乁じつに此せつのやうにいそがしくつては金のおき所に\nこまりますよしかしながらよくしたものでくるまの\nわじやァねへが大かた\nまはりもち\nでござり\nませう\nよ\n\n【中央人物の下】\n百せう\n乁なるほどわしらァ田舎に\nゐて外へ立のくせわもなし十ねん\nあとに立たした座しき一ヶ月\n五両でかりでがあるしちと\nごうよくだといはしやる\nたらうが御てんまが\nなけりやァまるもうけサ\n\n【左ページ上】\nエ\n乁そうほうともに\nしづまれ〳〵皆の\nものよふきけよ\n人のくわふくはおの\nれのかせぎと正直に\nあるところなれば\nなけぐにもおよふまじ\nまたほこるにもおよばぬ\nゆゑじせつをまつてかせげ〳〵\n\nさくわん\n乁ぢしんのあとの銭もうけを\nちやくむちゃくにしてしまふ\nト思へはじつにねつかれねへ\nたんとの金のいれどころ\nくらてもたてたがいゝしやァねへか\nしみたれなやつらぜへ\n\nしちや\n乁わたくしどものとせいはべつにりきみ升ことも\nござりませんが此せつのことゆゑにきびしく\n申つけまして正ろにいたせと申ます\nればまげますことはおことはり\n申ます\n\n【「左官」の絵の上】\nかねかし\n乁サアいくらでも\nかしてやる\nからかりに\nきなせへ\nまご〳〵して\nにげるにやア\nおよばねへ\nせ五両壱分と\nまけました〳〵\n\nげい人\n乁ド？ウデスありがたい世の中\nではござりませんかさま〴〵な\nおもしろいことをうかゞひますし\nうまいものはくひしだいわたしらの\nせかいにはすこしもかわつたことはなし\nちつとおかねのないくにへいつて\n見てへものだ\n\nげいしや\n乁わちきのほうもいそかしいから子供がたら\nないでこまりますよおざしきがさし合だらけ\nつけこみは山〳〵あるしねるまもないくらいいそ\nかしいのでかつかり\nするよちつと二三日\n田舎でもたちのきたい\nものでこさりますヨ\n\n【「呉服屋」の絵の上】\nごふく\n乁おまへかたのめから\n見たらひまさうに\nみへませうがそこが\nお江戸のありがた\nさ一日でもやすみは\nなし御ようむきたくさん\nありありかたい\nよの中〳〵\n\n【「芸者」の絵の右下】\nひきやく\n乁みなさんもごぞんじの\nとほり金にあいそづかし\nでもしてへくれへふへて\nこまりますがぜにづかいのあらいのと\nちうやあるくので\nおあしがたま\nりませぬ\n",
+            "text": "【右上から】\n【かすれて見えないが　内容から推定する　かるこ】\n乁わしらがかつてゞかせぐのではねへあち\nこちからたのまれてよんどころなく\n金もうけをするのだしかしふだんは\nかるこ〳〵とかる〳〵しくおひつかはれる\nからちつとの\nものでも\nおも〳〵しく\nかついでたんと\nぜにをとつて\nやりやす\n\nのり物や\n乁さて〳〵こんどはいそがしい\nのでせけんから見たら\n金もうけと見えませう\nけれど今のぶんではよう\nござりますがしまいは\nやつぱり太郎【良】兵へで\nござります\n\nせんどう\n乁此ごろのやう\nではじつに\nまうかつて\nしようがねへ\nときにちつと\n御入ようなら\nおあづけもう\nそうか\nおくり状のねへ\nにもつが\n船に二三べい\nあつてまことに\nこまりきり\nますは\n\n【右はし中段】\n□□□□【内容から推察すると車力か】\n乁じつに此せつのやうにいそがしくつては金のおき所に\nこまりますよしかしながらよくしたものでくるまの\nわじやァねへが大かた\nまはりもち\nでござり\nませう\nよ\n\n【中央人物の下】\n百せう\n乁なるほどわしらァ田舎に\nゐて外へ立のくせわもなし十ねん\nあとに立たした座しき一ヶ月\n五両でかりでがあるしちと\nごうよくだといはしやる\nたらうが御てんまが\nなけりやァまるもうけサ\n\n【左ページ上】\nエ\n乁そうほうともに\nしづまれ〳〵皆の\nものよふきけよ\n人のくわふくはおの\nれのかせぎと正直に\nあるところなれば\nなけぐにもおよふまじ\nまたほこるにもおよばぬ\nゆゑじせつをまつてかせげ〳〵\n\nさくわん\n乁ぢしんのあとの銭もうけを\nちやくむちゃくにしてしまふ\nト思へはじつにねつかれねへ\nたんとの金のいれどころ\nくらてもたてたがいゝしやァねへか\nしみたれなやつらぜへ\n\nしちや\n乁わたくしどものとせいはべつにりきみ升ことも\nござりませんが此せつのことゆゑにきびしく\n申つけまして正ろにいたせと申ます\nればまげますことはおことはり\n申ます\n\n【「左官」の絵の上】\nかねかし\n乁サアいくらでも\nかしてやる\nからかりに\nきなせへ\nまご〳〵して\nにげるにやア\nおよばねへ\nせ五両壱分と\nまけました〳〵\n\nげい人\n乁ド？ウデスありがたい世の中\nではござりませんかさま〴〵な\nおもしろいことをうかゞひますし\nうまいものはくひしだいわたしらの\nせかいにはすこしもかわつたことはなし\nちつとおかねのないくにへいつて\n見てへものだ\n\nげいしや\n乁わちきのほうもいそかしいから子供がたら\nないでこまりますよおざしきがさし合だらけ\nつけこみは山〳〵あるしねるまもないくらいいそ\nかしいのでかつかり\nするよちつと二三日\n田舎でもたちのきたい\nものでこさりますヨ\n\n【「呉服屋」の絵の上】\nごふく\n乁おまへかたのめから\n見たらひまさうに\nみへませうがそこが\nお江戸のありがた\nさ一日でもやすみは\nなし御ようむきたくさん\nありありかたい\nよの中〳〵\n\n【「芸者」の絵の右下】\nひきやく\n乁みなさんもごぞんじの\nとほり金にあいそづかし\nでもしてへくれへふへて\nこまりますがぜにづかいのあらいのと\nちうやあるくので\nおあしがたま\nりませぬ\n",
+            "timestamp": {
+                "_nanoseconds": 7000000,
+                "_seconds": 1578296409
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

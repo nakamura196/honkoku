@@ -1,0 +1,131 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bde2cc9ad82a3f981da521b57519f305fdafc229.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88479",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88479/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88479",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "hidden": true,
+    "id": "13880407B59C6526DCB368C51532142B",
+    "label": "かわりけん",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "かわりけん"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-052"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×23.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "6a2fef53-0b10-41c3-9333-34aea6fddbc7"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0099"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/bde2cc9ad82a3f981da521b57519f305fdafc229.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6a2fef53-0b10-41c3-9333-34aea6fddbc7/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "13880407B59C6526DCB368C51532142B",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "GCYxtEX5LwhxguxOCAhbFy5LtBx1",
+            "tempText": "かわりけん\n〽さてはけんのん信州（しんしう）じゝん開帳（かいてう）\n 人（ひと）ゆり身（み）ゆり〳〵 内（うち）はぶら〳〵\nゆるいでまゑりやしよじやん〳〵じ\nやけんの善光寺（ぜんくわうじ）ばさまにじさ\nまがつぶされたかはゝくわ\nゑて 土手（どて）つくてんさあきが\nかゑたまゑりまひやう\n\n 爰（こヽ）に弘化四年三月廿四日夜四ツ時\n此より信州（しんしう）大 地震（じしん）にて善光寺（せうくわうじ）をはじめ\n川 中島（なかじま） 辺（へん）より丹波島（たんばじま） 渡（わた）し同く小市の\n川むかふなる山々川中へゆりくづれ川水をせき\nとめ人家へ溢（あふ）れ出し田 畑（ばた）の損（そん）じ少からずたゞ善光寺御堂\nのみ破却（はきやく）に及ず扨 越後路（ゑちごじ）の方は柏原関（かしははらせき）川越後高田\n辺又上州口之方は追（おひ）分 沓掛（くつかけ）軽（かる）井 沢（ざは） 小諸（こもろ） 飯（いヽ）山辺殊に\nはげしく南は会（あい）田辺より松下松 代（しろ）上田近辺は筑摩（ちくま）\n川を押埋（おしうめ） 洪（かう）水一時にをし出し人馬の泣（なき）さけぶ声目も当てら\nれぬばかりなり扨 翌（あす）六ツ時 漸（やうや）く 治（をさま）り人々 安堵（あんど）しけることなり\n\n【画中】\n貞重改　国輝画\n\n\n",
+            "text": "かわりけん\n〽さてはけんのん信州（しんしう）じゝん開帳（かいてう）\n 人（ひと）ゆり身（み）ゆり〳〵 内（うち）はぶら〳〵\nゆるいでまゑりやしよじやん〳〵じ\nやけんの善光寺（ぜんくわうじ）ばさまにじさ\nまがつぶされたかはゝくわ\nゑて 土手（どて）つくてんさあきが\nかゑたまゑりまひやう\n\n 爰（こヽ）に弘化四年三月廿四日夜四ツ時\n此より信州（しんしう）大 地震（じしん）にて善光寺（せうくわうじ）をはじめ\n川 中島（なかじま） 辺（へん）より丹波島（たんばじま） 渡（わた）し同く小市の\n川むかふなる山々川中へゆりくづれ川水をせき\nとめ人家へ溢（あふ）れ出し田 畑（ばた）の損（そん）じ少からずたゞ善光寺御堂\nのみ破却（はきやく）に及ず扨 越後路（ゑちごじ）の方は柏原関（かしははらせき）川越後高田\n辺又上州口之方は追（おひ）分 沓掛（くつかけ）軽（かる）井 沢（ざは） 小諸（こもろ） 飯（いヽ）山辺殊に\nはげしく南は会（あい）田辺より松下松 代（しろ）上田近辺は筑摩（ちくま）\n川を押埋（おしうめ） 洪（かう）水一時にをし出し人馬の泣（なき）さけぶ声目も当てら\nれぬばかりなり扨 翌（あす）六ツ時 漸（やうや）く 治（をさま）り人々 安堵（あんど）しけることなり\n\n【画中】\n貞重改　国輝画\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 641000000,
+                "_seconds": 1598110140
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

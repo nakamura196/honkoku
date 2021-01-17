@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2b760bf1a3aab46316477e47217d93e2faef3494.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88651",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88651/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88651",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "41696B4172E4EFE521A3D5C8927C2263",
+    "label": "高天座石御代礎",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "高天座石御代礎"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×45"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "d61b345a-0fc3-4b7d-b16f-181d1fe04808"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0271"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2b760bf1a3aab46316477e47217d93e2faef3494.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d61b345a-0fc3-4b7d-b16f-181d1fe04808/canvas/p1",
+            "editedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "entryId": "41696B4172E4EFE521A3D5C8927C2263",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "tempText": "【上段右】\n地震（ぢしん）は\n　｜亥刻過（いのこくすぎ）にして\n諸方潰（しよほうつぶれ）る\n　｜十月二日（じうぐわつふつか）\n出火（しゆつくは）は\n　三十｜余所（よしよ）にて\n諸口（しよくち）静（しづま）る\n　｜翌朝三日（よくちやうみつか）\n\n士（し）　｜歩（ぶ）を引上（ひきあげ）る\n　　｜大名方（だいめうがた）は是（これ）も袋（ふくろ）の　　｜御弓町（おゆみてう）\n農（のう）　｜米（こめ）を取出（とりだ）す\n　　｜大施行（おほせぎやう）は是（これ）も貢（みつぎ）の　　｜田原町（たはらまち）\n喜怒（きど）\n　　｜四民種（よつのたみくさ）　\n愛楽（あいらく）\n工（こう）　｜人（ひと）をあつめる\n　　｜大帳場（おほちやうば）は是（これ）も出入（でいり）の　｜大工町（だいくてう）\n商（しやう）　｜山（やま）をきり出（だ）す\n　　｜大筏（おほいかだ）は是（これ）もお江戸（えど）の　｜材木町（ざいもくてう）\n\n【右の記述に下の次の横書き】\n賜天（てんよりたまふ）御救栄（おすくいのさかへ）\n\n高天座（たかまくら）石｜御代礎（みよのいしずへ）\n　　　　　　御小屋\n　　　　　　　　五箇所\n【上段右の絵内】\n當テル十月二日より\n\n【上段左】\n【横書き】道行\n\n亥刻（ひけしふん）夢地震（ゆめのふること）　＜割書：江東焼三郎｜郎の井ゆめ三郎）＞　秋元連中\n　　　　　　　　　割竹鉄？にて\n　　　　　　　　　　　相勤申候\n第一番にもへ出し申候\n\n【下段】\n焼人替名\n一震動左衛門　　　　江戸中郎\n一驚人部之助　　　　江戸中郎\n一百姓番作　　　　　五九郎\n一若徒錢内　　　　　五九郎\n一高直とら次郎　　　番太郎\n一草履三太郎　　　　番太郎\n一類焼家の下役板衛　高十郎\n一かこひものおくぎ　伊太郎\n一おんぼうのひ六　　よく次\n一くづれ棟兵衛　　　つち蔵\n一曲り家蔵住兼　　のしゆく\n一＜割書：最初三十三所｜　　八な火出吉）＞　　　　　火次郎\n一＜割書：観音の塔まかり｜　九りん坊）＞　　　　　五重\n一雇人足間似八　　　相蔵\n一＜割書：辻商人｜　留場の出来蔵）＞　　　　三町郎\n一午丸太九郎こげたり　三町郎\n一座頭高利ノ一　　　損四郎\n一こし元たてず　　　抜太郎\n一こし元いたみ　　　身すじ\n一こし元おあさ　　　紫色\n一こし元おきす　　　療次郎\n一足場の高蔵　　　丸太郎\n一道心者つつかひ焼　丸太郎\n一店番火け四郎幟り　町中郎\n一こぼれ玄番　　　　町中郎\n一＜割書：立退家の後室｜　繁昌の前）＞　　　　　廊中郎\n一けいせゐ玉なし　　廊中郎\n一土山内蔵介道わる　　難十郎\n一黄金内大臣蔵持郷　　難十郎\n一足元年寄公　　　　難十郎\nこのもの前勘定め\n賀落雁\n\n　",
+            "text": "【上段右】\n地震（ぢしん）は\n　｜亥刻過（いのこくすぎ）にして\n諸方潰（しよほうつぶれ）る\n　｜十月二日（じうぐわつふつか）\n出火（しゆつくは）は\n　三十｜余所（よしよ）にて\n諸口（しよくち）静（しづま）る\n　｜翌朝三日（よくちやうみつか）\n\n士（し）　｜歩（ぶ）を引上（ひきあげ）る\n　　｜大名方（だいめうがた）は是（これ）も袋（ふくろ）の　　｜御弓町（おゆみてう）\n農（のう）　｜米（こめ）を取出（とりだ）す\n　　｜大施行（おほせぎやう）は是（これ）も貢（みつぎ）の　　｜田原町（たはらまち）\n喜怒（きど）\n　　｜四民種（よつのたみくさ）　\n愛楽（あいらく）\n工（こう）　｜人（ひと）をあつめる\n　　｜大帳場（おほちやうば）は是（これ）も出入（でいり）の　｜大工町（だいくてう）\n商（しやう）　｜山（やま）をきり出（だ）す\n　　｜大筏（おほいかだ）は是（これ）もお江戸（えど）の　｜材木町（ざいもくてう）\n\n【右の記述に下の次の横書き】\n賜天（てんよりたまふ）御救栄（おすくいのさかへ）\n\n高天座（たかまくら）石｜御代礎（みよのいしずへ）\n　　　　　　御小屋\n　　　　　　　　五箇所\n【上段右の絵内】\n當テル十月二日より\n\n【上段左】\n【横書き】道行\n\n亥刻（ひけしふん）夢地震（ゆめのふること）　《割書：江東焼三郎｜郎の井ゆめ三郎）》　秋元連中\n　　　　　　　　　割竹鉄？にて\n　　　　　　　　　　　相勤申候\n第一番にもへ出し申候\n\n【下段】\n焼人替名\n一震動左衛門　　　　江戸中郎\n一驚人部之助　　　　江戸中郎\n一百姓番作　　　　　五九郎\n一若徒錢内　　　　　五九郎\n一高直とら次郎　　　番太郎\n一草履三太郎　　　　番太郎\n一類焼家の下役板衛　高十郎\n一かこひものおくぎ　伊太郎\n一おんぼうのひ六　　よく次\n一くづれ棟兵衛　　　つち蔵\n一曲り家蔵住兼　　のしゆく\n一《割書：最初三十三所｜　　八な火出吉）》　　　　　火次郎\n一《割書：観音の塔まかり｜　九りん坊）》　　　　　五重\n一雇人足間似八　　　相蔵\n一《割書：辻商人｜　留場の出来蔵）》　　　　三町郎\n一午丸太九郎こげたり　三町郎\n一座頭高利ノ一　　　損四郎\n一こし元たてず　　　抜太郎\n一こし元いたみ　　　身すじ\n一こし元おあさ　　　紫色\n一こし元おきす　　　療次郎\n一足場の高蔵　　　丸太郎\n一道心者つつかひ焼　丸太郎\n一店番火け四郎幟り　町中郎\n一こぼれ玄番　　　　町中郎\n一《割書：立退家の後室｜　繁昌の前）》　　　　　廊中郎\n一けいせゐ玉なし　　廊中郎\n一土山内蔵介道わる　　難十郎\n一黄金内大臣蔵持郷　　難十郎\n一足元年寄公　　　　難十郎\nこのもの前勘定め\n賀落雁\n\n　",
+            "timestamp": {
+                "_nanoseconds": 980000000,
+                "_seconds": 1572408251
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

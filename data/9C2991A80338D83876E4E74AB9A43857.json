@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cffb2961a55df169c93d7011a0060652b6de6d15.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88528",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88528/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88528",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "9C2991A80338D83876E4E74AB9A43857",
+    "label": "持○長者腹くらべ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "持○長者腹くらべ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-101"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25.5"
+        },
+        {
+            "label": "備考",
+            "value": "安政2年の錦絵、分類は「鯰絵」とする"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "2b13da8c-bb3b-4f93-a1b8-9883d6fb4526"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0148"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cffb2961a55df169c93d7011a0060652b6de6d15.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b13da8c-bb3b-4f93-a1b8-9883d6fb4526/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "9C2991A80338D83876E4E74AB9A43857",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n持○長者腹くらべ\n【本文】\n〽これは〳〵貴公（きこう）方（がた）は\n万腹屋（まんふくや）御一統（ごいつとう）ほどあつて\nさすが大腹中（おゝぶくちう）でござらつしやる\nさて〳〵おうらやましひ事（こと）じや\n愚老（ぐらう）などはとんといきばつた\nところがこのくらひなことゆゑ\nまことにおはづかしうそんじ\nますそのくせけつししやうでも\nござらぬがごぞんじのあほう\n【け】にくひふみてので\n腹中【は？】とんと 渉（あた）間（ま）【？】に\nあいなりましたイヤ\nそのせいかしており〳〵\nぶう〳〵とふきだしまして\nハゝゝゝゝゝ〽イヤしやれ〳〵\nかにろひごきぜんでござる\nおたがひにかやうなとき\nまづしき人々に\nあわれみをたれかけ\nまするはやつはり\n子孫（しそん）長久（ちやうきう）の\nこやしとなり\nまつた家（いへ）はん\nじやうのよい\nたねをまく\nのでござり\nます\n",
+            "text": "【タイトル】\n持○長者腹くらべ\n【本文】\n〽これは〳〵貴公（きこう）方（がた）は\n万腹屋（まんふくや）御一統（ごいつとう）ほどあつて\nさすが大腹中（おゝぶくちう）でござらつしやる\nさて〳〵おうらやましひ事（こと）じや\n愚老（ぐらう）などはとんといきばつた\nところがこのくらひなことゆゑ\nまことにおはづかしうそんじ\nますそのくせけつししやうでも\nござらぬがごぞんじのあほう\n【け】にくひふみてので\n腹中【は？】とんと 渉（あた）間（ま）【？】に\nあいなりましたイヤ\nそのせいかしており〳〵\nぶう〳〵とふきだしまして\nハゝゝゝゝゝ〽イヤしやれ〳〵\nかにろひごきぜんでござる\nおたがひにかやうなとき\nまづしき人々に\nあわれみをたれかけ\nまするはやつはり\n子孫（しそん）長久（ちやうきう）の\nこやしとなり\nまつた家（いへ）はん\nじやうのよい\nたねをまく\nのでござり\nます\n",
+            "timestamp": {
+                "_nanoseconds": 937000000,
+                "_seconds": 1569997328
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

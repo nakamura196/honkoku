@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7323,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1c948f64499480755ef85207fb8945ec11e60691.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7323,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56170",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5503
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56170/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56170",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5503
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7323,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c3007c8360a9628c978752cdc68236934da93221.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7323,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56171",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5503
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56171/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56171",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5503
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "512D276CCCB213137C8EB970467826E3",
+    "label": "どらが如来世直し ちょぼくれ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "どらが如来世直し ちょぼくれ"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "どらが如来世直し ちよぼくれ"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-106"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "5912c6bc-a4cb-415b-afc3-c1513898ba19"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1025"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1c948f64499480755ef85207fb8945ec11e60691.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "512D276CCCB213137C8EB970467826E3",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "　　どらが如（によう）来（らい）世（よ）直（なほ）しちよぼくれ\nやんれどらがによらひヤレ〳〵〳〵〳〵ちよぼくれちよんがれそも〳〵かんじん\n鹿嶋（かしま）にまします神（かミ）はせかいの色事（いろごと）でいりで出雲（いづも）へござつたおるす\nの二日（ふつか）の夜（よる）の四（よ）ツ時（どき）青（あを）くきろくぴつかり光（ひか）つたどゑらいとび物（もの）\n北（きた）から南（ミなミ）へ往（ゆく）をあいづかめつほうかいなまつほうかいな地震（ぢしん）のはなしを\n聞（きい）てもくんねへ花（はな）のお江戸（えど）ハ申すに及（およ）バず関八刕（かんはつしう）から近郷（きんがう）近（きん）ざい\n大地（だいぢ）が裂（さけ）たりどろがふいたり棚（たな）から落（おち）たる大（おほ）きなゑんぎハひつくるけつ\nてもでんぐるけつても如亀（によつき）り立（たて）ども屋根（やね）の瓦（かハら）やどざうのかべつち\n落（おち）てハたまらぬ家（いへ）ハ門（かど）並（なミ）つぶれてたほれてこいつハことだとあハてゝ逃（にげ）\n出（だ）しや梁（はり）やひさしをしよつてかついてすべつて轉（ころ）んでひはらをうつやら\n片（かた）うでくぢいてかた足（あし）すりむきちん〳〵もか〻で踏（ふミ）ぬきよするやらねだから\nどつさりはしごを轉〻（ころ〳〵）轉（ころ）げて倒（たほ）れておやぢハはいだしばゝアハ腰（こし）がぬけ猫（ねこ）ハとびだし\nしやくしハはねだしうつゝいあねへが白（しろ）い内（うち）もゝ黒（くろ）いもんじいが見（ミ）えてハたまらぬ\n野宿（のじゆく）のすきはらかゝへておさへてあしたになつたらひつつぶれておつつぶれた\nほとけのさハぎで早桶（はやおけ）がハりに四斗樽（しとだる）ちやばこやさとうの入もの\nまだしもひどいハ用水桶（ようすゐおけ）だよ青（あを）ごけだらけのぬめりも取（と）ら\nずにむしやうと押（おし）こミゑんさらほいの車（くるま）やぎつちらこの\nお舩（ふね）でやつても何（なん）でもおてらの和尚（おしやう）がおふせのふそくに\nにがい顔（かほ）してお経（きやう）どころか引導（いんどう）ハさて置（おき）木魚（もくぎょ）もたゝかず\n半鐘（はんしやう）も鳴（なら）さずそつくり其（その）まゝやきばへおくれバこいつも\nこんさつ佛（ほとけ）の大入（おほいり）番附（ばんづけ）さハぎて十日もたゝねバやけないなんのと\nおんぼうが大（おほ）ふう夫（それ）からそろ〳〵のぢんの人達（ひとたぢ）夜風（よかぜ）の寒（さむ）さに\n腰（こし）がひへるのせんきやすバくが天窓（あたま）へのぼつてかとがつゝはりひたへが\nひツつり血（ち）の道（ミち）頭（づ）つうに風（かぜ）をひくやうくさめといつしよにおならが出（で）るやら夜（よ）つゆと\n霜（しも）とで夜着（よぎ）もふとんもびつしよりぐつすりぬれてゞあハてゝ役（やく）しやハたび立（だち）げいしやハ燗酒（かんざけ）\nはなしか太夫（たいふ）ハつちをかつぐのなんのかんのとまご〳〵するうち仮宅（かりたく）さハぎで\n【下段へ】\n手（て）のあるおいらん下（した）からくる〳〵まハしてもちやげりや\nそれにハこりたとお客（きやく）の悪口（わるくち）ヤレ〳〵ちよんがれそう\nかうするうち\nこめやしよしきの\nさうばがさがつて\n唐人（とうじん）ばなしハ\nどこへかなくなりこれでハ\n世（よ）のなかはうねんまんさく\nおどつてさハいて親子（おやこ）三人（さんにん）間男（まをとこ）\n三人（さんにん）寐（ね）てゐて\nお金（かね）がまうかる\nなどゝハさり\nとハ\nうれしい\nめでたいことだよヤレ〳〵〳〵〳〵\nきミやうちやうらい\nホヽウイ〳〵",
+            "text": "　　どらが如（によう）来（らい）世（よ）直（なほ）しちよぼくれ\nやんれどらがによらひヤレ〳〵〳〵〳〵ちよぼくれちよんがれそも〳〵かんじん\n鹿嶋（かしま）にまします神（かミ）はせかいの色事（いろごと）でいりで出雲（いづも）へござつたおるす\nの二日（ふつか）の夜（よる）の四（よ）ツ時（どき）青（あを）くきろくぴつかり光（ひか）つたどゑらいとび物（もの）\n北（きた）から南（ミなミ）へ往（ゆく）をあいづかめつほうかいなまつほうかいな地震（ぢしん）のはなしを\n聞（きい）てもくんねへ花（はな）のお江戸（えど）ハ申すに及（およ）バず関八刕（かんはつしう）から近郷（きんがう）近（きん）ざい\n大地（だいぢ）が裂（さけ）たりどろがふいたり棚（たな）から落（おち）たる大（おほ）きなゑんぎハひつくるけつ\nてもでんぐるけつても如亀（によつき）り立（たて）ども屋根（やね）の瓦（かハら）やどざうのかべつち\n落（おち）てハたまらぬ家（いへ）ハ門（かど）並（なミ）つぶれてたほれてこいつハことだとあハてゝ逃（にげ）\n出（だ）しや梁（はり）やひさしをしよつてかついてすべつて轉（ころ）んでひはらをうつやら\n片（かた）うでくぢいてかた足（あし）すりむきちん〳〵もか〻で踏（ふミ）ぬきよするやらねだから\nどつさりはしごを轉〻（ころ〳〵）轉（ころ）げて倒（たほ）れておやぢハはいだしばゝアハ腰（こし）がぬけ猫（ねこ）ハとびだし\nしやくしハはねだしうつゝいあねへが白（しろ）い内（うち）もゝ黒（くろ）いもんじいが見（ミ）えてハたまらぬ\n野宿（のじゆく）のすきはらかゝへておさへてあしたになつたらひつつぶれておつつぶれた\nほとけのさハぎで早桶（はやおけ）がハりに四斗樽（しとだる）ちやばこやさとうの入もの\nまだしもひどいハ用水桶（ようすゐおけ）だよ青（あを）ごけだらけのぬめりも取（と）ら\nずにむしやうと押（おし）こミゑんさらほいの車（くるま）やぎつちらこの\nお舩（ふね）でやつても何（なん）でもおてらの和尚（おしやう）がおふせのふそくに\nにがい顔（かほ）してお経（きやう）どころか引導（いんどう）ハさて置（おき）木魚（もくぎょ）もたゝかず\n半鐘（はんしやう）も鳴（なら）さずそつくり其（その）まゝやきばへおくれバこいつも\nこんさつ佛（ほとけ）の大入（おほいり）番附（ばんづけ）さハぎて十日もたゝねバやけないなんのと\nおんぼうが大（おほ）ふう夫（それ）からそろ〳〵のぢんの人達（ひとたぢ）夜風（よかぜ）の寒（さむ）さに\n腰（こし）がひへるのせんきやすバくが天窓（あたま）へのぼつてかとがつゝはりひたへが\nひツつり血（ち）の道（ミち）頭（づ）つうに風（かぜ）をひくやうくさめといつしよにおならが出（で）るやら夜（よ）つゆと\n霜（しも）とで夜着（よぎ）もふとんもびつしよりぐつすりぬれてゞあハてゝ役（やく）しやハたび立（だち）げいしやハ燗酒（かんざけ）\nはなしか太夫（たいふ）ハつちをかつぐのなんのかんのとまご〳〵するうち仮宅（かりたく）さハぎで\n【下段へ】\n手（て）のあるおいらん下（した）からくる〳〵まハしてもちやげりや\nそれにハこりたとお客（きやく）の悪口（わるくち）ヤレ〳〵ちよんがれそう\nかうするうち\nこめやしよしきの\nさうばがさがつて\n唐人（とうじん）ばなしハ\nどこへかなくなりこれでハ\n世（よ）のなかはうねんまんさく\nおどつてさハいて親子（おやこ）三人（さんにん）間男（まをとこ）\n三人（さんにん）寐（ね）てゐて\nお金（かね）がまうかる\nなどゝハさり\nとハ\nうれしい\nめでたいことだよヤレ〳〵〳〵〳〵\nきミやうちやうらい\nホヽウイ〳〵",
+            "timestamp": {
+                "_nanoseconds": 326000000,
+                "_seconds": 1575511928
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5912c6bc-a4cb-415b-afc3-c1513898ba19/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "512D276CCCB213137C8EB970467826E3",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】",
+            "text": "【裏】",
+            "timestamp": {
+                "_nanoseconds": 777000000,
+                "_seconds": 1575511976
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

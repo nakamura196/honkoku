@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c9d402fa66007a6c402a0d4dd1890436ef77c145.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88626",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88626/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88626",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "429123C2292BF0E88C1C90C4E94A2DA6",
+    "label": "江戸前かばやき鯰大火場焼",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸前かばやき鯰大火場焼"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "fde6e441-40da-4a32-8831-df68bdc4da13"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0246"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c9d402fa66007a6c402a0d4dd1890436ef77c145.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/fde6e441-40da-4a32-8831-df68bdc4da13/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "429123C2292BF0E88C1C90C4E94A2DA6",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "焼た\nなまづて\n職人は\nめしを\nくひ\n【看板】\n江戸前 かばやき\n鯰大火場焼\n\n　　　　　　口上\n町々 御火元（ごひげん）よくやかせられめいわく\n至極（しごく）にそんじ奉候いたがつて打身（うちみ）せ\n崩（くづれ）候に付 大道（だいどう）に而 商内（あきない）相はじめ候\nお間だ御 瓦（かはら）せなく御用心之程\n一と夜（よ）に〳〵寝（ね）ないあげ奉候\n一　うなんぎ\n　　家破やき\n一　 骨継（ほねつぎ）どぞう\n一　なまづ日本 煮（に）\n\n　　　　　諸方たて大工町\n　　　　　　　　　ふなやど\n　　　　　　　　　　　ひま蔵\n　十月二日ゆり出し\n　　当日よけい\n　　　　火事あり申候　　　",
+            "text": "焼た\nなまづて\n職人は\nめしを\nくひ\n【看板】\n江戸前 かばやき\n鯰大火場焼\n\n　　　　　　口上\n町々 御火元（ごひげん）よくやかせられめいわく\n至極（しごく）にそんじ奉候いたがつて打身（うちみ）せ\n崩（くづれ）候に付 大道（だいどう）に而 商内（あきない）相はじめ候\nお間だ御 瓦（かはら）せなく御用心之程\n一と夜（よ）に〳〵寝（ね）ないあげ奉候\n一　うなんぎ\n　　家破やき\n一　 骨継（ほねつぎ）どぞう\n一　なまづ日本 煮（に）\n\n　　　　　諸方たて大工町\n　　　　　　　　　ふなやど\n　　　　　　　　　　　ひま蔵\n　十月二日ゆり出し\n　　当日よけい\n　　　　火事あり申候　　　",
+            "timestamp": {
+                "_nanoseconds": 171000000,
+                "_seconds": 1570885173
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

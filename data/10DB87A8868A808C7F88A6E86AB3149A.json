@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2145,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6904d0f2223e57c6cdea5cbd1945f3de03e9bdf2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2145,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88431",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88431/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88431",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "10DB87A8868A808C7F88A6E86AB3149A",
+    "label": "なんぢうやかじ仮宅",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "なんぢうやかじ仮宅"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24.5×35.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b07f35c7-a763-4fef-abf1-fb15b94ea790"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0051"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6904d0f2223e57c6cdea5cbd1945f3de03e9bdf2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b07f35c7-a763-4fef-abf1-fb15b94ea790/canvas/p1",
+            "editedBy": "SJpI1Xtz1jN7XvOrb63HlDDKJBu1",
+            "entryId": "10DB87A8868A808C7F88A6E86AB3149A",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "SJpI1Xtz1jN7XvOrb63HlDDKJBu1",
+            "tempText": "なんぢうやかぢ仮宅\n若衆\n乁ィャ\nおめいちの度々\nいすりにやこまり\nきるぜ\nなまづ\n乁おれもこんどハじつ\nにふつきした此間の\n大ゆすりで鹿しまの\nおや分からやかましく\nいわれたから地のそこに\nいてもおもしろくねへから\n仮宅のしやかしと出かけ\nたのさ－\n女ら\n乀ぬしハばからしいよ万歳楽たよ\n乀ひげつらハわちきやすかねへよ\nこの間のやつだよお間だよ\nなまいきなまづ\n乀コウ\n信州大坂にや\n大なまづのかバやきだとよ\nわらかしやかるゼ\nなまづ子\n乀べらぼうめ\n大ゆすりもしねへうち\nかバやきにされて\nたまるものか\n乀コウ\nいたぶるれん中が\nでいふ見へるぜ\n\n江戸まえ\n十月二日夜ヨリ売出し申候\n大なまづ蒲\n大あたり〳〵\n\n乀おめいたち\nいきのびて\nお目でたい\n",
+            "text": "なんぢうやかぢ仮宅\n若衆\n乁ィャ\nおめいちの度々\nいすりにやこまり\nきるぜ\nなまづ\n乁おれもこんどハじつ\nにふつきした此間の\n大ゆすりで鹿しまの\nおや分からやかましく\nいわれたから地のそこに\nいてもおもしろくねへから\n仮宅のしやかしと出かけ\nたのさ－\n女ら\n乀ぬしハばからしいよ万歳楽たよ\n乀ひげつらハわちきやすかねへよ\nこの間のやつだよお間だよ\nなまいきなまづ\n乀コウ\n信州大坂にや\n大なまづのかバやきだとよ\nわらかしやかるゼ\nなまづ子\n乀べらぼうめ\n大ゆすりもしねへうち\nかバやきにされて\nたまるものか\n乀コウ\nいたぶるれん中が\nでいふ見へるぜ\n\n江戸まえ\n十月二日夜ヨリ売出し申候\n大なまづ蒲\n大あたり〳〵\n\n乀おめいたち\nいきのびて\nお目でたい\n",
+            "timestamp": {
+                "_nanoseconds": 571000000,
+                "_seconds": 1578176947
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

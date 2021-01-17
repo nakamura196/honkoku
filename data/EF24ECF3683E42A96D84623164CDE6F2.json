@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/eb523d0d8d5d64c0fc74c5c29dc23bb1954c1442.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88701",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88701/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88701",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "EF24ECF3683E42A96D84623164CDE6F2",
+    "label": "震動家",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "震動家"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-066"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×31"
+        },
+        {
+            "label": "備考",
+            "value": "199の異版"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "1cab389f-e332-4647-8429-b70f919892cd"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0321"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/eb523d0d8d5d64c0fc74c5c29dc23bb1954c1442.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1cab389f-e332-4647-8429-b70f919892cd/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "EF24ECF3683E42A96D84623164CDE6F2",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "FNnabtaz3HU1vTnE8Lr8ZNUk2ny1",
+            "tempText": "【中央下資料は別ページにて翻刻対象の為、上資料のみ翻刻】\n\n震動家　本国駿河\n人皇初代神武\n天皇武美加津知\nノ命鹿島大明\n神之後胤十五代\n要石ノ為成卿\nノ長男\n震次―震家―震高‐女子‐震数‐早世‐震長―震増――\n\n【紋三種 挿絵】\n上大坂町　　　　　　　　　　　　　　　御苦労\n震動田舎守震強　　　　　　　　　　　早井忠進\n　　嘉永七年　　　家督　　　　　　　飛脚隼人\n御室　往還泣居卿　御娘　　　　　　　日々野佐太郎\n御着　　　十一月　四日　　　　　　　人馬五九郎\n御暇　　　十一月　五日　　　　　　　草引太郎左衛門\n　　　　　　　　　　　　　　　　　　　御用人\n火見やぐらのぐら〳〵　　　　　　　　津浪伊豆\nなまつのかはなけざや　　　　　　　　火事野佐太夫\n石垣押くづれ　　　　　　　　　　　　下田大蔵\n駕くろぢはねうまもん\n御嫡　\n　　　　　　　　　　　　　　　　　　　御城外\n時献上　三嶋焼のり　箱根損魚　　　　所々野四郎\n　　　　見舞の書かん　　　　　　　　大井伊太巳\n纏【まといとはっぴ 挿絵】\n\n海道路派【あるいは流の異体字 㳅かも？】　　　　箱根山大損寺\n高五十四国余　　道法　江戸ヨリ　東海道スジ\n\n御治世以来寛永五越後国大地震元禄十六年関東大　【寛文五の誤り？】\n地震文化九十月四日京都大地震弘化四年三月十四日\n信州一円嘉永六年相州小田原大地震同七年十一月\n四日ヨリ六日マデ諸国大地震以後末代迄禁之\n\n中屋しき　あさからゆり返し　　　下やしき　とん田かし丁\n\n",
+            "text": "【中央下資料は別ページにて翻刻対象の為、上資料のみ翻刻】\n\n震動家　本国駿河\n人皇初代神武\n天皇武美加津知\nノ命鹿島大明\n神之後胤十五代\n要石ノ為成卿\nノ長男\n震次―震家―震高‐女子‐震数‐早世‐震長―震増――\n\n【紋三種 挿絵】\n上大坂町　　　　　　　　　　　　　　　御苦労\n震動田舎守震強　　　　　　　　　　　早井忠進\n　　嘉永七年　　　家督　　　　　　　飛脚隼人\n御室　往還泣居卿　御娘　　　　　　　日々野佐太郎\n御着　　　十一月　四日　　　　　　　人馬五九郎\n御暇　　　十一月　五日　　　　　　　草引太郎左衛門\n　　　　　　　　　　　　　　　　　　　御用人\n火見やぐらのぐら〳〵　　　　　　　　津浪伊豆\nなまつのかはなけざや　　　　　　　　火事野佐太夫\n石垣押くづれ　　　　　　　　　　　　下田大蔵\n駕くろぢはねうまもん\n御嫡　\n　　　　　　　　　　　　　　　　　　　御城外\n時献上　三嶋焼のり　箱根損魚　　　　所々野四郎\n　　　　見舞の書かん　　　　　　　　大井伊太巳\n纏【まといとはっぴ 挿絵】\n\n海道路派【あるいは流の異体字 㳅かも？】　　　　箱根山大損寺\n高五十四国余　　道法　江戸ヨリ　東海道スジ\n\n御治世以来寛永五越後国大地震元禄十六年関東大　【寛文五の誤り？】\n地震文化九十月四日京都大地震弘化四年三月十四日\n信州一円嘉永六年相州小田原大地震同七年十一月\n四日ヨリ六日マデ諸国大地震以後末代迄禁之\n\n中屋しき　あさからゆり返し　　　下やしき　とん田かし丁\n\n",
+            "timestamp": {
+                "_nanoseconds": 965000000,
+                "_seconds": 1593000374
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

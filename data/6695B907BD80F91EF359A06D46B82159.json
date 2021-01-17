@@ -1,0 +1,192 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a1dc2771c033e6b4fe981e2c447ba12be3cb18de.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88575",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88575/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88575",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b384cb3a47210f84c8f42ba11f217df96ee79dbc.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219861",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219861/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219861",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "6695B907BD80F91EF359A06D46B82159",
+    "label": "熊本県下飽田郡高橋町市街震災被害真図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "熊本県下飽田郡高橋町市街震災被害真図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "新聞"
+        },
+        {
+            "label": "年月日",
+            "value": "明治22年7月28日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "銅版・活版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "東京朝日新聞　明治22年9月1日付録"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "41×38"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-03-031"
+        },
+        {
+            "label": "year",
+            "value": "1889"
+        },
+        {
+            "label": "identifier",
+            "value": "0a2ed89e-949f-45f7-b642-962114a5a6ed"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0195"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a1dc2771c033e6b4fe981e2c447ba12be3cb18de.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p1",
+            "editedBy": "076Jnmp8mOa50PudnqeE4oxnKWg2",
+            "entryId": "6695B907BD80F91EF359A06D46B82159",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "076Jnmp8mOa50PudnqeE4oxnKWg2",
+            "tempText": "【上図に横書き】\n熊本県下飽田郡高橋\n\n【下図に横書き】\n熊本城内号砲台\n【下図に横書き】\n明治廿二年九月一日東京朝\n\n此に掲ぐる両面の図画は明治廿二\n年七月二十八日夜熊本県下に起れ\nる大地震の紀念として留むべき為\nめ同県飽田郡高橋町(字川端)市街\n被害の実況及び同地第六師団所轄\n熊本城内(旧平左衛門櫓床)号砲台\n近傍の土地割裂の写真に拠て図画\nを作り之を欧風写真画様に摸刻し\nたるものなり幾多の写真中特に茲\nに此の両面を撰みて摸刻したるも\nのは該地被害の箇処中殊に此の両\n処を以て最も悲惨の箇処となせば\nなり",
+            "text": "【上図に横書き】\n熊本県下飽田郡高橋\n\n【下図に横書き】\n熊本城内号砲台\n【下図に横書き】\n明治廿二年九月一日東京朝\n\n此に掲ぐる両面の図画は明治廿二\n年七月二十八日夜熊本県下に起れ\nる大地震の紀念として留むべき為\nめ同県飽田郡高橋町(字川端)市街\n被害の実況及び同地第六師団所轄\n熊本城内(旧平左衛門櫓床)号砲台\n近傍の土地割裂の写真に拠て図画\nを作り之を欧風写真画様に摸刻し\nたるものなり幾多の写真中特に茲\nに此の両面を撰みて摸刻したるも\nのは該地被害の箇処中殊に此の両\n処を以て最も悲惨の箇処となせば\nなり",
+            "timestamp": {
+                "_nanoseconds": 370000000,
+                "_seconds": 1565946849
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0a2ed89e-949f-45f7-b642-962114a5a6ed/canvas/p2",
+            "editedBy": "AFdHOIPN8DeLfFYEjb4Z4pd3k243",
+            "entryId": "6695B907BD80F91EF359A06D46B82159",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "AFdHOIPN8DeLfFYEjb4Z4pd3k243",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 46000000,
+                "_seconds": 1573354240
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/66d3ba51ed166e3537cdc1c4cf8619d46cbb1333.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88400",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88400/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88400",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "37D040E524F8358A13A883612D64B1C8",
+    "label": "江戸大地震場所附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震場所附"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×48"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0020"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/66d3ba51ed166e3537cdc1c4cf8619d46cbb1333.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d610d14e-1e33-4a20-9fb2-6de9e4e8a4ed/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "37D040E524F8358A13A883612D64B1C8",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "【タイトル】\n安政二乙卯年十月\n江戸大地震場所附\n【ここから本文】\n夫江戸大地震と聞より国々の親兄弟のなけき\nかなしみいかばかりぞや是一時もはやくあんとさせんがためにくはしく記\nすは安政二年卯の十月二日夜四つ時よりゆり出し家蔵潰れ\n死人けがにん数多く其上出火なり十二三ヶ所一同にもへ上り\n大火となり先新吉原五丁町遊女屋其外焼る死にんけが\nにんおびたゞしく田町へん一ゑん馬みち山の宿花川戸火□□□\nはげしく大にやける忝もくわんおんさま御堂仁王門雷門少も\nさわりなく矢大神門のかはのこる寺中はのこらすつふれ\nこまかたすは丁黒舟丁やける八幡丁角にて留る\n又一口は芝居町役者新道片かはのこる又一口は神田ばし内酒井\n雅楽頭様森川大名小路遠藤但馬守様御火けし\nやしき因じう【州】様東北やしきやける表門より御殿向のこる\n小笠原様少々やける永井飛騨守様本多中務大輔様\nやける土井様半やけ松平右京亮様少々和田倉御門の\n内会津様松平下総守様内藤紀伊守様馬場さき\n御門御番所やける外さくらだ御門外山下御門なへしま様□□\n伊東様柳沢様やける薩州様長州様三草丹羽様\n少々やける一つばし通りさしはしとふり小川町\n猿がく町辺大小名つふれ家数多し其上出火にて\n堀田備中守様松平豊前守様十の字内藤様焼\n戸田様少々焼る此辺御旗本様方数多やける日本橋\n通南の方東橋たゝみ町五郎兵衛町竹町がしこのへん蔵やける\n本芝宇田川丁東がは迄又一口は本所表町少々三丁目は\nみどり丁のこらす壱丁目より二丁目やける同四丁目より四ツ目\nばしぎは迄やける深川仲町どふり大はし向八名川丁六軒\nふり一ゑん森下町ときは丁のこらすやける仙台様御門迄は\nこと〳〵とやける又一口は下谷茅町坂本三丁目やける同広\n小路上野町大門長者町やけるかぢ丁近へんねりへいかうしやけ\nす火は三日の朝しづまり諸人あんどのおもひをなしぬ目出たし\n　　　　　　　　　□□□□\n【本文おわり】\n【下部にイラスト】\n【イラスト中上下二段に文】\n【上段右から】\n永代橋【永代橋白黒反転】\n本所縦川\n七ふとうり\nやける\n此へん\nこわる\n大はし【大はし白黒反転】\n同\n残る\n両国橋【両国橋白黒反転】\nこのへん\nのこる\n東橋【東橋白黒反転】\n三芝居\nのこら\n焼る\n【下段右から】\n神田ばし北詰\nあさくさ御門内\n両国手まへ永代\nなし□□□本橋\n□はり\nへん□□\n□□\n中□\n浅草かんせおん\n□□しす\n□□\n少く\nゆれる\n新吉原【新吉原白黒反転】\n男女\n□□\n",
+            "text": "【タイトル】\n安政二乙卯年十月\n江戸大地震場所附\n【ここから本文】\n夫江戸大地震と聞より国々の親兄弟のなけき\nかなしみいかばかりぞや是一時もはやくあんとさせんがためにくはしく記\nすは安政二年卯の十月二日夜四つ時よりゆり出し家蔵潰れ\n死人けがにん数多く其上出火なり十二三ヶ所一同にもへ上り\n大火となり先新吉原五丁町遊女屋其外焼る死にんけが\nにんおびたゞしく田町へん一ゑん馬みち山の宿花川戸火□□□\nはげしく大にやける忝もくわんおんさま御堂仁王門雷門少も\nさわりなく矢大神門のかはのこる寺中はのこらすつふれ\nこまかたすは丁黒舟丁やける八幡丁角にて留る\n又一口は芝居町役者新道片かはのこる又一口は神田ばし内酒井\n雅楽頭様森川大名小路遠藤但馬守様御火けし\nやしき因じう【州】様東北やしきやける表門より御殿向のこる\n小笠原様少々やける永井飛騨守様本多中務大輔様\nやける土井様半やけ松平右京亮様少々和田倉御門の\n内会津様松平下総守様内藤紀伊守様馬場さき\n御門御番所やける外さくらだ御門外山下御門なへしま様□□\n伊東様柳沢様やける薩州様長州様三草丹羽様\n少々やける一つばし通りさしはしとふり小川町\n猿がく町辺大小名つふれ家数多し其上出火にて\n堀田備中守様松平豊前守様十の字内藤様焼\n戸田様少々焼る此辺御旗本様方数多やける日本橋\n通南の方東橋たゝみ町五郎兵衛町竹町がしこのへん蔵やける\n本芝宇田川丁東がは迄又一口は本所表町少々三丁目は\nみどり丁のこらす壱丁目より二丁目やける同四丁目より四ツ目\nばしぎは迄やける深川仲町どふり大はし向八名川丁六軒\nふり一ゑん森下町ときは丁のこらすやける仙台様御門迄は\nこと〳〵とやける又一口は下谷茅町坂本三丁目やける同広\n小路上野町大門長者町やけるかぢ丁近へんねりへいかうしやけ\nす火は三日の朝しづまり諸人あんどのおもひをなしぬ目出たし\n　　　　　　　　　□□□□\n【本文おわり】\n【下部にイラスト】\n【イラスト中上下二段に文】\n【上段右から】\n永代橋【永代橋白黒反転】\n本所縦川\n七ふとうり\nやける\n此へん\nこわる\n大はし【大はし白黒反転】\n同\n残る\n両国橋【両国橋白黒反転】\nこのへん\nのこる\n東橋【東橋白黒反転】\n三芝居\nのこら\n焼る\n【下段右から】\n神田ばし北詰\nあさくさ御門内\n両国手まへ永代\nなし□□□本橋\n□はり\nへん□□\n□□\n中□\n浅草かんせおん\n□□しす\n□□\n少く\nゆれる\n新吉原【新吉原白黒反転】\n男女\n□□\n",
+            "timestamp": {
+                "_nanoseconds": 290000000,
+                "_seconds": 1568523030
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

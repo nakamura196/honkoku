@@ -1,0 +1,718 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/99fb3fb20d493e61d3552df726ece69fb4d27f99.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56284",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56284/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56284",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6ec9d81c5710a525bd560b5089af2972dd6e07ab.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56285",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56285/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56285",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7fb0ab7aa5b3c31c44a83c4d876c377abdba178e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56286",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56286/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56286",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p4",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0004-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p4",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/847fff9c35e4e27fb782d5d3e54fd97faf36870d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56287",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[4]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56287/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56287",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p5",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0005-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p5",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6fc253104d014dd851da79b18da7d3f73a5ab4fa.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56288",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[5]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56288/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56288",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p6",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0006-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p6",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4f79a5d11dc5a506835963ab2e93555b7d2f5262.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56289",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[6]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56289/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56289",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p7",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0007-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p7",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ced068b3fa1f7818d70411cd5f0ade91d90b570a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56290",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[7]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56290/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56290",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p8",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0008-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p8",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/17fb78f2e61ac994f88dd256bfa7a0552b347349.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56291",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[8]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56291/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56291",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p9",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0009-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p9",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6b743b580624bcee6877ec0afb5a0499cba5ad6e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56292",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[9]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56292/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56292",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p10",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0010-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p10",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3acf02f9af1c871ef85fa8c12edb4c04bde56dca.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56293",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[10]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56293/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56293",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p11",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0011-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p11",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0437212b2ed0eb3f1cccdb000cb789606c178200.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56294",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[11]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56294/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56294",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p12",
+            "@type": "sc:Canvas",
+            "height": 4795,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/annotation/p0012-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p12",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/028dacb199e97d0eeb53036a43eb56c1b3c8f4c6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4795,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56295",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6381
+                    }
+                }
+            ],
+            "label": "[12]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56295/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56295",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6381
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "0561096614CD5B9836F7431E3F66C946",
+    "label": "[七月二日京都大地震に付御番衆大木市左衛門より申し越し候書面畧書状写]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[七月二日京都大地震に付御番衆大木市左衛門より申し越し候書面畧書状写]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-035"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "書付(冊子)"
+        },
+        {
+            "label": "年月日",
+            "value": "文政13年7月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "二色"
+        },
+        {
+            "label": "備考",
+            "value": "11枚綴"
+        },
+        {
+            "label": "year",
+            "value": "1830"
+        },
+        {
+            "label": "identifier",
+            "value": "2b879423-85fe-4cea-baea-20cc4208d437"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1071"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 12,
+    "projectId": "ishimoto",
+    "size": 12,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/99fb3fb20d493e61d3552df726ece69fb4d27f99.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "6M9i9LNNQ0O1LA04UGQVshxNJv02",
+            "tempText": "一　文政十三寅年七月二日京都大地震御番衆大木\n　　市左衛門より申越候書面略\n【右文頭から大地震まで赤線を引き、「同年十二月十六日天保ト改元」と朱文字の注記有】\n　一　七月二日夕七時打無程地震最初ハ少しゆり初メ\n　　　直ニ烈しくゆり出し中々御小屋、居兼庭江\n　　　はたしニて欠出し候処兼募り鴨居天井壁等\n　　　落候故大小を抱へ御小屋御蔵前又ハ廣き場所\n　　　へ走出候処御米蔵屋根瓦瀧の如く落西小屋御小\n　　　屋々幷下【棟】暫時にゆりつふし外に出候も\n",
+            "text": "一　文政十三寅年七月二日京都大地震御番衆大木\n　　市左衛門より申越候書面略\n【右文頭から大地震まで赤線を引き、「同年十二月十六日天保ト改元」と朱文字の注記有】\n　一　七月二日夕七時打無程地震最初ハ少しゆり初メ\n　　　直ニ烈しくゆり出し中々御小屋、居兼庭江\n　　　はたしニて欠出し候処兼募り鴨居天井壁等\n　　　落候故大小を抱へ御小屋御蔵前又ハ廣き場所\n　　　へ走出候処御米蔵屋根瓦瀧の如く落西小屋御小\n　　　屋々幷下【棟】暫時にゆりつふし外に出候も\n",
+            "timestamp": {
+                "_nanoseconds": 211000000,
+                "_seconds": 1574494483
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p2",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "　間ニ合兼候ものハをしに打れ申候　損所ハ高麗\n　御門と申御本丸へ入候惣銅之御門内の方へ倒れ\n　かゝり　續御櫓御土塀御天守臺所〻損シ　御堀\n　端通り不残二三寸ツヽ　其外御城中ならひに\n　御小屋内一面に蜘の巣のことくゑみわれ申候\n　西御門脇御小屋裏高土居之上　幅壱尺程ゑみわれ\n　弐拾間余之御土居ニ候得共そと御堀之方江今にも\n　倒れ落候様ニふら〳〵致し候様ニ御座候　其外\n　御太皷櫓石段雁木なたれ落　上の土屏も\n　倒れかゝり　中仕切御門臺續石垣弐間程\n　ぬけ落　三四尺ほとの石落有之　西御門も\n　ねちれ　往来あやうく候故　一人立ニ而急き\n　通り　米斗少〻ツヽはこひ候よし　西御門續\n　御土居上塀倒れ　御城外見通し御廊下橋\n　入口御門ならひに土塀拾間弐拾間程宛崩れ\n　御厩曲輪通り御筋堀不残ひしきとれ　所〻\n　ぬけ倒れ　東御門大番所後土塀大てい倒れ御\n　破損定御小屋一ヶ所潰れ　東御門臺石垣所〻孕ミ",
+            "text": "　間ニ合兼候ものハをしに打れ申候　損所ハ高麗\n　御門と申御本丸へ入候惣銅之御門内の方へ倒れ\n　かゝり　續御櫓御土塀御天守臺所〻損シ　御堀\n　端通り不残二三寸ツヽ　其外御城中ならひに\n　御小屋内一面に蜘の巣のことくゑみわれ申候\n　西御門脇御小屋裏高土居之上　幅壱尺程ゑみわれ\n　弐拾間余之御土居ニ候得共そと御堀之方江今にも\n　倒れ落候様ニふら〳〵致し候様ニ御座候　其外\n　御太皷櫓石段雁木なたれ落　上の土屏も\n　倒れかゝり　中仕切御門臺續石垣弐間程\n　ぬけ落　三四尺ほとの石落有之　西御門も\n　ねちれ　往来あやうく候故　一人立ニ而急き\n　通り　米斗少〻ツヽはこひ候よし　西御門續\n　御土居上塀倒れ　御城外見通し御廊下橋\n　入口御門ならひに土塀拾間弐拾間程宛崩れ\n　御厩曲輪通り御筋堀不残ひしきとれ　所〻\n　ぬけ倒れ　東御門大番所後土塀大てい倒れ御\n　破損定御小屋一ヶ所潰れ　東御門臺石垣所〻孕ミ",
+            "timestamp": {
+                "_nanoseconds": 955000000,
+                "_seconds": 1599122234
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p3",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 2,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "　渡り出し屏抔損所多　御道具外箱抔不残乱\n　れ辰巳申御櫓其外白土鉢巻抔へげ落　稲荷石垣\n　石鳥居同燈籠抔大体倒れ　鳥居三本程　燈籠\n　十六七本程　稲荷曲輪入口御門棟通り落　石垣\n　破れ落　往来も甚氣遣敷　稲荷曲輪同心は不残\n　小屋潰れ　同心三人程迯出し　間ニ合兼をしニ打れ\n　漸く助ケ出し候由　先一命ニ抱り申間敷かと申事　七半\n　時頃より地震間遠ニ相成候へ共　時〻地ひゝき致\n　其度〻所〻壁瓦抔落潰れ候迄ニハ無之候得共\n　住居成かね候御小屋も余程有之　上下身の置\n　所なく　各色を失ひ十方ニくれ候次第ニて　御小\n　屋内をしに打れ候者助ニ出候得共歩行不叶\n　もの両三人有之候得共一命ニは抱り不申\n　戸板にのせ舁運ひ候躰　火事場ゟ物すこき\n　こと　この上いか程強キ地震有之候かと心中\n　不平此上もなき事にて　御小屋内之者不残空地江\n　集り　高張挑灯箱提灯なとを付寄りこぞり\n　申候　六ツ時頃俄に所司代御見分有之候由\n　",
+            "text": "　渡り出し屏抔損所多　御道具外箱抔不残乱\n　れ辰巳申御櫓其外白土鉢巻抔へげ落　稲荷石垣\n　石鳥居同燈籠抔大体倒れ　鳥居三本程　燈籠\n　十六七本程　稲荷曲輪入口御門棟通り落　石垣\n　破れ落　往来も甚氣遣敷　稲荷曲輪同心は不残\n　小屋潰れ　同心三人程迯出し　間ニ合兼をしニ打れ\n　漸く助ケ出し候由　先一命ニ抱り申間敷かと申事　七半\n　時頃より地震間遠ニ相成候へ共　時〻地ひゝき致\n　其度〻所〻壁瓦抔落潰れ候迄ニハ無之候得共\n　住居成かね候御小屋も余程有之　上下身の置\n　所なく　各色を失ひ十方ニくれ候次第ニて　御小\n　屋内をしに打れ候者助ニ出候得共歩行不叶\n　もの両三人有之候得共一命ニは抱り不申\n　戸板にのせ舁運ひ候躰　火事場ゟ物すこき\n　こと　この上いか程強キ地震有之候かと心中\n　不平此上もなき事にて　御小屋内之者不残空地江\n　集り　高張挑灯箱提灯なとを付寄りこぞり\n　申候　六ツ時頃俄に所司代御見分有之候由\n　",
+            "timestamp": 1564999446216
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p4",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 3,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "　御破損奉行其外御在役之者ハ持場〳〵見廻り\n　東西ニ欠走り候　両御番頭御出ニ候御殿御金蔵\n　其外在役御櫓抔不残損所御見分有之候ニ付　　御城入\n　有之候　六時御太皷打延ニ候得共　所司代　　御城入は\n　五時迄ニ相成申候　西御小屋内御通りぬけ有之候　尤所\n　司代　　御城入ニ付地役も不残　組之者召連　　御城入\n　御門番も御門ニ相詰候よし　夜中も度〻地響いたし\n　上下安キ心無之　皆〻外ニ而夜を明し　三日ニ至り\n　夜中迚も今ニ〳〵震動いたし　御小屋ニ相休兼寄集候\n　御殿向御天井并御襖御繪多さけ損し候　御横間之\n　ほり物も落テ損し候由　御金蔵御車屋も瓦落\n　申候　尤此六七日ハ炎暑甚鋪候而　夜中もむし\n　あつく堪兼申候　大坂御城中抔は是迄ニ覚無之\n　大暑ニて昼之内ハ隣の小屋へも参り兼候様ニ暑氣\n　上下堪かね候由　尤地震之様子いまだ大坂之左右\n　も承り兼候　御城外市中ハ別而土蔵抔多く\n　損シ　怪我人もよほと有之候由噂有之候　堀川\n　通其外御城下御柵内番場へ女子共敷もの",
+            "text": "　御破損奉行其外御在役之者ハ持場〳〵見廻り\n　東西ニ欠走り候　両御番頭御出ニ候御殿御金蔵\n　其外在役御櫓抔不残損所御見分有之候ニ付　　御城入\n　有之候　六時御太皷打延ニ候得共　所司代　　御城入は\n　五時迄ニ相成申候　西御小屋内御通りぬけ有之候　尤所\n　司代　　御城入ニ付地役も不残　組之者召連　　御城入\n　御門番も御門ニ相詰候よし　夜中も度〻地響いたし\n　上下安キ心無之　皆〻外ニ而夜を明し　三日ニ至り\n　夜中迚も今ニ〳〵震動いたし　御小屋ニ相休兼寄集候\n　御殿向御天井并御襖御繪多さけ損し候　御横間之\n　ほり物も落テ損し候由　御金蔵御車屋も瓦落\n　申候　尤此六七日ハ炎暑甚鋪候而　夜中もむし\n　あつく堪兼申候　大坂御城中抔は是迄ニ覚無之\n　大暑ニて昼之内ハ隣の小屋へも参り兼候様ニ暑氣\n　上下堪かね候由　尤地震之様子いまだ大坂之左右\n　も承り兼候　御城外市中ハ別而土蔵抔多く\n　損シ　怪我人もよほと有之候由噂有之候　堀川\n　通其外御城下御柵内番場へ女子共敷もの",
+            "timestamp": {
+                "_nanoseconds": 127000000,
+                "_seconds": 1566998704
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p5",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 4,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "　三日終日外ニ而くらし候様子此上静ニいたし度\n　のミ申居候　土御門陰陽師より所司代江いまた\n　此上強き地震可有之候間御用心可有之旨申候\n　なとゝ申事ニ候　各膽をひやし居申候　御番衆\n　事ハ東西共少しも怪我無御座候　今日ニ而三日二夜\n　野陣いたし居候今ニ震動いたし候事ゆへ今晩も\n　野陣と覚悟いたし居申候　先荒増此段申上候　以上\n　　　　　　七月四日\n　當地一昨二日申刻頃大地震ニ而誠ニ不存寄大騒動ニ\n　御座候　京内一統連〻門外ニ出候而　少しも難は無御座\n　候得共　百年斗以前年代記ニ而見受候而已　正氣を\n　失ひ手前斗之儀も無之　京師一統之儀ニ而御座候\n　得共肝を潰し申候　家ハ別条なく土蔵及大被\n　御座候故屋根瓦も落散　剰臺輪落申候二日夜ゟ\n　三日今四日不堪とう〳〵と鳴候而震申候　扨〻何と\n　やらん氣も片付不申　如此震ひ通しニ而は何時も\n　不取斗恐敷事　言語に難尽御座候　當地之土蔵\n　ニ不當ハ無之候よし　其上我土蔵打倒れ怪我\n　",
+            "text": "　三日終日外ニ而くらし候様子此上静ニいたし度\n　のミ申居候　土御門陰陽師より所司代江いまた\n　此上強き地震可有之候間御用心可有之旨申候\n　なとゝ申事ニ候　各膽をひやし居申候　御番衆\n　事ハ東西共少しも怪我無御座候　今日ニ而三日二夜\n　野陣いたし居候今ニ震動いたし候事ゆへ今晩も\n　野陣と覚悟いたし居申候　先荒増此段申上候　以上\n　　　　　　七月四日\n　當地一昨二日申刻頃大地震ニ而誠ニ不存寄大騒動ニ\n　御座候　京内一統連〻門外ニ出候而　少しも難は無御座\n　候得共　百年斗以前年代記ニ而見受候而已　正氣を\n　失ひ手前斗之儀も無之　京師一統之儀ニ而御座候\n　得共肝を潰し申候　家ハ別条なく土蔵及大被\n　御座候故屋根瓦も落散　剰臺輪落申候二日夜ゟ\n　三日今四日不堪とう〳〵と鳴候而震申候　扨〻何と\n　やらん氣も片付不申　如此震ひ通しニ而は何時も\n　不取斗恐敷事　言語に難尽御座候　當地之土蔵\n　ニ不當ハ無之候よし　其上我土蔵打倒れ怪我\n　",
+            "timestamp": {
+                "_nanoseconds": 949000000,
+                "_seconds": 1569237703
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p6",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 5,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "　人即死も多く只今其数も不相分候拙宅近辺\n　ニ大人小児怪我人多土蔵の落数之土ニ打れ或ハ\n　瓦ニ而頭を被打土蔵の庇落下ニ成往来中路次\n　ニ而家々倒れ候而敷れ候者抔数不知家の崩れ\n　候は多く御座候二日三日大道ニ畳を敷夜明し仕今\n　夜ハ過半外ニ出居候ニ付実ニ安キ心無之候\n　禁中始ハ御涼所ニ被為在渡御夫より小御所\n　之御庭ニ被為成御近習方一統畳を敷杭を打\n　柱を建幕を張なとして其夜より庭上に被為\n　在候旨葉室宰相殿御咄御座候\n一其上今明日か或ハ不遠内京都大火と申觸候而\n　町中ハ不及申御築地内不寄何時立退之用意\n　或ハ昨日ゟたんす長持類門へ出し置候所も多く\n　有之昼夜往辺人夥敷上を下へと騒立申候只\n　今日なとハ一命有ゆへ如此日々苦労いたし義と\n　斗存候何卒明日よりハ非常大変無之様と祈居申候\n　酒食ハ例之場所へ不納様ニ御座候薄氷を踏と\n　申心得ニ御座候申上置義も御座候へ共尚跡より\n",
+            "text": "　人即死も多く只今其数も不相分候拙宅近辺\n　ニ大人小児怪我人多土蔵の落数之土ニ打れ或ハ\n　瓦ニ而頭を被打土蔵の庇落下ニ成往来中路次\n　ニ而家々倒れ候而敷れ候者抔数不知家の崩れ\n　候は多く御座候二日三日大道ニ畳を敷夜明し仕今\n　夜ハ過半外ニ出居候ニ付実ニ安キ心無之候\n　禁中始ハ御涼所ニ被為在渡御夫より小御所\n　之御庭ニ被為成御近習方一統畳を敷杭を打\n　柱を建幕を張なとして其夜より庭上に被為\n　在候旨葉室宰相殿御咄御座候\n一其上今明日か或ハ不遠内京都大火と申觸候而\n　町中ハ不及申御築地内不寄何時立退之用意\n　或ハ昨日ゟたんす長持類門へ出し置候所も多く\n　有之昼夜往辺人夥敷上を下へと騒立申候只\n　今日なとハ一命有ゆへ如此日々苦労いたし義と\n　斗存候何卒明日よりハ非常大変無之様と祈居申候\n　酒食ハ例之場所へ不納様ニ御座候薄氷を踏と\n　申心得ニ御座候申上置義も御座候へ共尚跡より\n",
+            "timestamp": {
+                "_nanoseconds": 303000000,
+                "_seconds": 1569238380
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p7",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 6,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "　可申上候　此段御堅慮可被成下候\n一五六日以前ハ四条麩屋町角より出火　麩屋町\n　通りハ南側綾小路みの裏丁右両側之裏丁之\n　裏之方四条西へ富小路まて夜九半時頃より翌\n　朝六ツ時過迄焼申候　是も當地ニ而ハ珍敷大火ニ御座候\n一今日迄ニ及見聞候損所\n　御所御築地瓦落候儀は夥敷　御文庫拾三ハ大損\n　ニ候　二条　　御城北側塀悉く御城へ打崩れ　西の方\n　御門共塀も崩れ申候　御米蔵も壱弐ヶ所倒れ\n　申候　御築地内摂家堂方堂上損所筆紙ニ難尽\n　御座候　淀の城矢倉潰れ申候由　尤地の割候所\n　町〻夥敷有之候\n一三日より諸社御祈祷被　仰出候事\n一定而無程年号改元可有之哉と奉存候　御蔭参ハ\n　御座候得共　伊勢表別宮炎上　其上此度の大変\n　最早此後何事も無之様祈居申候　扨〻恐敷〳〵〳〵\n一先月小倉中将殿頓死　又候父卿中納言殿頓死\n　被成候　壱ヶ月ニ父子頓死と申義珍事ニ御座候",
+            "text": "　可申上候　此段御堅慮可被成下候\n一五六日以前ハ四条麩屋町角より出火　麩屋町\n　通りハ南側綾小路みの裏丁右両側之裏丁之\n　裏之方四条西へ富小路まて夜九半時頃より翌\n　朝六ツ時過迄焼申候　是も當地ニ而ハ珍敷大火ニ御座候\n一今日迄ニ及見聞候損所\n　御所御築地瓦落候儀は夥敷　御文庫拾三ハ大損\n　ニ候　二条　　御城北側塀悉く御城へ打崩れ　西の方\n　御門共塀も崩れ申候　御米蔵も壱弐ヶ所倒れ\n　申候　御築地内摂家堂方堂上損所筆紙ニ難尽\n　御座候　淀の城矢倉潰れ申候由　尤地の割候所\n　町〻夥敷有之候\n一三日より諸社御祈祷被　仰出候事\n一定而無程年号改元可有之哉と奉存候　御蔭参ハ\n　御座候得共　伊勢表別宮炎上　其上此度の大変\n　最早此後何事も無之様祈居申候　扨〻恐敷〳〵〳〵\n一先月小倉中将殿頓死　又候父卿中納言殿頓死\n　被成候　壱ヶ月ニ父子頓死と申義珍事ニ御座候",
+            "timestamp": 1564997946287
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p8",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 7,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "一二条殿御庭の樹江火の鳥と欤申鳥飛来鳴候\n　よし抔　種〻不能事斗口〻申觸候而　大小\n　びく〳〵仕候\n　中略\n　右之段早速御風聴申上度如此御座候　時候折角\n　御厭被成候奉存候　恐惶謹言\n　　　　　　　　七月四日夜認　　　ふさ？\n　　　　　　　松岡清助様\n\n一　京都六孫王　大通本塔頭多聞院ニ有之木村長門守\n　遺状之寫　本紙居判無之\n　　　一 筆令啓上候　先頃疵痛如何和申候哉　朝夕\n　　　無心躰存暮候　御聞及も可被成候　一圓不？寸隙\n　　　心外之至奉存候　城中之有様墓〻鋪躰無之　兎角\n　　　天下は家康と存候事ニ御座候　昨夕も石川肥後守我等\n　　　陣 家（屋）へ忍ひ参　石川も我等同腹中城中之詮義評判\n　　　御母公の下知にて手前手配一圓承引無之由尤ニ存候\n　　　其事昨夕も七ツ迄下知不承　鴫野へ罷出手際之働",
+            "text": "一二条殿御庭の樹江火の鳥と欤申鳥飛来鳴候\n　よし抔　種〻不能事斗口〻申觸候而　大小\n　びく〳〵仕候\n　中略\n　右之段早速御風聴申上度如此御座候　時候折角\n　御厭被成候奉存候　恐惶謹言\n　　　　　　　　七月四日夜認　　　ふさ？\n　　　　　　　松岡清助様\n\n一　京都六孫王　大通本塔頭多聞院ニ有之木村長門守\n　遺状之寫　本紙居判無之\n　　　一 筆令啓上候　先頃疵痛如何和申候哉　朝夕\n　　　無心躰存暮候　御聞及も可被成候　一圓不？寸隙\n　　　心外之至奉存候　城中之有様墓〻鋪躰無之　兎角\n　　　天下は家康と存候事ニ御座候　昨夕も石川肥後守我等\n　　　陣 家（屋）へ忍ひ参　石川も我等同腹中城中之詮義評判\n　　　御母公の下知にて手前手配一圓承引無之由尤ニ存候\n　　　其事昨夕も七ツ迄下知不承　鴫野へ罷出手際之働",
+            "timestamp": {
+                "_nanoseconds": 682000000,
+                "_seconds": 1574474519
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p9",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 8,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "　　諸人驚目候　兎角一日も早く打死と覚悟仕候\n　　貴所事昨今之籠城　其上数ヶ所深手ヲ負候間　無油断\n　　早々在所へ御引込御尤存候　誰ニ而も嘲有間敷候　我等\n　　ハ家康懇意之筋目有之　板倉伊賀守ゟ度々内意\n　　申越候得共　二心ハ士之非本意　聊面目も不存候得共\n　　人並ニ月日を送り無是非事ニ御座候　然は此香炉\n　　姉君へ御届可被下候　扨此太刀ハ家康ゟ我等十三才之時\n　　元服之為祝儀給候　使者本多平八口上　家康も秘蔵\n　　之大業物ニ而来国俊之由申来候　我等数度之戦ニ此太刀\n　　ニ而一度も不得不覚　依之大波と名付今日迄所持仕候\n　　得共進候　随分御秘蔵可被成下一城の中ニ有なから一時も\n　　心閑ニ得御意候事も無之　他人同然之様残念至極ニ候　嘸々\n　　御姉お照殿御恨可有之此段私ならす候　宜御言訳可被下候\n　　無是非事ニ御座候　恐惶謹言\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　木村長門守\n　　　　　　　　　　　　四月六日\n\n　　　　　　　　　　猪飼左馬介殿\n　　　　　　　　　　　　　　　　　　御陣所\n\n　　一 筆啓上仕候　亡主内匠儀及御聞被成候通　去春不慮",
+            "text": "　　諸人驚目候　兎角一日も早く打死と覚悟仕候\n　　貴所事昨今之籠城　其上数ヶ所深手ヲ負候間　無油断\n　　早々在所へ御引込御尤存候　誰ニ而も嘲有間敷候　我等\n　　ハ家康懇意之筋目有之　板倉伊賀守ゟ度々内意\n　　申越候得共　二心ハ士之非本意　聊面目も不存候得共\n　　人並ニ月日を送り無是非事ニ御座候　然は此香炉\n　　姉君へ御届可被下候　扨此太刀ハ家康ゟ我等十三才之時\n　　元服之為祝儀給候　使者本多平八口上　家康も秘蔵\n　　之大業物ニ而来国俊之由申来候　我等数度之戦ニ此太刀\n　　ニ而一度も不得不覚　依之大波と名付今日迄所持仕候\n　　得共進候　随分御秘蔵可被成下一城の中ニ有なから一時も\n　　心閑ニ得御意候事も無之　他人同然之様残念至極ニ候　嘸々\n　　御姉お照殿御恨可有之此段私ならす候　宜御言訳可被下候\n　　無是非事ニ御座候　恐惶謹言\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　木村長門守\n　　　　　　　　　　　　四月六日\n\n　　　　　　　　　　猪飼左馬介殿\n　　　　　　　　　　　　　　　　　　御陣所\n\n　　一 筆啓上仕候　亡主内匠儀及御聞被成候通　去春不慮",
+            "timestamp": {
+                "_nanoseconds": 95000000,
+                "_seconds": 1574475266
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p10",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 9,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "之仕合為御法式切腹被仰付候段家中之面〻無是非次第\n然共吉良上野殿存生之間心底急度差含候訳も候へ共\n内匠弟大学儀閉門被仰付置候故江戸之御家老共初傍輩\n共覚語【「悟」カ】區〻ニ而其節存念相達候段血気之様申成シ必死之\n相談仕掛候而も一圓不相調候ニ付而此段無是非次第ニ存\n拙者儀同志之傍輩共両人申合早速播州江罷越候而\n志を立候家老大石内蔵助初其外侍大将物頭共\n江致對談於城内必死之覚語相究候処大学案否\n不相知内ニ懸宿意候段大学為ニ不宜と内匠一門\n中より追〻被申越其上江戸ニ罷在候家老共ゟ大学指図\n之様申越此度必死仕候ハヽ大学腰を押候様ニ相見へ候得共奉對\n上如何様之由申と候而於城内必死相究候面〻も不及是非\n離散仕候然共上野殿存命之事ニ候へは是切之覚悟ニも\n無之候間重而相談シ相究可申と何レも堅く申合\n置候然ル処去夏以後區〻之了簡相談も前後仕餘り\n延候ニ成行候故私義當六月十八日江戸表出立致上京大石\n内蔵助初其外之面〻江も對談一決之相談弥相調\n候節ニ至り七月十八日大学閉門被遊御免藝州廣嶋江\n",
+            "text": "之仕合為御法式切腹被仰付候段家中之面〻無是非次第\n然共吉良上野殿存生之間心底急度差含候訳も候へ共\n内匠弟大学儀閉門被仰付置候故江戸之御家老共初傍輩\n共覚語【「悟」カ】區〻ニ而其節存念相達候段血気之様申成シ必死之\n相談仕掛候而も一圓不相調候ニ付而此段無是非次第ニ存\n拙者儀同志之傍輩共両人申合早速播州江罷越候而\n志を立候家老大石内蔵助初其外侍大将物頭共\n江致對談於城内必死之覚語相究候処大学案否\n不相知内ニ懸宿意候段大学為ニ不宜と内匠一門\n中より追〻被申越其上江戸ニ罷在候家老共ゟ大学指図\n之様申越此度必死仕候ハヽ大学腰を押候様ニ相見へ候得共奉對\n上如何様之由申と候而於城内必死相究候面〻も不及是非\n離散仕候然共上野殿存命之事ニ候へは是切之覚悟ニも\n無之候間重而相談シ相究可申と何レも堅く申合\n置候然ル処去夏以後區〻之了簡相談も前後仕餘り\n延候ニ成行候故私義當六月十八日江戸表出立致上京大石\n内蔵助初其外之面〻江も對談一決之相談弥相調\n候節ニ至り七月十八日大学閉門被遊御免藝州廣嶋江\n",
+            "timestamp": {
+                "_nanoseconds": 652000000,
+                "_seconds": 1574476517
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p11",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 10,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "引越被申筈之由従江戸表注進同廿二日京都江申来候\nニ付此上ハ何之心障も無之時節ニ罷成候間兼而之一決弥\n相催シ候相談堅ク申合私儀八月二日京都罷立同十日ニ\n江戸着何れも申談候右一巻初中終委細得御意度候へ共\n殊之外入組たる分共ニ御座候間不能其儀候乍併佐藤条右衛門\n義初中終之儀淵底ニ存知罷在候ニ付而此一紙頼置申候拙者\n亡命已後河村忠右衛門殿迄相届可申候右一巻以後ハ態絶\n書？候此度為御暇乞如此御座候恐惶謹言\n　　　　　　\n　　　　　　　　　　　　　堀部安兵衛\n　　　　　　　　　　　　　　　　武庸【花押】\n　　　　十一月廿日\n　　　溝口祐弥様\n　　　上田宗貫様\n　　　坂井又太夫様\n　　　坂井九大夫様\n　　　窪田兵左衛門様\n　　　堀市郎左衛門様\n　　　河村文太夫様\n　　　河村仲右衛門様",
+            "text": "引越被申筈之由従江戸表注進同廿二日京都江申来候\nニ付此上ハ何之心障も無之時節ニ罷成候間兼而之一決弥\n相催シ候相談堅ク申合私儀八月二日京都罷立同十日ニ\n江戸着何れも申談候右一巻初中終委細得御意度候へ共\n殊之外入組たる分共ニ御座候間不能其儀候乍併佐藤条右衛門\n義初中終之儀淵底ニ存知罷在候ニ付而此一紙頼置申候拙者\n亡命已後河村忠右衛門殿迄相届可申候右一巻以後ハ態絶\n書？候此度為御暇乞如此御座候恐惶謹言\n　　　　　　\n　　　　　　　　　　　　　堀部安兵衛\n　　　　　　　　　　　　　　　　武庸【花押】\n　　　　十一月廿日\n　　　溝口祐弥様\n　　　上田宗貫様\n　　　坂井又太夫様\n　　　坂井九大夫様\n　　　窪田兵左衛門様\n　　　堀市郎左衛門様\n　　　河村文太夫様\n　　　河村仲右衛門様",
+            "timestamp": {
+                "_nanoseconds": 485000000,
+                "_seconds": 1574488424
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2b879423-85fe-4cea-baea-20cc4208d437/canvas/p12",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "0561096614CD5B9836F7431E3F66C946",
+            "index": 11,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "　　　坂井惣太夫様\n　　　石林十之助様\n\n\n　　　　　　　　　　古橋\n　　　　　　　　　　　小羽氏\n",
+            "timestamp": {
+                "_nanoseconds": 599000000,
+                "_seconds": 1565924874
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

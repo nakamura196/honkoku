@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2003,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/10de0ba3978de32cb436bba7c52da2da64c1ffcd.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2003,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88595",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88595/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88595",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C0A49F202678C1DE68A269FB5CF7BA2C",
+    "label": "明治二十四年地しんの実況",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治二十四年地しんの実況"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-034"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "年月日",
+            "value": "明治24年11月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "著作・画工人：本所区相生町5丁目5番地　大森清風／編集発行人：下谷区御徒町1丁目11番地　依田団右衛門"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24×32"
+        },
+        {
+            "label": "year",
+            "value": "1891"
+        },
+        {
+            "label": "identifier",
+            "value": "0c0a975c-65ba-4733-8a87-6c4d604c388c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0215"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/10de0ba3978de32cb436bba7c52da2da64c1ffcd.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c0a975c-65ba-4733-8a87-6c4d604c388c/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "C0A49F202678C1DE68A269FB5CF7BA2C",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "明治二十四年地しんの実況\n\n▲ぢしんの場所（はしよ）と死亡（しほう）負傷（ふしやう）のあらましは大さかはぢしん三\n十七 回（くわい）怪我（けか）人九十人死人廿四人也 潰家（つぶれや）百戸にして破（は）そん多く岐阜（きふ）\nけんは岐阜（きふ）市中地震五百三十余回 火事（くわし）の為（ため）九分 通（とうり）りやきはらい\n二十八日午前六時三十七分に始（はしま）り六ケ所にもへあがり四ケ所はけしとめ一ツは\n翌（よく）廿九日午前七時一ツは三十日午後六時に鎮火（ちんくわ）し金華山（きんくわさん）の下（した）迄\nやき県下 家屋（かおく）の焼失顛倒（しやうしつてんとう）一万二千九百十一戸死人千七百六人けが人二千三百人余\n大がきは潰家（つぶれや）九分火事にて七分 通り\n（とうり）やき焼失五千五百けん\n死人七百五十けが人二千三百人余三十日午前三時 鎮火（ちんくわ）せり竹ケ鼻（はな）はつぶ\nれ家五　八十七 焼失（しやうしつ）五百七十九戸死人百七十二人也かさ松は全市（せんし）\n\n八分通りやきはらい其他 関（せき）町\n小くま町は殊（こと）に夥（おひたゝ）し愛知（あいち）けんは\n名古屋（なこや）は死人百九十人けが人二百六十\n潰家（つぶれや）千○八十七戸 破（は）そん数（かつ）しれす\n枇（び）わしま一の宮（みや）津島（つしま）岩倉（いはくら）稲沢\nは不残（のこらず）つぶれ死人千○十八人けが人二千五百\n六十人 潰家（つぶれや）九千四百八十五戸 堤防（つゝみ）崩（くつ）\n壊（れ）の為出水夥し其他全 県下（けんか）にて\n死人二千百九十人けが人二千七百余潰家\n三万五千七百九十七戸半漬【潰】八千六\n百九十七戸余に及べり越前 福井（ふくい）\n市（し）は家屋 土蔵（とそう）全潰百十二戸半\n潰八十五戸死人壱人けが人廿二人又福\n井を除（のぞき）きゑちぜん一円にて潰屋三\n百十二戸半潰二百一戸 死傷（しにん）もあり\n山崩（やまくつれ）れの為まな川出水夥し\n三重けんは潰家二百三十三戸半潰\n四百三十九戸死傷等も有り其他\n被害（ひかい）夥しその外 静岡（しつおか）県 滋（し）\n賀（か）けん長野（なかの）けん山梨（やまなし）神な川等 夥（おひたゝ）シ\n\n【左下　推定あり】\n明治廿四年十一月一日印刷　同月二日出版\n　　　　　　東京本所区相生町五丁目五番地\n　　　　著作兼画工　　大森清風\n　　　　　　同市下谷区御徒町壱丁目十一番地\n　　　　印刷兼発行人　依田周右エ門\n\n",
+            "text": "明治二十四年地しんの実況\n\n▲ぢしんの場所（はしよ）と死亡（しほう）負傷（ふしやう）のあらましは大さかはぢしん三\n十七 回（くわい）怪我（けか）人九十人死人廿四人也 潰家（つぶれや）百戸にして破（は）そん多く岐阜（きふ）\nけんは岐阜（きふ）市中地震五百三十余回 火事（くわし）の為（ため）九分 通（とうり）りやきはらい\n二十八日午前六時三十七分に始（はしま）り六ケ所にもへあがり四ケ所はけしとめ一ツは\n翌（よく）廿九日午前七時一ツは三十日午後六時に鎮火（ちんくわ）し金華山（きんくわさん）の下（した）迄\nやき県下 家屋（かおく）の焼失顛倒（しやうしつてんとう）一万二千九百十一戸死人千七百六人けが人二千三百人余\n大がきは潰家（つぶれや）九分火事にて七分 通り\n（とうり）やき焼失五千五百けん\n死人七百五十けが人二千三百人余三十日午前三時 鎮火（ちんくわ）せり竹ケ鼻（はな）はつぶ\nれ家五　八十七 焼失（しやうしつ）五百七十九戸死人百七十二人也かさ松は全市（せんし）\n\n八分通りやきはらい其他 関（せき）町\n小くま町は殊（こと）に夥（おひたゝ）し愛知（あいち）けんは\n名古屋（なこや）は死人百九十人けが人二百六十\n潰家（つぶれや）千○八十七戸 破（は）そん数（かつ）しれす\n枇（び）わしま一の宮（みや）津島（つしま）岩倉（いはくら）稲沢\nは不残（のこらず）つぶれ死人千○十八人けが人二千五百\n六十人 潰家（つぶれや）九千四百八十五戸 堤防（つゝみ）崩（くつ）\n壊（れ）の為出水夥し其他全 県下（けんか）にて\n死人二千百九十人けが人二千七百余潰家\n三万五千七百九十七戸半漬【潰】八千六\n百九十七戸余に及べり越前 福井（ふくい）\n市（し）は家屋 土蔵（とそう）全潰百十二戸半\n潰八十五戸死人壱人けが人廿二人又福\n井を除（のぞき）きゑちぜん一円にて潰屋三\n百十二戸半潰二百一戸 死傷（しにん）もあり\n山崩（やまくつれ）れの為まな川出水夥し\n三重けんは潰家二百三十三戸半潰\n四百三十九戸死傷等も有り其他\n被害（ひかい）夥しその外 静岡（しつおか）県 滋（し）\n賀（か）けん長野（なかの）けん山梨（やまなし）神な川等 夥（おひたゝ）シ\n\n【左下　推定あり】\n明治廿四年十一月一日印刷　同月二日出版\n　　　　　　東京本所区相生町五丁目五番地\n　　　　著作兼画工　　大森清風\n　　　　　　同市下谷区御徒町壱丁目十一番地\n　　　　印刷兼発行人　依田周右エ門\n\n",
+            "timestamp": {
+                "_nanoseconds": 213000000,
+                "_seconds": 1568337090
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

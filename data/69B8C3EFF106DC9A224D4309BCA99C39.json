@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4137,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c308c713047ab1a4f469386f7542d17b7c081967.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4137,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88585",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88585/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88585",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "69B8C3EFF106DC9A224D4309BCA99C39",
+    "label": "地震之用心火之用心",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震之用心火之用心"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "番付"
+        },
+        {
+            "label": "印刷分類",
+            "value": "活版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "版元：下谷区下根岸町25 石井方 伊勢辰立退所"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×53"
+        },
+        {
+            "label": "備考",
+            "value": "大判"
+        },
+        {
+            "label": "identifier",
+            "value": "61d72c58-cf31-4262-ac3f-d7bd96c84f9e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0205"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c308c713047ab1a4f469386f7542d17b7c081967.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/61d72c58-cf31-4262-ac3f-d7bd96c84f9e/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "69B8C3EFF106DC9A224D4309BCA99C39",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "地震之用心火之用心\n\n【枠外】根岸二松軒案　\n【絵の右下】古城画\n【中央】\nこの用心書を目につく所にはりおき日々用心\nする方は地しんと火事の災難を免れ玉ふべし\n【中央下】\n板元　東京市下谷区下根岸町廿五番地\n　　　　石井方　伊勢辰立退所\n\n地震之用心【横書】\n　 地形（ぢげう）　  もり土やおき土の上に住（す）む人は\n　　　　　 　地震の時にあぶないと知れ\n　 建築（けんちく）　 細柱（ほそはしら）瓦（かわら）のやねに大（だい）かぐら\n　　　　　　あだま勝（がち）なる家ぞあぶなき\n　 火元　　火 鉢（ばち）ガスすべて火の元 厳重（げんぢう）に\n　　　　　 　まツさきに消（け）せ地震する時\n　あわて　平日の用心 足（た）らぬあわて者\n　　　　　　 瓦（かわら）に打たれ塀（へい）に潰（つぶ）さる\n　 津波（つなみ）　 来（く）る時は地震 間（ま）も無く来るも\n　　　　　　のぞ津波〳〵といつまて怖（おそ）る\n　 震返（ゆりかへし）　ゆり返（かへ）し本（ほん）ゆりよりは小さいもの\n　　　　　　 鯰（なまづ）でツかち尻ツこけなり\n　 逃場（にげば）　 頑丈（ぐわんじやう）な長火 鉢（ばち）なとを盾（たて）にとれ\n　　　　　　まさかの時も出（で）るにはまさる\n　二 階（かい）　 棟（むね）の下に三角の明（あ）きあればこそ\n　　　　　　二階のけがは下よりは無し\n　 薬品（やくひん）　リウサンに塩酸（えんさん）キハツ油なと\n　　　　　　火を出すものはころばさぬやう\n　 避難（ひなん）　 屋外（をくぐわい）にさけるに越（こ）すはなけれども\n　　　　　　其の時々の程（はゞ）に従（したが）へ\n火の用心【横書】\n　 主人（しゆじん）　 風呂（ふろ）だんろ煙突（えんとつ）なとの火の元は\n　　　　　　主人 自（みつか）ら吟味（ぎんみ）なされよ\n　風 向（むき）　 考（かんが）へず無茶（むちや）に飛出（とびだ）す上（あ）ケ句也\n　　　　　　 風向（かざむき）と地 理（り）でなんぎするのは\n　ポンプ　 万（まん）両の神輿（みこし）を造（つく）る金有らば\n　　　　　　小さいぽんぷを各町におけ\n　用水　　 泉（せん）水や堀（ほり）井戸有らば潰（つぶ）さずに\n　　　　　　永く火防（ひふせ）の神と仰（あふ）がん\n　 非常袋（ひしやうぶくろ）　ろうそくにマツチ提灯（てうちん）大 風呂敷（ぶろしき）\n　　　　　　 細子（ほそこ）を入れて長押（なげし）にかけおけ\n　 生命（いのち）　 昔（むかし）から生命（いのち）あツての物たねと\n　　　　　　いふは真実（まこと）ぞ見 限（き）り大 切（せつ）\n　宝物　　ヤレ土蔵（どざう）ヤレ金 庫（こ）とはいふものゝ\n　　　　　　 無二（むに）の宝（たから）は身につけて出よ\n　 持（もち）出　 常々（つね〴〵）に目につくやうにきめておく\n　　　　　　非常 持（もち）出す物は何々（なに〳〵）\n　 身支度（みじたく）　身支度はたびにざうりにかぶり物\n　　　　　　手にのみ水か氷砂糖（こうりさとう）か\n　 電線（でんせん）　うろたいて電燈線（でんとうせん）に引かゝり\n    　　　　　　       凧（たこ）のまねして命（いのち）とらるな\n",
+            "text": "地震之用心火之用心\n\n【枠外】根岸二松軒案　\n【絵の右下】古城画\n【中央】\nこの用心書を目につく所にはりおき日々用心\nする方は地しんと火事の災難を免れ玉ふべし\n【中央下】\n板元　東京市下谷区下根岸町廿五番地\n　　　　石井方　伊勢辰立退所\n\n地震之用心【横書】\n　 地形（ぢげう）　  もり土やおき土の上に住（す）む人は\n　　　　　 　地震の時にあぶないと知れ\n　 建築（けんちく）　 細柱（ほそはしら）瓦（かわら）のやねに大（だい）かぐら\n　　　　　　あだま勝（がち）なる家ぞあぶなき\n　 火元　　火 鉢（ばち）ガスすべて火の元 厳重（げんぢう）に\n　　　　　 　まツさきに消（け）せ地震する時\n　あわて　平日の用心 足（た）らぬあわて者\n　　　　　　 瓦（かわら）に打たれ塀（へい）に潰（つぶ）さる\n　 津波（つなみ）　 来（く）る時は地震 間（ま）も無く来るも\n　　　　　　のぞ津波〳〵といつまて怖（おそ）る\n　 震返（ゆりかへし）　ゆり返（かへ）し本（ほん）ゆりよりは小さいもの\n　　　　　　 鯰（なまづ）でツかち尻ツこけなり\n　 逃場（にげば）　 頑丈（ぐわんじやう）な長火 鉢（ばち）なとを盾（たて）にとれ\n　　　　　　まさかの時も出（で）るにはまさる\n　二 階（かい）　 棟（むね）の下に三角の明（あ）きあればこそ\n　　　　　　二階のけがは下よりは無し\n　 薬品（やくひん）　リウサンに塩酸（えんさん）キハツ油なと\n　　　　　　火を出すものはころばさぬやう\n　 避難（ひなん）　 屋外（をくぐわい）にさけるに越（こ）すはなけれども\n　　　　　　其の時々の程（はゞ）に従（したが）へ\n火の用心【横書】\n　 主人（しゆじん）　 風呂（ふろ）だんろ煙突（えんとつ）なとの火の元は\n　　　　　　主人 自（みつか）ら吟味（ぎんみ）なされよ\n　風 向（むき）　 考（かんが）へず無茶（むちや）に飛出（とびだ）す上（あ）ケ句也\n　　　　　　 風向（かざむき）と地 理（り）でなんぎするのは\n　ポンプ　 万（まん）両の神輿（みこし）を造（つく）る金有らば\n　　　　　　小さいぽんぷを各町におけ\n　用水　　 泉（せん）水や堀（ほり）井戸有らば潰（つぶ）さずに\n　　　　　　永く火防（ひふせ）の神と仰（あふ）がん\n　 非常袋（ひしやうぶくろ）　ろうそくにマツチ提灯（てうちん）大 風呂敷（ぶろしき）\n　　　　　　 細子（ほそこ）を入れて長押（なげし）にかけおけ\n　 生命（いのち）　 昔（むかし）から生命（いのち）あツての物たねと\n　　　　　　いふは真実（まこと）ぞ見 限（き）り大 切（せつ）\n　宝物　　ヤレ土蔵（どざう）ヤレ金 庫（こ）とはいふものゝ\n　　　　　　 無二（むに）の宝（たから）は身につけて出よ\n　 持（もち）出　 常々（つね〴〵）に目につくやうにきめておく\n　　　　　　非常 持（もち）出す物は何々（なに〳〵）\n　 身支度（みじたく）　身支度はたびにざうりにかぶり物\n　　　　　　手にのみ水か氷砂糖（こうりさとう）か\n　 電線（でんせん）　うろたいて電燈線（でんとうせん）に引かゝり\n    　　　　　　       凧（たこ）のまねして命（いのち）とらるな\n",
+            "timestamp": {
+                "_nanoseconds": 73000000,
+                "_seconds": 1568980249
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

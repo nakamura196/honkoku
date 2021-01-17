@@ -1,0 +1,288 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7261,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cd46e5694c91a4f6409480f5515530948226bf88.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7261,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56140",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9664
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56140/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56140",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9664
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7261,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cbef5b253e900273d5fe7c06b3a67ec4219a51cc.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7261,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56141",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9664
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56141/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56141",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9664
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 7261,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5ed87f5046c7563f2543bed266ee5ea266ec0824.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7261,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56142",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9664
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56142/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56142",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9664
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p4",
+            "@type": "sc:Canvas",
+            "height": 7261,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/annotation/p0004-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p4",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/74d04ff24483455a21fcd589319d7f15410e059b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7261,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56143",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9664
+                    }
+                }
+            ],
+            "label": "[4]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56143/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56143",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9664
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "576333664A57AF196A194E8115FAEF13",
+    "label": "上方震下り瓢磐鯰の化物 一名難獣といふ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上方震下り瓢磐鯰の化物 一名難獣といふ"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "321629cb-157b-420b-83a6-ccfef5d8f2c1"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1011"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 4,
+    "projectId": "ishimoto",
+    "size": 4,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cd46e5694c91a4f6409480f5515530948226bf88.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "576333664A57AF196A194E8115FAEF13",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "＜割書：上方（かみがた）｜震下（しんくだ）り＞瓢磐（ひやうばん）鯰（なまづ）の化物（ばけもの） 一名（いちめう）＜割書：難獣（なんぢう）｜といふ＞\n　　　　　安政二乙卯十月二日夜興行\n\n須弥山（しゆみせん）の地底（ちてい）に大鯰（おゝなまづ）住（すめ）り変化（へんげし）て四足（しそく）全躰（ぜんたい）をなす是（これ）を難獣（なんぢう）と云 一度（ひとたび）首尾（しゆび）を動（うご）かす時（とき）は泰山（たいさん）を抜（ぬき）\n蒼海（そうかい）を干（ひた）し宮殿（きうてん）樓閣（らうかく）堂塔（どふとう）伽藍（からん）太家（たいか）庫倉（こそう）を破損（はそん）し躰（たい）より火（くは）ゑんをいだす事いと\nおびたゝしく其（その）阿云声（うなりごへ）百千の雷（いかづち）も物かは南圓（なんゑん）浮臺（ぶだい）をくつがへすかとおもはる世界（せかい）の人（じん）\n民（みん） 是（これ）が為（ため）に居（い）ところを破（やぶ）られ財宝（ざいほう）をうしなひ万歳楽（ばんざいらく）〳〵〳〵〳〵と怖（おぢ）おそるる事\n雷爺仁（かみなりおやじ）に勝（まさ）れり\n全躰（ぜんたい）は「面（おもて）」鯰のごとく口より火炎（くわゑん）をふき身より火を出す事三十七ケ所\n「頭（かしら）」土蔵の家根（やね）に似たり「背（そびら）」背中（せなか）は瓦をならべたる如くまた家根 板（いた）の\n如きところもあり躰（たい）を震動（ゆりうご）かす時は背中の瓦八方へ飛散（とびちり）粉（こ）の如く\nこけらの所はさまての事なし「腹（はら）」のうちには臆病（おくびやう）と\nいへる病（やまひ）ありておのが住家（すみか）に居（い）る時は身うち\nすくみて自由（じゆう）をなさず依（よつ）て夕（ゆふべ）に臥（ふす）時は往還（おうくわん）に\n野宿（のじゆく）す「足（あし）」は四本の柱（はしら）に似て\nゆら〳〵として一向（いつこう）に役（やく）にたゝず\n常（つね）に丸木を杖（つえ）の如くにして\nからばりと号（なづけ）よふ〳〵建（たつ）ている\nなり「尻尾（しりを）」は大浪（おゝなみ）の寄（よす）るがごとく\n此尾にさはる者は共に巻込（まきこま）れて\n地ごくへ店替（たながへ）をなし土（ど）左衛門と名を\n改（あらた）むるなり此尾を津浪（つなみ）とよぶ恐（おそる）べき難獣（なんちう）なり\n○抑（そも〳〵）此 獣（け）ものは神代の暦世（むかし）豊秋津洲（とよあきつす）に蟠（わだか）まりて時々出て\n人民（じんみん）をなやめたるを天下しろしめす皇太神（すめおんがみ）鹿島（かしま）の神に神詫（しんたく）\nありて石の御坐（みまし）＜割書：俗に｜要石＞をもて其 頭（かしら）をおさへ動（うご）かし給はず依（より）て此 難獣（なんぢう）の△\n△患（うれ）ひなく\nゆるがぬ御代と\n栄（さかへ）つゝ諸（しよ）人 万歳（ばんざい）\n楽（らく）をとなへたり\n\nされども諸神（もろかみ）の居まさぬをりは僅（わづか）にその身を動（うご）かすに諸人万才\n楽と称ふればその難（なん）をのがるとかや然るに此 変化（べんき）時を得て今時（ことし）\n十月 八百万（やをよろづ）の神達（かみたち）出雲（いづも）に御幸（みゆき）させ給ひし閑（ひま）を窺（うかゞ）ひ地中に動揺（どうよう）\nして三千六百の町々家蔵を破損（はそん）する事大かたならずしば〳〵世界（せかい）\nをくつがへすかと思はれし此事御 留守（るすゐ）居の蛭子尊（ひるこのみこと）＜割書：夷｜神＞より出雲國へ\n火急（くはきう）の御 告（つげ）に皇（くわう）太神の御 指揮（しき）として鹿島の神 宕愛（あたご）【愛宕の反転ママ】山の次郎坊\n只一時にお帰国（きこく）まし〳〵この難獣（なんぢう）をおさへたるかんじん要（かなめ）の礎（いしづへ）に世は\n盤石（ばんじやく）の如くなるべし\n\n【左上】\n出雲國（いづものくに）大社（おほやしろ）\nにおゐて八百\n万神（ばんじん）狼藉（らうせき）を【草冠+狼】\n怒り給ふ\n天照太神御詫\n寸 善（せん）尺（しやく）魔（ま）で\n此方の連中（れんちう）が壹月\nいぬとまたぬら\nくら者めが\nあばれおつた\n鹿島をさきへ\nかへした\nがよかろう\n〽つまごひとのは\n　おるすでも\n　おてぎはじや\n　地しんも火事もしん\n　るいだからおちついて\n　いたらたしぬけをくら\n　わせおつたアヽ\n　まんざいらく\n　　　　　〳〵〳〵\n\n【右下】\n鹿島太神宮\n\nサア〳〵ゆら\nしつて御ろうじ\nまし騒動（そうどう）にて\nは非常（ひじやう）あはれ\n大 焼（やけ）にては勘（かん）\n當（どう）ゆり店（みせ）は\nしろもの丸で\nそん御當所に\nおゐて元禄年\n中に難（なん）にあひ\nましたる鯰（なまづ）\nの化（ばけ）物 天災（てんさい）\nといふ獣（け）もの\nで厶り升\n喜怒（きど）せん\n　わづか\n難渋見聞（なんぢうみもん）\n土蔵の近隣（きんじよ）は\n友崩（ともくづ）れおひやう\nばんじや\n　　〳〵〳〵\n",
+            "text": "《割書：上方（かみがた）｜震下（しんくだ）り》瓢磐（ひやうばん）鯰（なまづ）の化物（ばけもの） 一名（いちめう）《割書：難獣（なんぢう）｜といふ》\n　　　　　安政二乙卯十月二日夜興行\n\n須弥山（しゆみせん）の地底（ちてい）に大鯰（おゝなまづ）住（すめ）り変化（へんげし）て四足（しそく）全躰（ぜんたい）をなす是（これ）を難獣（なんぢう）と云 一度（ひとたび）首尾（しゆび）を動（うご）かす時（とき）は泰山（たいさん）を抜（ぬき）\n蒼海（そうかい）を干（ひた）し宮殿（きうてん）樓閣（らうかく）堂塔（どふとう）伽藍（からん）太家（たいか）庫倉（こそう）を破損（はそん）し躰（たい）より火（くは）ゑんをいだす事いと\nおびたゝしく其（その）阿云声（うなりごへ）百千の雷（いかづち）も物かは南圓（なんゑん）浮臺（ぶだい）をくつがへすかとおもはる世界（せかい）の人（じん）\n民（みん） 是（これ）が為（ため）に居（い）ところを破（やぶ）られ財宝（ざいほう）をうしなひ万歳楽（ばんざいらく）〳〵〳〵〳〵と怖（おぢ）おそるる事\n雷爺仁（かみなりおやじ）に勝（まさ）れり\n全躰（ぜんたい）は「面（おもて）」鯰のごとく口より火炎（くわゑん）をふき身より火を出す事三十七ケ所\n「頭（かしら）」土蔵の家根（やね）に似たり「背（そびら）」背中（せなか）は瓦をならべたる如くまた家根 板（いた）の\n如きところもあり躰（たい）を震動（ゆりうご）かす時は背中の瓦八方へ飛散（とびちり）粉（こ）の如く\nこけらの所はさまての事なし「腹（はら）」のうちには臆病（おくびやう）と\nいへる病（やまひ）ありておのが住家（すみか）に居（い）る時は身うち\nすくみて自由（じゆう）をなさず依（よつ）て夕（ゆふべ）に臥（ふす）時は往還（おうくわん）に\n野宿（のじゆく）す「足（あし）」は四本の柱（はしら）に似て\nゆら〳〵として一向（いつこう）に役（やく）にたゝず\n常（つね）に丸木を杖（つえ）の如くにして\nからばりと号（なづけ）よふ〳〵建（たつ）ている\nなり「尻尾（しりを）」は大浪（おゝなみ）の寄（よす）るがごとく\n此尾にさはる者は共に巻込（まきこま）れて\n地ごくへ店替（たながへ）をなし土（ど）左衛門と名を\n改（あらた）むるなり此尾を津浪（つなみ）とよぶ恐（おそる）べき難獣（なんちう）なり\n○抑（そも〳〵）此 獣（け）ものは神代の暦世（むかし）豊秋津洲（とよあきつす）に蟠（わだか）まりて時々出て\n人民（じんみん）をなやめたるを天下しろしめす皇太神（すめおんがみ）鹿島（かしま）の神に神詫（しんたく）\nありて石の御坐（みまし）《割書：俗に｜要石》をもて其 頭（かしら）をおさへ動（うご）かし給はず依（より）て此 難獣（なんぢう）の△\n△患（うれ）ひなく\nゆるがぬ御代と\n栄（さかへ）つゝ諸（しよ）人 万歳（ばんざい）\n楽（らく）をとなへたり\n\nされども諸神（もろかみ）の居まさぬをりは僅（わづか）にその身を動（うご）かすに諸人万才\n楽と称ふればその難（なん）をのがるとかや然るに此 変化（べんき）時を得て今時（ことし）\n十月 八百万（やをよろづ）の神達（かみたち）出雲（いづも）に御幸（みゆき）させ給ひし閑（ひま）を窺（うかゞ）ひ地中に動揺（どうよう）\nして三千六百の町々家蔵を破損（はそん）する事大かたならずしば〳〵世界（せかい）\nをくつがへすかと思はれし此事御 留守（るすゐ）居の蛭子尊（ひるこのみこと）《割書：夷｜神》より出雲國へ\n火急（くはきう）の御 告（つげ）に皇（くわう）太神の御 指揮（しき）として鹿島の神 宕愛（あたご）【愛宕の反転ママ】山の次郎坊\n只一時にお帰国（きこく）まし〳〵この難獣（なんぢう）をおさへたるかんじん要（かなめ）の礎（いしづへ）に世は\n盤石（ばんじやく）の如くなるべし\n\n【左上】\n出雲國（いづものくに）大社（おほやしろ）\nにおゐて八百\n万神（ばんじん）狼藉（らうせき）を【草冠+狼】\n怒り給ふ\n天照太神御詫\n寸 善（せん）尺（しやく）魔（ま）で\n此方の連中（れんちう）が壹月\nいぬとまたぬら\nくら者めが\nあばれおつた\n鹿島をさきへ\nかへした\nがよかろう\n〽つまごひとのは\n　おるすでも\n　おてぎはじや\n　地しんも火事もしん\n　るいだからおちついて\n　いたらたしぬけをくら\n　わせおつたアヽ\n　まんざいらく\n　　　　　〳〵〳〵\n\n【右下】\n鹿島太神宮\n\nサア〳〵ゆら\nしつて御ろうじ\nまし騒動（そうどう）にて\nは非常（ひじやう）あはれ\n大 焼（やけ）にては勘（かん）\n當（どう）ゆり店（みせ）は\nしろもの丸で\nそん御當所に\nおゐて元禄年\n中に難（なん）にあひ\nましたる鯰（なまづ）\nの化（ばけ）物 天災（てんさい）\nといふ獣（け）もの\nで厶り升\n喜怒（きど）せん\n　わづか\n難渋見聞（なんぢうみもん）\n土蔵の近隣（きんじよ）は\n友崩（ともくづ）れおひやう\nばんじや\n　　〳〵〳〵\n",
+            "timestamp": {
+                "_nanoseconds": 339000000,
+                "_seconds": 1575856908
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "576333664A57AF196A194E8115FAEF13",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【左下古書店の価格票】\n珍奇資料専門集収所\n四圓也【書入あり 32a？】\n帝大赤門前 木内書店\n\n【左下上の価格表】\n珍奇資料専門集収所\n帝大赤門前 書林　木内誠",
+            "text": "【左下古書店の価格票】\n珍奇資料専門集収所\n四圓也【書入あり 32a？】\n帝大赤門前 木内書店\n\n【左下上の価格表】\n珍奇資料専門集収所\n帝大赤門前 書林　木内誠",
+            "timestamp": {
+                "_nanoseconds": 118000000,
+                "_seconds": 1575857148
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p3",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "576333664A57AF196A194E8115FAEF13",
+            "index": 2,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【左下】\n0011841657\n東京大學圖書之印\n\n【右下に２／４と同じ価格表の折り返しあり】",
+            "text": "【左下】\n0011841657\n東京大學圖書之印\n\n【右下に２／４と同じ価格表の折り返しあり】",
+            "timestamp": {
+                "_nanoseconds": 72000000,
+                "_seconds": 1575857349
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/321629cb-157b-420b-83a6-ccfef5d8f2c1/canvas/p4",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "576333664A57AF196A194E8115FAEF13",
+            "index": 3,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【古書店価格表裏面】\n245c?\n220分?",
+            "text": "【古書店価格表裏面】\n245c?\n220分?",
+            "timestamp": {
+                "_nanoseconds": 209000000,
+                "_seconds": 1575857448
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

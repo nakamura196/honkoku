@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4829,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d47d1d613ee3cffc9de228b0c6c080069790820d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4829,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56309",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3629
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56309/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56309",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3629
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9473,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d6f83d60b857cb81380d3d862b90474ca3a25ca7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9473,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56310",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 11999
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56310/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56310",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 11999
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "D91D5B5404843B5B1A6582AF8EC9BB63",
+    "label": "駿河国富士山表口全図 直立一千四百十七丈",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "駿河国富士山表口全図 直立一千四百十七丈"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-006"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "年月日",
+            "value": "明治11年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "明治11年6月届 静岡県平民藤田与一郎"
+        },
+        {
+            "label": "備考",
+            "value": "畳もの"
+        },
+        {
+            "label": "year",
+            "value": "1878"
+        },
+        {
+            "label": "identifier",
+            "value": "a2e9281a-72d0-4d89-9fb4-193525f2f7f6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1078"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d47d1d613ee3cffc9de228b0c6c080069790820d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "D91D5B5404843B5B1A6582AF8EC9BB63",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル・本文・画像いずれもなし】",
+            "text": "【タイトル・本文・画像いずれもなし】",
+            "timestamp": {
+                "_nanoseconds": 149000000,
+                "_seconds": 1582719870
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a2e9281a-72d0-4d89-9fb4-193525f2f7f6/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "D91D5B5404843B5B1A6582AF8EC9BB63",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n駿河国冨士山表口全図直立一千四百十七丈\n【俯瞰図左上】\n【本文】\n冨士山（ふじのやま）は千早振（ちはやふる）神（かみ）の御代（みよ）より出立（いてたつ）る\n山（やま）にて其状（そのさま）は四面（よも）共（みな）同（おな）しく白扇（あふぎ）\nを倒（さかしま）に懸（かけ）たるがごとく甚（□□）もくすしく\n妙（たえ）なる山（やま）に□□ける加之（しかの）山巓（やまいたゞき）に鎮座（しつまりま）\nす大神（おほかみ）は天津（あまつ）日高日子（ひたかひこ）番能（ほの）迩々芸（にゝぎ）\n能（の）\n命（みこと）の大后（おほきさき）に坐（ま）す木花之（このはなの）佐久夜（さくや）毘（び）\n売（め）命（みこと）に坐（ま）す也（なり）斯（かく）て□（この）大神（おほかみ）の\n事跡（ことのあと）を\n尋（たつ）ぬるに天神（ひこぢ）に仕（みつか）へたまふ事（こと）どもを\n始（ハじめ）奉（まつ）る万（よろづ）の事（こと）皆（みな）婦人（をみな）の鏡（かゞみ）となる\nへき事（こと）どもにて其（その）御伊豆（みいづ）も古（いにし）へより\nいと□然（□□□□）かるれバ上宮大子（うへのみやのみこ）を始（はしめ）奉（まつ）\nり代々（よゝ）に参来（まひくる）人々（ひと〳〵）のいや益（ま）し□ま\nして今（いま）の世（よ）と成（なり）□てハ一年（ひとゝせ）に幾千万（いくちよろづ）\nの多（おほき）に昇（のぼ）り神（かみ）御稜威（みいづ）もいや栄（さかえ）に\nさかえいや広（ひろ）□ひけ□□□□ゆかむこれ\nの大御世（おほみよ）にそのみかげかゞふる蒼生（あをひと）の誰（たれ）かハ\n畏（かしこ）く□む□く仰（あふ）がざらめや己（おの）れ□に\n（ところ）るきあと）の\n名称（な）などに明（あきら）かなるを□□天放遠（あまぞらとほ）き旅（たび）\n路（ぢ）をいとひもやらで来（まひ）くるを可惜（あたら）\n厳重（□□□□）なる処（ところ）をだに空（むな）しく□□（てすぐ）しゆの\nる人（ひと）の□（にく）からねバいと〳〵憂（うれ）たく哀（かな）し\nくてかゝる人々（ひと〳〵）の□便（たより）にもとなれの壱（ひと）\n葉（ひら）の手引（てびき）をバものしたるになん\n",
+            "text": "【タイトル】\n駿河国冨士山表口全図直立一千四百十七丈\n【俯瞰図左上】\n【本文】\n冨士山（ふじのやま）は千早振（ちはやふる）神（かみ）の御代（みよ）より出立（いてたつ）る\n山（やま）にて其状（そのさま）は四面（よも）共（みな）同（おな）しく白扇（あふぎ）\nを倒（さかしま）に懸（かけ）たるがごとく甚（□□）もくすしく\n妙（たえ）なる山（やま）に□□ける加之（しかの）山巓（やまいたゞき）に鎮座（しつまりま）\nす大神（おほかみ）は天津（あまつ）日高日子（ひたかひこ）番能（ほの）迩々芸（にゝぎ）\n能（の）\n命（みこと）の大后（おほきさき）に坐（ま）す木花之（このはなの）佐久夜（さくや）毘（び）\n売（め）命（みこと）に坐（ま）す也（なり）斯（かく）て□（この）大神（おほかみ）の\n事跡（ことのあと）を\n尋（たつ）ぬるに天神（ひこぢ）に仕（みつか）へたまふ事（こと）どもを\n始（ハじめ）奉（まつ）る万（よろづ）の事（こと）皆（みな）婦人（をみな）の鏡（かゞみ）となる\nへき事（こと）どもにて其（その）御伊豆（みいづ）も古（いにし）へより\nいと□然（□□□□）かるれバ上宮大子（うへのみやのみこ）を始（はしめ）奉（まつ）\nり代々（よゝ）に参来（まひくる）人々（ひと〳〵）のいや益（ま）し□ま\nして今（いま）の世（よ）と成（なり）□てハ一年（ひとゝせ）に幾千万（いくちよろづ）\nの多（おほき）に昇（のぼ）り神（かみ）御稜威（みいづ）もいや栄（さかえ）に\nさかえいや広（ひろ）□ひけ□□□□ゆかむこれ\nの大御世（おほみよ）にそのみかげかゞふる蒼生（あをひと）の誰（たれ）かハ\n畏（かしこ）く□む□く仰（あふ）がざらめや己（おの）れ□に\n（ところ）るきあと）の\n名称（な）などに明（あきら）かなるを□□天放遠（あまぞらとほ）き旅（たび）\n路（ぢ）をいとひもやらで来（まひ）くるを可惜（あたら）\n厳重（□□□□）なる処（ところ）をだに空（むな）しく□□（てすぐ）しゆの\nる人（ひと）の□（にく）からねバいと〳〵憂（うれ）たく哀（かな）し\nくてかゝる人々（ひと〳〵）の□便（たより）にもとなれの壱（ひと）\n葉（ひら）の手引（てびき）をバものしたるになん\n",
+            "timestamp": {
+                "_nanoseconds": 541000000,
+                "_seconds": 1582877981
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9e3452e55d6e22acbc3732ae5ff7ac0b1bc66759.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88824",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88824/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88824",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "197CF056EEAC60ADEA640DA5B3A57688",
+    "label": "豆州熱海温泉湧出之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "豆州熱海温泉湧出之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×55.5"
+        },
+        {
+            "label": "identifier",
+            "value": "72fbd11c-4e94-49cd-adcd-96d3d8ef1e19"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0448"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9e3452e55d6e22acbc3732ae5ff7ac0b1bc66759.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/72fbd11c-4e94-49cd-adcd-96d3d8ef1e19/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "197CF056EEAC60ADEA640DA5B3A57688",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【図題】\n豆州熱海温泉湧出之図\n【左下印内】\n武田酔霞\n弆蔵之印\n【左下手書】栗原氏蔵",
+            "text": "【図題】\n豆州熱海温泉湧出之図\n【左下印内】\n武田酔霞\n弆蔵之印\n【左下手書】栗原氏蔵",
+            "timestamp": {
+                "_nanoseconds": 836000000,
+                "_seconds": 1574950204
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

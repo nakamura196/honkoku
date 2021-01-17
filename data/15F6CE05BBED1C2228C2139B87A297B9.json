@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0e7c7307574f2b9dea91edcd855d723055061eb5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88478",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88478/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88478",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "15F6CE05BBED1C2228C2139B87A297B9",
+    "label": "安政二年十月二日地震出火後日角力",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政二年十月二日地震出火後日角力"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-051"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34.5×23.5"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-103"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b5ffe4a3-299f-4321-b71c-2216b5ac0353"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0098"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0e7c7307574f2b9dea91edcd855d723055061eb5.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b5ffe4a3-299f-4321-b71c-2216b5ac0353/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "15F6CE05BBED1C2228C2139B87A297B9",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【黒枠内タイトル】\n安政二年十月二日　地震出火後日角力\n【黒枠内上段】\n■大まうけの方\n大関　ざいもく　材木問屋\n関脇　存命　　　諸方仮宅\n小結　あら物　　笘縄菰筵\n前頭　どかた　　土方請負\n同　　御救　　　貧家潤沢\n同　　延金　　　証文寄月\n同　　かりだて　板葺平屋\n同　　名ぐら　　骨継療治\n同　　つぶし　　古銅古鐵\n同　　つみふね　運送通船\n同　　めんるゐ　古着綿類\n同　　てがる　　立場居酒\n同　　ふる木　　湯屋焚木\n差添　大儲　　　家作職人\n【黒枠内下段】\n▲大おあいだの方\n大関　しばい　　三町休座\n関脇　焼死　　　花街煙中\n小結　小間物　　鼈甲蒔画\n前頭　ぜいたく　贅沢諸品\n同　　施し　　　持丸長者\n同　　官金　　　日為高利\n同　　ほんだて　本建造作\n同　　御無用　　御免勧化\n同　　上品　　　象眼銀錺\n同　　ふね　　　家根猪牙\n同　　にしき　　京機織物\n同　　本しき　　会席料理\n同　　こつぱ　　唐木細工\n勧進元　大休　　遊芸諸流\n\n【黒枠外上段】\nふだんでさへむじんのまじなひ\nだのなんのといふて宝珠をそくやら\nはなを\nそぐやら\nひど\nいめに\nあわせ\nるのに\nこんだの\nぢしんは一とおもひに\nたゝきおとされ六人\nいつしよにふつかりあひ\nてんでにけがをいたしました\nわたしらが仲間は三べんづゝなでられても\n六人だから十八へんなでなけりやアはらは\nたゝねへけれど\nこんどは一べんで\nはらがたちます【升？】\n\n〽くわんおん\nせいしと\nならんで\nゐても一人りは\nけがもいたしませんにわたしばかり\nひつくりかへりぼんぶの目には\nさぞいくぢのない\nやうに思ひませう\nねへ\n【大文字で】\n打身\n　骨継\n　　療治所\n〽とうで\nごぜんすと\nすましている所を\nたしぬけにゆりたをすとは\nぢしんもあんまりむごいやつだ\nこつちもめんと\nむかつて\nくりやア\n一ぶでも\nあとへはひかねへ\nつもりだがたしぬけ\nゆゑ九りんがまかつたのだ\n\n【黒枠外下段】　【前欠か】\nいきなすつたらよかつたらうに　かみなり〽そらサ\n大こやくもはふしやへゆりやしたわしやア\nよしに\nしやした\nかはゝ\n大きらい\nでごぜへやす\n\n〽イテ〳〵これさ\nしづかにもんで\nくだせへおめへ\nむすこがある\nならむすこに\nたのまうこんとは\nじしんにこんな\nめにあつたら\nおやしやア\nきみか\nわりい\n\n〽おれがおとうとは谷中の\n天王寺アリヤアぽつきりおれたから\nまがつたよりやアよつほど見いゝ\nおまけにせいのたかいので見たふもねへのサ\n\n\n",
+            "text": "【黒枠内タイトル】\n安政二年十月二日　地震出火後日角力\n【黒枠内上段】\n■大まうけの方\n大関　ざいもく　材木問屋\n関脇　存命　　　諸方仮宅\n小結　あら物　　笘縄菰筵\n前頭　どかた　　土方請負\n同　　御救　　　貧家潤沢\n同　　延金　　　証文寄月\n同　　かりだて　板葺平屋\n同　　名ぐら　　骨継療治\n同　　つぶし　　古銅古鐵\n同　　つみふね　運送通船\n同　　めんるゐ　古着綿類\n同　　てがる　　立場居酒\n同　　ふる木　　湯屋焚木\n差添　大儲　　　家作職人\n【黒枠内下段】\n▲大おあいだの方\n大関　しばい　　三町休座\n関脇　焼死　　　花街煙中\n小結　小間物　　鼈甲蒔画\n前頭　ぜいたく　贅沢諸品\n同　　施し　　　持丸長者\n同　　官金　　　日為高利\n同　　ほんだて　本建造作\n同　　御無用　　御免勧化\n同　　上品　　　象眼銀錺\n同　　ふね　　　家根猪牙\n同　　にしき　　京機織物\n同　　本しき　　会席料理\n同　　こつぱ　　唐木細工\n勧進元　大休　　遊芸諸流\n\n【黒枠外上段】\nふだんでさへむじんのまじなひ\nだのなんのといふて宝珠をそくやら\nはなを\nそぐやら\nひど\nいめに\nあわせ\nるのに\nこんだの\nぢしんは一とおもひに\nたゝきおとされ六人\nいつしよにふつかりあひ\nてんでにけがをいたしました\nわたしらが仲間は三べんづゝなでられても\n六人だから十八へんなでなけりやアはらは\nたゝねへけれど\nこんどは一べんで\nはらがたちます【升？】\n\n〽くわんおん\nせいしと\nならんで\nゐても一人りは\nけがもいたしませんにわたしばかり\nひつくりかへりぼんぶの目には\nさぞいくぢのない\nやうに思ひませう\nねへ\n【大文字で】\n打身\n　骨継\n　　療治所\n〽とうで\nごぜんすと\nすましている所を\nたしぬけにゆりたをすとは\nぢしんもあんまりむごいやつだ\nこつちもめんと\nむかつて\nくりやア\n一ぶでも\nあとへはひかねへ\nつもりだがたしぬけ\nゆゑ九りんがまかつたのだ\n\n【黒枠外下段】　【前欠か】\nいきなすつたらよかつたらうに　かみなり〽そらサ\n大こやくもはふしやへゆりやしたわしやア\nよしに\nしやした\nかはゝ\n大きらい\nでごぜへやす\n\n〽イテ〳〵これさ\nしづかにもんで\nくだせへおめへ\nむすこがある\nならむすこに\nたのまうこんとは\nじしんにこんな\nめにあつたら\nおやしやア\nきみか\nわりい\n\n〽おれがおとうとは谷中の\n天王寺アリヤアぽつきりおれたから\nまがつたよりやアよつほど見いゝ\nおまけにせいのたかいので見たふもねへのサ\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 4000000,
+                "_seconds": 1581840103
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

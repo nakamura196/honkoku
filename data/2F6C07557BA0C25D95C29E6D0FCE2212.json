@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2666f842a17daf22e625f54eeea8a6e3d84047e9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88801",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88801/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88801",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "2F6C07557BA0C25D95C29E6D0FCE2212",
+    "label": "[富士八景図 音]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[富士八景図 音]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-010-006"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "17×22.5"
+        },
+        {
+            "label": "備考",
+            "value": "8枚組の内"
+        },
+        {
+            "label": "identifier",
+            "value": "a8efa47e-5700-4902-b91a-51813d8488ef"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0421"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2666f842a17daf22e625f54eeea8a6e3d84047e9.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a8efa47e-5700-4902-b91a-51813d8488ef/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "2F6C07557BA0C25D95C29E6D0FCE2212",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "音見坂落雁\n\n【一資料ずつ別項目になっている為、右下資料のみ翻刻。】\n【参考に残りは　清見寺晩鐘。田子の浦帰帆。長原の夜雨。】\n\n",
+            "text": "音見坂落雁\n\n【一資料ずつ別項目になっている為、右下資料のみ翻刻。】\n【参考に残りは　清見寺晩鐘。田子の浦帰帆。長原の夜雨。】\n\n",
+            "timestamp": {
+                "_nanoseconds": 734000000,
+                "_seconds": 1569569474
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

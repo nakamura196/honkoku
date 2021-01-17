@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5bd7b4956ac75e5bb2ab97288d8956a0c56f6523.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88391",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88391/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88391",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "9DBEDB777AB9B73D196C9B422B8A39F4",
+    "label": "東海道大阪辺大地震津波図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "東海道大阪辺大地震津波図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33×46"
+        },
+        {
+            "label": "別タイトル",
+            "value": "東海道大地震津波"
+        },
+        {
+            "label": "備考",
+            "value": "附紙：東海道大地震津波（1枚）"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "f91dd0d0-4a87-4a40-b3ec-80483a5dd7df"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0011"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/5bd7b4956ac75e5bb2ab97288d8956a0c56f6523.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f91dd0d0-4a87-4a40-b3ec-80483a5dd7df/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "9DBEDB777AB9B73D196C9B422B8A39F4",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "嘉永七寅十一月四日朝五ッ時ゆり出し\n《割書：東海道｜大阪辺》大地震津波図\n【上段】\n嘉永七寅六月十四日大\n地震ゆり出し候へ共市中\n無別条候に付氏神へ御礼\nの御千度いたし目出度\n悦居候所又十一月四日の朝\n五ッ時大地震ゆり出し\n所々損じ候へども格別\nの事も無之又五日七ッ\n時に前日同様の地しん\nゆり夫より後止事\nなくゆり夜五つ時に大\n地震ゆり都合三度の\n大地しんにて終に所々夥しく損し申候併怪我人は十人斗り\nの由に御座候尤門口に固いたし毎夜野宿いたし申候誠に\n前代未聞成事に御座候損じ候所荒増を左にしるす\n\n一天王寺清水舞台　　一座摩宮鳥居　　　　一北久太郎町丼池北\n一塩町さのやばし　　一御霊社井戸家形　　　家二三軒\n一汐津ばし近辺　　　一天満天神井戸家形　一福嶋五百らかん\n一京町堀三丁目　　　一順けい町丼池角　　一籠　屋　町\n一あわざ戸や町近辺　一玉造二軒茶や十　　一なんば新地みぞ\n　都合弐十軒斗　　　　軒ばかり　　　　　　のかは\n一御池通五丁目四軒　一あみだ池横□すじ　一住吉とうろふ六部\n　ばかりくすれ　　　一橘通三丁目　　　　　通こける\n此外所々少し□損じあれども数多く筆に\n尽しがたく候也\n\n【下段】\n寅十一月五日大地震ゆり通しの中へ湊口沖手\nより大津波打込川口に碇泊之大船小船とも\n不残安治川橋上手へ打上け安治川ばしかめばし\n打流れ申候て大船帆柱立たる侭橋より上へ打上け\n申候道頓堀川にては大黒橋迄はし残らず落申候て\n大黒ばし迄大船小ふね共打込又材木等も沢山打上げ\n何れの川筋も船幷に材木にて押詰り破舟等の数\n知れず大体見聞したる所にては常に碇泊の船九分通りは\n破損に相成流人の数何程とも不知此度の津波の有\nさま筆紙に書尽しがたく前代見聞せず大変なり\n其場所へ行見たる人は能御存じ人の咄しと申すは五寸\nばかりの事一尺にもいふものなれ共今度の事斗りは\n壱丈の事が五尺によりいふ事不出来位の事にて誠に\n存知もよらぬ大変也湊口図にしるしたる川々残らず\n津波打込町家は流れ申さず船斗りに御座候尤も\n船はみじんにくだけ申候落たる橋々左にしるす\n　からかねばし　　高ばし　　　　水わけばし\n　安治川橋　　　　かめ井ばし　　黒がねばし\n　日吉ばし　　　　汐見ばし　　　幸ばし\n　住よし橋　　　　大黒ばしにて止り申候\n　かなやばし\n\n大阪湊口之図\n\n【左下の小さい別紙】\n東海道大地震津浪　為知写\n\n勢州四日市当月四日巳の刻大地\nしん五日申の刻又大地震にて人家\n二三十軒くつれ死人無之候桑名白子\n神戸辺同様尤桑名大津波にて\n大さわぎのよし松坂辺少々いたみ\n山田大半くつれ家に相成申候\n志州鳥羽大ぢしん大津波にて\n御家中大半流れ市中も\n同様の事にてまことにたとへなき\n次第の由\n尾州宮辺関亀山草津宿辺\n大そんじ大坂同様の由委細の義未\n相分不申よし\n　十一月七日申来る\n\n",
+            "text": "嘉永七寅十一月四日朝五ッ時ゆり出し\n《割書：東海道｜大阪辺》大地震津波図\n【上段】\n嘉永七寅六月十四日大\n地震ゆり出し候へ共市中\n無別条候に付氏神へ御礼\nの御千度いたし目出度\n悦居候所又十一月四日の朝\n五ッ時大地震ゆり出し\n所々損じ候へども格別\nの事も無之又五日七ッ\n時に前日同様の地しん\nゆり夫より後止事\nなくゆり夜五つ時に大\n地震ゆり都合三度の\n大地しんにて終に所々夥しく損し申候併怪我人は十人斗り\nの由に御座候尤門口に固いたし毎夜野宿いたし申候誠に\n前代未聞成事に御座候損じ候所荒増を左にしるす\n\n一天王寺清水舞台　　一座摩宮鳥居　　　　一北久太郎町丼池北\n一塩町さのやばし　　一御霊社井戸家形　　　家二三軒\n一汐津ばし近辺　　　一天満天神井戸家形　一福嶋五百らかん\n一京町堀三丁目　　　一順けい町丼池角　　一籠　屋　町\n一あわざ戸や町近辺　一玉造二軒茶や十　　一なんば新地みぞ\n　都合弐十軒斗　　　　軒ばかり　　　　　　のかは\n一御池通五丁目四軒　一あみだ池横□すじ　一住吉とうろふ六部\n　ばかりくすれ　　　一橘通三丁目　　　　　通こける\n此外所々少し□損じあれども数多く筆に\n尽しがたく候也\n\n【下段】\n寅十一月五日大地震ゆり通しの中へ湊口沖手\nより大津波打込川口に碇泊之大船小船とも\n不残安治川橋上手へ打上け安治川ばしかめばし\n打流れ申候て大船帆柱立たる侭橋より上へ打上け\n申候道頓堀川にては大黒橋迄はし残らず落申候て\n大黒ばし迄大船小ふね共打込又材木等も沢山打上げ\n何れの川筋も船幷に材木にて押詰り破舟等の数\n知れず大体見聞したる所にては常に碇泊の船九分通りは\n破損に相成流人の数何程とも不知此度の津波の有\nさま筆紙に書尽しがたく前代見聞せず大変なり\n其場所へ行見たる人は能御存じ人の咄しと申すは五寸\nばかりの事一尺にもいふものなれ共今度の事斗りは\n壱丈の事が五尺によりいふ事不出来位の事にて誠に\n存知もよらぬ大変也湊口図にしるしたる川々残らず\n津波打込町家は流れ申さず船斗りに御座候尤も\n船はみじんにくだけ申候落たる橋々左にしるす\n　からかねばし　　高ばし　　　　水わけばし\n　安治川橋　　　　かめ井ばし　　黒がねばし\n　日吉ばし　　　　汐見ばし　　　幸ばし\n　住よし橋　　　　大黒ばしにて止り申候\n　かなやばし\n\n大阪湊口之図\n\n【左下の小さい別紙】\n東海道大地震津浪　為知写\n\n勢州四日市当月四日巳の刻大地\nしん五日申の刻又大地震にて人家\n二三十軒くつれ死人無之候桑名白子\n神戸辺同様尤桑名大津波にて\n大さわぎのよし松坂辺少々いたみ\n山田大半くつれ家に相成申候\n志州鳥羽大ぢしん大津波にて\n御家中大半流れ市中も\n同様の事にてまことにたとへなき\n次第の由\n尾州宮辺関亀山草津宿辺\n大そんじ大坂同様の由委細の義未\n相分不申よし\n　十一月七日申来る\n\n",
+            "timestamp": {
+                "_nanoseconds": 229000000,
+                "_seconds": 1598421483
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a1921461288e2ded99222cfc2ce2d8cd334f2241.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88827",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88827/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88827",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "6324ED9D3BD429694DA6BFF272DBD313",
+    "label": "下野国那須郡那須湯本図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "下野国那須郡那須湯本図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-008-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "出版事項等",
+            "value": "人見綱為蔵版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33.5×21"
+        },
+        {
+            "label": "備考",
+            "value": "袋（I-11-008-002）あり"
+        },
+        {
+            "label": "identifier",
+            "value": "48a1fa71-5545-4a10-b580-b9509017f3b0"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0451"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a1921461288e2ded99222cfc2ce2d8cd334f2241.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/48a1fa71-5545-4a10-b580-b9509017f3b0/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "6324ED9D3BD429694DA6BFF272DBD313",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n下野国那須郡那須湯本図\n【俯瞰図右下角枠内】\n板室塩沢湯　　ヘ　　四リ\n三斗小屋西湯　ヘ　　七リ\n塩原福渡　　　ヘ　　九リ\n黒　羽　　　　へ　　八リ\n太田原　　　　ヘ　　八リ\n日　光　　　　ヘ　十八リ\n宇都宮　　　　ヘ　十八リ\n烏　山　　　　ヘ　十四リ\n真　岡　　　　ヘ　十七リ\n茂　木　　　　ヘ　十六リ\n笠　岡　　　　ヘ　廿　リ\n水　戸　　　　ヘ　廿五リ\n\n【俯瞰図左上角枠内】\n不許翻刻\n千里必究\n\n【俯瞰図左下角枠内】\n此図文晟所作請正\n校乎\n壇山斐先生□□曰\n可謂是矣又請加二\n三筆云\n　泉亭主人識\n\n【俯瞰図左下角枠外】\n人見綱為蔵板\n",
+            "text": "【タイトル】\n下野国那須郡那須湯本図\n【俯瞰図右下角枠内】\n板室塩沢湯　　ヘ　　四リ\n三斗小屋西湯　ヘ　　七リ\n塩原福渡　　　ヘ　　九リ\n黒　羽　　　　へ　　八リ\n太田原　　　　ヘ　　八リ\n日　光　　　　ヘ　十八リ\n宇都宮　　　　ヘ　十八リ\n烏　山　　　　ヘ　十四リ\n真　岡　　　　ヘ　十七リ\n茂　木　　　　ヘ　十六リ\n笠　岡　　　　ヘ　廿　リ\n水　戸　　　　ヘ　廿五リ\n\n【俯瞰図左上角枠内】\n不許翻刻\n千里必究\n\n【俯瞰図左下角枠内】\n此図文晟所作請正\n校乎\n壇山斐先生□□曰\n可謂是矣又請加二\n三筆云\n　泉亭主人識\n\n【俯瞰図左下角枠外】\n人見綱為蔵板\n",
+            "timestamp": {
+                "_nanoseconds": 976000000,
+                "_seconds": 1573825221
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

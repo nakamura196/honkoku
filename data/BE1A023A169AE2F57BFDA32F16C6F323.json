@@ -1,0 +1,196 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4f7a95e859f43525202b0ed1810fcc9d7aa83ff2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88602",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88602/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88602",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2fa54d0e0446a7472a910ecfaa134f8a81a61ebc.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219863",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219863/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219863",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "BE1A023A169AE2F57BFDA32F16C6F323",
+    "label": "江戸大地しん大火場所附 復刻版",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地しん大火場所附 復刻版"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-040"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "活版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "大正12年10月21日発行／発行者：檜村音次郎／定価30銭"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×55"
+        },
+        {
+            "label": "別タイトル",
+            "value": "安政大地震"
+        },
+        {
+            "label": "備考",
+            "value": "復刻版, 大正大震災の時復刻される／裏：安政大地震（「安政二年大震大火の図」「吉原の仮宅図」「（安政二年大震災）其当時発行の一枚摺」あり）"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "d986146a-bfe3-48b4-b2f6-6b72ae4294a4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0222"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4f7a95e859f43525202b0ed1810fcc9d7aa83ff2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "BE1A023A169AE2F57BFDA32F16C6F323",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "江戸大地しん大火場所附\n【図外上部　横書　「戸」と「大」の間に「墨」の文字、「ん」と大火の「大」の間に「紅」の文字あり】\n\n【図外右上】\n安政二年卯　十月二日\n【図内左下枠内】\n【上段】\n日本橋ヨリ諸方江道法\n神田明神　江　二十六丁\n湯島天神　江　二十九丁\n上野　　　江　三十二丁\n王子　　　江　一り三十丁\n東門跡　　江　三十五丁\n浅草観音　江　一り二丁\n新吉原　　江　一り十二丁\n猿若丁　　江　一り四丁\n両国　　　江　十三丁\n向島　　　江　一り\n梅若塚　　江　一り十八丁\n亀戸天神　江　一り五丁\n新羅漢　　江　一り十二丁\n深川八幡　江　一り十三丁\n洌嵜三十三間堂二十六丁\n西門跡　　江　十八丁\n【下段】\n佃嶋住吉　江　十八丁\n芝神明　　江　廿八丁\n愛宕山　　江　廿五丁\n増上寺　　江　廿九丁\n泉岳寺　　江　一り廿五丁\n御殿山　　江　一り三十五丁\n池上　　　江　三り半\n大師河原　江　五り余\n目黒不動　江　二り八丁\n祐天寺　　江　二り十丁\n品川東海寺江　二り\n新田　　　江　四り余\n四谷新宿　江　一り丗丁　\n堀の内　　江　二り三十丁\n雑司ヶ谷　江　一り廿九丁\n伝通院　　江　三十五丁\n根津　　　江　三十二丁\n西新井　　江　三り半\n",
+            "text": "江戸大地しん大火場所附\n【図外上部　横書　「戸」と「大」の間に「墨」の文字、「ん」と大火の「大」の間に「紅」の文字あり】\n\n【図外右上】\n安政二年卯　十月二日\n【図内左下枠内】\n【上段】\n日本橋ヨリ諸方江道法\n神田明神　江　二十六丁\n湯島天神　江　二十九丁\n上野　　　江　三十二丁\n王子　　　江　一り三十丁\n東門跡　　江　三十五丁\n浅草観音　江　一り二丁\n新吉原　　江　一り十二丁\n猿若丁　　江　一り四丁\n両国　　　江　十三丁\n向島　　　江　一り\n梅若塚　　江　一り十八丁\n亀戸天神　江　一り五丁\n新羅漢　　江　一り十二丁\n深川八幡　江　一り十三丁\n洌嵜三十三間堂二十六丁\n西門跡　　江　十八丁\n【下段】\n佃嶋住吉　江　十八丁\n芝神明　　江　廿八丁\n愛宕山　　江　廿五丁\n増上寺　　江　廿九丁\n泉岳寺　　江　一り廿五丁\n御殿山　　江　一り三十五丁\n池上　　　江　三り半\n大師河原　江　五り余\n目黒不動　江　二り八丁\n祐天寺　　江　二り十丁\n品川東海寺江　二り\n新田　　　江　四り余\n四谷新宿　江　一り丗丁　\n堀の内　　江　二り三十丁\n雑司ヶ谷　江　一り廿九丁\n伝通院　　江　三十五丁\n根津　　　江　三十二丁\n西新井　　江　三り半\n",
+            "timestamp": {
+                "_nanoseconds": 235000000,
+                "_seconds": 1571997980
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d986146a-bfe3-48b4-b2f6-6b72ae4294a4/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "BE1A023A169AE2F57BFDA32F16C6F323",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題　図内右下】\n安政大地震\n【表題左横】\n編纂者　　神代種亮\n【編纂者横図内】\n凡うき世の容（さま）お\n見るに深川仲丁\nやぐら下の央（あたり）【？】は\n前年の地震\n火災（くわじ）により\n野原のごとく\nなりしが\n仮宅の\n家並（やなみ）\n美々しく\n雅 路（みち）【？】\nの往来（ゐきゝ）\nたゆるとき\nなし其上\n不動尊（ふとうそん）新\n開帳につれ\n弥増（いやまし）のくんじゆ\nとなり針（はり）を\n立る地もなし\nげにも大江戸の\nはんぜう\nおは後（のち）の世\nの為にかくは\nしるし\nはべるなり\n\n【図左下上段】\n一、\t日時、安政二年(六十八年前)十月二日\n　　　夜四つ時(午後十時)\n二、\t焼失面積、社寺、武家方、町家共\n　　　総数長サ二里十九丁余幅二\n　　　丁半程\n三、\tつぶれ家、　町方ニテ一万四千三百四十\n　　　三軒、土蔵一千四百四十戸\n　　　武家方不明\n四、\t変死人、武家方三千八百十三人\n　　　　町方　四千三百三人\n　　吉原の変死者\n　　　　男　百四人\n　　　　女　五百二十七人\n【図左下下段】\n一、\t当時江戸人口凡五十余万人\n以上は笹川臨風先生秘蔵の「日記」に拠り\nたるものにて尤信憑すべき数字也、変死\n人の数は多くとも一万人内外なりしなるべし、\n俗説の十万人、地震年代記の十三万二千\n余人は根拠なきもの也、之を大正大震の五\n万数千人は比すれば遥かに劣れるは勿論なり、\n\n地震めが世界の人を蚤にして\n　つぶして見たり火へもくべたり\n何人の吟なるを知らざれども、江戸つ\n児の俤を伝へて余りあり\n　大正大震災後二旬日\n　　　　　　　七松庵主人記\n\n挿画説明【横書】\n一、右上の図は(安政二年大震大火の図)\n二、右下の二図は(吉原の仮宅図)\n三、左上の番附は(安政二年大震大火の図)其当\n　　時発行の一枚摺\n\n【左上番付】\n慶長以来【上段枠外横書】\n【中央一段目】\n聖代要廼磐寿恵（ゆるがぬみよかなめのいしづゑ）\n【中央二～四段通し】\n　当　　　　　　　五街道筋\n安政二年乙卯　　　　　　　　　　　　元禄　京都大雷　　　　　　　勧　愛宕神社\n十月二日夜　　　江戸大地震大火＜割書：差｜添＞　　嘉永　江戸大雷　　　　　　　進\n四ツ時半ヨリ　　　　　　　　　　　　万治　大坂大雷　　　　　　　要　鹿嶋大神宮\n\n　司　　　　　　　近在近郷\n　【右一段目】\n大火方【横書】\n大関　明暦三　　丸山本妙寺出火\n関脇　明和九　　目黒行人坂出火\n小結　文化二　　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　　佐久間町二丁目出火\n前頭　弘化四　　本郷丸山出火\n前頭　嘉永二　　麹町ヨリ出火\n前頭　弘化三　　青山ヨリ出火\n　【右二段目】\n前頭　享和九　　江戸大火\n前頭　寛政四　　糀町出火\n前頭　寛文元　　京都大火\n前頭　享保九　　大坂大火\n前頭　安永元　　江戸大火\n前頭　天明八　　京都大火\n前頭　安永七　　江戸大火\n前頭　天和元　　江戸大火\n前頭　寛政五　　根津出火\n前頭　承永【？】京都大火\n前頭　元和六　　京都大火\n前頭　安政　　　神田出火\n　【右三段目】\n同　　寛文元　　京都\n同　　享保九　　江戸大火\n同　　安永元　　江戸大火\n同　　天保五　　江戸大火\n同　　天保二　　江戸大火\n同　　安政元　　江戸大火\n同　　寛文四　　江戸大火\n同　　安政元　　中山道筋大火\n同　　同　　　　東海道筋大火\n同　　同　　　　宇都宮大火\n同　　同　　　　大坂大火\n同　　寛政　　　南都大火\n同　　同　　　　中国大火\n　【右四段目】\n洪水部【横書】\n大関　延宝四　　諸国大洪水\n関脇　宝永三　　中国大洪水\n小結　文政五　　関東大洪水\n前頭　享保二　　長崎大洪水\n前頭　享和二　　関東大洪水\n前頭　弘化四　　関東大洪水\n前頭　宝暦七　　関東大洪水\n前頭　寛保元　　関東大洪水　\n前頭　享保十三　関東大洪水\n前頭　寛延に　　江戸大洪水\n前頭　天和三　　江戸大洪水\n前頭　文化五　　関東大洪水\n　【左一段目】\n地震方【横書】\n大関　文政十一　越後大地震\n関脇　弘化四　　信濃大地震\n小結　元禄十六　関八州大地震\n前頭　嘉永元　　小田原大地震\n前頭　寛永四　　関東大地震\n前頭　寛政十　　小田原大地震\n前頭　天明二　　関東大地震\n前頭　安政元　　大坂大地震　\n　【左二段目】\n前頭　天和三　　日光大地震\n前頭　寛政十　　京都大地震\n前頭　文化九　　関東大地震\n前頭　安政元　　摂州大地震\n前頭　同年　　　駿河大地震\n前頭　同年　　　遠州大地震\n前頭　同年　　　甲斐大地震\n前頭　同年　　　信州大地震\n前頭　同年　　　三河大地震\n前頭　同年　　　紀州大地震\n前頭　同年　　　土佐大地震\n前頭　同年　　　播州大地震\n　【左三段目】\n同　　安政二　　行徳大地震\n同　　同　　　　船橋大地震\n同　　同　　　　神奈川大地震　　　　　\n同　　安政元　　阿波大地震\n同　　安政元　　伊予大地震\n同　　安政二　　中山道大地震\n同　　同　　　　東街道大地震\n同　　同　　　　水街道大地震\n同　　同　　　　日光道大地震\n同　　同　　　　下総大地震\n同　　同　　　　上総大地震\n同　　同　　　　青梅道大地震\n同　　同　　　　秩父大地震\n【左四段目】\n津浪部【横書】\n大関　文化元　　奥州大津浪\n関脇　同　　　　出羽大津浪\n小結　寛保　　　松前大津浪\n前頭　安政元　　豆州大津浪\n前頭　同　　　　駿州大津浪\n前頭　同　　　　摂州東津浪\n前頭　同　　　　紀州大津浪\n前頭　同　　　　土州大津浪　\n前頭　同　　　　播州大津浪\n前頭　同　　　　阿州大津浪\n前頭　同　　　　泉州大津浪\n前頭　同　　　　勢州大津浪\n\n【右枠外上から】\n大正十二年十月二十日印刷\n大正十二年十月二十一日発行\n\n不許複製\n定価金参拾銭\n\n東京都本郷区駒込林町二百三十七番地\n発行者　檜村音次郎\n東京都本郷区駒込林町二百三十七番地\n発行元　文明堂書店\n東京都小石川区初音町十一番地\n印刷所　千代田家印刷所\n電話　小石川二四四番\n",
+            "text": "【表題　図内右下】\n安政大地震\n【表題左横】\n編纂者　　神代種亮\n【編纂者横図内】\n凡うき世の容（さま）お\n見るに深川仲丁\nやぐら下の央（あたり）【？】は\n前年の地震\n火災（くわじ）により\n野原のごとく\nなりしが\n仮宅の\n家並（やなみ）\n美々しく\n雅 路（みち）【？】\nの往来（ゐきゝ）\nたゆるとき\nなし其上\n不動尊（ふとうそん）新\n開帳につれ\n弥増（いやまし）のくんじゆ\nとなり針（はり）を\n立る地もなし\nげにも大江戸の\nはんぜう\nおは後（のち）の世\nの為にかくは\nしるし\nはべるなり\n\n【図左下上段】\n一、\t日時、安政二年(六十八年前)十月二日\n　　　夜四つ時(午後十時)\n二、\t焼失面積、社寺、武家方、町家共\n　　　総数長サ二里十九丁余幅二\n　　　丁半程\n三、\tつぶれ家、　町方ニテ一万四千三百四十\n　　　三軒、土蔵一千四百四十戸\n　　　武家方不明\n四、\t変死人、武家方三千八百十三人\n　　　　町方　四千三百三人\n　　吉原の変死者\n　　　　男　百四人\n　　　　女　五百二十七人\n【図左下下段】\n一、\t当時江戸人口凡五十余万人\n以上は笹川臨風先生秘蔵の「日記」に拠り\nたるものにて尤信憑すべき数字也、変死\n人の数は多くとも一万人内外なりしなるべし、\n俗説の十万人、地震年代記の十三万二千\n余人は根拠なきもの也、之を大正大震の五\n万数千人は比すれば遥かに劣れるは勿論なり、\n\n地震めが世界の人を蚤にして\n　つぶして見たり火へもくべたり\n何人の吟なるを知らざれども、江戸つ\n児の俤を伝へて余りあり\n　大正大震災後二旬日\n　　　　　　　七松庵主人記\n\n挿画説明【横書】\n一、右上の図は(安政二年大震大火の図)\n二、右下の二図は(吉原の仮宅図)\n三、左上の番附は(安政二年大震大火の図)其当\n　　時発行の一枚摺\n\n【左上番付】\n慶長以来【上段枠外横書】\n【中央一段目】\n聖代要廼磐寿恵（ゆるがぬみよかなめのいしづゑ）\n【中央二～四段通し】\n　当　　　　　　　五街道筋\n安政二年乙卯　　　　　　　　　　　　元禄　京都大雷　　　　　　　勧　愛宕神社\n十月二日夜　　　江戸大地震大火《割書：差｜添》　　嘉永　江戸大雷　　　　　　　進\n四ツ時半ヨリ　　　　　　　　　　　　万治　大坂大雷　　　　　　　要　鹿嶋大神宮\n\n　司　　　　　　　近在近郷\n　【右一段目】\n大火方【横書】\n大関　明暦三　　丸山本妙寺出火\n関脇　明和九　　目黒行人坂出火\n小結　文化二　　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　　佐久間町二丁目出火\n前頭　弘化四　　本郷丸山出火\n前頭　嘉永二　　麹町ヨリ出火\n前頭　弘化三　　青山ヨリ出火\n　【右二段目】\n前頭　享和九　　江戸大火\n前頭　寛政四　　糀町出火\n前頭　寛文元　　京都大火\n前頭　享保九　　大坂大火\n前頭　安永元　　江戸大火\n前頭　天明八　　京都大火\n前頭　安永七　　江戸大火\n前頭　天和元　　江戸大火\n前頭　寛政五　　根津出火\n前頭　承永【？】京都大火\n前頭　元和六　　京都大火\n前頭　安政　　　神田出火\n　【右三段目】\n同　　寛文元　　京都\n同　　享保九　　江戸大火\n同　　安永元　　江戸大火\n同　　天保五　　江戸大火\n同　　天保二　　江戸大火\n同　　安政元　　江戸大火\n同　　寛文四　　江戸大火\n同　　安政元　　中山道筋大火\n同　　同　　　　東海道筋大火\n同　　同　　　　宇都宮大火\n同　　同　　　　大坂大火\n同　　寛政　　　南都大火\n同　　同　　　　中国大火\n　【右四段目】\n洪水部【横書】\n大関　延宝四　　諸国大洪水\n関脇　宝永三　　中国大洪水\n小結　文政五　　関東大洪水\n前頭　享保二　　長崎大洪水\n前頭　享和二　　関東大洪水\n前頭　弘化四　　関東大洪水\n前頭　宝暦七　　関東大洪水\n前頭　寛保元　　関東大洪水　\n前頭　享保十三　関東大洪水\n前頭　寛延に　　江戸大洪水\n前頭　天和三　　江戸大洪水\n前頭　文化五　　関東大洪水\n　【左一段目】\n地震方【横書】\n大関　文政十一　越後大地震\n関脇　弘化四　　信濃大地震\n小結　元禄十六　関八州大地震\n前頭　嘉永元　　小田原大地震\n前頭　寛永四　　関東大地震\n前頭　寛政十　　小田原大地震\n前頭　天明二　　関東大地震\n前頭　安政元　　大坂大地震　\n　【左二段目】\n前頭　天和三　　日光大地震\n前頭　寛政十　　京都大地震\n前頭　文化九　　関東大地震\n前頭　安政元　　摂州大地震\n前頭　同年　　　駿河大地震\n前頭　同年　　　遠州大地震\n前頭　同年　　　甲斐大地震\n前頭　同年　　　信州大地震\n前頭　同年　　　三河大地震\n前頭　同年　　　紀州大地震\n前頭　同年　　　土佐大地震\n前頭　同年　　　播州大地震\n　【左三段目】\n同　　安政二　　行徳大地震\n同　　同　　　　船橋大地震\n同　　同　　　　神奈川大地震　　　　　\n同　　安政元　　阿波大地震\n同　　安政元　　伊予大地震\n同　　安政二　　中山道大地震\n同　　同　　　　東街道大地震\n同　　同　　　　水街道大地震\n同　　同　　　　日光道大地震\n同　　同　　　　下総大地震\n同　　同　　　　上総大地震\n同　　同　　　　青梅道大地震\n同　　同　　　　秩父大地震\n【左四段目】\n津浪部【横書】\n大関　文化元　　奥州大津浪\n関脇　同　　　　出羽大津浪\n小結　寛保　　　松前大津浪\n前頭　安政元　　豆州大津浪\n前頭　同　　　　駿州大津浪\n前頭　同　　　　摂州東津浪\n前頭　同　　　　紀州大津浪\n前頭　同　　　　土州大津浪　\n前頭　同　　　　播州大津浪\n前頭　同　　　　阿州大津浪\n前頭　同　　　　泉州大津浪\n前頭　同　　　　勢州大津浪\n\n【右枠外上から】\n大正十二年十月二十日印刷\n大正十二年十月二十一日発行\n\n不許複製\n定価金参拾銭\n\n東京都本郷区駒込林町二百三十七番地\n発行者　檜村音次郎\n東京都本郷区駒込林町二百三十七番地\n発行元　文明堂書店\n東京都小石川区初音町十一番地\n印刷所　千代田家印刷所\n電話　小石川二四四番\n",
+            "timestamp": {
+                "_nanoseconds": 659000000,
+                "_seconds": 1572051262
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

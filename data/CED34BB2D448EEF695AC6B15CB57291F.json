@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a6551a54e0d76fc9c3cb2067424765e79afe2c8f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88779",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88779/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88779",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "CED34BB2D448EEF695AC6B15CB57291F",
+    "label": "最上郡肘折温泉図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "最上郡肘折温泉図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-027"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "同資料：I-09-024"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×49"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-09-024"
+        },
+        {
+            "label": "identifier",
+            "value": "920f7cb3-92fd-44ea-b7e8-4be00af43602"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0399"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a6551a54e0d76fc9c3cb2067424765e79afe2c8f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/920f7cb3-92fd-44ea-b7e8-4be00af43602/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "CED34BB2D448EEF695AC6B15CB57291F",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n最上郡肘折温泉図\n【右下角枠内】\n東京日本橋区堀江町\n二丁目十番地\n＜割書：印刷兼｜発行者＞亘市兵衛\n【俯瞰図左枠内】\n【四段構成】\n【第一段】\n○疵湯効能\n一＜割書：消化器ノ｜衰弱セシ者＞　＜割書：しよくすゝまずこなれ｜あしくはきかへし＞＜割書：又はくだりやすきもの｜＞\n一頭瘡　＜割書：みづくさかさふきで｜ものゝるい＞\n一挫傷　うちみきりきず\n一神経痛　＜割書：すじほねなどのい｜たみ又はせんきなど＞\n一萎黄病　＜割書：さんぜんさんご又はわかき｜ふ人におこる血のすく＞＜割書：なきやまい｜＞\n一子宮病　＜割書：ながちひらちゐんぶの｜たゞれしやくこしの＞＜割書：いたみ｜＞\n一膣加答児　＜割書：ぢろのち｜しら血のるい＞\n一痳疾　りんしつ\n一貧血　血のすくなき病\n【第二段】\n一脚気　□いれき\n○分析表　　　　　み\n【第二段上】\n一無色透明\n一温度五十五度\n一炭酸多量\n一燐酸痕跡\n一＜割書：コロ｜―ル＞最多量\n一ポトアス中量\n一礬土痕跡\n一鉄少量\n【第二段下】\n一反応中性\n一気温十度\n一硫酸多量\n一珪酸少量\n一ソーダ中量\n一苦土少量\n一石灰痕跡\n【第三段】\n○疝気湯\n一＜割書：消化器ノ｜衰弱セシ者＞　＜割書：しよくすゝまずこなれ｜あしくてはきかへし＞＜割書：又はくだりやすきもの｜＞\n一頭瘡　＜割書：みづくさふきで｜ものゝるい＞\n一脚気　かつけ\n一萎黄病　＜割書：さんぜんさんご又□｜わかきふ人におこる＞＜割書：血のすくなきやまい｜＞\n一神経痛　＜割書：すじほねなどのいた｜み又はせんきなど＞\n一子宮病　＜割書：ながちしらちゐんぶの｜たゞれしやくこしの＞＜割書：いたみなど｜＞\n一膣加答児　＜割書：ぢろかち｜しら血の類＞\n一痳疾　りん□よう\n一貧血　血のすくなき病\n【第四段】\n一腺病　るいれき\n一挫傷　＜割書：うちみおよび｜きりきず＞\n○分析表\n【第四段上】\n一無色透明\n一温度四十九度\n一炭酸多量\n一コロ―ル最多量\n一カリウム\n一礬土痕跡\n【第四段下】\n一反応中性\n一気温十度\n一硫酸多量\n一珪酸少量\n一ソーダ中量\n一苦土少量\n一石灰痕跡\n【第四段別枠】\n山形県最上郡\n",
+            "text": "【タイトル】\n最上郡肘折温泉図\n【右下角枠内】\n東京日本橋区堀江町\n二丁目十番地\n《割書：印刷兼｜発行者》亘市兵衛\n【俯瞰図左枠内】\n【四段構成】\n【第一段】\n○疵湯効能\n一《割書：消化器ノ｜衰弱セシ者》　《割書：しよくすゝまずこなれ｜あしくはきかへし》《割書：又はくだりやすきもの｜》\n一頭瘡　《割書：みづくさかさふきで｜ものゝるい》\n一挫傷　うちみきりきず\n一神経痛　《割書：すじほねなどのい｜たみ又はせんきなど》\n一萎黄病　《割書：さんぜんさんご又はわかき｜ふ人におこる血のすく》《割書：なきやまい｜》\n一子宮病　《割書：ながちひらちゐんぶの｜たゞれしやくこしの》《割書：いたみ｜》\n一膣加答児　《割書：ぢろのち｜しら血のるい》\n一痳疾　りんしつ\n一貧血　血のすくなき病\n【第二段】\n一脚気　□いれき\n○分析表　　　　　み\n【第二段上】\n一無色透明\n一温度五十五度\n一炭酸多量\n一燐酸痕跡\n一《割書：コロ｜―ル》最多量\n一ポトアス中量\n一礬土痕跡\n一鉄少量\n【第二段下】\n一反応中性\n一気温十度\n一硫酸多量\n一珪酸少量\n一ソーダ中量\n一苦土少量\n一石灰痕跡\n【第三段】\n○疝気湯\n一《割書：消化器ノ｜衰弱セシ者》　《割書：しよくすゝまずこなれ｜あしくてはきかへし》《割書：又はくだりやすきもの｜》\n一頭瘡　《割書：みづくさふきで｜ものゝるい》\n一脚気　かつけ\n一萎黄病　《割書：さんぜんさんご又□｜わかきふ人におこる》《割書：血のすくなきやまい｜》\n一神経痛　《割書：すじほねなどのいた｜み又はせんきなど》\n一子宮病　《割書：ながちしらちゐんぶの｜たゞれしやくこしの》《割書：いたみなど｜》\n一膣加答児　《割書：ぢろかち｜しら血の類》\n一痳疾　りん□よう\n一貧血　血のすくなき病\n【第四段】\n一腺病　るいれき\n一挫傷　《割書：うちみおよび｜きりきず》\n○分析表\n【第四段上】\n一無色透明\n一温度四十九度\n一炭酸多量\n一コロ―ル最多量\n一カリウム\n一礬土痕跡\n【第四段下】\n一反応中性\n一気温十度\n一硫酸多量\n一珪酸少量\n一ソーダ中量\n一苦土少量\n一石灰痕跡\n【第四段別枠】\n山形県最上郡\n",
+            "timestamp": {
+                "_nanoseconds": 474000000,
+                "_seconds": 1582443711
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

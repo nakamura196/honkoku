@@ -1,0 +1,175 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7222,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2c6f327ee3809e0ffdc386b5a3ec2af78bdb53cc.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7222,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56256",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9612
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56256/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56256",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9612
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7222,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/173f8d0c131d6024563abe3d7d81be98865cb9a6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7222,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56257",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9612
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56257/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56257",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9612
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "57D8919543ACE84C2B169DF72F7BA540",
+    "label": "摂津大津波次第",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "摂津大津波次第"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月5日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "f50bff07-5e2e-4af8-9198-4d21509564e4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1065"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2c6f327ee3809e0ffdc386b5a3ec2af78bdb53cc.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "57D8919543ACE84C2B169DF72F7BA540",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "嘉永七甲寅年十一月五日\n摂津大津波次第\n\n▲五日七ッ時より沖雷のごとく\n　うなりつなみと相成高さ\n　壱丈余りの大浪打きたり\n　寺島近辺勘助しまなんば\n　嶋天保山大つなみにて皆々\n　家根へ又はふねをかり\n　家内をのせ候ふねは皆々\n　命をうしなひ舟のり\n　船頭其ほか女子とも死人\n　其数しれずつなみにて\n　道とんぼり下日吉はし\n　より唐金ばし幸ばし\n　住吉ばしまて四つの橋\n　押おとし大こくばしまで\n　千石已上以下の北米船凡\n　百ぱいばかり入こみ釼先\n　茶ふね天満なとはみな\n　下敷に相なり堀江川下\n　水分ばし黒金はし長ほり\n　下高ばし安治川ばし\n　みな〳〵橋押おとし又所々に\n　死人あちらに三人こちらに五人\n　女子供死害其数しれず\n　つなみ五日夜五ッ時に差おさ\n　まり安治川へん橋のこらす落る\n　其こんざつ筆紙につくしがたし\n　おそるべし〳〵〳〵〳〵\n　　未地震おさまり\n　　　　　　　申さず事\n　　　　古今稀代の珍事なり\n\n【挿絵内】\n　　大地震の略図\n　　十一月四日朝\n　　五ツ時ゟ又\n　　五日七ツ時大\n　　地震にて所々家々\n　先に地震にてそんじ有所\n押たをれ候事数しれず\n▲天満天神社内ゟ西寺町\n　福しま天神五百らかん\n　願教寺門くづれ\n　あはざ戸や町辺ざまの\n　鳥居落御堂の損じ\n　順慶町丼池塩町\n　さのやばしへん死人二人\n　高津寺町安治川\n　　亀井はし\n　　　　堺市中\n　　　　奈良\n　　　　南河内\n　　　　尼□□\n　　　　　　わたし\n　　　　　其余こゝに略\n\n【挿絵地図内】\n　　　北安治川　　安治川はし\n　南安し川\n　　寺じま　戎じま　亀井ばし　天神おたび　番所　江の子嶋　\n木津川　【この後大まかに川沿いに図の右から左へ】\nまいたれじま　道とんぼり川　幸町　幸栄ばし　なみよしばし\n日吉ばし　からかねはし　南ほりへ　幸ばし　住吉はし　金やはし　西横堀　大黒はし　\n水わけはし　黒金はし　北ほりへ　かめはし　ほりへ川\n長ほり\n高ばし　玉造はし\n立売堀\n高ばし　　\n\n\n",
+            "text": "嘉永七甲寅年十一月五日\n摂津大津波次第\n\n▲五日七ッ時より沖雷のごとく\n　うなりつなみと相成高さ\n　壱丈余りの大浪打きたり\n　寺島近辺勘助しまなんば\n　嶋天保山大つなみにて皆々\n　家根へ又はふねをかり\n　家内をのせ候ふねは皆々\n　命をうしなひ舟のり\n　船頭其ほか女子とも死人\n　其数しれずつなみにて\n　道とんぼり下日吉はし\n　より唐金ばし幸ばし\n　住吉ばしまて四つの橋\n　押おとし大こくばしまで\n　千石已上以下の北米船凡\n　百ぱいばかり入こみ釼先\n　茶ふね天満なとはみな\n　下敷に相なり堀江川下\n　水分ばし黒金はし長ほり\n　下高ばし安治川ばし\n　みな〳〵橋押おとし又所々に\n　死人あちらに三人こちらに五人\n　女子供死害其数しれず\n　つなみ五日夜五ッ時に差おさ\n　まり安治川へん橋のこらす落る\n　其こんざつ筆紙につくしがたし\n　おそるべし〳〵〳〵〳〵\n　　未地震おさまり\n　　　　　　　申さず事\n　　　　古今稀代の珍事なり\n\n【挿絵内】\n　　大地震の略図\n　　十一月四日朝\n　　五ツ時ゟ又\n　　五日七ツ時大\n　　地震にて所々家々\n　先に地震にてそんじ有所\n押たをれ候事数しれず\n▲天満天神社内ゟ西寺町\n　福しま天神五百らかん\n　願教寺門くづれ\n　あはざ戸や町辺ざまの\n　鳥居落御堂の損じ\n　順慶町丼池塩町\n　さのやばしへん死人二人\n　高津寺町安治川\n　　亀井はし\n　　　　堺市中\n　　　　奈良\n　　　　南河内\n　　　　尼□□\n　　　　　　わたし\n　　　　　其余こゝに略\n\n【挿絵地図内】\n　　　北安治川　　安治川はし\n　南安し川\n　　寺じま　戎じま　亀井ばし　天神おたび　番所　江の子嶋　\n木津川　【この後大まかに川沿いに図の右から左へ】\nまいたれじま　道とんぼり川　幸町　幸栄ばし　なみよしばし\n日吉ばし　からかねはし　南ほりへ　幸ばし　住吉はし　金やはし　西横堀　大黒はし　\n水わけはし　黒金はし　北ほりへ　かめはし　ほりへ川\n長ほり\n高ばし　玉造はし\n立売堀\n高ばし　　\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 700000000,
+                "_seconds": 1575879763
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f50bff07-5e2e-4af8-9198-4d21509564e4/canvas/p2",
+            "editedBy": null,
+            "entryId": "57D8919543ACE84C2B169DF72F7BA540",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030667852
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

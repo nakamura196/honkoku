@@ -1,0 +1,292 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7134,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ae96ba454b1b214c213b1188b5f3e80e5a4ed2a6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7134,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56221",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5360
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56221/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56221",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5360
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7134,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e1940ea222767ca5cc89996afd820a089d2e1d72.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7134,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56222",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5360
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56222/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56222",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5360
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 7134,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8318bff89f2763305e66b509c136eaa3c30ad94c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7134,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56223",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5360
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56223/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56223",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5360
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p4",
+            "@type": "sc:Canvas",
+            "height": 7134,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/annotation/p0004-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p4",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d6edc6f98dc636593e5e07d140ab15015f51e344.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7134,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56224",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5360
+                    }
+                }
+            ],
+            "label": "[4]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56224/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56224",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5360
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "F510772C439D085BD0FE399186C308CC",
+    "label": "大津ぶれぶし",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大津ぶれぶし"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "2枚あり／うち1枚には浮世絵の裏打ちあり（「筑波根山平」「橋本や白糸」）／同資料：I-02-059"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "340f027a-f302-4db0-ba9e-e0a17ab0d5ff"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1046"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 4,
+    "projectId": "ishimoto",
+    "size": 4,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ae96ba454b1b214c213b1188b5f3e80e5a4ed2a6.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p1",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "F510772C439D085BD0FE399186C308CC",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "大津ぶれ\n　　ふし\n乁　たいそふ\n　　おしつぶれ\n　　　火事で気\n　　　　たいがいゆりくずし\n　　　仮たくおやまハ無事の花\n　　　　わらわらんじは高（たか）くなり\n　　　土蔵の鉢（はち）まき皆（みな）ふるひ\n　　　　　　　　　　　　　ぎやうてんし\n　　　土をばたかくつみあげて\n　　　　あら木の板（いた）も直売してか金もうけ\n　　　職人手間をバおさへ取り\n　　　　　役者の（やくしゃ）のこんきう旅を売（うり）\n　　　　　お手持ほどこし跡よからふ",
+            "text": "大津ぶれ\n　　ふし\n乁　たいそふ\n　　おしつぶれ\n　　　火事で気\n　　　　たいがいゆりくずし\n　　　仮たくおやまハ無事の花\n　　　　わらわらんじは高（たか）くなり\n　　　土蔵の鉢（はち）まき皆（みな）ふるひ\n　　　　　　　　　　　　　ぎやうてんし\n　　　土をばたかくつみあげて\n　　　　あら木の板（いた）も直売してか金もうけ\n　　　職人手間をバおさへ取り\n　　　　　役者の（やくしゃ）のこんきう旅を売（うり）\n　　　　　お手持ほどこし跡よからふ",
+            "timestamp": {
+                "_nanoseconds": 472000000,
+                "_seconds": 1567763651
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p2",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "F510772C439D085BD0FE399186C308CC",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "（一頁裏面で資料番号のみ、翻刻なし）",
+            "text": "（一頁裏面で資料番号のみ、翻刻なし）",
+            "timestamp": {
+                "_nanoseconds": 478000000,
+                "_seconds": 1567763444
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p3",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "F510772C439D085BD0FE399186C308CC",
+            "index": 2,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "大津ぶれ\n　　　　　ぶし\n\n乁　たいそふ\n　　　おしつぶれ\n　　火事出来\n　　　たいがいゆりくずし\n　　仮たくおやまハ無事の花\n　　　わらんじハ高（たか）くなり\n　土蔵の鉢（はち）まき皆（みな）ふるひ\n　　　　　　　　　　　ぎやうてんし\n　土をばたかくつみあげて\n　　あら木の板（いた）も直売して金もうけ\n　　職人手間をバおさへ取リ\n　　　　｜役者（やくしゃ）のこんきう旅（たび）を売（う）り\n　　　　かね持ほどこし跡（あと）よからふ\n\n",
+            "text": "大津ぶれ\n　　　　　ぶし\n\n乁　たいそふ\n　　　おしつぶれ\n　　火事出来\n　　　たいがいゆりくずし\n　　仮たくおやまハ無事の花\n　　　わらんじハ高（たか）くなり\n　土蔵の鉢（はち）まき皆（みな）ふるひ\n　　　　　　　　　　　ぎやうてんし\n　土をばたかくつみあげて\n　　あら木の板（いた）も直売して金もうけ\n　　職人手間をバおさへ取リ\n　　　　｜役者（やくしゃ）のこんきう旅（たび）を売（う）り\n　　　　かね持ほどこし跡（あと）よからふ\n\n",
+            "timestamp": {
+                "_nanoseconds": 656000000,
+                "_seconds": 1567838761
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/340f027a-f302-4db0-ba9e-e0a17ab0d5ff/canvas/p4",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "F510772C439D085BD0FE399186C308CC",
+            "index": 3,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "築波根　山平\n\n　　　　　　　　　　　橋本や白糸",
+            "text": "築波根　山平\n\n　　　　　　　　　　　橋本や白糸",
+            "timestamp": {
+                "_nanoseconds": 366000000,
+                "_seconds": 1567490172
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

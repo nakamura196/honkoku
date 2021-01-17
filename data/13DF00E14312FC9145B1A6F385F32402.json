@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5606,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/117d9f64992f58c0cce8929fdc3622ffa19ef58e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5606,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56168",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7461
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56168/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56168",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7461
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5606,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c83a2e0670ecfd9be5979d5de997305b82148fda.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5606,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56169",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7461
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56169/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56169",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7461
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "13DF00E14312FC9145B1A6F385F32402",
+    "label": "[鯰仮宅にて打擲されるの図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[鯰仮宅にて打擲されるの図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "896ef8ce-4115-4764-a608-f488cb030c4d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1024"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/117d9f64992f58c0cce8929fdc3622ffa19ef58e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "13DF00E14312FC9145B1A6F385F32402",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "「ちよいと〳〵\nおつかアのをぶつて\nおくれヨ\n\n「ひどいめに\nあはしてくんな\nましよ\n\n「いいきびざ\nますねへ\n\n「マア〳〵\nごかんべん〳〵\n\n「わちきにも\nぶたして\nくんなまし\nヨウ\n\n\nなまづ\n「おれぐらゐのなまづの\n手ぎはて二日のばんの\nしごとができる\nものか\nよくかんかへて\n見なせへな\nいたへ\n〳〵〳〵\n〳〵〳〵\n\n「すんでのことに\nかりたくも\nできねへ所た\nそのはらいせに\nうごかずと\nぶたれろへ\n\n「おれも\nなまづだ\nけれども\nおれじやア\nねへ\nなまづちがひ\nだよ\n〳〵〳〵\n\n「うぬで\nなくつても\nかまはねへ\nから\nたくさん\nぶたれて\nかへつて\nはなせ\n\n「マア〳〵\nおまちなせへ\nそいつのおかけで\n又いゝことも\nありますはね\nいゝかげんにして\nかんにんしなせヱ　\n\n安政町二年目 神無月屋I",
+            "text": "「ちよいと〳〵\nおつかアのをぶつて\nおくれヨ\n\n「ひどいめに\nあはしてくんな\nましよ\n\n「いいきびざ\nますねへ\n\n「マア〳〵\nごかんべん〳〵\n\n「わちきにも\nぶたして\nくんなまし\nヨウ\n\n\nなまづ\n「おれぐらゐのなまづの\n手ぎはて二日のばんの\nしごとができる\nものか\nよくかんかへて\n見なせへな\nいたへ\n〳〵〳〵\n〳〵〳〵\n\n「すんでのことに\nかりたくも\nできねへ所た\nそのはらいせに\nうごかずと\nぶたれろへ\n\n「おれも\nなまづだ\nけれども\nおれじやア\nねへ\nなまづちがひ\nだよ\n〳〵〳〵\n\n「うぬで\nなくつても\nかまはねへ\nから\nたくさん\nぶたれて\nかへつて\nはなせ\n\n「マア〳〵\nおまちなせへ\nそいつのおかけで\n又いゝことも\nありますはね\nいゝかげんにして\nかんにんしなせヱ　\n\n安政町二年目 神無月屋I",
+            "timestamp": {
+                "_nanoseconds": 715000000,
+                "_seconds": 1572231411
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/896ef8ce-4115-4764-a608-f488cb030c4d/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "13DF00E14312FC9145B1A6F385F32402",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【裏】",
+            "text": "【裏】",
+            "timestamp": {
+                "_nanoseconds": 607000000,
+                "_seconds": 1574842577
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

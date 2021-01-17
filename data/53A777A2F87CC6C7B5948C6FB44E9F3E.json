@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/66c1c4992176f5e80943b28a30c7eb192704202b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88852",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88852/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88852",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "53A777A2F87CC6C7B5948C6FB44E9F3E",
+    "label": "有馬市街之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "有馬市街之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-028"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治16年6月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "銅版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "編集出版人・梶木源二郎／明治16年6月25日届"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×56"
+        },
+        {
+            "label": "year",
+            "value": "1883"
+        },
+        {
+            "label": "identifier",
+            "value": "70a2e74c-8b63-433e-942d-b89c68bf4cad"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0476"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/66c1c4992176f5e80943b28a30c7eb192704202b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/70a2e74c-8b63-433e-942d-b89c68bf4cad/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "53A777A2F87CC6C7B5948C6FB44E9F3E",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n有馬市街之図\n【俯瞰図上に本湯改良建築と炭酸水飲用所建築の図を掲げている】\n【俯瞰図左側に本文と付近の道路地図】\n【道路地図の上】\n○\t舒明天皇御製\nみか月の塩湯にうつる影見れは\nかたわもなをる七日〳〵に\n○\t花山院御製\n有馬富士麓の霧は海に似て\n浪かと聞は小野ゝまつ風\n山掩日光尽尚昏陰々恰作別乾坤\n若微冷熱両泉出寂々寥々一水村\n　　　　　　　　近衛霞山\n養痾愛此地幽問春去夏来猶未還\n浴後浴前無一事□【霊？】意終日対青山\n　　　　　　　　常盤井桐陰\n達峯畳々自天関孤客小棲閑対山\n秋気谿辺清到骨青松又与浅紅斑\n　　　　　　　　井上世外\n名山重到似帰家且喜楼居結構加\n一事猶然浴奮例争斉緒来乞塗鴉\n　　　　　　　　重野成齋\n山水依然歩々軽喜望落葉奮詩盟\n前遊三度吐長夏不似楓樹待此行\n　　　　　　　　清岡東望\n脩竹万竿君子居野梅千対美人家\n主翁終日何為晨朝在山中夕水涯\n　　　　　　　　鳥尾得庵\nたに水も安すきなかれの\n有馬山山おもしろきところな\nりけり　　　　　山懸無隣\n秋【わ當？】春のけしきに勝りけり夕日\nに照らす峰の楓葉　　　　　後藤\n\n山気日夕佳飛鳥相□還　後藤牧長\n清々首陽節楚々江湖魂　挋野愛州\nたちならふ松の梢をさし出てゝ\n塩原山にみちる月かけ　土井無膓\n馬山終日雨重大也蕭然何用登山\n高労地中有薬泉　　　　　　稼亭\n重巒四面一渓録竹頼泉声山院閑\n夕浴正終憑欄處灰形峯翠滴担間\n　　　　　　　　　　　　　簾雨\n【道路地図の下】\n我昔官摂西常苦夏熱煎三伏官暇除例\n入馬山民馬山有宝池神功出霊泉炎毒\n可以消沈痾可以痊況又渓山美画絶断\n□緑古寺雲樹表楼閣奇巌前人間有此\n境不復羨神仙陳迹帰一夢脩□忽七年\n○再落□□裏日為俗累纒山中有故人\n頃日鼓箏□□勤励再遊高情不我□賦\n詩謝故人三歎独自□再遊不可期□首\n望西天\n○有馬邑長梶木氏属寄書促我再遊我\n未果行賦之□謝\n明治十五年一月\n　　　　　　　　淡崖迂夫\n二上リ　有馬名所歌\n有馬名所は薬師にはたご冨\n士の朝雰亀の尾のつゝみの滝\nや落葉山清水いなり鳥地\n獄糸細工竹細工一の湯と\n二の湯との湯つほにい\nらさんせ\n　同新歌\n名所ありまの其場所とへは\n炭酸水とあなむちの水は\n名にあふ高さこや秀吉公の\n手水鉢住よし道の洞の\nもん蜘蛛の滝つふて石瑞\n宝寺を御覧あれ\n【炭酸水の瓶のイラスト】異国まで鳴りひゞき\nたる鉄砲水わき出るたまは口薬りにて　発見人\n　　　　　　　　　　　　　　　　　　　梶木\n　名所並に産物表\n鼓ヶ滝　亀の尾　炭酸泉\n清　水　鳥地獄　薬師堂\n有明桜　瑞宝寺　落葉山\n巳尊清水\n　○\n湯之花　竹細工　竹皮箱\n筆　墨　花山椒　越天楽\n川　鹿　松　茸　香　茸\n湯染手拭\n",
+            "text": "【タイトル】\n有馬市街之図\n【俯瞰図上に本湯改良建築と炭酸水飲用所建築の図を掲げている】\n【俯瞰図左側に本文と付近の道路地図】\n【道路地図の上】\n○\t舒明天皇御製\nみか月の塩湯にうつる影見れは\nかたわもなをる七日〳〵に\n○\t花山院御製\n有馬富士麓の霧は海に似て\n浪かと聞は小野ゝまつ風\n山掩日光尽尚昏陰々恰作別乾坤\n若微冷熱両泉出寂々寥々一水村\n　　　　　　　　近衛霞山\n養痾愛此地幽問春去夏来猶未還\n浴後浴前無一事□【霊？】意終日対青山\n　　　　　　　　常盤井桐陰\n達峯畳々自天関孤客小棲閑対山\n秋気谿辺清到骨青松又与浅紅斑\n　　　　　　　　井上世外\n名山重到似帰家且喜楼居結構加\n一事猶然浴奮例争斉緒来乞塗鴉\n　　　　　　　　重野成齋\n山水依然歩々軽喜望落葉奮詩盟\n前遊三度吐長夏不似楓樹待此行\n　　　　　　　　清岡東望\n脩竹万竿君子居野梅千対美人家\n主翁終日何為晨朝在山中夕水涯\n　　　　　　　　鳥尾得庵\nたに水も安すきなかれの\n有馬山山おもしろきところな\nりけり　　　　　山懸無隣\n秋【わ當？】春のけしきに勝りけり夕日\nに照らす峰の楓葉　　　　　後藤\n\n山気日夕佳飛鳥相□還　後藤牧長\n清々首陽節楚々江湖魂　挋野愛州\nたちならふ松の梢をさし出てゝ\n塩原山にみちる月かけ　土井無膓\n馬山終日雨重大也蕭然何用登山\n高労地中有薬泉　　　　　　稼亭\n重巒四面一渓録竹頼泉声山院閑\n夕浴正終憑欄處灰形峯翠滴担間\n　　　　　　　　　　　　　簾雨\n【道路地図の下】\n我昔官摂西常苦夏熱煎三伏官暇除例\n入馬山民馬山有宝池神功出霊泉炎毒\n可以消沈痾可以痊況又渓山美画絶断\n□緑古寺雲樹表楼閣奇巌前人間有此\n境不復羨神仙陳迹帰一夢脩□忽七年\n○再落□□裏日為俗累纒山中有故人\n頃日鼓箏□□勤励再遊高情不我□賦\n詩謝故人三歎独自□再遊不可期□首\n望西天\n○有馬邑長梶木氏属寄書促我再遊我\n未果行賦之□謝\n明治十五年一月\n　　　　　　　　淡崖迂夫\n二上リ　有馬名所歌\n有馬名所は薬師にはたご冨\n士の朝雰亀の尾のつゝみの滝\nや落葉山清水いなり鳥地\n獄糸細工竹細工一の湯と\n二の湯との湯つほにい\nらさんせ\n　同新歌\n名所ありまの其場所とへは\n炭酸水とあなむちの水は\n名にあふ高さこや秀吉公の\n手水鉢住よし道の洞の\nもん蜘蛛の滝つふて石瑞\n宝寺を御覧あれ\n【炭酸水の瓶のイラスト】異国まで鳴りひゞき\nたる鉄砲水わき出るたまは口薬りにて　発見人\n　　　　　　　　　　　　　　　　　　　梶木\n　名所並に産物表\n鼓ヶ滝　亀の尾　炭酸泉\n清　水　鳥地獄　薬師堂\n有明桜　瑞宝寺　落葉山\n巳尊清水\n　○\n湯之花　竹細工　竹皮箱\n筆　墨　花山椒　越天楽\n川　鹿　松　茸　香　茸\n湯染手拭\n",
+            "timestamp": {
+                "_nanoseconds": 911000000,
+                "_seconds": 1573218459
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

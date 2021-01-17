@@ -1,0 +1,131 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/63f00261b41566abee05a6865efd3c159524d418.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88817",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88817/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88817",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "91F62BD3883B74CC55674DFA66126D83",
+    "label": "富士参詣道",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士参詣道"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "引札"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "内藤新宿 扇屋又兵衛(宿屋)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "30×?"
+        },
+        {
+            "label": "備考",
+            "value": "右端欠"
+        },
+        {
+            "label": "identifier",
+            "value": "53f099ea-5cd7-4288-99f3-eb9ee99af279"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0441"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/63f00261b41566abee05a6865efd3c159524d418.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/53f099ea-5cd7-4288-99f3-eb9ee99af279/canvas/p1",
+            "editedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "entryId": "91F62BD3883B74CC55674DFA66126D83",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "AvTR5gBQRwWz97rrP2ceSNyzkMI3",
+            "tempText": "《割書：甲州路　｜御登山》冨士参詣道　　　　　　　│□【御定宿ヵ】\n　　　　　連名之内■■可被下候│同　《割書：内藤新宿｜　　扇屋又兵衛》\n　　　　　　　　　　　　　　　│同　《割書：峠｜　　柏屋佐右衛門》\n　　　　　　　　　　　　　　　│同　《割書：さるはし年寄｜　　小松屋要蔵》\n　　　　　　　　　　　　　　　│同　《割書：さか井川｜　　亀沢国次郎》\n【下から第二段】　　【最下段】\n申橋　　こまはしへ　│日本橋　しんしゆくへ\n小松や要蔵　　　　　│　　　　一里\n角や清右衛門　　　　│\n本陣　　　　　　　　│新宿　　高いとへ\n　本五郎　　　　　　│　　　　二里廿五丁\n小西や　　　　　　　│仲丁\n　太郎左衛門　　　　│　扇屋又兵衛\n　　　　　　　　　　│荻久保\n駒橋　　大つきへ　　│八橋や\n　　　　十六丁　　　│■三郎\n高山　　　　　　　　│\n庄右衛門　　　　　　│高井戸　ふだへ\n　　　　　　　　　　│　　　　二り\n大月　　やむらへ　　│■𠮷や\n　　　　二り　　　　│　源蔵\n　ひ本や　　　　　　│武さしや\n　　十兵へ　　　　　│　伊兵へ\nきしの　　　　　　　│国領宿\n　左兵へ　　　　　　│　立■■\n田の倉　　　　　　　│橋本\n　大のや■兵へ　　　│小左衛門\n四日市■　　　　　　│\n鎌くらや金五郎　　　│布田　　ふちうへ\n　　　　　　　　　　│　　　　二り\n谷村　　をぬまへ　　│増田や\n　　　　一里半　　　│新兵へ\n嶋や平兵へ　　　　　│\nつちや清兵へ　　　　│府中　　ひのへ\n福や　　　　　　　　│　　　　二り九丁\n　■■衛門　　　　　│柏や三四郎\n松■　　　　　　　　│甲州や嘉左衛門\n　八■へ　　　　　　│明神まへ\n　　　　　　　　　　│中や平兵へ\n小沼　　よし田へ　　│\n　　　　一り半　　　│日野　　八王子へ\n■■　　　　　　　　│　　　　一り廿七丁\n　大木や浜之進　　　│つるや\n宿　　　　　　　　　│　久兵へ\n林や半右衛門　　　　│麻田や\n金山儀左衛門　　　　│　徳三郎\n　　　　　　　　　　│森本\n𠮷田大鳥居ゟ絶頂■　│　右三郎\n　　三百五十七丁十二間\n【左側】\n八王子　こまきのへ\n　　　　一り半\n角や五郎四郎\n大坂や■左衛門\n油や三郎左衛門\n三■や■七\n山上十郎左衛門\n古谷字\n山口半三郎\n角や平二郎\n\n駒木野　こぼとけへ\n　　　　廿七丁\n藤や新兵衛\n■木佐二右衛門\n米や太郎右衛門\n御関所\n手形\n御差出\n之事\n\n小仏　　をはらへ\n　　　　一里半\n鈴木や藤右衛門\n柏や佐左衛門\n■六や源七\n\n小原　　よせへ\n　　　　十七丁\n小松や太郎右衛門\n【上段】\n与瀬　　よしのへ\n　　　　一り\nつるや\n藤助\n■■荷や\n壱郎右衛門\n小■や\n　六兵衛\n角や\n　角右衛門\n二瀬こへ\n　近道\n　　よしのへ\n　　　十五丁\n名物\n　あゆのすし\n\n𠮷野　　せきのへ\n　　　　廿六丁\nふじや\n　仁右衛門\n\n関野　　上のはらへ\n　　　　三十四丁\n臼井や清助\n境川立場\n　鶴や藤助\n　漆や■右衛門\n　境や政右衛門\n■■や\n　国二郎\n\n上野原　つる川へ\n　　　　十八丁\n若松や市郎兵衛\n大宗や八郎兵衛\n■ちくせや\n　伊左衛門\n伊勢や\n　源右衛門\n\n鶴川　　のたちりへ\n　　　　一り五丁\n志村\n　四郎右衛門\n【右側】\n野尻田　いぬめへ\n　　　　三十二丁\n■大品や\n　　■■■\n　■■や\n　　■右衛門\n世　富山常助\n話　富田■■■\n人　小松や定四郎\n　富田藤兵へ\n　■■すやよ壱\n座頭ころがし\n　　■尊\n\n犬目　　とりさはへ\n　　　　一り十二丁\n山谷坂\n　泉や初右衛門\n　笹や源四郎\n　おもたかや助五郎\n　同　左　七\n■や\n　元四郎\nおかへ\n　七■也\n\n鳥沢　　さるはしへ\n　　　　二十六丁\n白木や\n　犬左衛門\n内田藤左衛門\nみよしや十助\n富士山\n　東泉寺\n　■行場\n【左端】\n御定宿《割書：内藤新宿二丁目｜　　　扇屋又兵衛》",
+            "text": "《割書：甲州路　｜御登山》冨士参詣道　　　　　　　│□【御定宿ヵ】\n　　　　　連名之内■■可被下候│同　《割書：内藤新宿｜　　扇屋又兵衛》\n　　　　　　　　　　　　　　　│同　《割書：峠｜　　柏屋佐右衛門》\n　　　　　　　　　　　　　　　│同　《割書：さるはし年寄｜　　小松屋要蔵》\n　　　　　　　　　　　　　　　│同　《割書：さか井川｜　　亀沢国次郎》\n【下から第二段】　　【最下段】\n申橋　　こまはしへ　│日本橋　しんしゆくへ\n小松や要蔵　　　　　│　　　　一里\n角や清右衛門　　　　│\n本陣　　　　　　　　│新宿　　高いとへ\n　本五郎　　　　　　│　　　　二里廿五丁\n小西や　　　　　　　│仲丁\n　太郎左衛門　　　　│　扇屋又兵衛\n　　　　　　　　　　│荻久保\n駒橋　　大つきへ　　│八橋や\n　　　　十六丁　　　│■三郎\n高山　　　　　　　　│\n庄右衛門　　　　　　│高井戸　ふだへ\n　　　　　　　　　　│　　　　二り\n大月　　やむらへ　　│■𠮷や\n　　　　二り　　　　│　源蔵\n　ひ本や　　　　　　│武さしや\n　　十兵へ　　　　　│　伊兵へ\nきしの　　　　　　　│国領宿\n　左兵へ　　　　　　│　立■■\n田の倉　　　　　　　│橋本\n　大のや■兵へ　　　│小左衛門\n四日市■　　　　　　│\n鎌くらや金五郎　　　│布田　　ふちうへ\n　　　　　　　　　　│　　　　二り\n谷村　　をぬまへ　　│増田や\n　　　　一里半　　　│新兵へ\n嶋や平兵へ　　　　　│\nつちや清兵へ　　　　│府中　　ひのへ\n福や　　　　　　　　│　　　　二り九丁\n　■■衛門　　　　　│柏や三四郎\n松■　　　　　　　　│甲州や嘉左衛門\n　八■へ　　　　　　│明神まへ\n　　　　　　　　　　│中や平兵へ\n小沼　　よし田へ　　│\n　　　　一り半　　　│日野　　八王子へ\n■■　　　　　　　　│　　　　一り廿七丁\n　大木や浜之進　　　│つるや\n宿　　　　　　　　　│　久兵へ\n林や半右衛門　　　　│麻田や\n金山儀左衛門　　　　│　徳三郎\n　　　　　　　　　　│森本\n𠮷田大鳥居ゟ絶頂■　│　右三郎\n　　三百五十七丁十二間\n【左側】\n八王子　こまきのへ\n　　　　一り半\n角や五郎四郎\n大坂や■左衛門\n油や三郎左衛門\n三■や■七\n山上十郎左衛門\n古谷字\n山口半三郎\n角や平二郎\n\n駒木野　こぼとけへ\n　　　　廿七丁\n藤や新兵衛\n■木佐二右衛門\n米や太郎右衛門\n御関所\n手形\n御差出\n之事\n\n小仏　　をはらへ\n　　　　一里半\n鈴木や藤右衛門\n柏や佐左衛門\n■六や源七\n\n小原　　よせへ\n　　　　十七丁\n小松や太郎右衛門\n【上段】\n与瀬　　よしのへ\n　　　　一り\nつるや\n藤助\n■■荷や\n壱郎右衛門\n小■や\n　六兵衛\n角や\n　角右衛門\n二瀬こへ\n　近道\n　　よしのへ\n　　　十五丁\n名物\n　あゆのすし\n\n𠮷野　　せきのへ\n　　　　廿六丁\nふじや\n　仁右衛門\n\n関野　　上のはらへ\n　　　　三十四丁\n臼井や清助\n境川立場\n　鶴や藤助\n　漆や■右衛門\n　境や政右衛門\n■■や\n　国二郎\n\n上野原　つる川へ\n　　　　十八丁\n若松や市郎兵衛\n大宗や八郎兵衛\n■ちくせや\n　伊左衛門\n伊勢や\n　源右衛門\n\n鶴川　　のたちりへ\n　　　　一り五丁\n志村\n　四郎右衛門\n【右側】\n野尻田　いぬめへ\n　　　　三十二丁\n■大品や\n　　■■■\n　■■や\n　　■右衛門\n世　富山常助\n話　富田■■■\n人　小松や定四郎\n　富田藤兵へ\n　■■すやよ壱\n座頭ころがし\n　　■尊\n\n犬目　　とりさはへ\n　　　　一り十二丁\n山谷坂\n　泉や初右衛門\n　笹や源四郎\n　おもたかや助五郎\n　同　左　七\n■や\n　元四郎\nおかへ\n　七■也\n\n鳥沢　　さるはしへ\n　　　　二十六丁\n白木や\n　犬左衛門\n内田藤左衛門\nみよしや十助\n富士山\n　東泉寺\n　■行場\n【左端】\n御定宿《割書：内藤新宿二丁目｜　　　扇屋又兵衛》",
+            "timestamp": {
+                "_nanoseconds": 896000000,
+                "_seconds": 1605700041
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

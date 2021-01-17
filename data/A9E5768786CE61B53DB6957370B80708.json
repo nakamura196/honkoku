@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/65cf03ef3c522e0db3ff2c78c25bd12586e2b32f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88681",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88681/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88681",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "A9E5768786CE61B53DB6957370B80708",
+    "label": "相模大地震",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "相模大地震"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-046"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永6年2月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×48"
+        },
+        {
+            "label": "year",
+            "value": "1853"
+        },
+        {
+            "label": "identifier",
+            "value": "1b712702-cd5a-4123-91fb-3032e19ffd0c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0301"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/65cf03ef3c522e0db3ff2c78c25bd12586e2b32f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b712702-cd5a-4123-91fb-3032e19ffd0c/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "A9E5768786CE61B53DB6957370B80708",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "相模大地震\n\n夫天地不時之変動ハ陰陽混して雷雨ニなる\n地ニいれハ地しんをなすアヽ神仏之応護も\nこれを納る事かたし比ハ嘉永六丑とし\n二月二日昼四時より夜九時迄大地しん\n相州小田原　大久保加賀守様御領分\n御城下万町本町板はしりうし町通り\n青物丁すとを丁寺まち御城角やくら\n町家とも大ニ損す近村近郷酒匂川すち\n飯すミ十文字十日市場子安大山へん\n道降【雨降】権現山道東海道すち小田はら\nつゝきはた山中大久保長門守様御領分\n村〻多く損す箱ねゆ本七ヶ所二子山辺\n同所権現様御山内尤御社ハ御さわり□□\n同所満水あふれ出さいの河原辺大ニ損す\n夫より豆州海辺山〻真つる網代伊東西ハ\nしゆせん寺三しま此外所〻大ニ損すると\nいふともあらましを記し高覧ニ\nそのふのミ",
+            "text": "相模大地震\n\n夫天地不時之変動ハ陰陽混して雷雨ニなる\n地ニいれハ地しんをなすアヽ神仏之応護も\nこれを納る事かたし比ハ嘉永六丑とし\n二月二日昼四時より夜九時迄大地しん\n相州小田原　大久保加賀守様御領分\n御城下万町本町板はしりうし町通り\n青物丁すとを丁寺まち御城角やくら\n町家とも大ニ損す近村近郷酒匂川すち\n飯すミ十文字十日市場子安大山へん\n道降【雨降】権現山道東海道すち小田はら\nつゝきはた山中大久保長門守様御領分\n村〻多く損す箱ねゆ本七ヶ所二子山辺\n同所権現様御山内尤御社ハ御さわり□□\n同所満水あふれ出さいの河原辺大ニ損す\n夫より豆州海辺山〻真つる網代伊東西ハ\nしゆせん寺三しま此外所〻大ニ損すると\nいふともあらましを記し高覧ニ\nそのふのミ",
+            "timestamp": {
+                "_nanoseconds": 117000000,
+                "_seconds": 1567406932
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

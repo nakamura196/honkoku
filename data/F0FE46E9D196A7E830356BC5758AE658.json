@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 1796,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a92c2ee126d4a3933fb21090e7b3f9b765dcd643.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1796,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88664",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88664/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88664",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "F0FE46E9D196A7E830356BC5758AE658",
+    "label": "江戸大地震当座見立三人生酔",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震当座見立三人生酔"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-030"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "みたて"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×36"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f1d02192-5c99-47a2-bec6-40f19f404e5f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0284"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a92c2ee126d4a3933fb21090e7b3f9b765dcd643.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f1d02192-5c99-47a2-bec6-40f19f404e5f/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "F0FE46E9D196A7E830356BC5758AE658",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【中央の表題】\n江戸＜割書：大地震｜當座＞見立　三人生酔\n\n【右側一段目】\n●役者\n▲茶屋\n■金主\n●店子\n▲地主\n■家主\n●骨継\n▲蘭医\n■本道\n【右側二段目】\n●材木屋\n▲米屋\n■薪屋\n●焼場方角\n▲貸本屋\n■にしき繪\n●荒物屋\n▲せとものや\n■小間物や\n●濁酒屋\n▲會席料理\n■うなきや\n【右側三段目】\n●わらんじ\n▲せつた\n■下駄\n●四文や\n▲おてゞこ\n■豆蔵\n●大福餅\n▲上菓子\n■まんぢう\n●わらひ上戸\n▲なき上戸\n■はらたち上戸\n\n【左側一段目】\n●神道\n▲武家\n■寺院\n●古着屋\n▲質店\n■置主\n●女郎\n▲内證\n■藝者\n【左側二段目】\n●直し釘\n▲水屋\n■紙くづ買\n●出入の者\n▲奉公人\n■旦那\n●時計師\n▲唐物屋\n■縫箔屋\n●飛脚\n▲文づかひ\n■諸藝人\n【左側三段目】\n●ぜけん\n▲引手茶や\n■かこや\n●大工手間\n▲座頭\n■かし夜具\n●漉かへし\n▲奉書\n■ 西の内\n此外東西あまたニ\n御座候へ共荒増を記",
+            "text": "【中央の表題】\n江戸《割書：大地震｜當座》見立　三人生酔\n\n【右側一段目】\n●役者\n▲茶屋\n■金主\n●店子\n▲地主\n■家主\n●骨継\n▲蘭医\n■本道\n【右側二段目】\n●材木屋\n▲米屋\n■薪屋\n●焼場方角\n▲貸本屋\n■にしき繪\n●荒物屋\n▲せとものや\n■小間物や\n●濁酒屋\n▲會席料理\n■うなきや\n【右側三段目】\n●わらんじ\n▲せつた\n■下駄\n●四文や\n▲おてゞこ\n■豆蔵\n●大福餅\n▲上菓子\n■まんぢう\n●わらひ上戸\n▲なき上戸\n■はらたち上戸\n\n【左側一段目】\n●神道\n▲武家\n■寺院\n●古着屋\n▲質店\n■置主\n●女郎\n▲内證\n■藝者\n【左側二段目】\n●直し釘\n▲水屋\n■紙くづ買\n●出入の者\n▲奉公人\n■旦那\n●時計師\n▲唐物屋\n■縫箔屋\n●飛脚\n▲文づかひ\n■諸藝人\n【左側三段目】\n●ぜけん\n▲引手茶や\n■かこや\n●大工手間\n▲座頭\n■かし夜具\n●漉かへし\n▲奉書\n■ 西の内\n此外東西あまたニ\n御座候へ共荒増を記",
+            "timestamp": {
+                "_nanoseconds": 251000000,
+                "_seconds": 1568265846
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

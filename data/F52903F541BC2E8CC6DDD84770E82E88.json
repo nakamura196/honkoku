@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/13bfd4cf0e4ab303b0695f44e10cbeb8fb7bde34.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88468",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88468/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88468",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "F52903F541BC2E8CC6DDD84770E82E88",
+    "label": "振出し鯰薬",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "振出し鯰薬"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-041"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×25.5"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-087／I-02-087の方が状態が良い"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "5d47d260-1fdf-4a9e-9c74-3386e3b69aa6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0088"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/13bfd4cf0e4ab303b0695f44e10cbeb8fb7bde34.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5d47d260-1fdf-4a9e-9c74-3386e3b69aa6/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "F52903F541BC2E8CC6DDD84770E82E88",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n振（ふり）出（だ）し鯰（なまづ）薬（ぐすり）＜割書：価　一ゆり　一百里｜同　散（さん）ざい　斗千万両＞大瓢堂製\n【本文は上下二段構成】\n【上段】\n一 抑（そも〳〵）此（この）鯰薬（なまづぐすり）の霊薬（れいやく）は鰻（うなぎ）ぐすりの法（ほふ）に倣（なら）はず瓢（ひやう）たん\n薬（ぐすり）の功能（こうのう）と変（かは）り鹿嶋（かしま）大明神（だいみやうじん）の御（ご）夢想（むそう）にして\n一子相伝（いつしそうでん）の妙済（めうざい）也第一（だいゝち）時候（じかう）の不順（ふじゆん）を治（ぢ）し第二（だいに）\n世上（せじやう）の景気（けいき）を直（なほ）す尤（もつとも）薬勢（やくせひ）甚（はなはた）しきに依（よつ）て\n大（おほ）ひに動（どう）ずる事（こと）あり然共（しかれとも）其（その）動（どう）ずること\n有（ある）が故（ゆゑ）に是迄（これまで）年来（ねんらい）蔵中（ぞうちう）に凝（こり）\n集（あつま）り\nたる▲\n▲金（きん）\n銀（ぎん）の支（つか）へを\n下（くだ）し世間（せけん）の\n融通（ゆづう）を付（つけ）廻（めぐ）り能（よく）なるに\n随（したがつ）て何（いか）なる冷生（ひえしやう）なる\n者（もの）と云共（いへども）追々（おひ）々腹中に\n暖（あたゝか）みを生（しやう）じ貧病（ひんびやう）を愈（いや）【癒】す事（こと）震（しん）の□□【ごと】し\n其（その）功験（こうけん）の著（いちじる）しき用（もち）ひてためすべし\n【下段】\n一 金銀（きんぎん）のめぐりを能（よく）し　一 世上（せじやう）を賑（にぎは）すによし\n一 怠（おこた）りをいましむるによし　一 奢（おご）りを止（とどむ）るによし\n禁物（きんもつ）　一 美食（びしよく）　一 美服（びふく）\n一 居宅（きよたく）を錺（かざ）る又（また）は\n大酒（たいしゆ）をいむ\n\n「さあ〳〵ひやうばんの\nなまづぐすりじや人形（にんきよ）\n　　ほしくばくすりを\nかはんせこれは\n　　　　ひやうばん\n　　　　　き□□\n\n用ひやう\n十□□日夜 四（よ）ツ 時（どき）一たんに 振出（ふりいだ）し 猶（なほ）そのふり□□\n□□を 度々（たびたび）に 振出（ふりいだ）し用（もち）ゆべし 前（まへ） に 記（しる）□\n禁物（きんもつ）を 能々（よく〳〵）慎（つゝし）まざれば 病（やま）ひ 元（もと）にかへる 恐（おそ）るべし\n\n\n",
+            "text": "【タイトル】\n振（ふり）出（だ）し鯰（なまづ）薬（ぐすり）《割書：価　一ゆり　一百里｜同　散（さん）ざい　斗千万両》大瓢堂製\n【本文は上下二段構成】\n【上段】\n一 抑（そも〳〵）此（この）鯰薬（なまづぐすり）の霊薬（れいやく）は鰻（うなぎ）ぐすりの法（ほふ）に倣（なら）はず瓢（ひやう）たん\n薬（ぐすり）の功能（こうのう）と変（かは）り鹿嶋（かしま）大明神（だいみやうじん）の御（ご）夢想（むそう）にして\n一子相伝（いつしそうでん）の妙済（めうざい）也第一（だいゝち）時候（じかう）の不順（ふじゆん）を治（ぢ）し第二（だいに）\n世上（せじやう）の景気（けいき）を直（なほ）す尤（もつとも）薬勢（やくせひ）甚（はなはた）しきに依（よつ）て\n大（おほ）ひに動（どう）ずる事（こと）あり然共（しかれとも）其（その）動（どう）ずること\n有（ある）が故（ゆゑ）に是迄（これまで）年来（ねんらい）蔵中（ぞうちう）に凝（こり）\n集（あつま）り\nたる▲\n▲金（きん）\n銀（ぎん）の支（つか）へを\n下（くだ）し世間（せけん）の\n融通（ゆづう）を付（つけ）廻（めぐ）り能（よく）なるに\n随（したがつ）て何（いか）なる冷生（ひえしやう）なる\n者（もの）と云共（いへども）追々（おひ）々腹中に\n暖（あたゝか）みを生（しやう）じ貧病（ひんびやう）を愈（いや）【癒】す事（こと）震（しん）の□□【ごと】し\n其（その）功験（こうけん）の著（いちじる）しき用（もち）ひてためすべし\n【下段】\n一 金銀（きんぎん）のめぐりを能（よく）し　一 世上（せじやう）を賑（にぎは）すによし\n一 怠（おこた）りをいましむるによし　一 奢（おご）りを止（とどむ）るによし\n禁物（きんもつ）　一 美食（びしよく）　一 美服（びふく）\n一 居宅（きよたく）を錺（かざ）る又（また）は\n大酒（たいしゆ）をいむ\n\n「さあ〳〵ひやうばんの\nなまづぐすりじや人形（にんきよ）\n　　ほしくばくすりを\nかはんせこれは\n　　　　ひやうばん\n　　　　　き□□\n\n用ひやう\n十□□日夜 四（よ）ツ 時（どき）一たんに 振出（ふりいだ）し 猶（なほ）そのふり□□\n□□を 度々（たびたび）に 振出（ふりいだ）し用（もち）ゆべし 前（まへ） に 記（しる）□\n禁物（きんもつ）を 能々（よく〳〵）慎（つゝし）まざれば 病（やま）ひ 元（もと）にかへる 恐（おそ）るべし\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 588000000,
+                "_seconds": 1568897724
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

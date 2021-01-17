@@ -1,0 +1,185 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f203b56f9e42330d741e4d0945690c2a6400e18b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56195",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56195/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56195",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e8690560a329cd220ba260d6eb454b913b887a86.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56196",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56196/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56196",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "hidden": true,
+    "id": "B116935902EA1229858B9EE2BC9128B2",
+    "label": "左官無二如来家根之瓦土蔵菩薩開帳由来記",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "左官無二如来家根之瓦土蔵菩薩開帳由来記"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-001からII-02-003は3枚続"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f82074bf-926f-4a33-92bb-9f4c75d81d75"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1038"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f203b56f9e42330d741e4d0945690c2a6400e18b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p1",
+            "editedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "entryId": "B116935902EA1229858B9EE2BC9128B2",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "tempText": "由来記（ゆらいき）\n▲そも〳〵これになんじうし\nたてまつるはやねのかはらの\nどぞうぼさつのそんぞう\nなりぢこくのひあはきに\nしゆつげんまし〳〵右のおん\nてにはかぎのしやくじやうを\nたづさへひだるいのおんてには\nにぎりめしをつかみ\nたまひゑんまのこどかたの\nこがどだいのしきいしを\n一ちうつんではしちのため\n二ぢうつんでははらのためと\nひようのかせぎをあはれみたまひ\nくうでんのこんりうあつてせじやう\nさいどのためにあらはれたもふ\nところなりこんきうのおかたは\nひどふゆつてこやへはいられませう\n▲そも〳〵これにはんぜうしたてまつるは\nさくわんむにによらいのめんぞうなり\nそのおんゆらひをたつねたて\nまつるにむかしすつてん\nてんぢくなるはだかこくにて\n十月二日の夜おんは手間\nぶにんのおんはらひより\nはんぜうましますとき\n天じやうてんがぬりがたくさんと\nおんこへをはつしたまひあまちやに\nあらですいだうのみづをうぶ\nゆにあびおんみのうちよりきん\nぎんのひかりをはなしふところ\nアタてるにましますゆへついにぼん\nのうきやうをときたもふておだ\nぶつのずいさうをあらはし\nなまけどうじをしりむまの\n口をとらせゆふぢよぼさつに\nきめやりしよりだんとくせんにあら\nずしてだん〳〵しやくせんのふちにはまり\nなんぎやうくぎやうのおんくるしみその\nとうつもりやうくてぶりあみがさ\nとじやうぶつまし〳〵いままで\nたまひたるてまちんは百日の\nせつほりへ一つをなしたまひたる\nそんもうなりふしんじんの\nてませんはじかふによつてよけひ\n　　　はらはれませう\n【中段　立て札】\n\n開帳\n　左官無二如来\n《割書：家根｜之瓦》土蔵菩薩\n右十月二日夜より普請中\n毎朝手間銭を■しむる者也\n　　□【執？】■職人\n\n【図像　右　地蔵菩薩こと　土蔵菩薩　　】\n　　　　　　　　　　　\n　　　　　　　《割書：家根の｜かわら》\n　　　　　　　　土蔵ぼさつ\n\n\n【図像　左　釈迦牟尼こと　左官無二如來】\n\n　　　　　　　《割書：左官｜無二》\n　　　　　　　　如来　\n\n\n\n\n\n　　　　",
+            "text": "由来記（ゆらいき）\n▲そも〳〵これになんじうし\nたてまつるはやねのかはらの\nどぞうぼさつのそんぞう\nなりぢこくのひあはきに\nしゆつげんまし〳〵右のおん\nてにはかぎのしやくじやうを\nたづさへひだるいのおんてには\nにぎりめしをつかみ\nたまひゑんまのこどかたの\nこがどだいのしきいしを\n一ちうつんではしちのため\n二ぢうつんでははらのためと\nひようのかせぎをあはれみたまひ\nくうでんのこんりうあつてせじやう\nさいどのためにあらはれたもふ\nところなりこんきうのおかたは\nひどふゆつてこやへはいられませう\n▲そも〳〵これにはんぜうしたてまつるは\nさくわんむにによらいのめんぞうなり\nそのおんゆらひをたつねたて\nまつるにむかしすつてん\nてんぢくなるはだかこくにて\n十月二日の夜おんは手間\nぶにんのおんはらひより\nはんぜうましますとき\n天じやうてんがぬりがたくさんと\nおんこへをはつしたまひあまちやに\nあらですいだうのみづをうぶ\nゆにあびおんみのうちよりきん\nぎんのひかりをはなしふところ\nアタてるにましますゆへついにぼん\nのうきやうをときたもふておだ\nぶつのずいさうをあらはし\nなまけどうじをしりむまの\n口をとらせゆふぢよぼさつに\nきめやりしよりだんとくせんにあら\nずしてだん〳〵しやくせんのふちにはまり\nなんぎやうくぎやうのおんくるしみその\nとうつもりやうくてぶりあみがさ\nとじやうぶつまし〳〵いままで\nたまひたるてまちんは百日の\nせつほりへ一つをなしたまひたる\nそんもうなりふしんじんの\nてませんはじかふによつてよけひ\n　　　はらはれませう\n【中段　立て札】\n\n開帳\n　左官無二如来\n《割書：家根｜之瓦》土蔵菩薩\n右十月二日夜より普請中\n毎朝手間銭を■しむる者也\n　　□【執？】■職人\n\n【図像　右　地蔵菩薩こと　土蔵菩薩　　】\n　　　　　　　　　　　\n　　　　　　　《割書：家根の｜かわら》\n　　　　　　　　土蔵ぼさつ\n\n\n【図像　左　釈迦牟尼こと　左官無二如來】\n\n　　　　　　　《割書：左官｜無二》\n　　　　　　　　如来　\n\n\n\n\n\n　　　　",
+            "timestamp": {
+                "_nanoseconds": 21000000,
+                "_seconds": 1599260456
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f82074bf-926f-4a33-92bb-9f4c75d81d75/canvas/p2",
+            "editedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "entryId": "B116935902EA1229858B9EE2BC9128B2",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "0ECNAVGcFxbXgnQKif5lS598ypm1",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 805000000,
+                "_seconds": 1595814803
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

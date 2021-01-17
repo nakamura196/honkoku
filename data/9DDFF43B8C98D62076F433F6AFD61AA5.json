@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/863883d0421a3c412300b09f064e1a1d96ac04d3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88696",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88696/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88696",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "9DDFF43B8C98D62076F433F6AFD61AA5",
+    "label": "鹿嶋神託所より鯰共一統江申渡しの事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鹿嶋神託所より鯰共一統江申渡しの事"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-061"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24×32"
+        },
+        {
+            "label": "別タイトル",
+            "value": "鹿嶋神託所ヨリ鯰共一統え申渡しの事"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-02-001"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b126b845-e1e2-4851-9bf8-cff1462e9a65"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0316"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/863883d0421a3c412300b09f064e1a1d96ac04d3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b126b845-e1e2-4851-9bf8-cff1462e9a65/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "9DDFF43B8C98D62076F433F6AFD61AA5",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "鹿島神託所（かしましんたくしよ）より鯰共一統（なまづどもいつとふ）え申｜渡（わた）しの事（こと）\n鯰共の義は古来（こらい）より申｜渡（わた）し置通（おくとう）り九八｜病（やま）ひ五七が\n雨（あめ）に四つ日でり六つ八つならば風としるべしとの御縁寿（ごゑんか）を\n守（まも）り時候（じかう）不 順（しゆん）の折（おり）を見あわせ質素（しつそ）に渡世（とせい）致（いた）す\nべき処｜諸神（しよしん）出雲（いつも）へ御出仕（ごしゆつし）之御跡（おんあ□）みて先例（せんれい）の\n掟を背（そむ）き御｜府内（ふない）近来とかく乱妨（らんはう）いたし家蔵（いへくら）\n身体（しんたい）をゆすりちらす\nのみならす\nとうるいの\n出火を\n誘引（さそひ）\n格別（かくべつ）の出\n風もこれ\nなきに\n数（す）ケ所（しよ）｜焼（やき）\nはらひ候段\n八百｜万（よろづ）の神を\n恐れさる\nいたし方\nふらち至極（しごく）に付\n四つ手を以（もつ）て\n一疋（いつひき）ももらさず\nすくひあけ\n蒲やき所に\nおゐて大道さきの\nうへ火あふりにも\n行ふべきところ\n格別（かくへつ）の御｜慈悲（じひ）を\nもつて日本六十｜余州（よしう）追（つい）放\n仰付らるゝものなり若（もし）此後御□頭場｜所（しよ）へ立｜寄（より）いたぶりがましき義これ有（ある）におゐては\n早速（さつそく）地引（ぢびき）をとつてからめ取（とり）急度（きつと）酒（しゆ）菜に行（おこな）ふべきものなり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　太平元年おち月十日目",
+            "text": "鹿島神託所（かしましんたくしよ）より鯰共一統（なまづどもいつとふ）え申｜渡（わた）しの事（こと）\n鯰共の義は古来（こらい）より申｜渡（わた）し置通（おくとう）り九八｜病（やま）ひ五七が\n雨（あめ）に四つ日でり六つ八つならば風としるべしとの御縁寿（ごゑんか）を\n守（まも）り時候（じかう）不 順（しゆん）の折（おり）を見あわせ質素（しつそ）に渡世（とせい）致（いた）す\nべき処｜諸神（しよしん）出雲（いつも）へ御出仕（ごしゆつし）之御跡（おんあ□）みて先例（せんれい）の\n掟を背（そむ）き御｜府内（ふない）近来とかく乱妨（らんはう）いたし家蔵（いへくら）\n身体（しんたい）をゆすりちらす\nのみならす\nとうるいの\n出火を\n誘引（さそひ）\n格別（かくべつ）の出\n風もこれ\nなきに\n数（す）ケ所（しよ）｜焼（やき）\nはらひ候段\n八百｜万（よろづ）の神を\n恐れさる\nいたし方\nふらち至極（しごく）に付\n四つ手を以（もつ）て\n一疋（いつひき）ももらさず\nすくひあけ\n蒲やき所に\nおゐて大道さきの\nうへ火あふりにも\n行ふべきところ\n格別（かくへつ）の御｜慈悲（じひ）を\nもつて日本六十｜余州（よしう）追（つい）放\n仰付らるゝものなり若（もし）此後御□頭場｜所（しよ）へ立｜寄（より）いたぶりがましき義これ有（ある）におゐては\n早速（さつそく）地引（ぢびき）をとつてからめ取（とり）急度（きつと）酒（しゆ）菜に行（おこな）ふべきものなり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　太平元年おち月十日目",
+            "timestamp": {
+                "_nanoseconds": 909000000,
+                "_seconds": 1573385865
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

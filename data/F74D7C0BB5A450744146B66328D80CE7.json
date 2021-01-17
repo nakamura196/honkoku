@@ -1,0 +1,181 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5444,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1b8324855a24b3be996b59499e7b2cb9f38fb81a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5444,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56307",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7246
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56307/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56307",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7246
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5444,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5b7571f1277319e22468ef25f666defc51061aaa.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5444,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56308",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7246
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56308/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56308",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7246
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "F74D7C0BB5A450744146B66328D80CE7",
+    "label": "泉州堺津波之絵図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "泉州堺津波之絵図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月5日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "二色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-065"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "eea52f09-2bc8-4bd6-9bf9-0113639b1872"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1077"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1b8324855a24b3be996b59499e7b2cb9f38fb81a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p1",
+            "editedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "entryId": "F74D7C0BB5A450744146B66328D80CE7",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "79RFpCHfb0QZN9yt5A73fzFg8HW2",
+            "tempText": "【印・丙辰改】\n泉州堺津波之絵図\n\n嘉永七寅十一月五日酉ノ上刻\nゟ大地震中に津波来て市中\n殊の外驚き兵庫沖ゟ風吹き\n来て一面のとろ水に成大船\n小船に至迄一時に川中へ入込橋々\n悉　突落怪我人死人夥敷　　　　　　　橋落\n何れも水入白海の如し誠に前代　　　　死人\n未聞の騒動大方ならず　　　　　　　　　凡五十七人\n其荒増を知す\n\n【挿絵内の文字】\n　　　　　　　　　　戎しま　　\n　　　　　　　　　　コクセンハ　　　新ばし\n　　　　　　　　　　　　　　　　　　戎ばし　\n　　　　　　　　　　　　　　　　チトセバシ\n　　　　　　　　　　　　　　アズマバシ　\n旭バシ　　　　シ　　　　勇ばし\nリウ神小ばし　　ン　　　　　栄ばし\nミカゲばし　　　　チ　　　　リウジンばし\n　　　　　　　　　　　　　　住吉ばし\n　　　　　　　　　　　シンサカエバシ\n　　　　　　　　　　相生ばし\n　　　　　　魚市場\n　　　　　　　　　　相生小はし\n\n",
+            "text": "【印・丙辰改】\n泉州堺津波之絵図\n\n嘉永七寅十一月五日酉ノ上刻\nゟ大地震中に津波来て市中\n殊の外驚き兵庫沖ゟ風吹き\n来て一面のとろ水に成大船\n小船に至迄一時に川中へ入込橋々\n悉　突落怪我人死人夥敷　　　　　　　橋落\n何れも水入白海の如し誠に前代　　　　死人\n未聞の騒動大方ならず　　　　　　　　　凡五十七人\n其荒増を知す\n\n【挿絵内の文字】\n　　　　　　　　　　戎しま　　\n　　　　　　　　　　コクセンハ　　　新ばし\n　　　　　　　　　　　　　　　　　　戎ばし　\n　　　　　　　　　　　　　　　　チトセバシ\n　　　　　　　　　　　　　　アズマバシ　\n旭バシ　　　　シ　　　　勇ばし\nリウ神小ばし　　ン　　　　　栄ばし\nミカゲばし　　　　チ　　　　リウジンばし\n　　　　　　　　　　　　　　住吉ばし\n　　　　　　　　　　　シンサカエバシ\n　　　　　　　　　　相生ばし\n　　　　　　魚市場\n　　　　　　　　　　相生小はし\n\n",
+            "timestamp": {
+                "_nanoseconds": 957000000,
+                "_seconds": 1569241041
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/eea52f09-2bc8-4bd6-9bf9-0113639b1872/canvas/p2",
+            "editedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "entryId": "F74D7C0BB5A450744146B66328D80CE7",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KPCN8hVXF6Y4vioQkgU2fNsEwFJ3",
+            "tempText": "＜蔵書印：東京大学図書之印＞",
+            "text": "《蔵書印：東京大学図書之印》",
+            "timestamp": 1567572201088
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

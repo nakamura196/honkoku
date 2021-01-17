@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c270c9a17a3e64a34892cb3e47d638d2507d9400.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56193",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56193/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56193",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5005,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e09347a59049cb19e59585c59a856976dcb3f88a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5005,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56194",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6662
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56194/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56194",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6662
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "FEA187EF4AD4A287C9715634BB0A341E",
+    "label": "鹿嶋神託所より鯰共一統江申渡しの事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "鹿嶋神託所より鯰共一統江申渡しの事"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "鹿嶋神託所ヨリ鯰共一統え申渡しの事"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-001からII-02-003は3枚続／同資料：I-05-061"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1037"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c270c9a17a3e64a34892cb3e47d638d2507d9400.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "FEA187EF4AD4A287C9715634BB0A341E",
+            "index": 0,
+            "prevStatus": "editing",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【表題】鹿嶋神託所（かしましんたくしょ）より鯰共一統（なまずどもいっとふ）江申 渡（わた）しの事\n\n鯰共の義は古来（こらい）より申 渡（わた）し置（おく）通（とう）り九は病（やま）ひ五七が\n雨（あめ）に四ツ日でり六つ八つならば風としるべしとの御詠歌（ごえいか）を\n守（まも）り時候（しこう）不順（しゆん）の折（おり）と見合わせ質素（しつそ）に渡世致（とせいいた）す\nべき處 諸神（しょしん）出雲（いづも）へ御出仕の御跡にて先例（せんれい）の\n掟を背（そむ）き御 府内（ふない）近在とも乱妨（らんほう）いたし家蔵（いえくら）\n身体（しんたい）を\nゆすりちらす\nのみならす\nとうるい\n出火を\n誘引（さそひ）\n格別（かくべつ）のおし\n風もこれ\nなきに\n数（す）ケ所（しよ）焼（やき）\nはらひ候段\n八百万（よろず）の神を\n怖れさる\nいたし方\nふらち至極（しごく）に付\n四ツ手を以（もつ）て\n一匹（いつひき）ももらさず\nすくひあけ\n蒲やき所に\nおゐて大道さきの\nうへ火あふりにも\n行ふべきところ\n格別（かくへつ）の御 慈悲（じひ）を\nもつて日本六十 餘劦（よしう）追（つい）放\n仰付らるゝものなり若（もし）此後御構ひ場 前（まえ）へ立 寄（より）いたぶりがましき義（ぎ）これ有（ある）におゐては\n早速（さつそく）地引（ちびき）をとつてからめ取（より）急度（きつと）酒（しゆ）菜に行ふべきものなり\n　　　　　　　　　　　　　　　　　　　　　　　　太平元年\n　　　　　　　　　　　　　　　　　　　　　　　　　　　おち月□日目\n",
+            "text": "【表題】鹿嶋神託所（かしましんたくしょ）より鯰共一統（なまずどもいっとふ）江申 渡（わた）しの事\n\n鯰共の義は古来（こらい）より申 渡（わた）し置（おく）通（とう）り九は病（やま）ひ五七が\n雨（あめ）に四ツ日でり六つ八つならば風としるべしとの御詠歌（ごえいか）を\n守（まも）り時候（しこう）不順（しゆん）の折（おり）と見合わせ質素（しつそ）に渡世致（とせいいた）す\nべき處 諸神（しょしん）出雲（いづも）へ御出仕の御跡にて先例（せんれい）の\n掟を背（そむ）き御 府内（ふない）近在とも乱妨（らんほう）いたし家蔵（いえくら）\n身体（しんたい）を\nゆすりちらす\nのみならす\nとうるい\n出火を\n誘引（さそひ）\n格別（かくべつ）のおし\n風もこれ\nなきに\n数（す）ケ所（しよ）焼（やき）\nはらひ候段\n八百万（よろず）の神を\n怖れさる\nいたし方\nふらち至極（しごく）に付\n四ツ手を以（もつ）て\n一匹（いつひき）ももらさず\nすくひあけ\n蒲やき所に\nおゐて大道さきの\nうへ火あふりにも\n行ふべきところ\n格別（かくへつ）の御 慈悲（じひ）を\nもつて日本六十 餘劦（よしう）追（つい）放\n仰付らるゝものなり若（もし）此後御構ひ場 前（まえ）へ立 寄（より）いたぶりがましき義（ぎ）これ有（ある）におゐては\n早速（さつそく）地引（ちびき）をとつてからめ取（より）急度（きつと）酒（しゆ）菜に行ふべきものなり\n　　　　　　　　　　　　　　　　　　　　　　　　太平元年\n　　　　　　　　　　　　　　　　　　　　　　　　　　　おち月□日目\n",
+            "timestamp": {
+                "_nanoseconds": 362000000,
+                "_seconds": 1604212443
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7fc2992f-a8c4-4fd7-b1b4-269ea3c6d1ad/canvas/p2",
+            "editedBy": null,
+            "entryId": "FEA187EF4AD4A287C9715634BB0A341E",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030648829
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

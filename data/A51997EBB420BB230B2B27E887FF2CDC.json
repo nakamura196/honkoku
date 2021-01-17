@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/afd58a97e06b83570a764ef140f1115cd5429c36.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88822",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88822/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88822",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "A51997EBB420BB230B2B27E887FF2CDC",
+    "label": "[豆州熱海温泉引札]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[豆州熱海温泉引札]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "重田吉兵衛版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "16×60"
+        },
+        {
+            "label": "identifier",
+            "value": "7d2eed55-4d83-4931-9dd1-40d2b772c203"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0446"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/afd58a97e06b83570a764ef140f1115cd5429c36.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7d2eed55-4d83-4931-9dd1-40d2b772c203/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "A51997EBB420BB230B2B27E887FF2CDC",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "豆（づ）州（しう）熱（あた）海（ミ）温（おん）泉（せん）之儀は海（かい）中（ちう）にわき出（いで）\nはまかたりやうしなんぎ仕候處（ところ）弘（こう）法（ぼう）大（だい）師（し）\n御作（さく）ひかね地（ぢ）蔵（ぞう）ぼさつれいげんにて\n一夜（や）のうちに岡（おか）なるがんくつのあいたより\n昼（ちう）夜（や）六度（たび）わきいだしあじわひしほゆ\nにて硫（い）黄（わう）の氣（き）いさゝかもこれなく\n天（てん）平（へい）勝（しやう）宝（ほう）年（ねん）中（ぢう）よりひらきはじめ\n凢（およそ）一千有（ゆう）余（よ）年（ねん）の久（ひさ）しきをへて本（ほん）朝（ちやう）\n三温（おん）泉（せん）のその一なりまんびやうによし\nいさゝかもさわりなく\n上〻様方（かた）も御入（にう）湯（とう）御願之儀ハあたミニ\nかきり候事あまねく御ぞんじ之\n御事ニ御座候御大（たい）醫（い）之御方様年（とし）\n久しきぢびやうと相なりやくりよく\nとゞきかね候御方（かた）も日〻私（わたくし）宅（たく）え御かよひ\n御入湯あそバされ又（また）は樽（たる）にて御取（とり）よせ\n御とうじなされ候事日〻御入湯之\n御方様之御存【「知」が脱か】之御事ニ御座候\n　　　効（こう）能（のう）\n一せんき　　　一せんしやく\n一かつけ　　　一じひつ\n一しやく　　　一つかへ\n一ちう風　　　一りんひつ\n一たむし　　　一なまづ\n一こひつ　　　一うちみ\n其（その）外（ほか）ひへしやう之御方様内（うち）をあたゝめ\n氣（き）けつをめぐらしりういんを\n下ししよくをすゝめ夜ぶん\nちやうずに御かよひなされ候事無御座（ござなく）\n御婦（ふ）人（じん）様方（かた）どのやうなるひへしやうの\n御方ニ而もうちをあたゝめめぐりをよくし\n月（ハつ）水（すい）とゞこをりなくくハいにんうたゞひ\nなし日〻御にうとうなされ候得は\n寒（かん）暑（しよ）のうれいなくはやりやまひ\n請（うく）ること一切（せつ）御ざなく候御入とうの上\nよく〳〵御ためし可被下候\n一御府（ふ）内（ない）におゐて熱（あた）海（ミ）出（で）ばり\n温泉と申は宿（やど）より外ニ御ざなく候處\n近（きん）来（らい）まぎらハしき湯（ゆ）ニてあたミと\n申諸〻に御座候よしほゞ相聞（きこ）え候間\n此（この）度（たび）相あらため引（ひき）札（ふだ）仕候\n　豆（づ）州（しう）熱（あた）海（ミ）温（おん）泉（せん）出（で）張（ばり）\n　　江戸四日市河岸通\n　　　　熱海菴\n　　　　　　　　櫻井甚五郎\n\n右温泉壱度入　　　　三十二文\n同　　一日入　　　　百五十文\n同　　一廻り　　　　七匁五分\n同　　札（ふだ）三拾枚（まい）ニ付　金弐朱\n樽（たる）賣（うり）　壱樽ニ付正（しやう）味（ミ）五匁",
+            "text": "豆（づ）州（しう）熱（あた）海（ミ）温（おん）泉（せん）之儀は海（かい）中（ちう）にわき出（いで）\nはまかたりやうしなんぎ仕候處（ところ）弘（こう）法（ぼう）大（だい）師（し）\n御作（さく）ひかね地（ぢ）蔵（ぞう）ぼさつれいげんにて\n一夜（や）のうちに岡（おか）なるがんくつのあいたより\n昼（ちう）夜（や）六度（たび）わきいだしあじわひしほゆ\nにて硫（い）黄（わう）の氣（き）いさゝかもこれなく\n天（てん）平（へい）勝（しやう）宝（ほう）年（ねん）中（ぢう）よりひらきはじめ\n凢（およそ）一千有（ゆう）余（よ）年（ねん）の久（ひさ）しきをへて本（ほん）朝（ちやう）\n三温（おん）泉（せん）のその一なりまんびやうによし\nいさゝかもさわりなく\n上〻様方（かた）も御入（にう）湯（とう）御願之儀ハあたミニ\nかきり候事あまねく御ぞんじ之\n御事ニ御座候御大（たい）醫（い）之御方様年（とし）\n久しきぢびやうと相なりやくりよく\nとゞきかね候御方（かた）も日〻私（わたくし）宅（たく）え御かよひ\n御入湯あそバされ又（また）は樽（たる）にて御取（とり）よせ\n御とうじなされ候事日〻御入湯之\n御方様之御存【「知」が脱か】之御事ニ御座候\n　　　効（こう）能（のう）\n一せんき　　　一せんしやく\n一かつけ　　　一じひつ\n一しやく　　　一つかへ\n一ちう風　　　一りんひつ\n一たむし　　　一なまづ\n一こひつ　　　一うちみ\n其（その）外（ほか）ひへしやう之御方様内（うち）をあたゝめ\n氣（き）けつをめぐらしりういんを\n下ししよくをすゝめ夜ぶん\nちやうずに御かよひなされ候事無御座（ござなく）\n御婦（ふ）人（じん）様方（かた）どのやうなるひへしやうの\n御方ニ而もうちをあたゝめめぐりをよくし\n月（ハつ）水（すい）とゞこをりなくくハいにんうたゞひ\nなし日〻御にうとうなされ候得は\n寒（かん）暑（しよ）のうれいなくはやりやまひ\n請（うく）ること一切（せつ）御ざなく候御入とうの上\nよく〳〵御ためし可被下候\n一御府（ふ）内（ない）におゐて熱（あた）海（ミ）出（で）ばり\n温泉と申は宿（やど）より外ニ御ざなく候處\n近（きん）来（らい）まぎらハしき湯（ゆ）ニてあたミと\n申諸〻に御座候よしほゞ相聞（きこ）え候間\n此（この）度（たび）相あらため引（ひき）札（ふだ）仕候\n　豆（づ）州（しう）熱（あた）海（ミ）温（おん）泉（せん）出（で）張（ばり）\n　　江戸四日市河岸通\n　　　　熱海菴\n　　　　　　　　櫻井甚五郎\n\n右温泉壱度入　　　　三十二文\n同　　一日入　　　　百五十文\n同　　一廻り　　　　七匁五分\n同　　札（ふだ）三拾枚（まい）ニ付　金弐朱\n樽（たる）賣（うり）　壱樽ニ付正（しやう）味（ミ）五匁",
+            "timestamp": {
+                "_nanoseconds": 616000000,
+                "_seconds": 1567422855
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

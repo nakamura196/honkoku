@@ -1,0 +1,181 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ada822dde92f934d9dbe5ef68af84afae71f8563.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56146",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56146/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56146",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9618b2749eba227fb4909c9f33f7ba9fda5d0452.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56147",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56147/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56147",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "hidden": true,
+    "id": "F2FE9806CF65BC0FD1357D971929D471",
+    "label": "打身骨抜即席御りやう治",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "打身骨抜即席御りやう治"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-013"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-039, I-05-067"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "dc537461-0dfd-4e56-b8cb-fac3dc48ec4f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1013"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ada822dde92f934d9dbe5ef68af84afae71f8563.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p1",
+            "editedBy": "dWrxtM1xgsd4syJkO64YLJccflM2",
+            "entryId": "F2FE9806CF65BC0FD1357D971929D471",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "dWrxtM1xgsd4syJkO64YLJccflM2",
+            "tempText": "【掛け看板】\n《割書：打身｜骨抜》即席御りやう治《割書：火出し仕候｜　　外家医前銭》\n\n【暖簾】\n瓢磐亭\n\n【置き行灯】\n江戸前　鯰大家破焼\nなまづ　大かばやき\n\n　　　　御披露（ごひらう）\n一御町中様 万歳楽々（まんざいらく〳〵）御軒別（ごけんべつ）にゆらせられ仰天（ぎょうてん）\n地獄（ぢごく）に奉存候しづまつて《割書：私義》 先達中（さきだつてぢう） 江戸前（えどまへ）\n鯰大家破焼（なまつおほかばやき）自身（じしん）大道（だいだう）ざき仕候所ゆり出し焼失（しやうしつ）より\n家蔵身代迄（いへくらしんだいまで）御ゆりあげ動揺向（どうようむき）被仰付候段 大変時（たいへんじ）こく\n古今（ここん）に有（あり）がたく奉損（そんじたてまつり）候 猶又（なほまた） 今磐（こんばん）御 愁（うれ）ひの為（ため） 市中（しちう）なんぎめし\n此末（このすへ）どうせう汁（じる） 打身骨抜即席（うちみほねぬきそくせき）御りやうぢ取合（とりあはせ）格別（かくべつ）\n風儀（ふうぎ） 宜（よろし）く世直（よなほ）し仕差上可申候間 民（たみ）の竈（かまど）の御賑々（にぎ〳〵）しく\n御威光（ごいくわう） 駕（が）之程 一偏（ひとへ）に奉願上候以上\n\n【掛け看板】\n市ちうなんきめし　《割書：御枚御一人前｜五合宛》\n此末どうせう汁　《割書：ことし一ぱい｜難渋見聞》\n\n卯十月二日夜ゟゆり出し　　　神座鹿島町\n　見勢【みせ】ひらき焼失\n　　　麁かゆ差上申候　　　　　かな目屋石蔵\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "【掛け看板】\n《割書：打身｜骨抜》即席御りやう治《割書：火出し仕候｜　　外家医前銭》\n\n【暖簾】\n瓢磐亭\n\n【置き行灯】\n江戸前　鯰大家破焼\nなまづ　大かばやき\n\n　　　　御披露（ごひらう）\n一御町中様 万歳楽々（まんざいらく〳〵）御軒別（ごけんべつ）にゆらせられ仰天（ぎょうてん）\n地獄（ぢごく）に奉存候しづまつて《割書：私義》 先達中（さきだつてぢう） 江戸前（えどまへ）\n鯰大家破焼（なまつおほかばやき）自身（じしん）大道（だいだう）ざき仕候所ゆり出し焼失（しやうしつ）より\n家蔵身代迄（いへくらしんだいまで）御ゆりあげ動揺向（どうようむき）被仰付候段 大変時（たいへんじ）こく\n古今（ここん）に有（あり）がたく奉損（そんじたてまつり）候 猶又（なほまた） 今磐（こんばん）御 愁（うれ）ひの為（ため） 市中（しちう）なんぎめし\n此末（このすへ）どうせう汁（じる） 打身骨抜即席（うちみほねぬきそくせき）御りやうぢ取合（とりあはせ）格別（かくべつ）\n風儀（ふうぎ） 宜（よろし）く世直（よなほ）し仕差上可申候間 民（たみ）の竈（かまど）の御賑々（にぎ〳〵）しく\n御威光（ごいくわう） 駕（が）之程 一偏（ひとへ）に奉願上候以上\n\n【掛け看板】\n市ちうなんきめし　《割書：御枚御一人前｜五合宛》\n此末どうせう汁　《割書：ことし一ぱい｜難渋見聞》\n\n卯十月二日夜ゟゆり出し　　　神座鹿島町\n　見勢【みせ】ひらき焼失\n　　　麁かゆ差上申候　　　　　かな目屋石蔵\n\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 958000000,
+                "_seconds": 1603344006
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dc537461-0dfd-4e56-b8cb-fac3dc48ec4f/canvas/p2",
+            "editedBy": null,
+            "entryId": "F2FE9806CF65BC0FD1357D971929D471",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030632355
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

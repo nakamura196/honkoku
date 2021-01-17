@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7255,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1d65902ccfb301a21d4cb0b6d82756b155b58a99.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7255,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56241",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9656
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56241/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56241",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9656
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7255,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/96ced0215b0c36ee437ca4d8780b2b4fab68bed9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7255,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56242",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9656
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56242/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56242",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9656
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "FA83BE0F67DE457E6C2E34ECE540C7C0",
+    "label": "流行職人盡",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "流行職人盡"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-020"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "別タイトル",
+            "value": "流行職人尽"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-019"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "ab997982-1291-473e-96e4-b6f2ba43f844"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1056"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1d65902ccfb301a21d4cb0b6d82756b155b58a99.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p1",
+            "editedBy": "ayPiJlwT4WSibPeITJWrPD06CTM2",
+            "entryId": "FA83BE0F67DE457E6C2E34ECE540C7C0",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "ayPiJlwT4WSibPeITJWrPD06CTM2",
+            "tempText": "　　　　地主　　たいこ□\n\n\n\n\n　　　　　　　　建具屋\n\n　　　　家根屋\n　　　　大久\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n　　　　　　　　　　　　　　　　　　　　　左官\n\n　　　　　　　　　　　　　　　　　　　　　大吉利市\n　　　　　　　　　　　　　　　　　　　　　材木屋\n　　　　　　　　　　　　　　　　仕立屋　　小ま物や\n\n\n",
+            "text": "　　　　地主　　たいこ□\n\n\n\n\n　　　　　　　　建具屋\n\n　　　　家根屋\n　　　　大久\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n　　　　　　　　　　　　　　　　　　　　　左官\n\n　　　　　　　　　　　　　　　　　　　　　大吉利市\n　　　　　　　　　　　　　　　　　　　　　材木屋\n　　　　　　　　　　　　　　　　仕立屋　　小ま物や\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 922000000,
+                "_seconds": 1606046486
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ab997982-1291-473e-96e4-b6f2ba43f844/canvas/p2",
+            "editedBy": null,
+            "entryId": "FA83BE0F67DE457E6C2E34ECE540C7C0",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030661744
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

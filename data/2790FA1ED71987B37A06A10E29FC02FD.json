@@ -1,0 +1,178 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5904,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a80bc522ab7b3f090c813ee264a9fba16d5ea3f7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5904,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56120",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7858
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56120/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56120",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7858
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5904,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cb5a43c858638bdafc8fed74666ea840c0dabfe2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5904,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56121",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7858
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56121/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56121",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7858
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "2790FA1ED71987B37A06A10E29FC02FD",
+    "label": "[幸手近郷洪水図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[幸手近郷洪水図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化3年6月11日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1846"
+        },
+        {
+            "label": "identifier",
+            "value": "8e247359-9856-47f0-83b1-88b7ecdb0f71"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1001"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a80bc522ab7b3f090c813ee264a9fba16d5ea3f7.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "2790FA1ED71987B37A06A10E29FC02FD",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "弘化三丙午年六月十一日\n甲子ノ日ヨリ辰巳丑寅ノ雨降ツゞキ\n上州野州辺山クツレノヨシニテ所々\n川々洪水□幸手近郷アラマシシルス\n\n\n\n",
+            "text": "弘化三丙午年六月十一日\n甲子ノ日ヨリ辰巳丑寅ノ雨降ツゞキ\n上州野州辺山クツレノヨシニテ所々\n川々洪水□幸手近郷アラマシシルス\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 156000000,
+                "_seconds": 1575013199
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8e247359-9856-47f0-83b1-88b7ecdb0f71/canvas/p2",
+            "editedBy": null,
+            "entryId": "2790FA1ED71987B37A06A10E29FC02FD",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 214000000,
+                "_seconds": 1566453075
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

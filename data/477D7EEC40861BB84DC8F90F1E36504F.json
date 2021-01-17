@@ -1,0 +1,132 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/656f298058d2f1840554581a9c40302a83bab457.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88663",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88663/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88663",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "hidden": true,
+    "id": "477D7EEC40861BB84DC8F90F1E36504F",
+    "label": "会津ばんだいさん大くづれはなし",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "会津ばんだいさん大くづれはなし"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "数え歌"
+        },
+        {
+            "label": "年月日",
+            "value": "明治21年7月19日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×45"
+        },
+        {
+            "label": "year",
+            "value": "1888"
+        },
+        {
+            "label": "identifier",
+            "value": "79836366-0ecb-421a-af7f-452cde42e104"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0283"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/656f298058d2f1840554581a9c40302a83bab457.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79836366-0ecb-421a-af7f-452cde42e104/canvas/p1",
+            "editedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "entryId": "477D7EEC40861BB84DC8F90F1E36504F",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "syncMode": false,
+            "tempChanged": false,
+            "tempEditedBy": "SUEhZh1pDGXm8FdLyWLoehzK3K22",
+            "tempText": "会津\nばん\n　だい\n　　さん\n大くづれ\nはなし\n【上段】\n　ひろい　　にほんで　　　　なもたかき\n一あいづ　　ばんだいさんの　おゝさわぎ\n　きくも　　かたるさも　　　をそろしや\n\n　ふもとわ　ごかむら　　　　そのほかに\n二ろくり　　よほうの　　　　さわぎにて\n　そくしの　かづ〴〵　　　　かづしれの\n\n　みるも　　をそろし　　　　このさわぎ\n三ばんだい　さんわま　　　　ふきやぶれ\n　したより　くハいんが　　　もいあがる\n\n　よにも　　じごくハ　　　　あるものよ\n四これが　　とうくハつハ　　じごくかと\n　くるしむ　ひとのよ　　　　ありさまハ\n\n　いかに　　じごくが　　　　あれバとて\n五このよで　三十　　　　　　ろくかむら\n　いちどに　はなうの　　　　くるしみで\n\n　むごい　　ものだよ　　　　ばんだいの\n六とうじの　ひと〴〵　　　　だいそこに\n　かわいや　そのかづ　　　　百五十にん\n\n　ならくの　そことハ　　　　このことよ\n七つまや　　こともの　　　　あるみでも\n　しにめも　あわずて　　　　このよのわかれ\n\n　やまハ　　くづれて　　　　のまとなる\n八のまハ　　むまりて　　　　やまとなる\n　いしハ　　くだけて　　　　じやりとなる\n\n　こゝん　　まれない　　　　をゝさわぎ\n九いしハ　　てんより　　　　ふりくだる\n　したより　ほなうが　　　　もいあがる\n\n　とゞろく　だいじハ　　　　ひゃくはちの\n十かみなり　さまのま　　　　ごとくにて\n　いきた　　こゝろの　　　　ひとわなし\n\n【下段】\n　　いばら　　をゝかわ　　　　こがわまで\n十一すいろハ　ふさがり　　　　でんばたも\n　　みづだめ　こぼりも　　　　みなつぶれ\n\n　　にわかの　さわぎの　　　　ことなれバ\n十二をやこ　　ちりじり　　　　にげいだす\n　　いのち　　あつての　　　　ものがたり\n\n　　さん〴〵　くづれし　　　　そのころハ\n十三七月　　　なかバの　　　　十五日\n　　ごぜん　　はちじも　　　　すぎしころ\n\n　　しほう　　はつぽう　　　　くろけむり\n十四ちやうちく　るいまで　　　みなごろし\n　　みのけも　よだつる　　　　ばかりなり　\n\n　　ごたいも　ちゝまる　　　　をおろしさ\n十五つまこに　わかるゝ　　　　かなしさに\n　　をやこ　　わかるゝ　　　　あわれさよ\n\n　　ろく十　　よしうハ　　　　ひろくとも\n十六ばんだい　さんのま　　　　をゝさわぎ\n　　みるも　　あわれの　　　　かぎりなし\n\n　　しかし　　ひとつの　　　　ふしぎあり\n十七ひばら　　むらにて　　　　ひとりもの\n　　としハ　　八十で　　　　　をバゞさん\n\n　　はるの　　ころより　　　いつぴきの\n十八いのを　　だいじに　　　かいをかバ\n　　このいの　ごをんを　　　をくらんと\n\n　　くびを　　かたげて　　　このいのハ\n十九ものわ　　いわねど　　　めでしらす\n　　そでを　　くわいて　　　つれてよく\n\n　　にわかの　だいなん　　　まのかれて\n二十うれしや　ぶちやと　　　をバゞさん\n　　こんな　　さわぎが　　　よにあろか\n\n　明治二十一年七月十六日印刷\n　同　　　　年七月十九日出板\n　　　　新潟県中蒲原郡白根町\n　　　　　第百九十二番地\n　編輯兼\n　発行者　　岡田　伝松\n　印刷兼\n\n　　　　定価■■■\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "会津\nばん\n　だい\n　　さん\n大くづれ\nはなし\n【上段】\n　ひろい　　にほんで　　　　なもたかき\n一あいづ　　ばんだいさんの　おゝさわぎ\n　きくも　　かたるさも　　　をそろしや\n\n　ふもとわ　ごかむら　　　　そのほかに\n二ろくり　　よほうの　　　　さわぎにて\n　そくしの　かづ〴〵　　　　かづしれの\n\n　みるも　　をそろし　　　　このさわぎ\n三ばんだい　さんわま　　　　ふきやぶれ\n　したより　くハいんが　　　もいあがる\n\n　よにも　　じごくハ　　　　あるものよ\n四これが　　とうくハつハ　　じごくかと\n　くるしむ　ひとのよ　　　　ありさまハ\n\n　いかに　　じごくが　　　　あれバとて\n五このよで　三十　　　　　　ろくかむら\n　いちどに　はなうの　　　　くるしみで\n\n　むごい　　ものだよ　　　　ばんだいの\n六とうじの　ひと〴〵　　　　だいそこに\n　かわいや　そのかづ　　　　百五十にん\n\n　ならくの　そことハ　　　　このことよ\n七つまや　　こともの　　　　あるみでも\n　しにめも　あわずて　　　　このよのわかれ\n\n　やまハ　　くづれて　　　　のまとなる\n八のまハ　　むまりて　　　　やまとなる\n　いしハ　　くだけて　　　　じやりとなる\n\n　こゝん　　まれない　　　　をゝさわぎ\n九いしハ　　てんより　　　　ふりくだる\n　したより　ほなうが　　　　もいあがる\n\n　とゞろく　だいじハ　　　　ひゃくはちの\n十かみなり　さまのま　　　　ごとくにて\n　いきた　　こゝろの　　　　ひとわなし\n\n【下段】\n　　いばら　　をゝかわ　　　　こがわまで\n十一すいろハ　ふさがり　　　　でんばたも\n　　みづだめ　こぼりも　　　　みなつぶれ\n\n　　にわかの　さわぎの　　　　ことなれバ\n十二をやこ　　ちりじり　　　　にげいだす\n　　いのち　　あつての　　　　ものがたり\n\n　　さん〴〵　くづれし　　　　そのころハ\n十三七月　　　なかバの　　　　十五日\n　　ごぜん　　はちじも　　　　すぎしころ\n\n　　しほう　　はつぽう　　　　くろけむり\n十四ちやうちく　るいまで　　　みなごろし\n　　みのけも　よだつる　　　　ばかりなり　\n\n　　ごたいも　ちゝまる　　　　をおろしさ\n十五つまこに　わかるゝ　　　　かなしさに\n　　をやこ　　わかるゝ　　　　あわれさよ\n\n　　ろく十　　よしうハ　　　　ひろくとも\n十六ばんだい　さんのま　　　　をゝさわぎ\n　　みるも　　あわれの　　　　かぎりなし\n\n　　しかし　　ひとつの　　　　ふしぎあり\n十七ひばら　　むらにて　　　　ひとりもの\n　　としハ　　八十で　　　　　をバゞさん\n\n　　はるの　　ころより　　　いつぴきの\n十八いのを　　だいじに　　　かいをかバ\n　　このいの　ごをんを　　　をくらんと\n\n　　くびを　　かたげて　　　このいのハ\n十九ものわ　　いわねど　　　めでしらす\n　　そでを　　くわいて　　　つれてよく\n\n　　にわかの　だいなん　　　まのかれて\n二十うれしや　ぶちやと　　　をバゞさん\n　　こんな　　さわぎが　　　よにあろか\n\n　明治二十一年七月十六日印刷\n　同　　　　年七月十九日出板\n　　　　新潟県中蒲原郡白根町\n　　　　　第百九十二番地\n　編輯兼\n　発行者　　岡田　伝松\n　印刷兼\n\n　　　　定価■■■\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 630000000,
+                "_seconds": 1607245808
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

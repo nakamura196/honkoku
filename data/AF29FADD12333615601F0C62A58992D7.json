@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/894870c80675c7dafaf355c803a1d849ec148812.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88638",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88638/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88638",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "AF29FADD12333615601F0C62A58992D7",
+    "label": "江戸大地震□焼場附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震□焼場附"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34.5×49.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f5a6aeb1-5814-4ef2-8396-46f260921f28"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0258"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/894870c80675c7dafaf355c803a1d849ec148812.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f5a6aeb1-5814-4ef2-8396-46f260921f28/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "AF29FADD12333615601F0C62A58992D7",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【右上の別枠内】\n常之風六字手向　　古路【川】流行　三□場　彼岸古人【忌】服\n常香盤死後菩提　　　病死数万人　　　土【？】ほん　極楽浄土\n常盤今安政五秋　　前代未曽有　　　同　　　蓮台【定】神\n【右下上の別枠内】\n江戸【横書】　大地震　正徳六年度　当年の七月より　　　　　\n　　　　　　　壱ケ月八万余人　　　□【人偏に死】焼場附　　　\n　　　　　　　病死安永二年　　　　　　　　　　　　し変\n　　　　　　　疫癘大流行す\n【右下下枠内】\n　帰元【横書】　服忌喪□\n　　　　　　　　　　戒名　\n【右上一段目右から】\n新場元利益之部　　　　　　\n潤　　　死口　生口　水向　口寄□加子　　　\n潤　　　祈祷　札掛　　　　厄除神主　　　\n潤　　　見料　　　　　　　易者墨色　　\n名法　　配列　　　　　　　芳香散調薬\n門口　　厄除　　　　　　　八つ手木葉売\n□前　　出場知　　　　　　町びきやく急使\n義利　　人情　　　　　　　友立の百度参り\n付合　　迷惑　　　　　　　長屋のぎやうじ\n大潤　　並焼　別火　奥焼　焼場死坊\n潤　　　布施　経料　　　　寺院和尚\n利　　　高直　　　　　　　田無抜損料\n二百　　日雇　　　　　　　人□□棺まはし\n値　　　支度代　　　　　　医しやの薬箱持\n利　　　大売　　　　　　　辛しの粉商\n婆　　　佛参　　　　　　　しきみ【樒】のはなや\nからす　□ぐり　　　　　　二しゆ八のそんりやう\n□田相　同　　　　　　　　おどりのつくもうきん\n売　　　門台　　　　　　　忌中のすだれ屋\n潤　　　板込　　　　　　　仕切板松良衛門\n\n【右上二段目右から】\n新【場】元焼場之部　　　\n潤　　　手回　信□　日収　□土廻桶\n法力　　雙广　神徳　　　　修験山侠\n利　　　赤米　注文　　　　饅頭百万□\n呑しろ　毎日　切なし　　　寿□□□\n半□□　大道　　　　　　　□幷買商人\n潤　　　戒名　　　　　　　墓所取立\n□前　　賃銭　　　　　　　内葬駕籠かき\n□行　　もらい　　　　　　門せんのとうじき　\n喰□　　同　　　　　　　　同こりめしもらひ\n喰□　　同　　　　　　　　同寺まちのわん〳〵\n潤　　　調来　粉薬　　　　北来□□　\n利　　　□めし　　　　　　湯濯□□□\n潤　　　上下　　　　　　　按摩□りやうじ\n行並　　出たらめ　　　　　厄除のかどまもり\n大売　　□□　　　　　　　せんかうや\n□□し　無常　　　　　　　せがれのみおくり\nふ憫　　同　　　　　　　　おやなきすて子\n同　　　同　　　　　　　　同うられる子\n同　　　同　　　　　　　　同さとにやるみつ子\n仕合　　ゑんき　　　　　　いきのこつたとしより\n同　　　同　　　　　　　　同ちしん□□\n相□　　同　　　　　　　　同かたみのしひん\n□わく　同　　　　　　　　同のこしたしやきん【借金？】\n\n【上中央右から】\n関八州\n坂東筋\n市中四里四方\n嵐小の方\n□上発意\n【上左一段目右から】\n吉原　　遊女　狐付　　河竹新造\n桶や　　薬店　　　　　しほおんじやく\n同　　　同　　　　　　おぎなひおんてつ\n流行　　内□　　　　　きやくのひき相\n名聞　　きどく　　　　ほどこしぐすり\n調薬　　西洋　　　　　経験　蘭□医□\n□病　　夏相　伝法　　名灸處\n方便　　雇僧　　　　　説法談儀\n法弁　　□僧　　　　　つもぢだんぎ\n□間　　つぢ〳〵　　　ひつぱりにわか\n同　　　しよく　　　　に社のしゝ会\n同　　　同　　　　　　とりのきむじん\n盲　　　不祝儀　　　　座頭仕□\n屎用　　□せぎ　　　　せうちう酒店\n葬席　　ふりかけ　　　きよめのしほ火\n腹用　　出しまき　　　うこんのきれや\n上戸　　狂画　酔筆　　酒盛□神方\n下戸　　興言　書者　　□□□魯□　\n\n【上左二段目右から】\n念仏　　極楽　浄土　　右□□□\n妙法　　定佛　　　　　□□題目\n終行　　手の内　　　　道いし□□\n終行　　同　　　　　　千の□主\n商　　　売高　　　　　蝋そくみせ\n商　　　同　　　　　　かんぶつや\n商　　　同　　　　　　野菜もの\n商　　　同　　　　　　とうふ油揚\nお間　　そんもう　　　いわしうり\n同　　　同　　　　　　水道みづくみ\n同　　　同　　　　　　三味せんや\n同　　　同　　　　　　しよげいにん\n□\t　　病者　死亡　　東西南北\n他余り　深川　　　　　早桶ほどこし\nお間　　西東　　　　　両国会席\n同　　　やすみ　　　　よせみせもの\n同　　　うれず　　　　よそばうり\nころり\n頭押　　牛頭天王\n神前獅子\n苦労太　市並餝行松\n魔元　市中悉左わぎエ門\n\n【左上左端枠内１】\n吾妻路奇病流行　　　吾妻恋し　　　三界　　萬霊一切\n吾妻路不事大変　　　　死別連　＜割書：上下　　　諸精霊｜びやうし　為菩提＞\n吾妻路驚済\n\n【左上左端枠内２】\n江戸御武家地　　　＜割書：五万三千｜八百人余＞　　　三　　合死亡数\n暴　江戸死去人別　＜割書：十万七千｜六百人余＞　　　　　　二十四万\n江戸近郷近在　　　＜割書：八万九千｜三百人余＞　　　所　　七百人余\n　　　　　　　　　　　　　　　　　　病者不□\n【枠外左下】\n鳥居喜常筆\n",
+            "text": "【右上の別枠内】\n常之風六字手向　　古路【川】流行　三□場　彼岸古人【忌】服\n常香盤死後菩提　　　病死数万人　　　土ちん　極楽浄土\n常盤今安政五秋　　前代未曽有　　　同　　　蓮台【定】神\n【右下上の別枠内】\n江戸【横書】　大地震　正徳六年度　当年の七月より　　　　　\n　　　　　　　壱ケ月八万余人　　　□【人偏に死】焼場附　　　\n　　　　　　　病死安永二年　　　　　　　　　　　　し変\n　　　　　　　疫癘大流行す\n【右下下枠内】\n　帰元【横書】　服忌喪□\n　　　　　　　　　　戒名　\n【右上一段目右から】\n新場元利益之部　　　　　　\n潤　　　死口　生口　水向　口寄□加子　　　\n潤　　　祈祷　札掛　　　　厄除神主　　　\n潤　　　見料　　　　　　　易者墨色　　\n名法　　配列　　　　　　　芳香散調薬\n門口　　厄除　　　　　　　八つ手木葉売\n□前　　出場知　　　　　　町びきやく急使\n義利　　人情　　　　　　　友立の百度参り\n付合　　迷惑　　　　　　　長屋のぎやうじ\n大潤　　並焼　別火　奥焼　焼場死坊\n潤　　　布施　経料　　　　寺院和尚\n利　　　高直　　　　　　　田無抜損料\n二百　　日雇　　　　　　　人□□棺まはし\n値　　　支度代　　　　　　医しやの薬箱持\n利　　　大売　　　　　　　辛しの粉商\n婆　　　佛参　　　　　　　しきみ【樒】のはなや\nからす　□ぐり　　　　　　二しゆ八のそんりやう\n□田相　同　　　　　　　　おどりのつくもうきん\n売　　　門台　　　　　　　忌中のすだれ屋\n潤　　　板込　　　　　　　仕切板松良衛門\n\n【右上二段目右から】\n新【場】元焼場之部　　　\n潤　　　手回　信□　日収　□土廻桶\n法力　　雙广　神徳　　　　修験山侠\n利　　　赤米　注文　　　　饅頭百万□\n呑しろ　毎日　切なし　　　寿□□□\n半□□　大道　　　　　　　□幷買商人\n潤　　　戒名　　　　　　　墓所取立\n□前　　賃銭　　　　　　　内葬駕籠かき\n□行　　もらい　　　　　　門せんのとうじき　\n喰□　　同　　　　　　　　同こりめしもらひ\n喰□　　同　　　　　　　　同寺まちのわん〳〵\n潤　　　調来　粉薬　　　　北来□□　\n利　　　□めし　　　　　　湯濯□□□\n潤　　　上下　　　　　　　按摩□りやうじ\n行並　　出たらめ　　　　　厄除のかどまもり\n大売　　□□　　　　　　　せんかうや\n□□し　無常　　　　　　　せがれのみおくり\nふ憫　　同　　　　　　　　おやなきすて子\n同　　　同　　　　　　　　同うられる子\n同　　　同　　　　　　　　同さとにやるみつ子\n仕合　　ゑんき　　　　　　いきのこつたとしより\n同　　　同　　　　　　　　同ちしん□□\n相□　　同　　　　　　　　同かたみのしひん\n□わく　同　　　　　　　　同のこしたしやきん【借金？】\n\n【上中央右から】\n関八州\n坂東筋\n市中四里四方\n嵐小の方\n□上発意\n【上左一段目右から】\n吉原　　遊女　狐付　　河竹新造\n桶や　　薬店　　　　　しほおんじやく\n同　　　同　　　　　　おぎなひおんてつ\n流行　　内□　　　　　きやくのひき相\n名聞　　きどく　　　　ほどこしぐすり\n調薬　　西洋　　　　　経験　蘭□医□\n□病　　夏相　伝法　　名灸處\n方便　　雇僧　　　　　説法談儀\n法弁　　□僧　　　　　つもぢだんぎ\n□間　　つぢ〳〵　　　ひつぱりにわか\n同　　　しよく　　　　に社のしゝ会\n同　　　同　　　　　　とりのきむじん\n盲　　　不祝儀　　　　座頭仕□\n屎用　　□せぎ　　　　せうちう酒店\n葬席　　ふりかけ　　　きよめのしほ火\n腹用　　出しまき　　　うこんのきれや\n上戸　　狂画　酔筆　　酒盛□神方\n下戸　　興言　書者　　□□□魯□　\n\n【上左二段目右から】\n念仏　　極楽　浄土　　右□□□\n妙法　　定佛　　　　　□□題目\n終行　　手の内　　　　道いし□□\n終行　　同　　　　　　千の□主\n商　　　売高　　　　　蝋そくみせ\n商　　　同　　　　　　かんぶつや\n商　　　同　　　　　　野菜もの\n商　　　同　　　　　　とうふ油揚\nお間　　そんもう　　　いわしうり\n同　　　同　　　　　　水道みづくみ\n同　　　同　　　　　　三味せんや\n同　　　同　　　　　　しよげいにん\n□\t　　病者　死亡　　東西南北\n他余り　深川　　　　　早桶ほどこし\nお間　　西東　　　　　両国会席\n同　　　やすみ　　　　よせみせもの\n同　　　うれず　　　　よそばうり\nころり\n頭押　　牛頭天王\n神前獅子\n苦労太　市並餝行松\n魔元　市中悉左わぎエ門\n\n【左上左端枠内１】\n吾妻路奇病流行　　　吾妻恋し　　　三界　　萬霊一切\n吾妻路不事大変　　　　死別連　《割書：上下　　　諸精霊｜びやうし　為菩提》\n吾妻路驚済\n\n【左上左端枠内２】\n江戸御武家地　　　《割書：五万三千｜八百人余》　　　三　　合死亡数\n暴　江戸死去人別　《割書：十万七千｜六百人余》　　　　　　二十四万\n江戸近郷近在　　　《割書：八万九千｜三百人余》　　　所　　七百人余\n　　　　　　　　　　　　　　　　　　病者不□\n【枠外左下】\n鳥居喜常筆\n",
+            "timestamp": {
+                "_nanoseconds": 120000000,
+                "_seconds": 1574032365
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

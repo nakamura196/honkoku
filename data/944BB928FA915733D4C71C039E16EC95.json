@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a95582c317acd29f9033d2f1202c0474b541350d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88846",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88846/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88846",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "944BB928FA915733D4C71C039E16EC95",
+    "label": "諸国温泉一覧",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "諸国温泉一覧"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "38×27"
+        },
+        {
+            "label": "identifier",
+            "value": "ae9bd854-2490-4793-9897-03a1916db11f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0470"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a95582c317acd29f9033d2f1202c0474b541350d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ae9bd854-2490-4793-9897-03a1916db11f/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "944BB928FA915733D4C71C039E16EC95",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【中央の表題】\n　　　　　　　行　　　伊豆熱海之湯　勧進元　　　上州沢渡之湯\n諸国温泉一覧　　　紀伊熊野本宮之湯　　　　　紀伊熊野新宮之湯\n　　　　　　　司　　　津軽大鰐之湯　差　添　　　上州原湯之湯【右側一段目】\n東之方\n【右側二段目】\n大関　＜割書：江戸ヨリ　｜四十八リ＞　　　上州草津之湯\n関脇　三十八リ　　野州那須之湯\n小結　百五十三リ　秋田小鹿嶋之湯\n前頭　二十四リ　　上州伊香保之湯\n前頭　二十二リ　　豆州湯川原之湯\n前頭　六十八リ　　相州足之湯\n前頭　三十五リ　　陸奥嶽之湯\n前頭　九十七リ　　最上高湯之泉\n前頭　九十四リ　　仙台成子之湯\n前頭　四十八リ　　信州諏訪之湯\n【右側三段目】\n前頭　百九十リ　　津軽嶽之湯\n同　　二十二リ　　相州湯元之湯\n同　　二十四リ　　豆州小名之湯\n同　　六十リ　　　信州渋之湯\n同　　六十六リ　　会津天仁寺之湯\n同　　百七十リ　　越後松之山之湯\n同　　百二十リ　　南部恐山之湯\n同　　五十五リ　　庄内田川之湯\n同　　八十リヨ　　岩城湯元之湯\n同　　八十リヨ　　米沢赤湯之湯\n同　　三十九リ　　下野中禅寺之湯\n【右側四段目】\n同　　百七十五リ　秋田大滝之湯\n同　　六十六リ　　奥州飯坂之湯\n同　　百六十リ　　南部鹿角之湯\n同　　二十二リ　　相州姥子之湯\n同　　二十四リ　　豆州修善寺之湯\n同　　九十九リ　　仙台川度之湯\n同　　百二十三リ　庄内温海之湯\n同　　百九十リ　　津軽温湯之泉\n同　　六十五リ　　米沢湯沢之湯\n同　　二十四リ　　豆州権現之湯\n同　　六十リ　　　会津熱塩之湯\n同　　二十二リ　　相州貴知之湯\n【右側五段目】\n同　　三十二リ　　野州塩原之湯\n同　　百廿三リ　　庄内湯浜之湯\n同　　百九十リ　　津軽板留之湯\n同　　四十八リ　　信州別所之湯\n同　　六十八リ　　越後関之山之湯\n同　　百三十二リ　南部台之湯\n同　　七十五リ　　伊達湯之村之湯\n同　　百リヨ　　　最上銀山之湯\n同　　九十三リ　　仙台釜崎之湯\n同　　六十九リ　　会津滝之湯\n同　　二十八リ　　米沢谷沢之湯\n同　　百六十二リ　南部麻水之湯\n同　　六十リヨ　　信州野沢之湯\n\n【左側一段目】\n西之方\n【左側二段目】\n大関　百四十リ　　摂州有馬之湯\n関脇　百四十リ　　但州城之崎之湯\n小結　二百十九リ　予州道後之湯\n前頭　百二十リ　　加州山中之湯\n前頭　三百四リ　　肥後阿蘇之湯\n前頭　二百七十リ　豊後浜脇之湯\n前頭　三百二リ　　肥前温泉之湯\n前頭　四百四十リ　薩州霧嶋之湯\n前頭　二百七十リ　豊後別府之湯\n前頭　二百七十リ　肥後山家之湯\n【左側三段目】\n前頭　百リ　　　　濃州下良之湯\n同　　二百七十二リ　肥後雛久之湯\n同　　百七十六リ　能州底倉之湯\n同　　百八十リ　　備中長府之湯\n同　　四百リ　　　薩州硫黄之湯\n同　　百五十リ　　紀州田辺之湯\n同　　百五十リ　　但州湯川原之湯\n同　　二百十リ　　芸州川治之湯\n同　　百五十リ　　紀州大世知之湯\n同　　百九十四リ　加州白山之湯\n同　　二百二十リ　伯州徒見之湯\n【左側四段目】\n同　　四百廿リ　　薩州桜嶋之湯\n同　　三百リ　　　肥前竹尾之湯\n同　　百五十リ　　石州河村之湯\n同　　三百六十リ　防州山口之湯\n同　　三百リ　　　肥前漆之湯\n同　　百五十リ　　越中足倉之湯\n同　　九十リ　　　越後塩沢之湯\n同　　二十二リ　　相州塔之沢之湯\n同　　百七十リ　　秋田小安之湯\n同　　四百廿五リ　薩州関外之湯\n同　　二十二リ　　相州宮下之湯\n同　　百七十六リ　津軽矢立之湯\n【左側五段目】\n同　　五十六リ　　信州湯瀬之湯\n同　　二十二リ　　相州堂ヶ嶋之湯\n同　　百九十八リ　津軽浅出【虫】之湯\n同　　五十八リ　　仙台阿灸之湯\n同　　九十リ　　　越後出湯之泉\n同　　九十一リ　　最上上之山之湯\n同　　五十五リ　　信州浅間之湯\n同　　廿二リ　　　相州底倉之湯\n同　　四十一リ　　上州老神之湯\n同　　九十七リ　　越後田上之湯\n同　　百七十五リ　津軽倉立之湯\n同　　百七十六リ　能州足之湯\n同　　五十リヨ　　信州山田之湯\n同　　四十リヨ　　上州宝川之湯\n",
+            "text": "【中央の表題】\n　　　　　　　行　　　伊豆熱海之湯　勧進元　　　上州沢渡之湯\n諸国温泉一覧　　　紀伊熊野本宮之湯　　　　　紀伊熊野新宮之湯\n　　　　　　　司　　　津軽大鰐之湯　差　添　　　上州原湯之湯【右側一段目】\n東之方\n【右側二段目】\n大関　《割書：江戸ヨリ　｜四十八リ》　　　上州草津之湯\n関脇　三十八リ　　野州那須之湯\n小結　百五十三リ　秋田小鹿嶋之湯\n前頭　二十四リ　　上州伊香保之湯\n前頭　二十二リ　　豆州湯川原之湯\n前頭　六十八リ　　相州足之湯\n前頭　三十五リ　　陸奥嶽之湯\n前頭　九十七リ　　最上高湯之泉\n前頭　九十四リ　　仙台成子之湯\n前頭　四十八リ　　信州諏訪之湯\n【右側三段目】\n前頭　百九十リ　　津軽嶽之湯\n同　　二十二リ　　相州湯元之湯\n同　　二十四リ　　豆州小名之湯\n同　　六十リ　　　信州渋之湯\n同　　六十六リ　　会津天仁寺之湯\n同　　百七十リ　　越後松之山之湯\n同　　百二十リ　　南部恐山之湯\n同　　五十五リ　　庄内田川之湯\n同　　八十リヨ　　岩城湯元之湯\n同　　八十リヨ　　米沢赤湯之湯\n同　　三十九リ　　下野中禅寺之湯\n【右側四段目】\n同　　百七十五リ　秋田大滝之湯\n同　　六十六リ　　奥州飯坂之湯\n同　　百六十リ　　南部鹿角之湯\n同　　二十二リ　　相州姥子之湯\n同　　二十四リ　　豆州修善寺之湯\n同　　九十九リ　　仙台川度之湯\n同　　百二十三リ　庄内温海之湯\n同　　百九十リ　　津軽温湯之泉\n同　　六十五リ　　米沢湯沢之湯\n同　　二十四リ　　豆州権現之湯\n同　　六十リ　　　会津熱塩之湯\n同　　二十二リ　　相州貴知之湯\n【右側五段目】\n同　　三十二リ　　野州塩原之湯\n同　　百廿三リ　　庄内湯浜之湯\n同　　百九十リ　　津軽板留之湯\n同　　四十八リ　　信州別所之湯\n同　　六十八リ　　越後関之山之湯\n同　　百三十二リ　南部台之湯\n同　　七十五リ　　伊達湯之村之湯\n同　　百リヨ　　　最上銀山之湯\n同　　九十三リ　　仙台釜崎之湯\n同　　六十九リ　　会津滝之湯\n同　　二十八リ　　米沢谷沢之湯\n同　　百六十二リ　南部麻水之湯\n同　　六十リヨ　　信州野沢之湯\n\n【左側一段目】\n西之方\n【左側二段目】\n大関　百四十リ　　摂州有馬之湯\n関脇　百四十リ　　但州城之崎之湯\n小結　二百十九リ　予州道後之湯\n前頭　百二十リ　　加州山中之湯\n前頭　三百四リ　　肥後阿蘇之湯\n前頭　二百七十リ　豊後浜脇之湯\n前頭　三百二リ　　肥前温泉之湯\n前頭　四百四十リ　薩州霧嶋之湯\n前頭　二百七十リ　豊後別府之湯\n前頭　二百七十リ　肥後山家之湯\n【左側三段目】\n前頭　百リ　　　　濃州下良之湯\n同　　二百七十二リ　肥後雛久之湯\n同　　百七十六リ　能州底倉之湯\n同　　百八十リ　　備中長府之湯\n同　　四百リ　　　薩州硫黄之湯\n同　　百五十リ　　紀州田辺之湯\n同　　百五十リ　　但州湯川原之湯\n同　　二百十リ　　芸州川治之湯\n同　　百五十リ　　紀州大世知之湯\n同　　百九十四リ　加州白山之湯\n同　　二百二十リ　伯州徒見之湯\n【左側四段目】\n同　　四百廿リ　　薩州桜嶋之湯\n同　　三百リ　　　肥前竹尾之湯\n同　　百五十リ　　石州河村之湯\n同　　三百六十リ　防州山口之湯\n同　　三百リ　　　肥前漆之湯\n同　　百五十リ　　越中足倉之湯\n同　　九十リ　　　越後塩沢之湯\n同　　二十二リ　　相州塔之沢之湯\n同　　百七十リ　　秋田小安之湯\n同　　四百廿五リ　薩州関外之湯\n同　　二十二リ　　相州宮下之湯\n同　　百七十六リ　津軽矢立之湯\n【左側五段目】\n同　　五十六リ　　信州湯瀬之湯\n同　　二十二リ　　相州堂ヶ嶋之湯\n同　　百九十八リ　津軽浅出【虫】之湯\n同　　五十八リ　　仙台阿灸之湯\n同　　九十リ　　　越後出湯之泉\n同　　九十一リ　　最上上之山之湯\n同　　五十五リ　　信州浅間之湯\n同　　廿二リ　　　相州底倉之湯\n同　　四十一リ　　上州老神之湯\n同　　九十七リ　　越後田上之湯\n同　　百七十五リ　津軽倉立之湯\n同　　百七十六リ　能州足之湯\n同　　五十リヨ　　信州山田之湯\n同　　四十リヨ　　上州宝川之湯\n",
+            "timestamp": {
+                "_nanoseconds": 933000000,
+                "_seconds": 1571804036
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

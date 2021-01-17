@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3e41d3af80e5877457383c42c6b2c07985688f7a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88584",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88584/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88584",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "26F3A8E7D1B069006FFFDE63519AAD2E",
+    "label": "岐阜全市大震大火之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "岐阜全市大震大火之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "雑誌"
+        },
+        {
+            "label": "年月日",
+            "value": "明治24年11月25日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "銅版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "絵画叢誌　明治24年11月25日, 56号付録"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×55"
+        },
+        {
+            "label": "備考",
+            "value": "絵画叢誌第56号付録／大判"
+        },
+        {
+            "label": "year",
+            "value": "1891"
+        },
+        {
+            "label": "identifier",
+            "value": "c18c29df-f01a-4b25-8d08-c3f0e69ea5da"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0204"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3e41d3af80e5877457383c42c6b2c07985688f7a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c18c29df-f01a-4b25-8d08-c3f0e69ea5da/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "26F3A8E7D1B069006FFFDE63519AAD2E",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\n【画枠外上　左から横書き】\n岐阜全市大地震大火之図\n\n【画内説明】\n明治辛卯十一月震災後十日\n　　　　　　　廣　業\n\n【画枠外下　左から横書き】\n明治廿四辛卯年十月廿八日暁六時三十分\n\n【画枠外右】\n風俗画報第三十五号に限り此際更に本月三十日に増刊し本号の全体地震而已の記事を以て一部を編製すべしその編輯の体裁は今回の地震を主として震災百般の惨\n状を観察見分及びが学者の所説実際家の談話は勿論建築土木上の参証となるべき事など細大と無く網羅し精巧なる石版密画を加へ其真を睹るが如くになし他は本邦\n古代より近世に至る迄の大地震より別して安政の災厄をも参考対照し当時の絵図摺物なんどの尤も珍奇なる物を充分に捜索し得て改版挿入し以て一部の正確なる\n地震歴史を編製すべし江湖諸君幸に愛読を賜へ\n\n【画枠外左】\n絵画叢誌第五十六巻附録　(明治廿四年十一月二十五日発兌)\n発行兼印刷人　吾妻健三郎　　編輯人　菅原白龍\n風俗画報発行所　東京日本橋区葺屋町六番地　東　陽　堂",
+            "text": "【表題】\n【画枠外上　左から横書き】\n岐阜全市大地震大火之図\n\n【画内説明】\n明治辛卯十一月震災後十日\n　　　　　　　廣　業\n\n【画枠外下　左から横書き】\n明治廿四辛卯年十月廿八日暁六時三十分\n\n【画枠外右】\n風俗画報第三十五号に限り此際更に本月三十日に増刊し本号の全体地震而已の記事を以て一部を編製すべしその編輯の体裁は今回の地震を主として震災百般の惨\n状を観察見分及びが学者の所説実際家の談話は勿論建築土木上の参証となるべき事など細大と無く網羅し精巧なる石版密画を加へ其真を睹るが如くになし他は本邦\n古代より近世に至る迄の大地震より別して安政の災厄をも参考対照し当時の絵図摺物なんどの尤も珍奇なる物を充分に捜索し得て改版挿入し以て一部の正確なる\n地震歴史を編製すべし江湖諸君幸に愛読を賜へ\n\n【画枠外左】\n絵画叢誌第五十六巻附録　(明治廿四年十一月二十五日発兌)\n発行兼印刷人　吾妻健三郎　　編輯人　菅原白龍\n風俗画報発行所　東京日本橋区葺屋町六番地　東　陽　堂",
+            "timestamp": {
+                "_nanoseconds": 458000000,
+                "_seconds": 1568960141
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

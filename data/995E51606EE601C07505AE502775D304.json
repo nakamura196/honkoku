@@ -1,0 +1,136 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/41a379718e6371c255625c47e5a5f2069f024fc4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88569",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88569/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88569",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "995E51606EE601C07505AE502775D304",
+    "label": "明治十四年十一月十五日ヨリ世界転覆噺",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治十四年十一月十五日ヨリ世界転覆噺"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "その他"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治14年11月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画工編集発行：弓町2番地　松井栄吉／価：5銭"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "70×48"
+        },
+        {
+            "label": "備考",
+            "value": "400年前の予言で、明治14年11月15日から数十日間に世界が転覆する噺を描いた資料"
+        },
+        {
+            "label": "year",
+            "value": "1881"
+        },
+        {
+            "label": "identifier",
+            "value": "79045dd9-9698-4e3e-b1a2-ef9176ac3aee"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0189"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/41a379718e6371c255625c47e5a5f2069f024fc4.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/79045dd9-9698-4e3e-b1a2-ef9176ac3aee/canvas/p1",
+            "editedBy": "GisVN9nwP1NOC94Wbd13XeKKDq13",
+            "entryId": "995E51606EE601C07505AE502775D304",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "GisVN9nwP1NOC94Wbd13XeKKDq13",
+            "tempText": "明治十四年十一月十五日ヨリ\n世界（せかい）転覆（ひつくりかへる）噺（はなし）\n\n四百年前「イタリヤ」国の人 何某（なにがし）推測（すゐそく）\nせしに紀元（きげん）千八百八十一年十一月十五日 即（すな）はち\n我明治十四年十一月十五日より日数十五日の\n間だに天地 潰（つぶ）れ山岳（さんがく）破裂（はれつ）して大火山を現（げん）\n出（しゆつ）し海水（かいすゐ）あぶれ洪水（こうすゐ）となり人間（にんげん）をはじめ禽（きん）\n獣（じう）草木（さうもく）魚（ぎよ）虫（ちう）斃死（へいし）と云（いへ）へり其（その）日割（ひわり）左（さ）に\n十五日　川々へ水の入る事\n十六日　大 洪水（こうすゐ）\n十七日　大つなみ\n十八日　川の魚（うを）こと／＼死（し）す\n十九日　海の魚皆し死す\n二十日　鳥るゐ残（のこら）ず死（しヽ）落（おつ）る【この行は全体的に自信がありません】\n廿一日　 大風（たいふう）家（いへ）蔵（くら）を倒（たふ）す\n廿二日　 巌石（がんせき）八方へちる\n廿三日　大地しん\n廿四日　山谷 鳴動（めいどう）す\n廿五日　 悪（あし）き空気（くうき）の為に人間 唖（おし）聾（つんぼ）となる\n廿六日　地上 破裂（はれつ）して人家 地底（ちのそこ）に落（つ）る【この行は半分ページが断ち切られているため類推です】\n廿七日　 星（ほし）雨の如く落ち下る\n廿八日　 世界（せかい）の男女みな死んて仕舞ふ\n廿九日　燃え出る噴煙（ふんゑん）の為に万物 溶解（ようかい）す\n\n前に述（のぶ）る処は其日／＼の原況（ありさま）を想像（さう／＼）して記（しる）せし物に\n然（しか）れ共 固（もと）より信（しん）を置（おく）に足（た）らず「リンコオンシヤー」の□ぎ\n此変動を恐（おそ）れ身を空中（くうちう）に置（おく）と□（いへど）も空気（くうき）の通（かよ）ふ所\n震動するは自然（しぜん）の理（り）にして奇人（きじん）の苦心（くしん）画餅（ぐわべい）に属（そく）せんと\nするを恐（おそ）るヽなり以上は伝聞（でんぶん）の儘（まゝ）記（しる）すといへとも取るに\n足（た）らざる忘説（まうせつ）なり人ゝ安心して業（がふ）につきぬへと云\n\n　　　御　明治十四年\n　　　届　十月　三日\n　　　　画工編集兼出版人\n　　　　弓町二番地\n　　　　松井栄吉\n　　　　　価　五銭\n",
+            "text": "明治十四年十一月十五日ヨリ\n世界（せかい）転覆（ひつくりかへる）噺（はなし）\n\n四百年前「イタリヤ」国の人 何某（なにがし）推測（すゐそく）\nせしに紀元（きげん）千八百八十一年十一月十五日 即（すな）はち\n我明治十四年十一月十五日より日数十五日の\n間だに天地 潰（つぶ）れ山岳（さんがく）破裂（はれつ）して大火山を現（げん）\n出（しゆつ）し海水（かいすゐ）あぶれ洪水（こうすゐ）となり人間（にんげん）をはじめ禽（きん）\n獣（じう）草木（さうもく）魚（ぎよ）虫（ちう）斃死（へいし）と云（いへ）へり其（その）日割（ひわり）左（さ）に\n十五日　川々へ水の入る事\n十六日　大 洪水（こうすゐ）\n十七日　大つなみ\n十八日　川の魚（うを）こと／＼死（し）す\n十九日　海の魚皆し死す\n二十日　鳥るゐ残（のこら）ず死（しヽ）落（おつ）る【この行は全体的に自信がありません】\n廿一日　 大風（たいふう）家（いへ）蔵（くら）を倒（たふ）す\n廿二日　 巌石（がんせき）八方へちる\n廿三日　大地しん\n廿四日　山谷 鳴動（めいどう）す\n廿五日　 悪（あし）き空気（くうき）の為に人間 唖（おし）聾（つんぼ）となる\n廿六日　地上 破裂（はれつ）して人家 地底（ちのそこ）に落（つ）る【この行は半分ページが断ち切られているため類推です】\n廿七日　 星（ほし）雨の如く落ち下る\n廿八日　 世界（せかい）の男女みな死んて仕舞ふ\n廿九日　燃え出る噴煙（ふんゑん）の為に万物 溶解（ようかい）す\n\n前に述（のぶ）る処は其日／＼の原況（ありさま）を想像（さう／＼）して記（しる）せし物に\n然（しか）れ共 固（もと）より信（しん）を置（おく）に足（た）らず「リンコオンシヤー」の□ぎ\n此変動を恐（おそ）れ身を空中（くうちう）に置（おく）と□（いへど）も空気（くうき）の通（かよ）ふ所\n震動するは自然（しぜん）の理（り）にして奇人（きじん）の苦心（くしん）画餅（ぐわべい）に属（そく）せんと\nするを恐（おそ）るヽなり以上は伝聞（でんぶん）の儘（まゝ）記（しる）すといへとも取るに\n足（た）らざる忘説（まうせつ）なり人ゝ安心して業（がふ）につきぬへと云\n\n　　　御　明治十四年\n　　　届　十月　三日\n　　　　画工編集兼出版人\n　　　　弓町二番地\n　　　　松井栄吉\n　　　　　価　五銭\n",
+            "timestamp": 1564449764094
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

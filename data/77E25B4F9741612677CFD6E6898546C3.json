@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f871295b8fa625544538cc8c1158029967e6b089.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88839",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88839/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88839",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "77E25B4F9741612677CFD6E6898546C3",
+    "label": "草津温泉名所",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "草津温泉名所"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-018-001"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "14.5×20"
+        },
+        {
+            "label": "備考",
+            "value": "2枚のうち「鷲之湯」とあるもの"
+        },
+        {
+            "label": "identifier",
+            "value": "bef7ac4b-56d2-41ca-9315-00a34e625d70"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0463"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f871295b8fa625544538cc8c1158029967e6b089.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bef7ac4b-56d2-41ca-9315-00a34e625d70/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "77E25B4F9741612677CFD6E6898546C3",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "草津温泉名所\n　　\n　　折月原　　　　　 鷲之湯（わしのゆ）\n\n【中央上資料のみ翻刻・他は別に翻刻ページあり】\n",
+            "text": "草津温泉名所\n　　\n　　折月原　　　　　 鷲之湯（わしのゆ）\n\n【中央上資料のみ翻刻・他は別に翻刻ページあり】\n",
+            "timestamp": {
+                "_nanoseconds": 44000000,
+                "_seconds": 1569483826
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/80ee8d3bdba759d4d3ee40e783d4a300d6567f12.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88670",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88670/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88670",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "AF73020DD77198D5A3AB8FC39AF9CF70",
+    "label": "平仮名絵入新聞",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "平仮名絵入新聞"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-036"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "その他"
+        },
+        {
+            "label": "資料分類",
+            "value": "新聞"
+        },
+        {
+            "label": "印刷分類",
+            "value": "活版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "19-24号"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "40×19.5"
+        },
+        {
+            "label": "備考",
+            "value": "6枚1紙／単色"
+        },
+        {
+            "label": "identifier",
+            "value": "0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0290"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/80ee8d3bdba759d4d3ee40e783d4a300d6567f12.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c8b54ab-740c-4ffc-adfd-aa9a958cc8f8/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "AF73020DD77198D5A3AB8FC39AF9CF70",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "平仮名ゑ入新聞　十九号　　　　　　　　モリ本\n時次郎といふ車引がミお【を】なげんとせしところおまわりに\nつかまりどういふわけとぎんミをしたら全ハ\n女にて元甲府きんばん水上忠左衛門といふ人の\n娘おゑいとてがゝいの時わかれ〳〵ニ成\n何卒親兄弟にめぐりあいたい\nといふてしよせん女でハかなわぬと\n前がミをそり\nこぼち\n男の姿ニ\nなり\nかんなん\nせしとぞ　　　　　　　　　　　　　　　　周重【歌川周重】筆\n\n平仮名ゑ入新聞　廿号　　　　　　　　　　モリ本\n橋場\n総泉寺ハ\n今度まいそう地ニ\n成に付古く有池を埋\n立るのだが竜がいるとか\nぬしがすむとかいつて\nおそれている\n中からつよい\nものがでて\nきてどん〳〵\n掘ていると池の中から\n六尺余りの鯰が\n飛出した　　　　　　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿一号　　　　　　　　　モリ本\n朝須田村の伊藤庄八の女房女の\n五人づれにて同所かねヶふちへ\n草苅ニ行けるがくさの\n中より壱丈余りの\nうハばみがぬる〳〵出たゆへ\nみな〳〵\nおどろきかま\nをぶつけて\nにげはしる　　　　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿二号　　　　　　　　モリ本\n出雲の国島根郡かぢ丁に\n伊藤辰太郎の母\n中風の長わづらい\n辰太郎古今\n孝心ものニて\nかん□□食事ハ\n□□【「去迚」カ】色【？】目ハ\nたのしミおさせんと四季おり〳〵の\n花をもとめ母おなくさめる\nこと拾二年ごしついに\nおかミからごほふびを\nたぶん給りました　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿三号　　　　　　　　モリ本\n　　　周重筆\n武州川越町中村氏の\n後家さまハよせのふし穴から\nまいよ〳〵のぞいていく\n中入から半せんニていつも〳〵はいてくるが\nある夜ふしあなにすミのぬつて有のを\nしらずのぞき中入過てはいつたが\n高座のだいより此後家の\nかほがおもしろく\n大わらい〳〵\n\n平仮名ゑ入新聞　廿四号　　　　　　　　モリ本\n浜丁にすむ安野政幸ハ\n十と二ヶ月なるが\n久松かく校【久松学校、小学校】で\n修行すること\nほかのこども\nハ\n中〻\nおよ\nばず\n正幸の\n父七十郎ハ\n天朝の為に討死なし\n其つまおふさハてひとつで\n此子をおしへき【尽く？】し\n子ハ又親へ孝行\nなしくらい\nうちから\nおきてにたきお\nなしかく校へ\n行ますが\nめづらしい\n事てごさい□",
+            "text": "平仮名ゑ入新聞　十九号　　　　　　　　モリ本\n時次郎といふ車引がミお【を】なげんとせしところおまわりに\nつかまりどういふわけとぎんミをしたら全ハ\n女にて元甲府きんばん水上忠左衛門といふ人の\n娘おゑいとてがゝいの時わかれ〳〵ニ成\n何卒親兄弟にめぐりあいたい\nといふてしよせん女でハかなわぬと\n前がミをそり\nこぼち\n男の姿ニ\nなり\nかんなん\nせしとぞ　　　　　　　　　　　　　　　　周重【歌川周重】筆\n\n平仮名ゑ入新聞　廿号　　　　　　　　　　モリ本\n橋場\n総泉寺ハ\n今度まいそう地ニ\n成に付古く有池を埋\n立るのだが竜がいるとか\nぬしがすむとかいつて\nおそれている\n中からつよい\nものがでて\nきてどん〳〵\n掘ていると池の中から\n六尺余りの鯰が\n飛出した　　　　　　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿一号　　　　　　　　　モリ本\n朝須田村の伊藤庄八の女房女の\n五人づれにて同所かねヶふちへ\n草苅ニ行けるがくさの\n中より壱丈余りの\nうハばみがぬる〳〵出たゆへ\nみな〳〵\nおどろきかま\nをぶつけて\nにげはしる　　　　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿二号　　　　　　　　モリ本\n出雲の国島根郡かぢ丁に\n伊藤辰太郎の母\n中風の長わづらい\n辰太郎古今\n孝心ものニて\nかん□□食事ハ\n□□【「去迚」カ】色【？】目ハ\nたのしミおさせんと四季おり〳〵の\n花をもとめ母おなくさめる\nこと拾二年ごしついに\nおかミからごほふびを\nたぶん給りました　　　　　　　　　　　周重筆\n\n平仮名ゑ入新聞　廿三号　　　　　　　　モリ本\n　　　周重筆\n武州川越町中村氏の\n後家さまハよせのふし穴から\nまいよ〳〵のぞいていく\n中入から半せんニていつも〳〵はいてくるが\nある夜ふしあなにすミのぬつて有のを\nしらずのぞき中入過てはいつたが\n高座のだいより此後家の\nかほがおもしろく\n大わらい〳〵\n\n平仮名ゑ入新聞　廿四号　　　　　　　　モリ本\n浜丁にすむ安野政幸ハ\n十と二ヶ月なるが\n久松かく校【久松学校、小学校】で\n修行すること\nほかのこども\nハ\n中〻\nおよ\nばず\n正幸の\n父七十郎ハ\n天朝の為に討死なし\n其つまおふさハてひとつで\n此子をおしへき【尽く？】し\n子ハ又親へ孝行\nなしくらい\nうちから\nおきてにたきお\nなしかく校へ\n行ますが\nめづらしい\n事てごさい□",
+            "timestamp": {
+                "_nanoseconds": 610000000,
+                "_seconds": 1569653005
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

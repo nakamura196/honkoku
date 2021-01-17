@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5559,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/34557843079f0f89f51451cfd2e72951af006c79.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5559,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56300",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4177
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56300/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56300",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4177
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9663,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d15adf75897fa5ccefe80068c22b635c304dd59f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9663,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56301",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 17370
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56301/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56301",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 17370
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "65704A2750B36C7B81A148D1A94A2830",
+    "label": "安房国鋸山日本禅寺真景方角図絵",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安房国鋸山日本禅寺真景方角図絵"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "年月日",
+            "value": "文政12年11月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "彫工施主：東都馬喰町2丁目 永寿堂西村与八"
+        },
+        {
+            "label": "備考",
+            "value": "畳もの"
+        },
+        {
+            "label": "year",
+            "value": "1829"
+        },
+        {
+            "label": "identifier",
+            "value": "042cfa10-cdfd-49b5-a874-de2e7b01ec27"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1074"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/34557843079f0f89f51451cfd2e72951af006c79.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "65704A2750B36C7B81A148D1A94A2830",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "",
+            "timestamp": {
+                "_nanoseconds": 221000000,
+                "_seconds": 1583205693
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/042cfa10-cdfd-49b5-a874-de2e7b01ec27/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "65704A2750B36C7B81A148D1A94A2830",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "安房国鋸山日本禅寺真景方角図絵\n【左上】\n当山は神亀（しんき）元年｜行基（きやうき）の草創（さう〳〵）にして\n房総二州の界（さかひ）に在｜岩石（かんせき）｜自然（しせん）に仏像（ふつそう）及\n鳥獣（てうしう）のかたちをなし峰々（みね〳〵）｜鋸（のこきり）の歯（は）のことし因（よつ）て\n鋸山と号し凡一千余年の旧跡（きうせき）なり時に\n安永年中其自然なるものにて加て石像一千\n二百羅漢并西国秩父坂東相模八番等\nの観音を安置奉ことしれり\n\n　　鋸山　長歌并反歌　　杉乃本　志道\n鳥啼東国能日向爾\nとりがなくあづまのくにのひむかひに\n海毛広山多爾満而雖有\nうみもさひろしやまさはにみちてあれども\n水長鳥安房鋸根増高\nしながどりあはのをがのねましたかく\n蓬洞能曲呉等千五百仏\nよもぎがほらのくまごらにちいほのほとけ\n朝日加目細可母夕日奈須\nあさひなすまぐはしきかもゆふひなす\n浦妙鴨春者花秋者紅葉宁\nうらぐはしかもはるははなあきはもみぢを\n加座志爾而振放見者両隻能\nかざしにてふりさけみればふたなみの\n筑波山者如眉雲井爾紛\nつくばのやまはまゆのごとくもゐにまがふ\n在駿河富士高根者大分爾曽\nするがなるふじのたかねはましろにぞ\n雪者降来其雪能無絶時\nゆきはふりけりそのゆきのたゆるときなく\n千代毛雅母遠江宁往舟能\nちよもがもとほつあふみをゆくふねの\n留不所知果白二不知土左右\nとまりしられずはてしらにしらぬくにまで\n聞挙名応誠日本寺\nきこえあげなにおふげにひのもとのてら\n　　反歌\n御仏毛天降間兼此山者\nみほとけもあをりましけんこのやまは\n浮世能外乃古古智社須礼\nうきよのほかのこゝちこそすれ\n　　文政十二己丑歳冬十一月改正　　　崇山老翁写\n\n【右下】\n　道法\n江戸日本橋ヨリ行徳へ　　三里\n行徳　ヨリ　　　船橋へ　二里\n船橋　ヨリ　　　八幡へ　五里半\n八幡　ヨリ　　　姉ヶ崎へ二里八丁\n姉ヶ崎ヨリ　　来去津へ　四里\n来去津ヨリ　　左貫へ　　四里\n左貫　ヨリ　　　百首へ　二里半\n百首　ヨリ　　　当山マテ三里\n　◯\n江戸ヨリ百首迄海上　十六里\n江戸ヨリ浦賀迄陸路　十六里\n浦賀ヨリ当山麓迄海上　三里\n　　　彫工施主\n　　　　東都馬喰町二丁目\n　　　　永寿堂　　　西村与八",
+            "text": "安房国鋸山日本禅寺真景方角図絵\n【左上】\n当山は神亀（しんき）元年｜行基（きやうき）の草創（さう〳〵）にして\n房総二州の界（さかひ）に在｜岩石（かんせき）｜自然（しせん）に仏像（ふつそう）及\n鳥獣（てうしう）のかたちをなし峰々（みね〳〵）｜鋸（のこきり）の歯（は）のことし因（よつ）て\n鋸山と号し凡一千余年の旧跡（きうせき）なり時に\n安永年中其自然なるものにて加て石像一千\n二百羅漢并西国秩父坂東相模八番等\nの観音を安置奉ことしれり\n\n　　鋸山　長歌并反歌　　杉乃本　志道\n鳥啼東国能日向爾\nとりがなくあづまのくにのひむかひに\n海毛広山多爾満而雖有\nうみもさひろしやまさはにみちてあれども\n水長鳥安房鋸根増高\nしながどりあはのをがのねましたかく\n蓬洞能曲呉等千五百仏\nよもぎがほらのくまごらにちいほのほとけ\n朝日加目細可母夕日奈須\nあさひなすまぐはしきかもゆふひなす\n浦妙鴨春者花秋者紅葉宁\nうらぐはしかもはるははなあきはもみぢを\n加座志爾而振放見者両隻能\nかざしにてふりさけみればふたなみの\n筑波山者如眉雲井爾紛\nつくばのやまはまゆのごとくもゐにまがふ\n在駿河富士高根者大分爾曽\nするがなるふじのたかねはましろにぞ\n雪者降来其雪能無絶時\nゆきはふりけりそのゆきのたゆるときなく\n千代毛雅母遠江宁往舟能\nちよもがもとほつあふみをゆくふねの\n留不所知果白二不知土左右\nとまりしられずはてしらにしらぬくにまで\n聞挙名応誠日本寺\nきこえあげなにおふげにひのもとのてら\n　　反歌\n御仏毛天降間兼此山者\nみほとけもあをりましけんこのやまは\n浮世能外乃古古智社須礼\nうきよのほかのこゝちこそすれ\n　　文政十二己丑歳冬十一月改正　　　崇山老翁写\n\n【右下】\n　道法\n江戸日本橋ヨリ行徳へ　　三里\n行徳　ヨリ　　　船橋へ　二里\n船橋　ヨリ　　　八幡へ　五里半\n八幡　ヨリ　　　姉ヶ崎へ二里八丁\n姉ヶ崎ヨリ　　来去津へ　四里\n来去津ヨリ　　左貫へ　　四里\n左貫　ヨリ　　　百首へ　二里半\n百首　ヨリ　　　当山マテ三里\n　◯\n江戸ヨリ百首迄海上　十六里\n江戸ヨリ浦賀迄陸路　十六里\n浦賀ヨリ当山麓迄海上　三里\n　　　彫工施主\n　　　　東都馬喰町二丁目\n　　　　永寿堂　　　西村与八",
+            "timestamp": {
+                "_nanoseconds": 575000000,
+                "_seconds": 1569642600
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

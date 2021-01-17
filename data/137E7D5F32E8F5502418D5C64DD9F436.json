@@ -1,0 +1,139 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3a4e95bb4e2548992c0be7a95f6e70189187b21f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88566",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88566/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88566",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "137E7D5F32E8F5502418D5C64DD9F436",
+    "label": "北陸三県大つなみホーカイぶし",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "北陸三県大つなみホーカイぶし"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-007"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治29年6月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画工・印刷発行：日本橋区新葭町2番地　楠山橘次郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×23"
+        },
+        {
+            "label": "備考",
+            "value": "3枚続き"
+        },
+        {
+            "label": "year",
+            "value": "1896"
+        },
+        {
+            "label": "identifier",
+            "value": "87bfeab6-93b8-4e6e-b603-3b0afa19f60e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0186"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3a4e95bb4e2548992c0be7a95f6e70189187b21f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/87bfeab6-93b8-4e6e-b603-3b0afa19f60e/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "137E7D5F32E8F5502418D5C64DD9F436",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "《割書：北陸三県｜大つなみ》ホーカイぶし　　明治廿九年七月三十日印刷\n　　　　　　　　　　　　同　年　八月三日発行\n　　　　　　　　　　　画工印刷兼発行者\n　　　　　　　　　　　　日本橋区新葭丁二番地\n　　　　　　　　　　　　　　　　　　楠山橘次郎\n【上段】\n〽北陸（ほくりく）の。大（おほ）つなみ水害（すいがい）さはぎの有（あり）さまは\n　　　眼（め）もあてられぬ憐（あは）れさよ　ホーカイ\n〽怖（おそ）ろしき。いきほひ激（はげ）しき大（おほ）つなみ\n　　　のがれるひまも五分間（ごふんかん）　ホーカイ\n〽あわれさの。限（かぎ）りは今度（こんど）の大（おほ）つなみ\n　　　 末代（まつだい）までもはなしだね　ホーカイ\n〽見（み）るうちに。家（いへ）は崩（くづ）れて流（なが）れゆく\n　　　 箸（はし）も持（もた）ない立（たち）のまゝ　ホーカイ\n〽おどろきし。万代未聞（ばんだいみもん）の水害（すいがい）は\n　　　青森（あおもり）岩手（いわて）に宮城県（みやぎけん）　ホーカイ\n〽船（ふね）に居（ゐ）て。助（たす）かる漁夫（りやうし）のうん強（つよ）く\n　　　さすかる誠（まこと）の天命（てんめい）か　ホーカイ\n〽時節（じせつ）とは。あきらめながらも遂（つい）愚痴（ぐち）を\n　　　こぼす凡夫（ぼんぶ）の浅（あさ）ましさ　ホーカイ\n〽地震（ぢしん）より。亦（また）もこはいは大（おほ）つなみ\n　　　のがれる道（みち）さへ水（みづ）の原（はら）ホーカイ\n〽両親（ふたをや）に。離（はな）れて叫（さけ）ぶ子供（こども）あれば\n　　　 妻（つま）や夫（をつと）とに生（いき）わかれ　ホーカイ\n\n【下段】\n〽無惨（むざん）なれ。\n　　六万 有余（ゆうよ）の\n　　 死傷（ししやう）しやに\n　のこる妻子（つまこ）は\n　　 憐（あわ）れなり\n　　　　　　　ホーカイ　\n〽お恵（めぐ）みは。政府（おかみ）の\n　　 慈悲（じひ）の救助（すくひ）に\n　 万民（ばんみん）なみだを\n　　　　ながす米\n　　　　　　　ホーカイ\n〽四海（しかい）みな。兄弟（けいてい）\n　　　　　　なりやこそ\n　　　 捨（すて）てゝは\n　　　　　　おかず\n　 倶共（とも〳〵）暮集（ぼしう）の\n　　　　義捐金（きえんきん）\n　　　　　　　ホーカイ\n\n\n\n",
+            "text": "《割書：北陸三県｜大つなみ》ホーカイぶし　　明治廿九年七月三十日印刷\n　　　　　　　　　　　　同　年　八月三日発行\n　　　　　　　　　　　画工印刷兼発行者\n　　　　　　　　　　　　日本橋区新葭丁二番地\n　　　　　　　　　　　　　　　　　　楠山橘次郎\n【上段】\n〽北陸（ほくりく）の。大（おほ）つなみ水害（すいがい）さはぎの有（あり）さまは\n　　　眼（め）もあてられぬ憐（あは）れさよ　ホーカイ\n〽怖（おそ）ろしき。いきほひ激（はげ）しき大（おほ）つなみ\n　　　のがれるひまも五分間（ごふんかん）　ホーカイ\n〽あわれさの。限（かぎ）りは今度（こんど）の大（おほ）つなみ\n　　　 末代（まつだい）までもはなしだね　ホーカイ\n〽見（み）るうちに。家（いへ）は崩（くづ）れて流（なが）れゆく\n　　　 箸（はし）も持（もた）ない立（たち）のまゝ　ホーカイ\n〽おどろきし。万代未聞（ばんだいみもん）の水害（すいがい）は\n　　　青森（あおもり）岩手（いわて）に宮城県（みやぎけん）　ホーカイ\n〽船（ふね）に居（ゐ）て。助（たす）かる漁夫（りやうし）のうん強（つよ）く\n　　　さすかる誠（まこと）の天命（てんめい）か　ホーカイ\n〽時節（じせつ）とは。あきらめながらも遂（つい）愚痴（ぐち）を\n　　　こぼす凡夫（ぼんぶ）の浅（あさ）ましさ　ホーカイ\n〽地震（ぢしん）より。亦（また）もこはいは大（おほ）つなみ\n　　　のがれる道（みち）さへ水（みづ）の原（はら）ホーカイ\n〽両親（ふたをや）に。離（はな）れて叫（さけ）ぶ子供（こども）あれば\n　　　 妻（つま）や夫（をつと）とに生（いき）わかれ　ホーカイ\n\n【下段】\n〽無惨（むざん）なれ。\n　　六万 有余（ゆうよ）の\n　　 死傷（ししやう）しやに\n　のこる妻子（つまこ）は\n　　 憐（あわ）れなり\n　　　　　　　ホーカイ　\n〽お恵（めぐ）みは。政府（おかみ）の\n　　 慈悲（じひ）の救助（すくひ）に\n　 万民（ばんみん）なみだを\n　　　　ながす米\n　　　　　　　ホーカイ\n〽四海（しかい）みな。兄弟（けいてい）\n　　　　　　なりやこそ\n　　　 捨（すて）てゝは\n　　　　　　おかず\n　 倶共（とも〳〵）暮集（ぼしう）の\n　　　　義捐金（きえんきん）\n　　　　　　　ホーカイ\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 373000000,
+                "_seconds": 1598924026
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

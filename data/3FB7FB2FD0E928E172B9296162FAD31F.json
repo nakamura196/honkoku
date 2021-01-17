@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d3ce30f92188fed138c57e500a7637de099f9cf8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88775",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88775/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88775",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "3FB7FB2FD0E928E172B9296162FAD31F",
+    "label": "熱海温泉市区一覧",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "熱海温泉市区一覧"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治22年9月10日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "その他"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×52"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-09-020／I-09-020の下絵か?"
+        },
+        {
+            "label": "year",
+            "value": "1889"
+        },
+        {
+            "label": "identifier",
+            "value": "568d7f24-7582-4d90-98d8-4fadaa2b612d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0395"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d3ce30f92188fed138c57e500a7637de099f9cf8.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/568d7f24-7582-4d90-98d8-4fadaa2b612d/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "3FB7FB2FD0E928E172B9296162FAD31F",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【図題】\n熱海温泉市区一覧\n\n【欄外右　実際は縦に一列表示だが、横に並べた】\n十八丁　伊豆山\n二里　門川\n八丁　吉浜\n二里　江之浦\n十八丁　根府川\n廿五丁　米カミ\n二十丁　石橋\n十丁　早川\n十二丁　小田原\n\n【欄外左】\n版権所有　　　　明治廿二年九月一日印刷　同月十日出版　著者熱海山本光一＜割書：発行兼｜印刷者＞熱海水谷辰蔵版\n\n【図内記事】\n\n　　鉱泉定性定量\n孛国＜割書：トクトル｜マルチン＞氏分析表\n鉱水一千立方＜割書：センチメートル｜即一リートル＞中\n含有成分　我五分五勺〇六\nコロールナトリウム　　三七五〇ゝ\nコロールマクネシユム　二三ゝゝ〇\nコロールカリユーム　　一八一〇ゝ\nコロールカルシユム　　一七六七〇\nリウサン石灰　　　　　〇一九三一\n重タンサン化鉄　　　　〇ゝゝ三一\n同石灰　　　　　　　　〇ゝゝ四三\nケイサン　　　　　　　〇一ゝ〇ゝ　\n第一コロルマンガン　　痕跡\nフロールカリユーム　　〟\nフロールナトリウム　　〟\n有キ物　　　　　　　　〟\n総量\n一〇・一〇四カラム\n\n　　湯名幷熱度\n大湯　　　　百〇三度\n小澤湯　　　未検\n無塩湯　　　九十七〟\n風呂ノ湯　　〟\n水ノ湯　　　〟\n尾張屋湯　　〟\n樋口ノ湯　　〟\n左次郎湯　　〟\n目ノ湯　　　五十〟\n仲ノ湯　　　未\n尾湯　　　　百〟\n翠湯　　　八十五〟\n清左ヱ門湯　未\n野中湯　　　〟　\n三左ヱ門湯　〟\n古屋ノ湯\n　　已下略\n\n　　八景【横書き】\n梅園春暁\n来宮杜鵑\n初鶯漁火\n横礒晩涼\n魚見帰帆\n錦浦秋【ここでは扁と旁が逆】月\n温泉寺松\n和田山雪\n\n　　諸方里程\n東京　　二十七リ　初島　　三リ\n横浜　　二十リ　　日金　　五十リ\n江ノ嶋　十五リ　　三嶋　　五リ\n修善寺　八リ　　　小田原　　七リ\n静岡　　廿一リ　　網代　　　二リ\n筥根　　五リ　　　伊東　　　五【？】リ\n大磯　　十一リ　　下田　　　十八リ\n",
+            "text": "【図題】\n熱海温泉市区一覧\n\n【欄外右　実際は縦に一列表示だが、横に並べた】\n十八丁　伊豆山\n二里　門川\n八丁　吉浜\n二里　江之浦\n十八丁　根府川\n廿五丁　米カミ\n二十丁　石橋\n十丁　早川\n十二丁　小田原\n\n【欄外左】\n版権所有　　　　明治廿二年九月一日印刷　同月十日出版　著者熱海山本光一《割書：発行兼｜印刷者》熱海水谷辰蔵版\n\n【図内記事】\n\n　　鉱泉定性定量\n孛国《割書：トクトル｜マルチン》氏分析表\n鉱水一千立方《割書：センチメートル｜即一リートル》中\n含有成分　我五分五勺〇六\nコロールナトリウム　　三七五〇ゝ\nコロールマクネシユム　二三ゝゝ〇\nコロールカリユーム　　一八一〇ゝ\nコロールカルシユム　　一七六七〇\nリウサン石灰　　　　　〇一九三一\n重タンサン化鉄　　　　〇ゝゝ三一\n同石灰　　　　　　　　〇ゝゝ四三\nケイサン　　　　　　　〇一ゝ〇ゝ　\n第一コロルマンガン　　痕跡\nフロールカリユーム　　〟\nフロールナトリウム　　〟\n有キ物　　　　　　　　〟\n総量\n一〇・一〇四カラム\n\n　　湯名幷熱度\n大湯　　　　百〇三度\n小澤湯　　　未検\n無塩湯　　　九十七〟\n風呂ノ湯　　〟\n水ノ湯　　　〟\n尾張屋湯　　〟\n樋口ノ湯　　〟\n左次郎湯　　〟\n目ノ湯　　　五十〟\n仲ノ湯　　　未\n尾湯　　　　百〟\n翠湯　　　八十五〟\n清左ヱ門湯　未\n野中湯　　　〟　\n三左ヱ門湯　〟\n古屋ノ湯\n　　已下略\n\n　　八景【横書き】\n梅園春暁\n来宮杜鵑\n初鶯漁火\n横礒晩涼\n魚見帰帆\n錦浦秋【ここでは扁と旁が逆】月\n温泉寺松\n和田山雪\n\n　　諸方里程\n東京　　二十七リ　初島　　三リ\n横浜　　二十リ　　日金　　五十リ\n江ノ嶋　十五リ　　三嶋　　五リ\n修善寺　八リ　　　小田原　　七リ\n静岡　　廿一リ　　網代　　　二リ\n筥根　　五リ　　　伊東　　　五【？】リ\n大磯　　十一リ　　下田　　　十八リ\n",
+            "timestamp": {
+                "_nanoseconds": 427000000,
+                "_seconds": 1573127672
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

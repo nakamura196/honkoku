@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6826effaad51643ae427fbe0f92f5dfb1fe4d47a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88599",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88599/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88599",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "0C855305DC1BD0C6F6CB6F2E49E74E38",
+    "label": "大正大震災双六",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大正大震災双六"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-037-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "双六"
+        },
+        {
+            "label": "年月日",
+            "value": "大正12年"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "70×89"
+        },
+        {
+            "label": "備考",
+            "value": "袋（I-03-037-001）あり"
+        },
+        {
+            "label": "year",
+            "value": "1923"
+        },
+        {
+            "label": "identifier",
+            "value": "5cd451ee-78bb-45e0-a5e0-a1c2be953dd0"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0219"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6826effaad51643ae427fbe0f92f5dfb1fe4d47a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cd451ee-78bb-45e0-a5e0-a1c2be953dd0/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "0C855305DC1BD0C6F6CB6F2E49E74E38",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "iD3NYMsoVWQRMef05s4y4jvsnu53",
+            "tempText": "【タイトル・上部横書き】\n大正大地震双六　月の屋案\n\n【紙面右半分上から下へ】\n行衛不明\n一　軍艦救助(バラック)\n二　外国渡航(上り)\n三　御目出度\n四五　帰郷(上り)\n六　死亡　ゆり出し(戻り)\nふりだし\n\n招魂社\n一二　御目出度\n三四　怪我　軍隊　警察\n五六　発病　赤十字外　救護班\n\n仮住居\n一三　バラツク\n四五　同居\n六　焼残り住居　倒潰修繕　帰宅　(上り)\n\n日比谷公園\n一　御目出度\n二　迷子　軍隊―警察\n三　発病　赤十字外各救護班\n四　怪我　仝上\n五　行衛不明\n六　死亡　ゆり出し　(戻り)\n\n同居\n三　倒潰　修繕　帰宅　(上り)\n四六　新築落成　帰宅　(上り)\n\n丸の内\n一　怪我　軍隊　警察\n二　御目出度\n三四　仮住居\n五　発病　赤十字救護班\n六　御目出度\n\n軍隊警察\n一　仮住居　送付\n二　赤十字外　各救護班　送附\n五　死亡　ゆり出し　(戻り)\n六　御目出度\n\n遭難\n一　けが　赤十字救護班\n二　迷子　軍隊　警察\n三　発病　赤十字救護班\n四五六　死亡　ゆり出し　(戻り)\n【以下続く画像が切れている】\n\n　　生命\n上り　安全\n　　財産\n\n【紙面左半分上から下へ】\n御目出度\n一　結婚(仮住居)\n二　蘇生(赤十字外救護班)\n三　出産(仝上)\n五　出会(仮住居)\n六　焼残り倒潰修繕　帰宅(上り)\n\nバラツク\n一二　同居\n四　倒潰修繕\n帰宅(上り)\n五　新築　落成　帰宅(上り)\n\n赤十字外各救護班収容\n一二三　仮住居　送付\n四　死亡　ゆり出し　(戻り)\n五六　快方　(二回休)　帰宅　(上り)\n\n被服廠\n一　御目出度\n二　怪我　赤十字外救護班\n三　船の中\n四　迷子　軍隊－警察\n五六　死亡　ゆり出し　(戻り)\n\n上野公園\n一　御目出度\n二　行衛不明\n三　発病\n四　怪我\n五　御目出度\n六　死亡　ゆり出し　(戻り)\n\n船の中\n一　上陸　避難場所\n三　怪我　赤十字外救護班\n四　迷子　軍隊　警察\n五　行衛不明\n六　死亡　ゆり出し　(戻り)\n\n浅草公園\n二　怪我　軍隊　警察\n三　発病　赤十字救護班\n四五　御目出度\n六　死亡　ゆり出し　(戻り)\n\nゆり出□\n一五　家の中\n二三四六　避難\n\n庭前\n一三　怪我　赤十字救護班\n四　死亡　ゆり出し　(戻り)\n五六　焼残り　倒潰修繕　帰宅　(上り)\n【以下続く画像が切れている】\n【同じステージ3の中ほど　大正大震災双六(袋)　に続く】\n\n",
+            "text": "【タイトル・上部横書き】\n大正大地震双六　月の屋案\n\n【紙面右半分上から下へ】\n行衛不明\n一　軍艦救助(バラック)\n二　外国渡航(上り)\n三　御目出度\n四五　帰郷(上り)\n六　死亡　ゆり出し(戻り)\nふりだし\n\n招魂社\n一二　御目出度\n三四　怪我　軍隊　警察\n五六　発病　赤十字外　救護班\n\n仮住居\n一三　バラツク\n四五　同居\n六　焼残り住居　倒潰修繕　帰宅　(上り)\n\n日比谷公園\n一　御目出度\n二　迷子　軍隊―警察\n三　発病　赤十字外各救護班\n四　怪我　仝上\n五　行衛不明\n六　死亡　ゆり出し　(戻り)\n\n同居\n三　倒潰　修繕　帰宅　(上り)\n四六　新築落成　帰宅　(上り)\n\n丸の内\n一　怪我　軍隊　警察\n二　御目出度\n三四　仮住居\n五　発病　赤十字救護班\n六　御目出度\n\n軍隊警察\n一　仮住居　送付\n二　赤十字外　各救護班　送附\n五　死亡　ゆり出し　(戻り)\n六　御目出度\n\n遭難\n一　けが　赤十字救護班\n二　迷子　軍隊　警察\n三　発病　赤十字救護班\n四五六　死亡　ゆり出し　(戻り)\n【以下続く画像が切れている】\n\n　　生命\n上り　安全\n　　財産\n\n【紙面左半分上から下へ】\n御目出度\n一　結婚(仮住居)\n二　蘇生(赤十字外救護班)\n三　出産(仝上)\n五　出会(仮住居)\n六　焼残り倒潰修繕　帰宅(上り)\n\nバラツク\n一二　同居\n四　倒潰修繕\n帰宅(上り)\n五　新築　落成　帰宅(上り)\n\n赤十字外各救護班収容\n一二三　仮住居　送付\n四　死亡　ゆり出し　(戻り)\n五六　快方　(二回休)　帰宅　(上り)\n\n被服廠\n一　御目出度\n二　怪我　赤十字外救護班\n三　船の中\n四　迷子　軍隊－警察\n五六　死亡　ゆり出し　(戻り)\n\n上野公園\n一　御目出度\n二　行衛不明\n三　発病\n四　怪我\n五　御目出度\n六　死亡　ゆり出し　(戻り)\n\n船の中\n一　上陸　避難場所\n三　怪我　赤十字外救護班\n四　迷子　軍隊　警察\n五　行衛不明\n六　死亡　ゆり出し　(戻り)\n\n浅草公園\n二　怪我　軍隊　警察\n三　発病　赤十字救護班\n四五　御目出度\n六　死亡　ゆり出し　(戻り)\n\nゆり出□\n一五　家の中\n二三四六　避難\n\n庭前\n一三　怪我　赤十字救護班\n四　死亡　ゆり出し　(戻り)\n五六　焼残り　倒潰修繕　帰宅　(上り)\n【以下続く画像が切れている】\n【同じステージ3の中ほど　大正大震災双六(袋)　に続く】\n\n",
+            "timestamp": {
+                "_nanoseconds": 683000000,
+                "_seconds": 1573705229
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

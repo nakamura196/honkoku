@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6e37bfca85ff5a7e99cf2972721860bba162586d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88679",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88679/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88679",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "65FCDD9C789BA738BBA910FBF4D65283",
+    "label": "うち身くじきりやうじ所",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "うち身くじきりやうじ所"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-044"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24×10"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0299"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6e37bfca85ff5a7e99cf2972721860bba162586d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/59e0e4f6-6422-4aec-8d41-3bc6b5dc8c15/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "65FCDD9C789BA738BBA910FBF4D65283",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "うち身　くじき　りやうじ所　ゑんま堂\n当分之内ほどこし致しんじ候\n\nゑんま　「いそくな／＼おれか子になつてきたものよくせずにおくものかあをあかの\n　　　　　鬼どもやくすりをつけて早々まいてやれいたかろうかわいそうに／＼\n\nしやうつか　「地蔵さんのおいかりもゑんまさんのおなげきもおれが引合にだされて\n　　　　　　　てつだうのもあのなまづゆへださてにくいやつだナしなれぬことはたいぎた／＼\n\n地蔵　「おれがまもる此地めんを度々うごかされてはおしやかのまへゑすまぬ地蔵の\n　　　　かほも三度だそかしまとのへはなしてきたかくごしろふといやつだ",
+            "text": "うち身　くじき　りやうじ所　ゑんま堂\n当分之内ほどこし致しんじ候\n\nゑんま　「いそくな／＼おれか子になつてきたものよくせずにおくものかあをあかの\n　　　　　鬼どもやくすりをつけて早々まいてやれいたかろうかわいそうに／＼\n\nしやうつか　「地蔵さんのおいかりもゑんまさんのおなげきもおれが引合にだされて\n　　　　　　　てつだうのもあのなまづゆへださてにくいやつだナしなれぬことはたいぎた／＼\n\n地蔵　「おれがまもる此地めんを度々うごかされてはおしやかのまへゑすまぬ地蔵の\n　　　　かほも三度だそかしまとのへはなしてきたかくごしろふといやつだ",
+            "timestamp": {
+                "_nanoseconds": 952000000,
+                "_seconds": 1566974586
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

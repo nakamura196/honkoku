@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d0abbf4bacb4d7d1f277d8472fb6ba73a9a0a846.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88646",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88646/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88646",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "5FAAE83F054B547201CA725CB394FEA7",
+    "label": "大坂川口大つなみ混雑記",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大坂川口大つなみ混雑記"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-012"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月5日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×48"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-009"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "dbd163fc-e58a-4370-ad83-853922124777"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0266"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d0abbf4bacb4d7d1f277d8472fb6ba73a9a0a846.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/dbd163fc-e58a-4370-ad83-853922124777/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "5FAAE83F054B547201CA725CB394FEA7",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "嘉永七寅十一月五日暮六ツ時\n＜割書：大阪｜川口＞大つなみ混雑記（こんさつき）\n\n【上段】\n摂津大地震二編\nざま宮絵馬とうくづる\nいなり石とうろう同おたびのざしき\n新町東扇やざしき\n願きやうじまへ七八けん\nなんば安如じつりかねどう\nてんま妙見ゑまどう\n南御堂北ノ辻　角\n　四天王寺\n　　　しゆろどう　　　【挿絵】\n　こつ堂前の花たて石\n　　諸堂大そんじ\n梅田きんへんくつるゝ\n岡御やしき土蔵そんずる\nさのやはし北つめうら長家くづれ\n御池はし西つめ少しうら高へい\n町々かまや其外とうふやそんじ\n下寺町浄国じ本とうくつれ\n寺々はかしよ石ひこける\n柏はら村家くづれ出火す\n堺つなみにてつきぢはし落死人あり\nさのつなみして大さはぎ\n兵庫七八軒家くづれる\n西みやなだ大坂同だん\n　　　　社町家\n　奈　　　大くづれ\n　良　　鳥居\n　春　　金とう　　【挿絵】\n　日　　　　ろう\n　　　　　くづれ落\n\n【下段】\n于時嘉永七寅十一月\n五日昼七ツ半時大地震\n同暮六ツ時震ふ同時に\n大坂天保山沖安治川\n木津川尻なし辺大津\nなみして沖の大船二千\n石積以下三百石くらゐに\nいたる迄こと〳〵 く川口へ\n打登し又は海岸へ打\n上るもあり川岸などの\n家を舟にて打くたき船どうかこ夥しく溺死に\n及ぶ其数しれず其外上荷茶船小舟等は大船\nの下しきとなり溺死のもの数しれず尚又町内\nより舟にて地しんを避んと沖へこぎだし又は内\n川につなぎ居もありしかるに波矢よりもはやく\nして退く事あたはずついに数多込入舟におそふ\nはれ舟くたけ人死する事おびたゞしく又橋々を\n帆はしら大船の為に打くたく＜割書：はし名｜別に有＞其騒動こん\nさつなる事目もあてられぬありさまは実に七難三災\nかくやあらん殊に古今稀代の珍事也其外\n新田天保山大あれにて筆紙に\nつくしがたし\n　落橋\n　かめ井はし　安治川はし　　　　　【挿絵内】\n国津ばし　長高はし　　　　　　　　　　大こくばし\n水分はし　くろかねはし\n日吉はし　汐見ばし\n幸はし　　住吉はし\n金屋はし\n大黒はしにて\n　　　とまる\n\n",
+            "text": "嘉永七寅十一月五日暮六ツ時\n《割書：大阪｜川口》大つなみ混雑記（こんさつき）\n\n【上段】\n摂津大地震二編\nざま宮絵馬とうくづる\nいなり石とうろう同おたびのざしき\n新町東扇やざしき\n願きやうじまへ七八けん\nなんば安如じつりかねどう\nてんま妙見ゑまどう\n南御堂北ノ辻　角\n　四天王寺\n　　　しゆろどう　　　【挿絵】\n　こつ堂前の花たて石\n　　諸堂大そんじ\n梅田きんへんくつるゝ\n岡御やしき土蔵そんずる\nさのやはし北つめうら長家くづれ\n御池はし西つめ少しうら高へい\n町々かまや其外とうふやそんじ\n下寺町浄国じ本とうくつれ\n寺々はかしよ石ひこける\n柏はら村家くづれ出火す\n堺つなみにてつきぢはし落死人あり\nさのつなみして大さはぎ\n兵庫七八軒家くづれる\n西みやなだ大坂同だん\n　　　　社町家\n　奈　　　大くづれ\n　良　　鳥居\n　春　　金とう　　【挿絵】\n　日　　　　ろう\n　　　　　くづれ落\n\n【下段】\n于時嘉永七寅十一月\n五日昼七ツ半時大地震\n同暮六ツ時震ふ同時に\n大坂天保山沖安治川\n木津川尻なし辺大津\nなみして沖の大船二千\n石積以下三百石くらゐに\nいたる迄こと〳〵 く川口へ\n打登し又は海岸へ打\n上るもあり川岸などの\n家を舟にて打くたき船どうかこ夥しく溺死に\n及ぶ其数しれず其外上荷茶船小舟等は大船\nの下しきとなり溺死のもの数しれず尚又町内\nより舟にて地しんを避んと沖へこぎだし又は内\n川につなぎ居もありしかるに波矢よりもはやく\nして退く事あたはずついに数多込入舟におそふ\nはれ舟くたけ人死する事おびたゞしく又橋々を\n帆はしら大船の為に打くたく《割書：はし名｜別に有》其騒動こん\nさつなる事目もあてられぬありさまは実に七難三災\nかくやあらん殊に古今稀代の珍事也其外\n新田天保山大あれにて筆紙に\nつくしがたし\n　落橋\n　かめ井はし　安治川はし　　　　　【挿絵内】\n国津ばし　長高はし　　　　　　　　　　大こくばし\n水分はし　くろかねはし\n日吉はし　汐見ばし\n幸はし　　住吉はし\n金屋はし\n大黒はしにて\n　　　とまる\n\n",
+            "timestamp": {
+                "_nanoseconds": 431000000,
+                "_seconds": 1571268802
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

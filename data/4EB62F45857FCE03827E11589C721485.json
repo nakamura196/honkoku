@@ -1,0 +1,189 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0b606a13c3b8eb3af62d501eb435e9e507acb465.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88740",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88740/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88740",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3ea933f2e0fc1db893645984aca1ca30d3674861.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219883",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219883/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219883",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "4EB62F45857FCE03827E11589C721485",
+    "label": "岩代国磐梯山噴火の図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "岩代国磐梯山噴火の図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-08-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治21年7月18日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)・活版"
+        },
+        {
+            "label": "出版事項等",
+            "value": "幾英画／版元：佐々木豊吉／活字印刷あり"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×24.5"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1888"
+        },
+        {
+            "label": "identifier",
+            "value": "5be90b09-1825-4a06-8299-640df7dc9014"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0360"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0b606a13c3b8eb3af62d501eb435e9e507acb465.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "4EB62F45857FCE03827E11589C721485",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "岩代國 磐梯山（ばんだいさん）噴火（ふんくわ）の圖（づ）\n",
+            "text": "岩代國 磐梯山（ばんだいさん）噴火（ふんくわ）の圖（づ）\n",
+            "timestamp": 1564662266523
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5be90b09-1825-4a06-8299-640df7dc9014/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "4EB62F45857FCE03827E11589C721485",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "福嶋縣下岩代國 耶麻（やま）郡（ごほり）盤梯山（ばんだいざん）一名會津冨士と\n云は海面より高さ三千六十尺 絶頂（ぜつちやう）に雪（ゆき）斷（たえ）ず南\nの麓（ふもと）一里半程に猪苗代（ゐなはしろ）の湖水（こすい）あり噴火（ふんくわ）山なる\n事は明（あきら）なれと本年七月十五日午前七時三十分\nごろ突然噴火して害を被りし家屋百九十五戸\n二丈餘の下に埋没せし戸數四十四個潰家四十\n三戸半潰十二戸死亡せし者凡五百名餘死躰發\n顯の者四百七十名余負傷して目下治療中の者\n三十七名餘\n斃馬發顯の類四十五頭餘は明瞭ならす\n仝山噴火せし事物に見えず今より三百年前慶\n長十六年に此地方大 地震（じしん）あり山崩れ川溢れた\nりといへど詳細を知らず此（この）山脈（さんみやく）は西に延て猫（ねこ）\n魔（ま）山北に連（つらな）りてアラヽギ峠若松近きに䀋川夫\nより西に大䀋と云所有て井䀋を出す檜原（ひばら）と云\n鑛山有コガイ村は硫黄（いわう）を出す山の西南の廻り\nに沼尻（傍線）、横向（傍線）、川上（傍線）なんと四所の温泉あり里程\nは若松より六里本宮停車塲より八里なり\n噴火（ふんか）の模樣（もよう）は御前七時三十分ごろ轟然（ぐわうぜん）たる音（おと）\n響（ひゞ）けり此響 雷鳴（らいめい）ならんと云或は山鳴にて地 震（しん）\nの前兆ならん云合りしところ西北の山間より\n鋭（するど）き靑黑き雲現れ暫時（しばらく）の間に雲先放（くもさきはな）れ其形次\n第に圓（まる）く笠の如く薄黑（うすぐろ）き雲となり跡の雲は擴\nかるに隨ひ灰白色となり芥子粒の如き物降り\nしかは仝八時ごろ其大きさ一寸四方へ一個位\nの割石ふり留りたる跡は粉末状（こなよう）のもの頻り降\n草木の葉は恰も積雪の如く本宮より北に降ら\nず南に多く安積（あさか）郡田村郡へも次第にふる笠の\n如き形せし雪は消て全く降り止みしは同十時\nころなりと山の麓は如何なりけん噴出せし土\n砂の為に川流止り檜原は沼となり噴火震動今\nに止まず該山（このやま）ニ里四方は噴火 灰燼（くわいじん）の為（ため）に草木（さうもく）\n枯死（こし）長瀬川 流滯（りうたい）してニ里四方に溢（あふ）れ因（よつ）て直ち\nに防禦（ばうぎよ）に力を盡（つく）せる人民の慘状目も當られぬ\n有様なり　　　東京京橋區西紺屋町秀英舎印行\n\n明治廿一年七月十八日印刷\n仝　　年　仝月　　日出版\n印刷兼\n發行者\n京橋區尾張町\n二丁目壱番地\n佐々木豊吉\n幾英筆",
+            "text": "福嶋縣下岩代國 耶麻（やま）郡（ごほり）盤梯山（ばんだいざん）一名會津冨士と\n云は海面より高さ三千六十尺 絶頂（ぜつちやう）に雪（ゆき）斷（たえ）ず南\nの麓（ふもと）一里半程に猪苗代（ゐなはしろ）の湖水（こすい）あり噴火（ふんくわ）山なる\n事は明（あきら）なれと本年七月十五日午前七時三十分\nごろ突然噴火して害を被りし家屋百九十五戸\n二丈餘の下に埋没せし戸數四十四個潰家四十\n三戸半潰十二戸死亡せし者凡五百名餘死躰發\n顯の者四百七十名余負傷して目下治療中の者\n三十七名餘\n斃馬發顯の類四十五頭餘は明瞭ならす\n仝山噴火せし事物に見えず今より三百年前慶\n長十六年に此地方大 地震（じしん）あり山崩れ川溢れた\nりといへど詳細を知らず此（この）山脈（さんみやく）は西に延て猫（ねこ）\n魔（ま）山北に連（つらな）りてアラヽギ峠若松近きに䀋川夫\nより西に大䀋と云所有て井䀋を出す檜原（ひばら）と云\n鑛山有コガイ村は硫黄（いわう）を出す山の西南の廻り\nに沼尻（傍線）、横向（傍線）、川上（傍線）なんと四所の温泉あり里程\nは若松より六里本宮停車塲より八里なり\n噴火（ふんか）の模樣（もよう）は御前七時三十分ごろ轟然（ぐわうぜん）たる音（おと）\n響（ひゞ）けり此響 雷鳴（らいめい）ならんと云或は山鳴にて地 震（しん）\nの前兆ならん云合りしところ西北の山間より\n鋭（するど）き靑黑き雲現れ暫時（しばらく）の間に雲先放（くもさきはな）れ其形次\n第に圓（まる）く笠の如く薄黑（うすぐろ）き雲となり跡の雲は擴\nかるに隨ひ灰白色となり芥子粒の如き物降り\nしかは仝八時ごろ其大きさ一寸四方へ一個位\nの割石ふり留りたる跡は粉末状（こなよう）のもの頻り降\n草木の葉は恰も積雪の如く本宮より北に降ら\nず南に多く安積（あさか）郡田村郡へも次第にふる笠の\n如き形せし雪は消て全く降り止みしは同十時\nころなりと山の麓は如何なりけん噴出せし土\n砂の為に川流止り檜原は沼となり噴火震動今\nに止まず該山（このやま）ニ里四方は噴火 灰燼（くわいじん）の為（ため）に草木（さうもく）\n枯死（こし）長瀬川 流滯（りうたい）してニ里四方に溢（あふ）れ因（よつ）て直ち\nに防禦（ばうぎよ）に力を盡（つく）せる人民の慘状目も當られぬ\n有様なり　　　東京京橋區西紺屋町秀英舎印行\n\n明治廿一年七月十八日印刷\n仝　　年　仝月　　日出版\n印刷兼\n發行者\n京橋區尾張町\n二丁目壱番地\n佐々木豊吉\n幾英筆",
+            "timestamp": {
+                "_nanoseconds": 724000000,
+                "_seconds": 1571559774
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

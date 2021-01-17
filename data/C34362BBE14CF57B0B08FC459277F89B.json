@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/990954696be0c1ea4c8399ebe0af9f8f9947fe3b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88631",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88631/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88631",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C34362BBE14CF57B0B08FC459277F89B",
+    "label": "是から世直し厄はらひ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "是から世直し厄はらひ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-028"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×23.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "77afce4d-27b8-44c4-a453-81c5deeadd48"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0251"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/990954696be0c1ea4c8399ebe0af9f8f9947fe3b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/77afce4d-27b8-44c4-a453-81c5deeadd48/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "C34362BBE14CF57B0B08FC459277F89B",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "是から世直し\n　　　 厄（やく）はらい\n\nアヽラ珍（めづ）らしいなへこんど此度の大地震世の諺（ことわざ）にもいふ通り地震雷\n火事（くわじ）親父（おやぢ）こはい物の四天王その二ツがかたまつてくわら〳〵ひつしやり\nと江戸中がつぶれて焼た座頭株（ざかしらかふ）吉原ばかり仮宅（かりたく）の場所（ばしよ）尽で\n払ひませう大見勢小見勢おいらんを突（つき）出す鐘の浅草の\n大 悲（じ）のちかい深川に嘘（うそ）か本所のはし女郎六ツ限り\n路次の鉄棒（かなぼう）も廻り南枝のわらふうめ\nなじみの客を松井町 常磐（ときは）のいろの\n花川戸上る二 階（かい）の山之宿引付座敷へ\n入船町たばこのけむり瓦（くわら）町アイと\n返事の長岡（なかおか）町かふろがこぎ出す\n御船蔵のりこむ今戸山谷堀\n土手馬道や広小路\n聖天町のにこゞりに\nはなれぬ\n二人りが\n仲町は\n\n仕かけの\nすそつぎ\nやぐら下八まん\nかねの綱打場（つなうちば）\nごんの御 旅（たび）に弁てんの\n一イ二ウ三ツ四ツ五ツ目の\n五百らくわんの五百日 取込（とりこむ）\nゆりこむ世直しと所はんじやう\nかりたくの格子（かうし）のさきまでやまを\nする悪魔（あくま）けとうにつきうまの\n地（ぢ）まはりなまづのごろ付（つき）を\nこのやくはらいがかいつかみ\nまかりし塔（とう）の九りんから\n西河岸とは\nおもえども\nふか川\nつくだ丁へ\nくわらり",
+            "text": "是から世直し\n　　　 厄（やく）はらい\n\nアヽラ珍（めづ）らしいなへこんど此度の大地震世の諺（ことわざ）にもいふ通り地震雷\n火事（くわじ）親父（おやぢ）こはい物の四天王その二ツがかたまつてくわら〳〵ひつしやり\nと江戸中がつぶれて焼た座頭株（ざかしらかふ）吉原ばかり仮宅（かりたく）の場所（ばしよ）尽で\n払ひませう大見勢小見勢おいらんを突（つき）出す鐘の浅草の\n大 悲（じ）のちかい深川に嘘（うそ）か本所のはし女郎六ツ限り\n路次の鉄棒（かなぼう）も廻り南枝のわらふうめ\nなじみの客を松井町 常磐（ときは）のいろの\n花川戸上る二 階（かい）の山之宿引付座敷へ\n入船町たばこのけむり瓦（くわら）町アイと\n返事の長岡（なかおか）町かふろがこぎ出す\n御船蔵のりこむ今戸山谷堀\n土手馬道や広小路\n聖天町のにこゞりに\nはなれぬ\n二人りが\n仲町は\n\n仕かけの\nすそつぎ\nやぐら下八まん\nかねの綱打場（つなうちば）\nごんの御 旅（たび）に弁てんの\n一イ二ウ三ツ四ツ五ツ目の\n五百らくわんの五百日 取込（とりこむ）\nゆりこむ世直しと所はんじやう\nかりたくの格子（かうし）のさきまでやまを\nする悪魔（あくま）けとうにつきうまの\n地（ぢ）まはりなまづのごろ付（つき）を\nこのやくはらいがかいつかみ\nまかりし塔（とう）の九りんから\n西河岸とは\nおもえども\nふか川\nつくだ丁へ\nくわらり",
+            "timestamp": {
+                "_nanoseconds": 109000000,
+                "_seconds": 1573202374
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

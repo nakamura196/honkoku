@@ -1,0 +1,226 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 13220,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b23129be928aa43fa0aaf37aa062f2b4b167f38f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 13220,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56318",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 10814
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56318/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56318",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 10814
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 10327,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a673b513bbb0a0e071e33da263e82a6051c52a5c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 10327,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56319",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7759
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56319/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56319",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7759
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 7759,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d3c1eb0761255741b42e5b2ec113f77047e42616.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7759,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56320",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 10327
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56320/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56320",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 10327
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "D27FA5DB4F64500D61A0F7EE8121B050",
+    "label": "[極楽浄土双六]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[極楽浄土双六]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-013"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "双六"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "identifier",
+            "value": "237f408d-d2a1-41af-9d7f-75dc5ac4b481"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1085"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 3,
+    "projectId": "ishimoto",
+    "size": 3,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b23129be928aa43fa0aaf37aa062f2b4b167f38f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "D27FA5DB4F64500D61A0F7EE8121B050",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【タイトル】\n極楽浄土双六\n【基本的には十段十列の碁盤の目構造】\n【上から第一段】\n【此の段のみ五列で構成】\n【右から第一列】\n弁才天【枠内】\n一薬師\n三釈迦\n【右から第二列】\n地蔵【枠内】\n四釈迦\n五薬師\n【右から第三列】\n上り\n極楽浄土\n【右から第四列】\n薬師【枠内】\n一上り\n五弁天\n六地蔵\n【右から第五列】\n釈尊【枠内】\n四上り\n五薬師\n六地蔵\n【上から第二段】\n【十列で構成】\n【右から第一列】\n善道大師【枠内】\n一地蔵\n三薬師\n【右から第二列】\n円光大師【枠内】\n一弁天\n三善道大師\n四釈迦\n【右から第三列】\n弘法大師【枠内】\n一薬師\n三地蔵\n四弁天\n五文学\n【右から第四列】\n元三大師【枠内】\n一釈迦\n三地蔵\n四七夕\n【右から第五列】\n文珠菩提【枠内】\n一普賢\n三元三大師\n五善道大師\n【右から第六列】\n普賢菩提【枠内】\n一毘沙門\n五夷\n六円光大し\n【右から第七列】\n毘沙門【枠内】\n一普賢\n二布袋\n三夷\n四雷神\n【右から第八列】\n大黒【枠内】\n一文珠\n二弘法大師\n三西王母\n四風神\n【右から第九列】\n夷【枠内】\n一寿老神\n三文珠\n四東方朔\n【右から第十列】\n布袋【枠内】\n一西王母\n三天人\n四七夕\n五空や上人\n【上から第三段】\n【十列で構成】\n【右から第一列】\n寿老神【枠内】\n一大黒\n二たるま\n三西王母\n五役行者\n【右から第二列】\n福禄寿【枠内】\n一夷\n二たるま\n三東方朔\n五布袋\n六犬神\n【右から第三列】\n東方朔【枠内】\n一文学上人\n三七夕\n四古札納\n五かりやうびん\n【右から第四列】\n西王母【枠内】\n一一扁上人\n三天人\n四犬神\n五文学上人\n【右から第五列】\n日蓮上人【枠内】\n一善道大師\n二元三大師\n三弘法大師\n【右から第六列】\n七夕【枠内】\n一万歳\n一雷神\n四寿老神\n五伝教大師\n六福禄寿\n【右から第七列】\n一扁上人【枠内】\n一七夕\n二寿老人\n四寿老神\n五伝教大師\n六天人\n【右から第八列】\n文学上人【枠内】\n一毘沙門\n二万歳\n三西王母\n五日蓮上人\n【右から第九列】\n役行者【枠内】\n一七夕\n二文珠\n三一扁上人\n四きんなら\n五弘法上人\n【右から第十列】\n伝教大師【枠内】\n一善道大師\n二弁天\n五薬師\n【上から第四段】\n【十列で構成】\n【右から第一列】\n明恵上人【枠内】\n一一扁上人\n二山姥\n三万歳\n五まこら\n【右から第二列】\n解脱上人【枠内】\n一達磨\n二文学上人\n三きんなら\n四風神\n五仙人\n【右から第三列】\n空也上人【枠内】\n一役行者\n二明恵上人\n三風神\n五文学上人\n【右から第四列】\n達磨【枠内】\n一空や上人\n二文学上人\n四犬神\n五一扁上人\n六風神\n【右から第五列】\n維摩【枠内】\n一西王母\n二仙人\n三雷神\n五犬神\n【右から第六列】\n万歳【枠内】\n一大黒舞\n三七夕\n四大黒\n五寿老神\n【右から第七列】\n大せいくわんき天【枠内】\n一風神\n二達磨\n三大黒舞\n四山うは\n五猩々\n【右から第八列】\nかろら王【枠内】\n一天人\n二げだつ上人\n三めうゑ上人\n四天狗\n五かりやうびん\n【右から第九列】\n天人【枠内】\n一役行者\n二げだつ上人\n三かろら王\n四がき\n【右から第十列】\nかりやうびん【枠内】\n一天人\n二達磨\n三しやう〳〵\n五空や上人\n【上から第五段】\n【十列で構成】\n【右から第一列】\nせう〳〵【枠内】\n一きんなら\n三ぬらりひよん\n五仙人\n六ゑんま\n【右から第二列】\n大黒舞【枠内】\n一まこら\n二酒天とうし\n四山ひこ\n五ふらりひ\n【右から第三列】\nせきそろ【枠内】\n二かつは\n三猩々\n四見こし入道\n五きんなら\n六おとろし\n【右から第四列】\n古札納【枠内】\n一きんなら\n二童子\n三山うは\n四風神\n五せう〳〵\n六うわん\n【右から第五列】\nやくはらい【枠内】\n一万歳\n二かつは\n三ぬつへつほう\n五やしや\n六ゑんま\n【右から第六列】\nひんほう神【枠内】\n一大黒舞\n二やくびやうかみ\n四ちくせう\n五やしや\n六仙人\n【右から第七列】\n仙人【枠内】\n一ゆいま\n二達磨\n三ひんほうかみ\n四かろら王\n五てん人\n六天狗\n【右から第八列】\nきんなら【枠内】\n一大せいくわんき天\n二七夕\n三天人\n四犬神\n五かがう\n六山ひこ\n【右から第九列】\nまこら【枠内】\n一達磨\n二たるま\n三風神\n四山わらう\n五へびかみ\n六山うは\n【右から第十列】\nやくひやう神【枠内】\n一せう〳〵\n二天人\n三びんぼう神\n四がき\n五風神\n六ようちん\n【上から第六段】\n【十列で構成】\n【右から第一列】\n雷神【枠内】\n一てん人\n二日蓮上人\n六仙人\n【右から第二列】\nせうつかばゝ【枠内】\n一がき\n三牛鬼\n五へひかみ\n六ねこまた\n【右から第三列】\nゑんま王【枠内】\n一達磨\n二むけんちこく\n三ふう神\n四大こく\n五犬かみ\n【右から第四列】\n山姥【枠内】\n一しゆら\n三酒てんとうし\n四風神\n五山ひこ\n六犬かみ\n【右から第五列】\n酒天童子【枠内】\n一山うは\n三ゑんま\n四しやう〳〵\n五かりやうびん\n【右から第六列】\nへび神【枠内】\n一せん人\n二大せいくわんき天\n四やくひやう神\n五風神\n【右から第七列】\n犬神【枠内】\n一かろら王\n三きんなら\n四やくひやうかみ\n五やうちん\n六仙人\n【右から第八列】\n天狗【枠内】\n一へびかみ\n二せうつかばゝ\n三古札納\n五かろら王\n【右から第九列】\n山ひこ【枠内】\n一しやう〳〵\n二ねこまた\n三せきそろ\n四ゑんま\n五雷神\n【右から第十列】\n風神【枠内】\n一山ワらう\n三ゑんま\n四やくはらい\n五しやう〳〵\n六がこう\n【上から第七段】\n【十列で構成】\n【右から第一列】\nふらり火【枠内】\n一うふめ\n三きやうくわんぢごく\n四雪女\n五犬かみ\n【右から第二列】\n赤舌【枠内】\n二がき\n三雪女\n五海坊主\n六せうきら\n【右から第三列】\nうわん【枠内】\n一山うは\n二ちくせう\n五山ひこ\n六しゆら\n【右から第四列】\n見こし入道【枠内】\n一わら〳〵\n二山ひこ\n三かみきり\n五ぬれ女\n六天狗\n【右から第五列】\nぬらりひよん【枠内】\n一ふらりひ\n二うふめ\n三山姥\n五海坊主\n六うわん\n【右から第六列】\nぬつへつほう【枠内】\n一山ひこ\n二雪女\n三犬神\n五みこし入道\n六目一つほう\n【右から第七列】\nおとろし【枠内】\n一へびかみ\n二ぬらりひよん\n三せうつかばゝ\n六ゑんま\n【右から第八列】\nわら〳〵【枠内】\n一風神\n二かみきり\n三かつは\n五ぬれ女\n【右から第九列】\n海坊主【枠内】\n一ゑんま\n三かつは\n四やしや\n五山わろう\n【右から第十列】\nかみきり【枠内】\n一山ひこ\n二うわん\n三ちくせう\n五がき\n【上から第八段】\n【九列で構成】\n【右から第一列】\n山ワらう【枠内】\n一赤した\n二てんぐ\n三うわん\n四ひんぼう神\n【右から第二列】\nやしや【枠内】\n一せうねつ地こく\n三てんぐ\n五ふらりひ\n六海ほうす\n【右から第三列】\n目一ツ坊【枠内】\n一みこし入道\n二がき\n三ぬらりひよん\n四わら〳〵\n【右から第四列】\nかつは【枠内】\n一山うは\n三しゆら\n四らごら\n五まごら\n【右から第五列、第九段第五列と共通】\n一雷神\n二びんほう神\n三うふめ\n四ぬれ女\n五万歳\n六風神\n【右から第六列】\nかごら【枠内】\n一塗仏\n三てんぐ\n四わら〳〵\n五かみきり\n六まごら\n【右から第七列】\nぬれ女【枠内】\n一がき\n二がき\n三犬かみ\n四へびかみ\n五きんなら\n【右から第八列】\nひやうすべ【枠内】\n一やしや\n三ねこまた\n四わら〳〵\n五やうちん\n六かつは\n【右から第九列】\nぬりほとけ【枠内】\n一うみ坊主\n二うふめ\n五ぬつへつほう\n六かみきり\n【上から第九段】\n【九列で構成】\n【右から第一列】\nせうきら【枠内】\n一山わろう\n二せきぞろ\n三おとろし\n五酒天とうし\n六ぬらりひよん\n【右から第二列】\nかき【枠内】\n一やしや\n二ちくせう\n三山ひこ\n五雪女\n六牛鬼\n【右から第三列】\nちくせう【枠内】\n一赤した\n二目ひとつほう\n四がこう\n五ねこまた\n【右から第四列】\nしゆら【枠内】\n一せうつかばゝ\n三うわん\n五山ひこ\n六無間ぢこく\n【右から第五列、第八段第五列と共通】\n【右から第六列】\n剣の山【枠内】\n一やうちん\n四とうくわつぢこく\n五犬かみ\n六赤舌\n【右から第七列】\nうふめ【枠内】\n二猩々\n三こくせうちこく\n四きやうくわんぢこく\n五かつは\n六剣の山\n【右から第八列】\nゆき女【枠内】\n一ふらりひ\n三せうきら\n四ぬれ女\n五まこら\n六ひやうすべ\n【右から第九列】\nねこまた【枠内】\n一剣の山\n二ちくせう\n三かき\n五やしや\n六海ぼうづ\n【上から第十段】\n【十列で構成】\n【右から第一列】\nきやうくわんちこく【枠内】\n一わら〳〵\n二剣の山\n三やしや\n五がき\n【右から第二列】\nけうくわんちこく【枠内】\n一うし鬼\n二悪けんちこく\n三むけんちこく\n五ようちん\n【右から第三列】\nせうねつちこく【枠内】\n一しゆら\n三しゆこうちこく\n四けうくわんちこく\n五こくせうちこく\n【右から第四列】\n悪けんちこく【枠内】\n一やうちん\n二とうくわつちこく\n四むけんちこく\n五こくせうちこく\n【右から第五列】\nむけんちこく【枠内】\n一きやうくわんちこく\n二こくせうちこく\n三しゆこうちこく\n四やうちん\n【右から第六列】\nようちん【枠内】\n【右から第七列】\nしゆこうちこく【枠内】\n一うし鬼\n四こくせうちこく\n五かき\n六むけんちこく\n【右から第八列】\nこくせうちこく【枠内】\n一せうねつちこく\n二悪けんちこく\n五きやうくわんちこく\n六無間ちこく\n【右から第九列】\nとうくわつちこく【枠内】\n一ほうくわんちこく\n三むけんちこく\n四うし鬼\n六あくけんちこく\n【右から第十列】\n牛鬼【枠内】\n一雪女\n三むけんちこく\n四こくせうちこく\n五ちくせう\n",
+            "text": "【タイトル】\n極楽浄土双六\n【基本的には十段十列の碁盤の目構造】\n【上から第一段】\n【此の段のみ五列で構成】\n【右から第一列】\n弁才天【枠内】\n一薬師\n三釈迦\n【右から第二列】\n地蔵【枠内】\n四釈迦\n五薬師\n【右から第三列】\n上り\n極楽浄土\n【右から第四列】\n薬師【枠内】\n一上り\n五弁天\n六地蔵\n【右から第五列】\n釈尊【枠内】\n四上り\n五薬師\n六地蔵\n【上から第二段】\n【十列で構成】\n【右から第一列】\n善道大師【枠内】\n一地蔵\n三薬師\n【右から第二列】\n円光大師【枠内】\n一弁天\n三善道大師\n四釈迦\n【右から第三列】\n弘法大師【枠内】\n一薬師\n三地蔵\n四弁天\n五文学\n【右から第四列】\n元三大師【枠内】\n一釈迦\n三地蔵\n四七夕\n【右から第五列】\n文珠菩提【枠内】\n一普賢\n三元三大師\n五善道大師\n【右から第六列】\n普賢菩提【枠内】\n一毘沙門\n五夷\n六円光大し\n【右から第七列】\n毘沙門【枠内】\n一普賢\n二布袋\n三夷\n四雷神\n【右から第八列】\n大黒【枠内】\n一文珠\n二弘法大師\n三西王母\n四風神\n【右から第九列】\n夷【枠内】\n一寿老神\n三文珠\n四東方朔\n【右から第十列】\n布袋【枠内】\n一西王母\n三天人\n四七夕\n五空や上人\n【上から第三段】\n【十列で構成】\n【右から第一列】\n寿老神【枠内】\n一大黒\n二たるま\n三西王母\n五役行者\n【右から第二列】\n福禄寿【枠内】\n一夷\n二たるま\n三東方朔\n五布袋\n六犬神\n【右から第三列】\n東方朔【枠内】\n一文学上人\n三七夕\n四古札納\n五かりやうびん\n【右から第四列】\n西王母【枠内】\n一一扁上人\n三天人\n四犬神\n五文学上人\n【右から第五列】\n日蓮上人【枠内】\n一善道大師\n二元三大師\n三弘法大師\n【右から第六列】\n七夕【枠内】\n一万歳\n一雷神\n四寿老神\n五伝教大師\n六福禄寿\n【右から第七列】\n一扁上人【枠内】\n一七夕\n二寿老人\n四寿老神\n五伝教大師\n六天人\n【右から第八列】\n文学上人【枠内】\n一毘沙門\n二万歳\n三西王母\n五日蓮上人\n【右から第九列】\n役行者【枠内】\n一七夕\n二文珠\n三一扁上人\n四きんなら\n五弘法上人\n【右から第十列】\n伝教大師【枠内】\n一善道大師\n二弁天\n五薬師\n【上から第四段】\n【十列で構成】\n【右から第一列】\n明恵上人【枠内】\n一一扁上人\n二山姥\n三万歳\n五まこら\n【右から第二列】\n解脱上人【枠内】\n一達磨\n二文学上人\n三きんなら\n四風神\n五仙人\n【右から第三列】\n空也上人【枠内】\n一役行者\n二明恵上人\n三風神\n五文学上人\n【右から第四列】\n達磨【枠内】\n一空や上人\n二文学上人\n四犬神\n五一扁上人\n六風神\n【右から第五列】\n維摩【枠内】\n一西王母\n二仙人\n三雷神\n五犬神\n【右から第六列】\n万歳【枠内】\n一大黒舞\n三七夕\n四大黒\n五寿老神\n【右から第七列】\n大せいくわんき天【枠内】\n一風神\n二達磨\n三大黒舞\n四山うは\n五猩々\n【右から第八列】\nかろら王【枠内】\n一天人\n二げだつ上人\n三めうゑ上人\n四天狗\n五かりやうびん\n【右から第九列】\n天人【枠内】\n一役行者\n二げだつ上人\n三かろら王\n四がき\n【右から第十列】\nかりやうびん【枠内】\n一天人\n二達磨\n三しやう〳〵\n五空や上人\n【上から第五段】\n【十列で構成】\n【右から第一列】\nせう〳〵【枠内】\n一きんなら\n三ぬらりひよん\n五仙人\n六ゑんま\n【右から第二列】\n大黒舞【枠内】\n一まこら\n二酒天とうし\n四山ひこ\n五ふらりひ\n【右から第三列】\nせきそろ【枠内】\n二かつは\n三猩々\n四見こし入道\n五きんなら\n六おとろし\n【右から第四列】\n古札納【枠内】\n一きんなら\n二童子\n三山うは\n四風神\n五せう〳〵\n六うわん\n【右から第五列】\nやくはらい【枠内】\n一万歳\n二かつは\n三ぬつへつほう\n五やしや\n六ゑんま\n【右から第六列】\nひんほう神【枠内】\n一大黒舞\n二やくびやうかみ\n四ちくせう\n五やしや\n六仙人\n【右から第七列】\n仙人【枠内】\n一ゆいま\n二達磨\n三ひんほうかみ\n四かろら王\n五てん人\n六天狗\n【右から第八列】\nきんなら【枠内】\n一大せいくわんき天\n二七夕\n三天人\n四犬神\n五かがう\n六山ひこ\n【右から第九列】\nまこら【枠内】\n一達磨\n二たるま\n三風神\n四山わらう\n五へびかみ\n六山うは\n【右から第十列】\nやくひやう神【枠内】\n一せう〳〵\n二天人\n三びんぼう神\n四がき\n五風神\n六ようちん\n【上から第六段】\n【十列で構成】\n【右から第一列】\n雷神【枠内】\n一てん人\n二日蓮上人\n六仙人\n【右から第二列】\nせうつかばゝ【枠内】\n一がき\n三牛鬼\n五へひかみ\n六ねこまた\n【右から第三列】\nゑんま王【枠内】\n一達磨\n二むけんちこく\n三ふう神\n四大こく\n五犬かみ\n【右から第四列】\n山姥【枠内】\n一しゆら\n三酒てんとうし\n四風神\n五山ひこ\n六犬かみ\n【右から第五列】\n酒天童子【枠内】\n一山うは\n三ゑんま\n四しやう〳〵\n五かりやうびん\n【右から第六列】\nへび神【枠内】\n一せん人\n二大せいくわんき天\n四やくひやう神\n五風神\n【右から第七列】\n犬神【枠内】\n一かろら王\n三きんなら\n四やくひやうかみ\n五やうちん\n六仙人\n【右から第八列】\n天狗【枠内】\n一へびかみ\n二せうつかばゝ\n三古札納\n五かろら王\n【右から第九列】\n山ひこ【枠内】\n一しやう〳〵\n二ねこまた\n三せきそろ\n四ゑんま\n五雷神\n【右から第十列】\n風神【枠内】\n一山ワらう\n三ゑんま\n四やくはらい\n五しやう〳〵\n六がこう\n【上から第七段】\n【十列で構成】\n【右から第一列】\nふらり火【枠内】\n一うふめ\n三きやうくわんぢごく\n四雪女\n五犬かみ\n【右から第二列】\n赤舌【枠内】\n二がき\n三雪女\n五海坊主\n六せうきら\n【右から第三列】\nうわん【枠内】\n一山うは\n二ちくせう\n五山ひこ\n六しゆら\n【右から第四列】\n見こし入道【枠内】\n一わら〳〵\n二山ひこ\n三かみきり\n五ぬれ女\n六天狗\n【右から第五列】\nぬらりひよん【枠内】\n一ふらりひ\n二うふめ\n三山姥\n五海坊主\n六うわん\n【右から第六列】\nぬつへつほう【枠内】\n一山ひこ\n二雪女\n三犬神\n五みこし入道\n六目一つほう\n【右から第七列】\nおとろし【枠内】\n一へびかみ\n二ぬらりひよん\n三せうつかばゝ\n六ゑんま\n【右から第八列】\nわら〳〵【枠内】\n一風神\n二かみきり\n三かつは\n五ぬれ女\n【右から第九列】\n海坊主【枠内】\n一ゑんま\n三かつは\n四やしや\n五山わろう\n【右から第十列】\nかみきり【枠内】\n一山ひこ\n二うわん\n三ちくせう\n五がき\n【上から第八段】\n【九列で構成】\n【右から第一列】\n山ワらう【枠内】\n一赤した\n二てんぐ\n三うわん\n四ひんぼう神\n【右から第二列】\nやしや【枠内】\n一せうねつ地こく\n三てんぐ\n五ふらりひ\n六海ほうす\n【右から第三列】\n目一ツ坊【枠内】\n一みこし入道\n二がき\n三ぬらりひよん\n四わら〳〵\n【右から第四列】\nかつは【枠内】\n一山うは\n三しゆら\n四らごら\n五まごら\n【右から第五列、第九段第五列と共通】\n一雷神\n二びんほう神\n三うふめ\n四ぬれ女\n五万歳\n六風神\n【右から第六列】\nかごら【枠内】\n一塗仏\n三てんぐ\n四わら〳〵\n五かみきり\n六まごら\n【右から第七列】\nぬれ女【枠内】\n一がき\n二がき\n三犬かみ\n四へびかみ\n五きんなら\n【右から第八列】\nひやうすべ【枠内】\n一やしや\n三ねこまた\n四わら〳〵\n五やうちん\n六かつは\n【右から第九列】\nぬりほとけ【枠内】\n一うみ坊主\n二うふめ\n五ぬつへつほう\n六かみきり\n【上から第九段】\n【九列で構成】\n【右から第一列】\nせうきら【枠内】\n一山わろう\n二せきぞろ\n三おとろし\n五酒天とうし\n六ぬらりひよん\n【右から第二列】\nかき【枠内】\n一やしや\n二ちくせう\n三山ひこ\n五雪女\n六牛鬼\n【右から第三列】\nちくせう【枠内】\n一赤した\n二目ひとつほう\n四がこう\n五ねこまた\n【右から第四列】\nしゆら【枠内】\n一せうつかばゝ\n三うわん\n五山ひこ\n六無間ぢこく\n【右から第五列、第八段第五列と共通】\n【右から第六列】\n剣の山【枠内】\n一やうちん\n四とうくわつぢこく\n五犬かみ\n六赤舌\n【右から第七列】\nうふめ【枠内】\n二猩々\n三こくせうちこく\n四きやうくわんぢこく\n五かつは\n六剣の山\n【右から第八列】\nゆき女【枠内】\n一ふらりひ\n三せうきら\n四ぬれ女\n五まこら\n六ひやうすべ\n【右から第九列】\nねこまた【枠内】\n一剣の山\n二ちくせう\n三かき\n五やしや\n六海ぼうづ\n【上から第十段】\n【十列で構成】\n【右から第一列】\nきやうくわんちこく【枠内】\n一わら〳〵\n二剣の山\n三やしや\n五がき\n【右から第二列】\nけうくわんちこく【枠内】\n一うし鬼\n二悪けんちこく\n三むけんちこく\n五ようちん\n【右から第三列】\nせうねつちこく【枠内】\n一しゆら\n三しゆこうちこく\n四けうくわんちこく\n五こくせうちこく\n【右から第四列】\n悪けんちこく【枠内】\n一やうちん\n二とうくわつちこく\n四むけんちこく\n五こくせうちこく\n【右から第五列】\nむけんちこく【枠内】\n一きやうくわんちこく\n二こくせうちこく\n三しゆこうちこく\n四やうちん\n【右から第六列】\nようちん【枠内】\n【右から第七列】\nしゆこうちこく【枠内】\n一うし鬼\n四こくせうちこく\n五かき\n六むけんちこく\n【右から第八列】\nこくせうちこく【枠内】\n一せうねつちこく\n二悪けんちこく\n五きやうくわんちこく\n六無間ちこく\n【右から第九列】\nとうくわつちこく【枠内】\n一ほうくわんちこく\n三むけんちこく\n四うし鬼\n六あくけんちこく\n【右から第十列】\n牛鬼【枠内】\n一雪女\n三むけんちこく\n四こくせうちこく\n五ちくせう\n",
+            "timestamp": {
+                "_nanoseconds": 881000000,
+                "_seconds": 1583468071
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "D27FA5DB4F64500D61A0F7EE8121B050",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル・画像共に無し】\n【コマ１の裏】\n【東京大学図書館の蔵書印・整理番号】\n〇〇一一八四二三九〇\n",
+            "text": "【タイトル・画像共に無し】\n【コマ１の裏】\n【東京大学図書館の蔵書印・整理番号】\n〇〇一一八四二三九〇\n",
+            "timestamp": {
+                "_nanoseconds": 869000000,
+                "_seconds": 1583398638
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/237f408d-d2a1-41af-9d7f-75dc5ac4b481/canvas/p3",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "D27FA5DB4F64500D61A0F7EE8121B050",
+            "index": 2,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル・画像共に無し】\n【コマ１の裏】\n",
+            "text": "【タイトル・画像共に無し】\n【コマ１の裏】\n",
+            "timestamp": {
+                "_nanoseconds": 701000000,
+                "_seconds": 1583398566
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

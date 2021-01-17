@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cee68a8592b7e278e077ab6225852a7ffec1292d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88685",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88685/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88685",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "B93745B7590B52058DC2862F18A13356",
+    "label": "[嘉永七寅十一月四日大津波]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[嘉永七寅十一月四日大津波]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-050"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×31"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "5cf8b51b-3259-4db5-9733-47d327975011"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0305"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cee68a8592b7e278e077ab6225852a7ffec1292d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5cf8b51b-3259-4db5-9733-47d327975011/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "B93745B7590B52058DC2862F18A13356",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "頃は嘉永七寅十一月四日五ツ時舞坂\nしらすかあら井宿大つなみ人家そんし\nよし田御城下ゟ岡さき御城下宮より七里渡\n大きにあれる舟そんし夫ゟ桑名御城下ゟかめ山\n江州路大津辺まて仲仙道宿々大きにそん\nしる也京都はかく別の事も無之いせ路\n津松坂山田辺大神宮さま御宮さわりなし\n志州鳥羽大地震大津浪町屋三町程も\n流し在々まてもあれ大舟小舟そのか\nつしれす人家大きにそんしるなり同月五\n六日大ししん大津浪加たの浦くまのうら\n大津浪人家大きに流し和歌山在々大き\nにそんつるなり同月五日六日大坂あし川口\n天保山崩れ并あし川橋ふなとはしたかはし\n三大橋を流し人家七百けん程流し\n大せん七十そう　小舟そのかつ\nしれす\n人家そん\nしること\nすくなから\nすあまか崎\n御城下町屋か\nん崎へん残らす\nあは土佐辺も津浪の\nよし中国丸辺もしひ\nきしなり誠に古\n来よりかゝる大ししん\n大つ浪よつて諸君の\nかうらんに\n　　そなへるもの也\n",
+            "text": "頃は嘉永七寅十一月四日五ツ時舞坂\nしらすかあら井宿大つなみ人家そんし\nよし田御城下ゟ岡さき御城下宮より七里渡\n大きにあれる舟そんし夫ゟ桑名御城下ゟかめ山\n江州路大津辺まて仲仙道宿々大きにそん\nしる也京都はかく別の事も無之いせ路\n津松坂山田辺大神宮さま御宮さわりなし\n志州鳥羽大地震大津浪町屋三町程も\n流し在々まてもあれ大舟小舟そのか\nつしれす人家大きにそんしるなり同月五\n六日大ししん大津浪加たの浦くまのうら\n大津浪人家大きに流し和歌山在々大き\nにそんつるなり同月五日六日大坂あし川口\n天保山崩れ并あし川橋ふなとはしたかはし\n三大橋を流し人家七百けん程流し\n大せん七十そう　小舟そのかつ\nしれす\n人家そん\nしること\nすくなから\nすあまか崎\n御城下町屋か\nん崎へん残らす\nあは土佐辺も津浪の\nよし中国丸辺もしひ\nきしなり誠に古\n来よりかゝる大ししん\n大つ浪よつて諸君の\nかうらんに\n　　そなへるもの也\n",
+            "timestamp": {
+                "_nanoseconds": 683000000,
+                "_seconds": 1573470901
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/2921912bea9cfb57aacab691c1592a93b191adc5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88659",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88659/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88659",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "E4BE084E02EEA4EA9955D76812F4BCBA",
+    "label": "聖代要廼磐寿恵",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "聖代要廼磐寿恵"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "番付"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "31×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "a743fd9c-bb54-4820-a7e4-f285bfed27ed"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0279"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/2921912bea9cfb57aacab691c1592a93b191adc5.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/a743fd9c-bb54-4820-a7e4-f285bfed27ed/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "E4BE084E02EEA4EA9955D76812F4BCBA",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【中央の見出し】\n聖代（ゆるがぬみよ）要廼磐寿恵（かなめのいしずゑ）\n当　五街道筋\n安政二乙卯\n十月二日夜　江戸大地震大火\n四ツ半ヨリ\n司　近在近郷　　　【当？と司は併せて読んで行事の意味かと思われるが、不明】\n\n差添【横書】\n元禄　京都大雷\n嘉永　江戸大雷\n万治　大坂大雷\n\n勧進要【横書】　\n愛宕神社\n鹿嶋太神宮\n\n【右欄】\n大火方【横書】\n【第一段】\n大関　明暦三　丸山本妙寺出火\n関脇　明和九　目黒行人坂出火　【江戸時代、明和は八年まで。明和九(メイワク)となるので改元されたらしい。明和八のつぎは安永一】\n小結　文化三　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　佐久間町二丁目出火\n前頭　弘化四　本郷丸山出火\n前頭　嘉永二　麹町ヨリ出火\n前頭　弘化三　青山ヨリ出火\n【第二段】\n前頭　享和九　江戸大火　　　【享和は三年までで文化にかわっているが？】\n前頭　寛政四　糀町出火\n前頭　寛文元　京都大火\n前頭　享保九　大坂大火\n前頭　安永元　江戸大火\n前頭　天明八　京都大火\n前頭　安永七　江戸大火\n前頭　天和元　江戸大火\n前頭　寛政五　根津出火\n前頭　承？永　　京都大火  　【江戸時代には承永という元号はなく、京都の大火で元号名が似ているのは宝永五年】\n前頭　元和六　京都大火\n前頭　安政元　神田出火\n【第三段】\n同　寛文元　京都大火\n同　享保九　江戸大火\n同　安永元　江戸大火\n同　天保五　江戸大火\n同　天保二　江戸大火\n同　安政元　江戸大火\n同　寛文四　江戸大火\n同　安政元　中山道筋大火\n同　同　　　東海道筋大火\n同　同　　　宇都宮大火\n同　同　　　大坂大火\n同　寛政　　南都大火\n同　同　　　中国大火\n【第四段】\n洪水部【横書】\n大関　延宝四　諸国大洪水\n関脇　宝永三　中国大洪水\n小結　文政五　関東大洪水\n前頭　享保二　長崎大洪水\n前頭　享和二　関東大洪水\n前頭　弘化四　関東大洪水\n前頭　宝暦七　関東大洪水\n前頭　寛保元　関東大洪水\n前頭　享保十三　関東大洪水\n前頭　寛延二　江戸大洪水\n前頭　天和三　江戸大洪水\n前頭　文化五　関東大洪水\n\n【左欄】\n【第一段】\n地震方【横書】　\n大関　文政十一　越後大地震\n関脇　弘化四　信濃大地震\n小結　元禄十六　関八州大地震\n前頭　嘉永元　小田原大地震\n前頭　寛永四　関東大地震\n前頭　寛政十　小田原大地震\n前頭　天明二　関東大地震\n前頭　安政元　大坂大地震\n【第二段】\n前頭　天和三　日光大地震\n前頭　寛政十　京都大地震\n前頭　文化九　関東大地震\n前頭　安政元　摂州大地震\n前頭　同年　　駿河大地震\n前頭　同年　　遠州大地震\n前頭　同年　　甲斐大地震\n前頭　安政元　信州大地震\n前頭　同年　　三河大地震\n前頭　同年　　紀州大地震\n前頭　同年　　土佐大地震\n前頭　同年　　播州大地震\n【第三段】\n同　安政二　行徳大地震\n同　同　　　船橋大地震\n同　同　　　神奈川大地震\n同　安政元　阿波大地震\n同　同　　　伊予大地震\n同　安政二　中山道筋地震\n同　同　　　東海道筋地震\n同　同　　　水街道大地震\n同　同　　　日光道中地震\n同　同　　　下総大地震\n同　同　　　上総大地震\n同　同　　　青梅道大地震\n同　同　　　秩父大地震\n【第四段】\n津波部【横書】\n大関　文化元　奥州大津波\n関脇　同　　　出羽大津波\n小結  寛保　　松前大津波\n前頭　安政元　豆州大津波\n前頭　同　　　駿州大津波\n前頭　同　　　摂州大津波\n前頭　同　　　紀州大津波\n前頭　同　　　土州大津波\n前頭　同　　　播州大津波\n前頭　同　　　阿州大津波\n前頭　同　　　泉州大津波\n前頭　同　　　勢州大津波\n",
+            "text": "【中央の見出し】\n聖代（ゆるがぬみよ）要廼磐寿恵（かなめのいしずゑ）\n当　五街道筋\n安政二乙卯\n十月二日夜　江戸大地震大火\n四ツ半ヨリ\n司　近在近郷　　　【当？と司は併せて読んで行事の意味かと思われるが、不明】\n\n差添【横書】\n元禄　京都大雷\n嘉永　江戸大雷\n万治　大坂大雷\n\n勧進要【横書】　\n愛宕神社\n鹿嶋太神宮\n\n【右欄】\n大火方【横書】\n【第一段】\n大関　明暦三　丸山本妙寺出火\n関脇　明和九　目黒行人坂出火　【江戸時代、明和は八年まで。明和九(メイワク)となるので改元されたらしい。明和八のつぎは安永一】\n小結　文化三　高輪牛町出火\n前頭　文政十二　和泉橋際出火\n前頭　天保五　佐久間町二丁目出火\n前頭　弘化四　本郷丸山出火\n前頭　嘉永二　麹町ヨリ出火\n前頭　弘化三　青山ヨリ出火\n【第二段】\n前頭　享和九　江戸大火　　　【享和は三年までで文化にかわっているが？】\n前頭　寛政四　糀町出火\n前頭　寛文元　京都大火\n前頭　享保九　大坂大火\n前頭　安永元　江戸大火\n前頭　天明八　京都大火\n前頭　安永七　江戸大火\n前頭　天和元　江戸大火\n前頭　寛政五　根津出火\n前頭　承？永　　京都大火  　【江戸時代には承永という元号はなく、京都の大火で元号名が似ているのは宝永五年】\n前頭　元和六　京都大火\n前頭　安政元　神田出火\n【第三段】\n同　寛文元　京都大火\n同　享保九　江戸大火\n同　安永元　江戸大火\n同　天保五　江戸大火\n同　天保二　江戸大火\n同　安政元　江戸大火\n同　寛文四　江戸大火\n同　安政元　中山道筋大火\n同　同　　　東海道筋大火\n同　同　　　宇都宮大火\n同　同　　　大坂大火\n同　寛政　　南都大火\n同　同　　　中国大火\n【第四段】\n洪水部【横書】\n大関　延宝四　諸国大洪水\n関脇　宝永三　中国大洪水\n小結　文政五　関東大洪水\n前頭　享保二　長崎大洪水\n前頭　享和二　関東大洪水\n前頭　弘化四　関東大洪水\n前頭　宝暦七　関東大洪水\n前頭　寛保元　関東大洪水\n前頭　享保十三　関東大洪水\n前頭　寛延二　江戸大洪水\n前頭　天和三　江戸大洪水\n前頭　文化五　関東大洪水\n\n【左欄】\n【第一段】\n地震方【横書】　\n大関　文政十一　越後大地震\n関脇　弘化四　信濃大地震\n小結　元禄十六　関八州大地震\n前頭　嘉永元　小田原大地震\n前頭　寛永四　関東大地震\n前頭　寛政十　小田原大地震\n前頭　天明二　関東大地震\n前頭　安政元　大坂大地震\n【第二段】\n前頭　天和三　日光大地震\n前頭　寛政十　京都大地震\n前頭　文化九　関東大地震\n前頭　安政元　摂州大地震\n前頭　同年　　駿河大地震\n前頭　同年　　遠州大地震\n前頭　同年　　甲斐大地震\n前頭　安政元　信州大地震\n前頭　同年　　三河大地震\n前頭　同年　　紀州大地震\n前頭　同年　　土佐大地震\n前頭　同年　　播州大地震\n【第三段】\n同　安政二　行徳大地震\n同　同　　　船橋大地震\n同　同　　　神奈川大地震\n同　安政元　阿波大地震\n同　同　　　伊予大地震\n同　安政二　中山道筋地震\n同　同　　　東海道筋地震\n同　同　　　水街道大地震\n同　同　　　日光道中地震\n同　同　　　下総大地震\n同　同　　　上総大地震\n同　同　　　青梅道大地震\n同　同　　　秩父大地震\n【第四段】\n津波部【横書】\n大関　文化元　奥州大津波\n関脇　同　　　出羽大津波\n小結  寛保　　松前大津波\n前頭　安政元　豆州大津波\n前頭　同　　　駿州大津波\n前頭　同　　　摂州大津波\n前頭　同　　　紀州大津波\n前頭　同　　　土州大津波\n前頭　同　　　播州大津波\n前頭　同　　　阿州大津波\n前頭　同　　　泉州大津波\n前頭　同　　　勢州大津波\n",
+            "timestamp": {
+                "_nanoseconds": 829000000,
+                "_seconds": 1572439225
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

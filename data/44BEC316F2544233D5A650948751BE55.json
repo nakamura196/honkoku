@@ -1,0 +1,176 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 10328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e85cd2b769b76426d71c5ab3d209b6dcef7a0a07.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 10328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56338",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7760
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56338/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56338",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7760
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 10327,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/491f522241704c0c06270f67da985618d76b1f51.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 10327,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56339",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7759
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56339/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56339",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7759
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "44BEC316F2544233D5A650948751BE55",
+    "label": "[三宝荒神画像]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[三宝荒神画像]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "仏教"
+        },
+        {
+            "label": "資料分類",
+            "value": "彩色画"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "巻子"
+        },
+        {
+            "label": "identifier",
+            "value": "e40c57f2-3287-4939-9016-126b7dc67a2c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1095"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e85cd2b769b76426d71c5ab3d209b6dcef7a0a07.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "44BEC316F2544233D5A650948751BE55",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし画像のみ】",
+            "text": "【タイトルなし画像のみ】",
+            "timestamp": {
+                "_nanoseconds": 10000000,
+                "_seconds": 1572859723
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e40c57f2-3287-4939-9016-126b7dc67a2c/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "44BEC316F2544233D5A650948751BE55",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし】\n【コマ１の裏面で東京大学図書館の蔵書印と整理番号が記されている。】\n",
+            "text": "【タイトルなし】\n【コマ１の裏面で東京大学図書館の蔵書印と整理番号が記されている。】\n",
+            "timestamp": {
+                "_nanoseconds": 255000000,
+                "_seconds": 1572860178
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

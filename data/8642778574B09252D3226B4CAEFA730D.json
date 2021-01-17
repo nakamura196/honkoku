@@ -1,0 +1,176 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4e2ae04037e4866b23586f401f69e2cc6d295fe5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56124",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56124/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56124",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/42ce123d0cbbfcfc612b844654f8feb2a67fb758.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56125",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56125/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56125",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "8642778574B09252D3226B4CAEFA730D",
+    "label": "野保台詩(「地中震・・・」)",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "野保台詩(「地中震・・・」)"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-003"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-01-002からII-01-007は6枚続き"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "95532cea-78eb-462c-925b-72b9c5052f1f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1003"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4e2ae04037e4866b23586f401f69e2cc6d295fe5.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p1",
+            "editedBy": "0iyiwa5MkvW2ELaK7wIR4fABS043",
+            "entryId": "8642778574B09252D3226B4CAEFA730D",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "【上段右】\n地市騒（ちしさわぐ）\n寒中苦（かんちうくるしみ）\n夜愁震（やうれひふるひ）\n【上段中】\n死芸悲（くるしむ）\n遊人間（ゆうにんおあいだ）\n諸困哀（しよこまるあはれむ）\n【上段左】\n銭焼廃（せんやけいたゞく）\n金銀廃（きんぎんすたり）\n白多施（はくをゝしほどこし）\n【下段右】\n当隣響（たうりんひゞく）\n北国焼（ほつこくやけ）\n諸潤変（しようるほふへん）\n【下段中】\n地貸痩（ちかしやせる）\n借主有（かりぬしあつて）\n家無痛（いへなしいたむ）\n【下段左】\n天軒守（てんのきまもる）\n直下札（ねさげふだ）【右ルビ「か」左ルビ「した」】\n配張触（はいはるふれ）\n\n【解読】\n地中震（ちちうふるひ）夜中騒（やちうさわぐ）\n寒中苦（かんちうくるしみ）市中愁（しちううれひ）\n死人哀（しにんあはれむ）諸人悲（しよにんくるしむ）\n遊人間（ゆうにんおあいだ）藝人困（げいにんこまる）\n銭銀施（せんぎんほどこし）白銀頂（はくぎんいたゞく）\n金銀廃（きんぎんすたり）焼銀多（やけぎんをゝし）\n当国変（たうこくへん）諸国響（しよこくひゞく）\n北国焼（ほっこくやけ）隣国潤（りんこくうるほふ）\n地主痛（ちぬしいたむ）家主痩（いへぬしやせる）\n借主有（かりぬしあつて）貸主無（かしぬしなし）\n天下触（てんかふれ）配下守（はいかまもる）\n直下札（ねさげふだ）軒下張（のきしたはる）",
+            "text": "【上段右】\n地市騒（ちしさわぐ）\n寒中苦（かんちうくるしみ）\n夜愁震（やうれひふるひ）\n【上段中】\n死芸悲（くるしむ）\n遊人間（ゆうにんおあいだ）\n諸困哀（しよこまるあはれむ）\n【上段左】\n銭焼廃（せんやけいたゞく）\n金銀廃（きんぎんすたり）\n白多施（はくをゝしほどこし）\n【下段右】\n当隣響（たうりんひゞく）\n北国焼（ほつこくやけ）\n諸潤変（しようるほふへん）\n【下段中】\n地貸痩（ちかしやせる）\n借主有（かりぬしあつて）\n家無痛（いへなしいたむ）\n【下段左】\n天軒守（てんのきまもる）\n直下札（ねさげふだ）【右ルビ「か」左ルビ「した」】\n配張触（はいはるふれ）\n\n【解読】\n地中震（ちちうふるひ）夜中騒（やちうさわぐ）\n寒中苦（かんちうくるしみ）市中愁（しちううれひ）\n死人哀（しにんあはれむ）諸人悲（しよにんくるしむ）\n遊人間（ゆうにんおあいだ）藝人困（げいにんこまる）\n銭銀施（せんぎんほどこし）白銀頂（はくぎんいたゞく）\n金銀廃（きんぎんすたり）焼銀多（やけぎんをゝし）\n当国変（たうこくへん）諸国響（しよこくひゞく）\n北国焼（ほっこくやけ）隣国潤（りんこくうるほふ）\n地主痛（ちぬしいたむ）家主痩（いへぬしやせる）\n借主有（かりぬしあつて）貸主無（かしぬしなし）\n天下触（てんかふれ）配下守（はいかまもる）\n直下札（ねさげふだ）軒下張（のきしたはる）",
+            "timestamp": 1564385061830
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/95532cea-78eb-462c-925b-72b9c5052f1f/canvas/p2",
+            "editedBy": null,
+            "entryId": "8642778574B09252D3226B4CAEFA730D",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030624687
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

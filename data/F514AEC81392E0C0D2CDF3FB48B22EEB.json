@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f6472d7019867c7f742f356733d64c6955209ac0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88607",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88607/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88607",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6f85ab0e33e205a8d4b9a5f73177a2175ac5f176.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219867",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219867/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219867",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "F514AEC81392E0C0D2CDF3FB48B22EEB",
+    "label": "関東類焼大地震",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "関東類焼大地震"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×78.5"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組／同資料：I-01-031, II-01-031"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b2ac18e8-3c5f-4f20-93a9-612fd657655a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0227"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f6472d7019867c7f742f356733d64c6955209ac0.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "F514AEC81392E0C0D2CDF3FB48B22EEB",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "関東類焼大地震\n\n御救小屋三ケ所　浅草広小路　深川海辺大工町　幸橋御見附外\n\n乾坤和順せざるときは陰地中に満て一時に発す是地上に地震といひ海上に津浪といふ山中に発する時は洞のぬけたるなど\n皆風雨不順の為す所にして恐るべきの大事なり于茲安政二年乙卯冬十月二日夜四ツ時過るころ関東の国々は\n地震のとゝかさることなく一時に舎坊を崩し人命を絶こと風前のともしびの如し其中に先御府内焼亡ノ地は千住小塚原\n不残焼け千住宿は大半崩れ山谷橋はのこらす崩れ今戸橋きは数十軒やける新吉原は五丁共不残焼死人おびたゞしく\n田丁壱丁目弐丁目山川町浅草竹門北馬道聖天横町芝居町三町北谷中谷の寺院南馬道ゟ花川戸半町程やける山の宿町\n聖天町は崩る浅草寺は無事にて雷神ゆるぎ出す広小路並木辺残らす崩れ駒形町中頃ゟ出火諏訪町黒船町御馬や\n河岸にてやけどまる御蔵前茅町辺冨坂町森下辺大破東門跡恙なし菊屋橋きは新寺町新堀共少しやける大音寺ゟ\n三の輪金杉辺崩れ坂本は三丁目やける山崎町東坂広徳寺前通り崩多シ又は山本仁太夫矢来内死人多し家不残崩る其外寺院\n大破損亡おびたゞし〇谷中三崎千駄木駒込は崩少し根津門前は大半崩池の端茅町弐丁目境いなり向よりやけ同壱丁目不残\n木戸際にて留る切通シ坂下大崩仲町は片側丁崩多く両かは丁すくなし御すきや町は大崩広小路東がは中程ゟ伊東松坂屋角迄\n上野町ゟ長者町辺やける御徒町近辺ゟ三味せん堀七まがりは大名方組屋敷共崩るといへとも多分のことなし御成通ゟ明神下\n破れ多く外神田町家の分崩少し湯島大神は崩少し門前町崩多く妻恋町少しも不崩稲荷の社無事也本郷台破\n少し筋違御門ゟ日本橋通り左右神田東西共崩多し小川町本郷様松平紀伊守様板倉様戸田様やける柳原様外かは\n焼神田橋内酒井雅楽頭様同御向やしき龍之口角森川出羽守様又一ト口は八代洲河岸植村但馬守様因州様御火消屋敷\n等なり和田倉御門内は松平肥後守様松平下総守様やける近所崩れ其外丸の内御大名方所々崩多し鍋島様御上屋敷\n不残やける山下御門内阿部様のこらす大崩となり夫ゟ幸橋内松平甲斐守様伊東様亀井様共やける薩州様装束屋敷崩る\n霞関は諸家様大半くずれ黒田様御物見のこる永田町三間家かうじ町辺は崩少し四ツ谷市ケ谷牛込小日向小石川番町辺\n何れも損亡おほし赤坂青山麻布渋谷白銀品川高輪台町共崩少し赤羽根三田飯倉西ノ久保は崩多シ増上寺無事\n〇北本所は中の郷松平周防守様やける此辺大崩にて所々ゟ出火あり同所番場丁弁天小路辺やける其外寺院損亡多シ法恩寺橋\n町家やける亀戸町二ケ所やける又竪川通りは桐生町緑町三ツめ花町迄やける又御船蔵前町ゟ黒八名川町六間堀森下町高橋にて\n留る又一ト口は深川相川町ゟ黒江町大嶋町はまぐり町永代寺門前町八幡宮鳥居きはにて止る又乙女橋向南大川端少しやける\n本所深川おしなへて地震つよく損亡おびたゝし〇日本橋ゟ南東西中通り河岸通り共大崩にて南伝馬町弐丁目三丁目左右川岸\n京橋川通り迄やける銀座町三十間堀尾張町辺少したるみ新橋向築地木挽町桜田久保町あたご下崩れ多シ芝口通り少し\n露月丁崩れ柴井町やける神明町三島町大崩怪我人多シ神明宮恙なし浜手御屋敷残すいたむ中門前片門前浜松町金杉本\n芝辺崩少し田町大木戸品川宿格別の崩なし翌三日ゟ七日迄□日すこしづゝふるひけれ共別にさはることなく追々静謐におよひ下々へは\n御救を被下置御救小屋三ケ所へ御立被下御仁慈の御国恩を拝謝し奉らん人こそなかりけれあらありがたき\n事共なり　　　但シ出火のせつわ三十二口なれともやけるところは図のことし　　　　火の用心〳〵\n",
+            "text": "関東類焼大地震\n\n御救小屋三ケ所　浅草広小路　深川海辺大工町　幸橋御見附外\n\n乾坤和順せざるときは陰地中に満て一時に発す是地上に地震といひ海上に津浪といふ山中に発する時は洞のぬけたるなど\n皆風雨不順の為す所にして恐るべきの大事なり于茲安政二年乙卯冬十月二日夜四ツ時過るころ関東の国々は\n地震のとゝかさることなく一時に舎坊を崩し人命を絶こと風前のともしびの如し其中に先御府内焼亡ノ地は千住小塚原\n不残焼け千住宿は大半崩れ山谷橋はのこらす崩れ今戸橋きは数十軒やける新吉原は五丁共不残焼死人おびたゞしく\n田丁壱丁目弐丁目山川町浅草竹門北馬道聖天横町芝居町三町北谷中谷の寺院南馬道ゟ花川戸半町程やける山の宿町\n聖天町は崩る浅草寺は無事にて雷神ゆるぎ出す広小路並木辺残らす崩れ駒形町中頃ゟ出火諏訪町黒船町御馬や\n河岸にてやけどまる御蔵前茅町辺冨坂町森下辺大破東門跡恙なし菊屋橋きは新寺町新堀共少しやける大音寺ゟ\n三の輪金杉辺崩れ坂本は三丁目やける山崎町東坂広徳寺前通り崩多シ又は山本仁太夫矢来内死人多し家不残崩る其外寺院\n大破損亡おびたゞし〇谷中三崎千駄木駒込は崩少し根津門前は大半崩池の端茅町弐丁目境いなり向よりやけ同壱丁目不残\n木戸際にて留る切通シ坂下大崩仲町は片側丁崩多く両かは丁すくなし御すきや町は大崩広小路東がは中程ゟ伊東松坂屋角迄\n上野町ゟ長者町辺やける御徒町近辺ゟ三味せん堀七まがりは大名方組屋敷共崩るといへとも多分のことなし御成通ゟ明神下\n破れ多く外神田町家の分崩少し湯島大神は崩少し門前町崩多く妻恋町少しも不崩稲荷の社無事也本郷台破\n少し筋違御門ゟ日本橋通り左右神田東西共崩多し小川町本郷様松平紀伊守様板倉様戸田様やける柳原様外かは\n焼神田橋内酒井雅楽頭様同御向やしき龍之口角森川出羽守様又一ト口は八代洲河岸植村但馬守様因州様御火消屋敷\n等なり和田倉御門内は松平肥後守様松平下総守様やける近所崩れ其外丸の内御大名方所々崩多し鍋島様御上屋敷\n不残やける山下御門内阿部様のこらす大崩となり夫ゟ幸橋内松平甲斐守様伊東様亀井様共やける薩州様装束屋敷崩る\n霞関は諸家様大半くずれ黒田様御物見のこる永田町三間家かうじ町辺は崩少し四ツ谷市ケ谷牛込小日向小石川番町辺\n何れも損亡おほし赤坂青山麻布渋谷白銀品川高輪台町共崩少し赤羽根三田飯倉西ノ久保は崩多シ増上寺無事\n〇北本所は中の郷松平周防守様やける此辺大崩にて所々ゟ出火あり同所番場丁弁天小路辺やける其外寺院損亡多シ法恩寺橋\n町家やける亀戸町二ケ所やける又竪川通りは桐生町緑町三ツめ花町迄やける又御船蔵前町ゟ黒八名川町六間堀森下町高橋にて\n留る又一ト口は深川相川町ゟ黒江町大嶋町はまぐり町永代寺門前町八幡宮鳥居きはにて止る又乙女橋向南大川端少しやける\n本所深川おしなへて地震つよく損亡おびたゝし〇日本橋ゟ南東西中通り河岸通り共大崩にて南伝馬町弐丁目三丁目左右川岸\n京橋川通り迄やける銀座町三十間堀尾張町辺少したるみ新橋向築地木挽町桜田久保町あたご下崩れ多シ芝口通り少し\n露月丁崩れ柴井町やける神明町三島町大崩怪我人多シ神明宮恙なし浜手御屋敷残すいたむ中門前片門前浜松町金杉本\n芝辺崩少し田町大木戸品川宿格別の崩なし翌三日ゟ七日迄□日すこしづゝふるひけれ共別にさはることなく追々静謐におよひ下々へは\n御救を被下置御救小屋三ケ所へ御立被下御仁慈の御国恩を拝謝し奉らん人こそなかりけれあらありがたき\n事共なり　　　但シ出火のせつわ三十二口なれともやけるところは図のことし　　　　火の用心〳〵\n",
+            "timestamp": {
+                "_nanoseconds": 143000000,
+                "_seconds": 1572660972
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b2ac18e8-3c5f-4f20-93a9-612fd657655a/canvas/p2",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "F514AEC81392E0C0D2CDF3FB48B22EEB",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "【絵のみ文字なし】",
+            "text": "【絵のみ文字なし】",
+            "timestamp": {
+                "_nanoseconds": 501000000,
+                "_seconds": 1566802693
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

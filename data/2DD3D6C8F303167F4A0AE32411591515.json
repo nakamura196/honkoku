@@ -1,0 +1,179 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a8814c030d3c5ad34d4a2e5e064662d03667b325.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56122",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56122/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56122",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4265,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b0e55cd5a40728e0423a60c59d981e4bb30e4a2f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4265,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56123",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5677
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56123/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56123",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5677
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "2DD3D6C8F303167F4A0AE32411591515",
+    "label": "[一枚武鑑]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[一枚武鑑]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-002"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "武鑑"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-01-002からII-01-007は6枚続き"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "128b49e4-4960-4059-a224-8c32197d2a1f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1002"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a8814c030d3c5ad34d4a2e5e064662d03667b325.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "2DD3D6C8F303167F4A0AE32411591515",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【右枠外】\n(のし文様？)　御歳玉　　　　　　売買不禁三千枚限\n\n【一段目】【それぞれに家紋と槍印の図あり】\n御老中\n十一万石　　　　堀田備中守様\n十一万石　　　　阿部伊勢守様\n七万四千石ヨ　　牧野備前守様\n五万八千石　　　久世大和守様\n五万九千石　　　内藤紀伊守様\n御若年寄\n三万石　　　　　鳥居丹波守様\n二万石　　　　　本多越中守様\n一万二千石　　　遠藤但馬守様\n一万石　　　　　本庄安芸守様\n一万石　　　　　酒井右京亮様\n寺社御奉行\n八万二千石　　　松平右京亮様\n五万三千□石ヨ　太田摂津守様\n五万石　　　　　本多中務大輔様\n五万石　　　　　松平豊前守様\n五万石　　　　　安藤長門守様\n京都御所司代\n五万千八十九石ヨ　脇坂淡路守様\n大坂御城代\n九万五千石　　　　土屋采女正様\n\n【二段目】【ページが長くなるので名前を縦に書き連ねます】\n御側衆\n本郷丹後守様　平岡丹波守様　夏目左近将監様　岡部因幡守様　小笠原若狭守様　太田播磨守様　渡辺能登守様　駒木根大内記様　大久保駿河守様　石河美濃守様\n\n御留守居　御関所女手形□【改？ 】\n佐野日向守様　関播磨守様　加藤伯耆守様　曲渕出羽守様　堀田土佐守様\n\n大御目付\n堀伊豆守様　柳生播磨守様　跡部甲斐守様　筒井肥前守様　土岐丹波守様\n\n町御奉行\n北　井戸対馬守様　　　南　龍田播磨守様\n\n御勘定奉行\n水野筑後守様　松平河内守様　本多加賀守様　川路左衛門尉様　石谷因幡守様\n\n御勘定吟味役\n立田岩太郎様　塚越藤助様　勝田次郎様　村垣与三郎様　中村為弥様　設楽八三郎様\n\n評定所留役御勘定組□【頭】　　●印ハ□□留役\n木村駿蔵様　白井達之進様　柴田貞太郎様　浅野弥一郎様　内海多次郎様　吉田昇太郎様　●小俣稲太郎様　小笠原甫三郎様　桜井久三郎様　甘利八右衛門様　●星野金吾様　●滝沢喜太郎様　高柳小三郎様　高田彦太郎様\n渡辺佐十郎様　畑兼太郎様　河野□之助様　山本鎌之助様　●飯島辰五郎様　横田新之丞様　鈴木栄助様　加藤余【餘→余】十郎様　大越貞五郎様　高木源六郎様　吉田条【條→条】太郎様　長坂半八郎様　□□□左衛門様　□□□太夫様　□□□□□様\n\n諸国御代官【縦に四段分あり】\n江川太郎左衛門様　斎藤嘉兵衛様　伊奈半左衛門様　荒井清兵衛様　山内総左衛門様　多羅尾久左衛門様　佐々木道太郎様　北条平次郎様　角倉鍋次郎様　\n大竹左馬太郎様　里見源左衛門様　竹垣三右衛門様　小林藤之助様　佐々井半十郎様　川上金五助様　大草太郎左衛門様　高木伴次郎様　篠本彦次郎様\n寺西直次郎様　松永善之助様　屋代増之助様　羽田十左衛門様　林伊太郎様　林部善太左衛門様　高木清左衛門様　内藤杢左衛門様　増田作右衛門様\n森田岡太郎様　鈴木大太郎様　清水孫次郎様　今川要作様　白石忠太夫様　福田所左衛門様　森孫三郎様　多羅尾久五郎様　\n\n【三段目】\n御作事奉行\n遠山隼人正様　中川飛騨守様\n\n御普請奉行\n河野対馬守様　伊沢美作守様\n\n御小普請奉行　\n江原下総守様　大沢豊後守様\n　\n御目付\n鵜殿民部少輔様　松本十郎兵衛様　松平久之丞様　一色邦之丞様　永井岩之丞様　岡部駿河守様　岩瀬修理様　浅野一学様　大久保右近将監様　鈴木四郎左衛門様\n\n十里四方鉄炮御改\n土岐丹波守様\n\n宗門御改\n堀伊豆守様\n\n道中御奉行\n柳生播磨守様　本多加賀守様\n\n盗賊火付御改\n坂井右近様\n\n南御用懸り【関連資料未見、未確認】\n小林藤太郎様　加藤太左衛門様\n同定御廻り\n小林藤太郎様　粟野一平様　大関庄三郎様　完戸□蔵様　古谷賢助様　小林平十郎様\n臨時廻\n古谷賢助様　小林平十郎様　渡辺喜平六様　大沢藤九郎様　大里忠右衛門様　吉田雄之助様\n\n北御用懸り【関連資料未見、未確認】\n田辺清三郎様　片川仁右衛門様\n同定御廻り\n高□数右衛門様　新島鉄蔵様　持田勝助様　鈴木伝兵衛様\n臨時懸り\n大八木四郎三郎様　神田孫一郎様　高部熊八様　持田勝□様　三井伴次郎様　山本啓助様\n\n【四段目】\n京都町御奉行\n　西　浅野中務少輔様\n　東　岡部備後守様\n\n伏見御奉行\n内藤豊後守様\n\n大坂町御奉行\n　東　佐々木信濃守様\n　西　久須美佐渡守様\n\n甲府勤番支配\n大久保豊後守様　小笠原長門守様\n\n長崎御奉行\n川村対馬守様　荒尾石見守様\n\n浦賀御奉行\n土岐豊前守様　松平伊与守様\n\n下田御奉行\n岡田備後守様　井上信濃守様\n\n箱館御奉行\n竹内下野守様　堀織部正様\n\n奈良御奉行\n戸田能登守様\n\n駿河御城代\n坪内伊豆守様\n\n同町御奉行\n貴志孫太夫様\n\n山田御奉行\n山口丹波守様\n\n佐渡御奉行\n内藤茂之助様　山岡八郎左衛門様\n\n新潟御奉行\n根岸九郎兵衛様\n\n日光御奉行\n三好阿波守様　松平上野介様\n\n関八州御取締御出役\n斎藤様　　渡部園十郎様　関畝四郎様　吉田□十郎様\n林部様　　吉岡良助様　大熊佐助様　山口顕之助様　\n□□様　　太田孫助様　安原燾助様　\n\n上方御郡代　岩田鍬三郎様\n飛騨同　　　福王三郎兵衛様\n大津同　　　石原清左衛門様\n西国同　　　池田岩之丞様\n\n\n",
+            "text": "【右枠外】\n(のし文様？)　御歳玉　　　　　　売買不禁三千枚限\n\n【一段目】【それぞれに家紋と槍印の図あり】\n御老中\n十一万石　　　　堀田備中守様\n十一万石　　　　阿部伊勢守様\n七万四千石ヨ　　牧野備前守様\n五万八千石　　　久世大和守様\n五万九千石　　　内藤紀伊守様\n御若年寄\n三万石　　　　　鳥居丹波守様\n二万石　　　　　本多越中守様\n一万二千石　　　遠藤但馬守様\n一万石　　　　　本庄安芸守様\n一万石　　　　　酒井右京亮様\n寺社御奉行\n八万二千石　　　松平右京亮様\n五万三千□石ヨ　太田摂津守様\n五万石　　　　　本多中務大輔様\n五万石　　　　　松平豊前守様\n五万石　　　　　安藤長門守様\n京都御所司代\n五万千八十九石ヨ　脇坂淡路守様\n大坂御城代\n九万五千石　　　　土屋采女正様\n\n【二段目】【ページが長くなるので名前を縦に書き連ねます】\n御側衆\n本郷丹後守様　平岡丹波守様　夏目左近将監様　岡部因幡守様　小笠原若狭守様　太田播磨守様　渡辺能登守様　駒木根大内記様　大久保駿河守様　石河美濃守様\n\n御留守居　御関所女手形□【改？ 】\n佐野日向守様　関播磨守様　加藤伯耆守様　曲渕出羽守様　堀田土佐守様\n\n大御目付\n堀伊豆守様　柳生播磨守様　跡部甲斐守様　筒井肥前守様　土岐丹波守様\n\n町御奉行\n北　井戸対馬守様　　　南　龍田播磨守様\n\n御勘定奉行\n水野筑後守様　松平河内守様　本多加賀守様　川路左衛門尉様　石谷因幡守様\n\n御勘定吟味役\n立田岩太郎様　塚越藤助様　勝田次郎様　村垣与三郎様　中村為弥様　設楽八三郎様\n\n評定所留役御勘定組□【頭】　　●印ハ□□留役\n木村駿蔵様　白井達之進様　柴田貞太郎様　浅野弥一郎様　内海多次郎様　吉田昇太郎様　●小俣稲太郎様　小笠原甫三郎様　桜井久三郎様　甘利八右衛門様　●星野金吾様　●滝沢喜太郎様　高柳小三郎様　高田彦太郎様\n渡辺佐十郎様　畑兼太郎様　河野□之助様　山本鎌之助様　●飯島辰五郎様　横田新之丞様　鈴木栄助様　加藤余【餘→余】十郎様　大越貞五郎様　高木源六郎様　吉田条【條→条】太郎様　長坂半八郎様　□□□左衛門様　□□□太夫様　□□□□□様\n\n諸国御代官【縦に四段分あり】\n江川太郎左衛門様　斎藤嘉兵衛様　伊奈半左衛門様　荒井清兵衛様　山内総左衛門様　多羅尾久左衛門様　佐々木道太郎様　北条平次郎様　角倉鍋次郎様　\n大竹左馬太郎様　里見源左衛門様　竹垣三右衛門様　小林藤之助様　佐々井半十郎様　川上金五助様　大草太郎左衛門様　高木伴次郎様　篠本彦次郎様\n寺西直次郎様　松永善之助様　屋代増之助様　羽田十左衛門様　林伊太郎様　林部善太左衛門様　高木清左衛門様　内藤杢左衛門様　増田作右衛門様\n森田岡太郎様　鈴木大太郎様　清水孫次郎様　今川要作様　白石忠太夫様　福田所左衛門様　森孫三郎様　多羅尾久五郎様　\n\n【三段目】\n御作事奉行\n遠山隼人正様　中川飛騨守様\n\n御普請奉行\n河野対馬守様　伊沢美作守様\n\n御小普請奉行　\n江原下総守様　大沢豊後守様\n　\n御目付\n鵜殿民部少輔様　松本十郎兵衛様　松平久之丞様　一色邦之丞様　永井岩之丞様　岡部駿河守様　岩瀬修理様　浅野一学様　大久保右近将監様　鈴木四郎左衛門様\n\n十里四方鉄炮御改\n土岐丹波守様\n\n宗門御改\n堀伊豆守様\n\n道中御奉行\n柳生播磨守様　本多加賀守様\n\n盗賊火付御改\n坂井右近様\n\n南御用懸り【関連資料未見、未確認】\n小林藤太郎様　加藤太左衛門様\n同定御廻り\n小林藤太郎様　粟野一平様　大関庄三郎様　完戸□蔵様　古谷賢助様　小林平十郎様\n臨時廻\n古谷賢助様　小林平十郎様　渡辺喜平六様　大沢藤九郎様　大里忠右衛門様　吉田雄之助様\n\n北御用懸り【関連資料未見、未確認】\n田辺清三郎様　片川仁右衛門様\n同定御廻り\n高□数右衛門様　新島鉄蔵様　持田勝助様　鈴木伝兵衛様\n臨時懸り\n大八木四郎三郎様　神田孫一郎様　高部熊八様　持田勝□様　三井伴次郎様　山本啓助様\n\n【四段目】\n京都町御奉行\n　西　浅野中務少輔様\n　東　岡部備後守様\n\n伏見御奉行\n内藤豊後守様\n\n大坂町御奉行\n　東　佐々木信濃守様\n　西　久須美佐渡守様\n\n甲府勤番支配\n大久保豊後守様　小笠原長門守様\n\n長崎御奉行\n川村対馬守様　荒尾石見守様\n\n浦賀御奉行\n土岐豊前守様　松平伊与守様\n\n下田御奉行\n岡田備後守様　井上信濃守様\n\n箱館御奉行\n竹内下野守様　堀織部正様\n\n奈良御奉行\n戸田能登守様\n\n駿河御城代\n坪内伊豆守様\n\n同町御奉行\n貴志孫太夫様\n\n山田御奉行\n山口丹波守様\n\n佐渡御奉行\n内藤茂之助様　山岡八郎左衛門様\n\n新潟御奉行\n根岸九郎兵衛様\n\n日光御奉行\n三好阿波守様　松平上野介様\n\n関八州御取締御出役\n斎藤様　　渡部園十郎様　関畝四郎様　吉田□十郎様\n林部様　　吉岡良助様　大熊佐助様　山口顕之助様　\n□□様　　太田孫助様　安原燾助様　\n\n上方御郡代　岩田鍬三郎様\n飛騨同　　　福王三郎兵衛様\n大津同　　　石原清左衛門様\n西国同　　　池田岩之丞様\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 289000000,
+                "_seconds": 1572160919
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/128b49e4-4960-4059-a224-8c32197d2a1f/canvas/p2",
+            "editedBy": null,
+            "entryId": "2DD3D6C8F303167F4A0AE32411591515",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030623999
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

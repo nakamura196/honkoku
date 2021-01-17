@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4258,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/392a039a0e9c4c4941ce06c380ebc4138417ac20.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4258,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56252",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5667
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56252/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56252",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5667
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 4258,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ffb1436a96985fa7d40226759c03c2c684a24179.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4258,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56253",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 5667
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56253/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56253",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 5667
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "696D39A737055CE4E80FAB7204393F90",
+    "label": "地震方々ゆり状之事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震方々ゆり状之事"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-027"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-026とII-02-027は2枚続"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "7587e79f-9f2a-4e86-bea0-69ceacb25fcb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1063"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/392a039a0e9c4c4941ce06c380ebc4138417ac20.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "696D39A737055CE4E80FAB7204393F90",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "　　　　　｜地（ぢ）震（しん）方（ほう）〻（〴〵）ゆり状（じやう）之事\n一｜此（この）ゆり苦（く）労（ろう）と申｜者（もの）生（しやう）得（とく）信濃（しなのゝ）国（くに）生（なま）須（ず）の荘（しやう）揺（ゆり）初（そめ）村（むら）出（しゆつ）生（しやう）にて\n　｜慥（たしか）なるぐら付（つき）者（もの）ニ付｜荒（あれ）魔（ま）共｜失（うせ）人（にん）に相（あい）立（たち）異（い）変（へん）方（かた）へ諸（しよ）方（ほう）〻（〴〵）に\n　ゆり出（いだ）し申候｜所（ところ）めつぼうなり出（しゆつ）火（くわ）の義（ぎ）ハ當（とう）夘十月二日｜夜（よ）ゟ翌（よく）\n　三日午の下（げ）刻（こく）迄と相（あい）定（さだ）め困（こん）窮（きう）人（にん）繁（はん）昌（じやう）の内（うち）崩（つぶ）れ家（や）御（おん）掘（ほり）かへし\n　として死（し）人（にん）三（さん）分（ぶ）慥（たしか）になげ込（こミ）申候御しきせの義（ぎ）ハ\n　なまづハひどい物（もの）不（ふ）意（い）ハ火（ひ）の子（こ）一めん\n　ふらされべく候事\n一｜土（ど）蔵（ざう）義（ぎ）様（さま）御（ご）發（はつ）動（どう）之儀（ぎ）ハもやすに\n　｜不及（およばず）お家（いへ）の不（ぶ）作（さ）法（ほう）相（あい）ゆるぎ申｜間（ま）敷（じく）候\n一｜若（もし）此（この）者（もの）地（ぢ）震（しん）の御｜目（め）をくらまし御（お）臺（だい）所（どこ）の\n　｜女（ぢよ）中（ちう）方（がた）の寐（ね）入（いり）を考（かんが）へかんじんあなめの所（ところ）を見（ミ）込（こミ）\n　｜火（ひ）の子（こ）をもやしかりばりの丸（まる）太（た）を突（つゝ）ぱり内（ない）證（しやう）の\n　｜地（ぢ）震（しん）を致（いた）し御（ご）大（たい）切（せつ）なる御（おん）入（いれ）物（もの）を損（そん）じ候而ゆりにげ\n　｜壁（かべ）落（おち）致（いたし）候ハヾ急（きつ）度（と）したる左（さ）官（くわん）を以（もつて）早（さつ）速（そく）ぬりあげ可申候事\n一｜身（ミ）内（うち）ハいたい〳〵一（いつ）向（かふ）夢（む）中（ちう）にて寺（てら）ハ夜（よ）中（なか）ゆり出（だ）坂（ざか）\n　｜道（どう）性（しやう）寺（じ）市（し）中（ちう）まつはだか騒（そう）動（どう）院（ゐん）大（たい）火（くわ）に\n　｜紛（まぎ）れ御座（こさ）なく候｜御（ご）發（はつ）動（どう）のゆり支（し）丹（たん）\n　｜宗（しう）にてハ無御座（こさなく）候｜若（もし）物（もの）音（おと）ぎしつきひあわい\n　より瓦（かわら）をふらし万（まん）一（いち）ゆり久し等（とう）致（いたし）候ハヾ我（われ）等（ら）早（さつ）速（そく）\n　ゆるぎ出（いで）御（こ）殿（てん）へ少（すこ）しも木（き）苦（く）労（らう）相（あい）かけ申｜間（ま）敷（じく）五（ご）七（しち）か【？】雨（あめ）ふつてふだんの如（ごと）し\n\n　　　　　　　　　　　　　　　　　　　　　｜繁（はん）昌（じやう）福（ふく）徳（とく）町（ちやう）出（で）職（しよく）屋（や）金（きん）蔵（ぞう）店（たな）\n　　｜天（てん）災（さい）ざん年｜鹿（か）島（しま）の神無月（かんなづき）二日　　　　請負人　　　　　　｜土（ど）方（かた）屋（や）　ねり兵衛\n　　　　　　　　　　　　　　　　　　　｜張（はり）の下（した）谷（や）もがき町（まち）家（いへ）なしの九（く）郎（らう）店 　\n　　　　　　　　　　　　　　　　　　　　　ひど主　　　　　　よわりや　ひよろ助\n　かんじん町｜要（かなめ）新（しん）道（ミち）\n　　つゝかい屋｜丸（まる）太郎殿",
+            "text": "　　　　　｜地（ぢ）震（しん）方（ほう）〻（〴〵）ゆり状（じやう）之事\n一｜此（この）ゆり苦（く）労（ろう）と申｜者（もの）生（しやう）得（とく）信濃（しなのゝ）国（くに）生（なま）須（ず）の荘（しやう）揺（ゆり）初（そめ）村（むら）出（しゆつ）生（しやう）にて\n　｜慥（たしか）なるぐら付（つき）者（もの）ニ付｜荒（あれ）魔（ま）共｜失（うせ）人（にん）に相（あい）立（たち）異（い）変（へん）方（かた）へ諸（しよ）方（ほう）〻（〴〵）に\n　ゆり出（いだ）し申候｜所（ところ）めつぼうなり出（しゆつ）火（くわ）の義（ぎ）ハ當（とう）夘十月二日｜夜（よ）ゟ翌（よく）\n　三日午の下（げ）刻（こく）迄と相（あい）定（さだ）め困（こん）窮（きう）人（にん）繁（はん）昌（じやう）の内（うち）崩（つぶ）れ家（や）御（おん）掘（ほり）かへし\n　として死（し）人（にん）三（さん）分（ぶ）慥（たしか）になげ込（こミ）申候御しきせの義（ぎ）ハ\n　なまづハひどい物（もの）不（ふ）意（い）ハ火（ひ）の子（こ）一めん\n　ふらされべく候事\n一｜土（ど）蔵（ざう）義（ぎ）様（さま）御（ご）發（はつ）動（どう）之儀（ぎ）ハもやすに\n　｜不及（およばず）お家（いへ）の不（ぶ）作（さ）法（ほう）相（あい）ゆるぎ申｜間（ま）敷（じく）候\n一｜若（もし）此（この）者（もの）地（ぢ）震（しん）の御｜目（め）をくらまし御（お）臺（だい）所（どこ）の\n　｜女（ぢよ）中（ちう）方（がた）の寐（ね）入（いり）を考（かんが）へかんじんあなめの所（ところ）を見（ミ）込（こミ）\n　｜火（ひ）の子（こ）をもやしかりばりの丸（まる）太（た）を突（つゝ）ぱり内（ない）證（しやう）の\n　｜地（ぢ）震（しん）を致（いた）し御（ご）大（たい）切（せつ）なる御（おん）入（いれ）物（もの）を損（そん）じ候而ゆりにげ\n　｜壁（かべ）落（おち）致（いたし）候ハヾ急（きつ）度（と）したる左（さ）官（くわん）を以（もつて）早（さつ）速（そく）ぬりあげ可申候事\n一｜身（ミ）内（うち）ハいたい〳〵一（いつ）向（かふ）夢（む）中（ちう）にて寺（てら）ハ夜（よ）中（なか）ゆり出（だ）坂（ざか）\n　｜道（どう）性（しやう）寺（じ）市（し）中（ちう）まつはだか騒（そう）動（どう）院（ゐん）大（たい）火（くわ）に\n　｜紛（まぎ）れ御座（こさ）なく候｜御（ご）發（はつ）動（どう）のゆり支（し）丹（たん）\n　｜宗（しう）にてハ無御座（こさなく）候｜若（もし）物（もの）音（おと）ぎしつきひあわい\n　より瓦（かわら）をふらし万（まん）一（いち）ゆり久し等（とう）致（いたし）候ハヾ我（われ）等（ら）早（さつ）速（そく）\n　ゆるぎ出（いで）御（こ）殿（てん）へ少（すこ）しも木（き）苦（く）労（らう）相（あい）かけ申｜間（ま）敷（じく）五（ご）七（しち）か【？】雨（あめ）ふつてふだんの如（ごと）し\n\n　　　　　　　　　　　　　　　　　　　　　｜繁（はん）昌（じやう）福（ふく）徳（とく）町（ちやう）出（で）職（しよく）屋（や）金（きん）蔵（ぞう）店（たな）\n　　｜天（てん）災（さい）ざん年｜鹿（か）島（しま）の神無月（かんなづき）二日　　　　請負人　　　　　　｜土（ど）方（かた）屋（や）　ねり兵衛\n　　　　　　　　　　　　　　　　　　　｜張（はり）の下（した）谷（や）もがき町（まち）家（いへ）なしの九（く）郎（らう）店 　\n　　　　　　　　　　　　　　　　　　　　　ひど主　　　　　　よわりや　ひよろ助\n　かんじん町｜要（かなめ）新（しん）道（ミち）\n　　つゝかい屋｜丸（まる）太郎殿",
+            "timestamp": {
+                "_nanoseconds": 213000000,
+                "_seconds": 1571661632
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7587e79f-9f2a-4e86-bea0-69ceacb25fcb/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "696D39A737055CE4E80FAB7204393F90",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "東京大学図書之印\n0011842176",
+            "text": "東京大学図書之印\n0011842176",
+            "timestamp": {
+                "_nanoseconds": 186000000,
+                "_seconds": 1571628624
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f6483dcab724697ce284626c6d73495b57dc0ba2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88660",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88660/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88660",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "C57A0C2EBA5023F5C65D883057404B95",
+    "label": "地しん心得草",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地しん心得草"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-026"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "休応斉老人"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×29"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "74cd45b6-cd66-498e-bc0c-a22721d00209"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0280"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f6483dcab724697ce284626c6d73495b57dc0ba2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74cd45b6-cd66-498e-bc0c-a22721d00209/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "C57A0C2EBA5023F5C65D883057404B95",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "地しん心得草　　休応斎老人著\n\n天に風雨の変地に震動の災ひあり是皆陰陽相戦ふの説なりといへども\n凡人の窺ふ所にあらず唯聖賢（たゞせいけん）のみ是を理解（りかい）す昔（むかし）豊臣殿下（とよとみでんか）の時（とき）\n 伏見（ふしみ）大地震天正十三年十一月夜俄に震動（しんどう）\nして家の崩るゝ事おびたゞし其時加藤清正公は\n小西石田が讒言にて御勘気を蒙り屋敷に\n引籠おり候時大地震して玄関をゆり崩しかば庭口へ\nのがれ出はだか馬に飛びのり捨鞭（すてむち）うちつゝ一 騎（き）にて\n伏見御城へ第一番に登城なし太閤殿下も\n大庭へ御立退有ば御座近くすゝみ大音上ケ\n加藤清正仕こうせりいづれも方しつまり給へ石御座（いしのみまし）\n〳〵〳〵ト三べん唱へ給へければ自然と地震しづまり\n秀吉公御かんなゝめならず虎か近う〳〵と仰て\n清正の御手を取 汝（なんじ）が誠忠（せいちう）今にはじめず\n猶此上は臣がそふ動をしづむへしト仰せければそれより\n清正自身に所々へ幕串（まくぐし）を打て女中小性をあつめ近臣を\nさとして泣さけぶ声をしづまさしむ此賞によりて御勘気御免\n御太刀并に鞍置馬を拝領す御そばさらずありけるが御尋に清正申上ルは地震は陰陽戦ふといへ共\n陽気さかんなる故也大雨ふり候へば地しんしぜんとうすらぐもの也大ゆれの跡小ゆすり日々有といへども\n家蔵をゆりたをすほどのこと決てなし其故をとき給ふと也今それを譬て申さば寛永四年\n関東大地震其後五十四年過て元禄十六年十二月廿二日大地しん又百五十三年過安政二卯年\n十月二日地震如此年間相立ざる内は大地震けつしてなし是陰陽和合せずして地中に滞（とゞこほ）\nるといへども十年や二十年には発する物にあらず是ゟ二百年も過ざればなし人々 迷（まよひ）をはらし玉へ\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "地しん心得草　　休応斎老人著\n\n天に風雨の変地に震動の災ひあり是皆陰陽相戦ふの説なりといへども\n凡人の窺ふ所にあらず唯聖賢（たゞせいけん）のみ是を理解（りかい）す昔（むかし）豊臣殿下（とよとみでんか）の時（とき）\n 伏見（ふしみ）大地震天正十三年十一月夜俄に震動（しんどう）\nして家の崩るゝ事おびたゞし其時加藤清正公は\n小西石田が讒言にて御勘気を蒙り屋敷に\n引籠おり候時大地震して玄関をゆり崩しかば庭口へ\nのがれ出はだか馬に飛びのり捨鞭（すてむち）うちつゝ一 騎（き）にて\n伏見御城へ第一番に登城なし太閤殿下も\n大庭へ御立退有ば御座近くすゝみ大音上ケ\n加藤清正仕こうせりいづれも方しつまり給へ石御座（いしのみまし）\n〳〵〳〵ト三べん唱へ給へければ自然と地震しづまり\n秀吉公御かんなゝめならず虎か近う〳〵と仰て\n清正の御手を取 汝（なんじ）が誠忠（せいちう）今にはじめず\n猶此上は臣がそふ動をしづむへしト仰せければそれより\n清正自身に所々へ幕串（まくぐし）を打て女中小性をあつめ近臣を\nさとして泣さけぶ声をしづまさしむ此賞によりて御勘気御免\n御太刀并に鞍置馬を拝領す御そばさらずありけるが御尋に清正申上ルは地震は陰陽戦ふといへ共\n陽気さかんなる故也大雨ふり候へば地しんしぜんとうすらぐもの也大ゆれの跡小ゆすり日々有といへども\n家蔵をゆりたをすほどのこと決てなし其故をとき給ふと也今それを譬て申さば寛永四年\n関東大地震其後五十四年過て元禄十六年十二月廿二日大地しん又百五十三年過安政二卯年\n十月二日地震如此年間相立ざる内は大地震けつしてなし是陰陽和合せずして地中に滞（とゞこほ）\nるといへども十年や二十年には発する物にあらず是ゟ二百年も過ざればなし人々 迷（まよひ）をはらし玉へ\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 318000000,
+                "_seconds": 1568458967
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

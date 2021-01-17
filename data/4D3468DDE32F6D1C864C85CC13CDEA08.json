@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0d11f6bd4fee496f1afc3dc74029e666d9df7c2c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88703",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88703/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88703",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "4D3468DDE32F6D1C864C85CC13CDEA08",
+    "label": "大地震大津浪場所書上之覚",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震大津浪場所書上之覚"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-068"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "浪花 本清版"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24.5×31.5"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "14910b0c-a05b-4880-92b7-06026c380a0d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0323"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0d11f6bd4fee496f1afc3dc74029e666d9df7c2c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/14910b0c-a05b-4880-92b7-06026c380a0d/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "4D3468DDE32F6D1C864C85CC13CDEA08",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "大地震大津浪場所書上之覚\n一大坂より四国路中国筋九州の辺は四日五日より八日迄五日の間日々しん\nどう相やみ不申候又尾州宮宿内大にそんじ浜手廿三軒つふれ\n御役所つぶれ亀崎半田大津浪つしま名古屋清須のへん\n少々のそんじは数しれず伊勢桑名御城御城下共大にそんじ\n長しま辺四ケ市つぶれ家四十三軒はま手は大津浪庄野石薬\n師へんは地われつぶれ家多し亀山御城そんじ町家大にくづ\nるゝ神戸白子へん少々津の御城町々共大にそんじ浜手大津\n浪山田の町は家蔵大にそんじ忝くも両御宮は御別条なし\n田丸御城下八鬼山越大にくづれ往来とまる紀州田辺御城\n下へん新宮御城下辺熊野へん惣名九十九浦黒江日方藤代\n大津浪にてゆかより三尺斗り汐上る同広浦七分とふり流失いたし候\n又河原箕しま由良の湊流失いたし大崎有田日野加太日高\nへん大にそんじ泉州岸和田大にそんじ堺の町は大坂同様に\n大そんじ摂州高つき御城下へん八幡山崎辺淀の御城下伏見町々\n京都洛中洛外山城大和河内少々のくづれは其数しれず\n一越前福井の御城下大にそんじ同つる賀辺丹波亀山同その部辺\n四国路一円阿州徳しま御城下大にそんじ其上出火五百羅かん辺大に\nそんじ土佐国大つなみ淡路しま大津浪丸亀御城下へん高松御\n城下大にそんじ豫州大地しん摂州三田御城下辺池田伊丹播州\n明石御城下大にそんじ姫ちへん赤穂へん備前田の口下村辺備中倉\n鋪玉しま備後尾の道鞆福山御城下へん三原御城下へん安芸\n広しま宮しま周防長門豊前小倉御城下へん靏ざきへんつぶれ\n家多し豊後国府内御城下四百軒程つぶれ同別府御代官所\n弐百三十四軒つぶれ同靏崎熊本御領分大地震大津浪日向\n灘汐のさし引不時にて大海大に荒れる肥前肥後長さきつぶれ家\n四百軒唐人屋敷おらんた屋敷大にそんず古今希なる事故こゝに記す\n　　　　　　　　　　　　　浪花本清板\n\n",
+            "text": "大地震大津浪場所書上之覚\n一大坂より四国路中国筋九州の辺は四日五日より八日迄五日の間日々しん\nどう相やみ不申候又尾州宮宿内大にそんじ浜手廿三軒つふれ\n御役所つぶれ亀崎半田大津浪つしま名古屋清須のへん\n少々のそんじは数しれず伊勢桑名御城御城下共大にそんじ\n長しま辺四ケ市つぶれ家四十三軒はま手は大津浪庄野石薬\n師へんは地われつぶれ家多し亀山御城そんじ町家大にくづ\nるゝ神戸白子へん少々津の御城町々共大にそんじ浜手大津\n浪山田の町は家蔵大にそんじ忝くも両御宮は御別条なし\n田丸御城下八鬼山越大にくづれ往来とまる紀州田辺御城\n下へん新宮御城下辺熊野へん惣名九十九浦黒江日方藤代\n大津浪にてゆかより三尺斗り汐上る同広浦七分とふり流失いたし候\n又河原箕しま由良の湊流失いたし大崎有田日野加太日高\nへん大にそんじ泉州岸和田大にそんじ堺の町は大坂同様に\n大そんじ摂州高つき御城下へん八幡山崎辺淀の御城下伏見町々\n京都洛中洛外山城大和河内少々のくづれは其数しれず\n一越前福井の御城下大にそんじ同つる賀辺丹波亀山同その部辺\n四国路一円阿州徳しま御城下大にそんじ其上出火五百羅かん辺大に\nそんじ土佐国大つなみ淡路しま大津浪丸亀御城下へん高松御\n城下大にそんじ豫州大地しん摂州三田御城下辺池田伊丹播州\n明石御城下大にそんじ姫ちへん赤穂へん備前田の口下村辺備中倉\n鋪玉しま備後尾の道鞆福山御城下へん三原御城下へん安芸\n広しま宮しま周防長門豊前小倉御城下へん靏ざきへんつぶれ\n家多し豊後国府内御城下四百軒程つぶれ同別府御代官所\n弐百三十四軒つぶれ同靏崎熊本御領分大地震大津浪日向\n灘汐のさし引不時にて大海大に荒れる肥前肥後長さきつぶれ家\n四百軒唐人屋敷おらんた屋敷大にそんず古今希なる事故こゝに記す\n　　　　　　　　　　　　　浪花本清板\n\n",
+            "timestamp": {
+                "_nanoseconds": 701000000,
+                "_seconds": 1568350073
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

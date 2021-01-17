@@ -1,0 +1,183 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/69f41f3c08b82bf33c9397e48eff8273d49fec93.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88564",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88564/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88564",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d13829a0b6e7d4fa93005ef3c074f0430ae72e87.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219859",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219859/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219859",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "49E6FEE2CEE518AD0A21FE44CB61A6C2",
+    "label": "明治丙申三陸大海嘯之実況",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "明治丙申三陸大海嘯之実況"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-005"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治29年6月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画：小国政／印刷発行：日本橋区長谷川町9　神田初次郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×24"
+        },
+        {
+            "label": "year",
+            "value": "1896"
+        },
+        {
+            "label": "identifier",
+            "value": "de4666e2-26d7-4162-bde1-39464a13a700"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0184"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/69f41f3c08b82bf33c9397e48eff8273d49fec93.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "49E6FEE2CEE518AD0A21FE44CB61A6C2",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "＜割書：明治｜丙申＞三陸大海嘯之實況　　　　　　　　　　　小國政 「梅堂」印\n\n時（とき）は惟（こ）れ明治二十\n九年六月十五日 岩手（いわて）\n宮城（みやぎ）青森（あをもり）の三 縣（けん）海邊（かいへん）に\n起（おこ）りし大海嘨（をほつなみ）は實（じつ）に猛烈（もうれつ）を極（きわ）め\nたり此日（このひ）は恰（あたか）も舊暦（きふれき）の端午（たんご）にて家族（かぞく）友（いう）\n人（じん）相會（あいくわい）し宴飲（ゑんゐん）歓（くわん）を盡（つく）しつゝありしが突（とつ）\n然（ぜん）沖合（をきあい）に當（あた）つて巨砲（きよはう）を發（はつ）したるが如（ごと）き響（ひゞき）\nあり人々 怪（あやし）み屋外（をくぐわい）に出（いで）んとする一 瞬間（しゆんかん）數（す）\n丈（じやう）の狂瀾（きやうらん）襲（おそ）ひ来（きた）り三万に近（ちか）き人命（じんめい）を\n家屋（かをく）と共（とも）に一 掃（そう）せり幸（さひはひ）に逃（のが）れしも\n或（あるひ）は為（ため）に不具者（かたわ）となり或（あるひ）は食（くら）\nふに粟（あは）なく其（その）惨憺（さんたん）凄愴（せいそう）た\nるの状（じやう）能（よ）く筆舌（ひつぜつ）の盡（つくす）\nす所（ところ）にあらず\n",
+            "text": "《割書：明治｜丙申》三陸大海嘯之實況　　　　　　　　　　　小國政 「梅堂」印\n\n時（とき）は惟（こ）れ明治二十\n九年六月十五日 岩手（いわて）\n宮城（みやぎ）青森（あをもり）の三 縣（けん）海邊（かいへん）に\n起（おこ）りし大海嘨（をほつなみ）は實（じつ）に猛烈（もうれつ）を極（きわ）め\nたり此日（このひ）は恰（あたか）も舊暦（きふれき）の端午（たんご）にて家族（かぞく）友（いう）\n人（じん）相會（あいくわい）し宴飲（ゑんゐん）歓（くわん）を盡（つく）しつゝありしが突（とつ）\n然（ぜん）沖合（をきあい）に當（あた）つて巨砲（きよはう）を發（はつ）したるが如（ごと）き響（ひゞき）\nあり人々 怪（あやし）み屋外（をくぐわい）に出（いで）んとする一 瞬間（しゆんかん）數（す）\n丈（じやう）の狂瀾（きやうらん）襲（おそ）ひ来（きた）り三万に近（ちか）き人命（じんめい）を\n家屋（かをく）と共（とも）に一 掃（そう）せり幸（さひはひ）に逃（のが）れしも\n或（あるひ）は為（ため）に不具者（かたわ）となり或（あるひ）は食（くら）\nふに粟（あは）なく其（その）惨憺（さんたん）凄愴（せいそう）た\nるの状（じやう）能（よ）く筆舌（ひつぜつ）の盡（つくす）\nす所（ところ）にあらず\n",
+            "timestamp": 1564125071855
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de4666e2-26d7-4162-bde1-39464a13a700/canvas/p2",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "49E6FEE2CEE518AD0A21FE44CB61A6C2",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "【弊】？堂（どう）今回（こんくわい）稀有（けう）の大海嘨（おほつなみ）\n【實】？（つ）況（きゃう）を出版（しゆつぱん）して博（ひろ）く天下（てんか）の\n【仁】？（ん）人（しん）に照會（せうくわい）し此（この）同胞（どうはう）目前（もくぜん）の\n【急】？（ふ）を救助（きふじよ）するの義務（ぎむ）を\n【盡】？（く）せられんことを\n【希】？（き）望（ばう）す\n\n明治廿九年七月一日印刷　日発行\n臨写印刷兼發行者\n日本橋区長谷川町十九バンチ\n福田初次郎\n\n",
+            "text": "【弊】？堂（どう）今回（こんくわい）稀有（けう）の大海嘨（おほつなみ）\n【實】？（つ）況（きゃう）を出版（しゆつぱん）して博（ひろ）く天下（てんか）の\n【仁】？（ん）人（しん）に照會（せうくわい）し此（この）同胞（どうはう）目前（もくぜん）の\n【急】？（ふ）を救助（きふじよ）するの義務（ぎむ）を\n【盡】？（く）せられんことを\n【希】？（き）望（ばう）す\n\n明治廿九年七月一日印刷　日発行\n臨写印刷兼發行者\n日本橋区長谷川町十九バンチ\n福田初次郎\n\n",
+            "timestamp": 1564138092076
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

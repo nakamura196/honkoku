@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/85d9f670225b5d95fc3c87c4aab0f34d26125e6e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88410",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88410/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88410",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "07AAAA1994AC7ED6F5321BA259F23368",
+    "label": "[弘化四年丁未三月二十四日松代御領犀川筋地震]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[弘化四年丁未三月二十四日松代御領犀川筋地震]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-030"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化4年3月24日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "59×64"
+        },
+        {
+            "label": "year",
+            "value": "1847"
+        },
+        {
+            "label": "identifier",
+            "value": "6829924b-15d0-4202-9b7c-01bbc312fa89"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0030"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/85d9f670225b5d95fc3c87c4aab0f34d26125e6e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6829924b-15d0-4202-9b7c-01bbc312fa89/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "07AAAA1994AC7ED6F5321BA259F23368",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【右端　中段】 \n松代御領潰家町在合五千\n七百余\n水留候節水ソン邑図ノコトシ\n水切候節四十ヶ村□\n外ニ水損邑多略之\n\n【右端　下段】\n弘化四丁未三月廿四日大\n地震ニテ水内山居サリ\nイタシ松代御領犀川\n筋村々水中ニナル其村\n々アラマシ爰ニ記\n\n【左端　中段】\n　　　　松寿庵\n　　　　　千代春\n犀川の\n　水呑死する\n　　　　諸人を\n　ひろきあみだに\n　　　　すくひ社【こそ】すれ\n\n【左端　下段】\n大地震即死\n町方二千八十人\n余旅人一千百余\n人其外調ユキ\nトヾカス\n",
+            "text": "【右端　中段】 \n松代御領潰家町在合五千\n七百余\n水留候節水ソン邑図ノコトシ\n水切候節四十ヶ村□\n外ニ水損邑多略之\n\n【右端　下段】\n弘化四丁未三月廿四日大\n地震ニテ水内山居サリ\nイタシ松代御領犀川\n筋村々水中ニナル其村\n々アラマシ爰ニ記\n\n【左端　中段】\n　　　　松寿庵\n　　　　　千代春\n犀川の\n　水呑死する\n　　　　諸人を\n　ひろきあみだに\n　　　　すくひ社【こそ】すれ\n\n【左端　下段】\n大地震即死\n町方二千八十人\n余旅人一千百余\n人其外調ユキ\nトヾカス\n",
+            "timestamp": {
+                "_nanoseconds": 314000000,
+                "_seconds": 1581499904
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

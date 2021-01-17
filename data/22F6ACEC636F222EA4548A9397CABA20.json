@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d6352d0dd05488af2760573b8816852a6ba9f8ca.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88644",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88644/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88644",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "22F6ACEC636F222EA4548A9397CABA20",
+    "label": "江戸大地震出火本しらべ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震出火本しらべ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月7日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×49"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "b6ef0fa2-9435-407c-be7c-3071983d4912"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0264"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d6352d0dd05488af2760573b8816852a6ba9f8ca.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b6ef0fa2-9435-407c-be7c-3071983d4912/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "22F6ACEC636F222EA4548A9397CABA20",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "安政二夘ノ十月七日\n江戸大地震出火　本しらべ\n\n当月二日亥の刻ゟ大地震にて天地くつがへる斗人家土蔵七歩通り崩れ其中より\n所々出火にて死人怪我人数しれず出火卅八ヶ所の火口と相成候趣追々申来り候左之通\n浅草御馬や川岸茅町瓦町材木丁御蔵前黒船丁諏訪町駒形丁並木丁\n花川戸山の宿猿若丁芝居三軒不残今戸辺ゟ三や吉原のこらず\n田町金杉辺下谷上の広小路御成海道外神田佐久間丁辺御\n丸の内にて四ケ所出火御大小名様方過半御類焼のよし\n虎の御門外京ばし前後芝増上寺神明大損ジ\n深川一円永代寺焼る本所辺回向院それより\n亀井戸天神柳島小梅辺五百らかん築地\n御門跡鉄砲洲細【佃】辺まて焼るあたご下二ケ\n所出火芝口高なわ泉岳寺東海寺\n三田白かね目黒辺大そんじ伝\n通院白山根津こま込追分辺\nいづれも大あれにて死人怪我人\nおびたゝしく右之外人家残りの\n分はあるひはゆがみ又は半くづれ\nなんどにて皆々野宿いたし候趣\n地震はいまだゆりやまず候へども\n出火は漸々四日巳之刻慎【鎮】り候由\n古今めづらしき大変の次第\n昨ばん四度目追状ニ而申来り候\n本しらべにいたし差出し申候余は尚\n委敷後篇に仕差出し可申候\n",
+            "text": "安政二夘ノ十月七日\n江戸大地震出火　本しらべ\n\n当月二日亥の刻ゟ大地震にて天地くつがへる斗人家土蔵七歩通り崩れ其中より\n所々出火にて死人怪我人数しれず出火卅八ヶ所の火口と相成候趣追々申来り候左之通\n浅草御馬や川岸茅町瓦町材木丁御蔵前黒船丁諏訪町駒形丁並木丁\n花川戸山の宿猿若丁芝居三軒不残今戸辺ゟ三や吉原のこらず\n田町金杉辺下谷上の広小路御成海道外神田佐久間丁辺御\n丸の内にて四ケ所出火御大小名様方過半御類焼のよし\n虎の御門外京ばし前後芝増上寺神明大損ジ\n深川一円永代寺焼る本所辺回向院それより\n亀井戸天神柳島小梅辺五百らかん築地\n御門跡鉄砲洲細【佃】辺まて焼るあたご下二ケ\n所出火芝口高なわ泉岳寺東海寺\n三田白かね目黒辺大そんじ伝\n通院白山根津こま込追分辺\nいづれも大あれにて死人怪我人\nおびたゝしく右之外人家残りの\n分はあるひはゆがみ又は半くづれ\nなんどにて皆々野宿いたし候趣\n地震はいまだゆりやまず候へども\n出火は漸々四日巳之刻慎【鎮】り候由\n古今めづらしき大変の次第\n昨ばん四度目追状ニ而申来り候\n本しらべにいたし差出し申候余は尚\n委敷後篇に仕差出し可申候\n",
+            "timestamp": {
+                "_nanoseconds": 200000000,
+                "_seconds": 1570759020
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

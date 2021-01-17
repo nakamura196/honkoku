@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4624,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/18c770ed72851107158b1c5b31edcbff042cf3a3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4624,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88781",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 2605
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88781/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88781",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 2605
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "16CC6C40F38660F418DD247C3D8211CF",
+    "label": "箱根七温泉図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "箱根七温泉図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "江戸時代発行のもの"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "88×42"
+        },
+        {
+            "label": "identifier",
+            "value": "74b14d07-0351-4cb4-a432-9fe52eb090b7"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0401"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/18c770ed72851107158b1c5b31edcbff042cf3a3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/74b14d07-0351-4cb4-a432-9fe52eb090b7/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "16CC6C40F38660F418DD247C3D8211CF",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【図題】\n箱根七温泉図\n【図内主要記述】\n　【右下】\n底倉\n宮下\n堂ケ嶋\n是より\n所々\nみちのり\n一小田原へ　　三里半\n一長奥山へ　　弐里半\n一湯本へ　　　弐リ\n一塔の沢へ　　一リ半\n一芦の湯へ　　一リ半\n一木賀へ　　　二十丁\n　　宮城野\n　　こちこく　同\n　　姥子へ　　四リ\n　　箱根へ　　二リ八丁\n　　豆州熱海より　十里\n　　但し飛加年越【日金】　六リ\n　【右下四角枠内】\n七温泉の\n湯場の何も\n上々米味噌\n酒せうゆ\n其外物品ニ\nかきらす随分\n念入仕込置\n御用相弁シ\n申候\n",
+            "text": "【図題】\n箱根七温泉図\n【図内主要記述】\n　【右下】\n底倉\n宮下\n堂ケ嶋\n是より\n所々\nみちのり\n一小田原へ　　三里半\n一長奥山へ　　弐里半\n一湯本へ　　　弐リ\n一塔の沢へ　　一リ半\n一芦の湯へ　　一リ半\n一木賀へ　　　二十丁\n　　宮城野\n　　こちこく　同\n　　姥子へ　　四リ\n　　箱根へ　　二リ八丁\n　　豆州熱海より　十里\n　　但し飛加年越【日金】　六リ\n　【右下四角枠内】\n七温泉の\n湯場の何も\n上々米味噌\n酒せうゆ\n其外物品ニ\nかきらす随分\n念入仕込置\n御用相弁シ\n申候\n",
+            "timestamp": {
+                "_nanoseconds": 687000000,
+                "_seconds": 1574948734
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,184 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9419,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/735343c0aa701622705aa49cda9b64136bfcac70.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9419,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56248",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7077
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56248/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56248",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7077
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9419,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f6854f331015464cf9c14f752a73611c6bf53343.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9419,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56249",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7077
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56249/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56249",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7077
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "83248D9D0233BD5C8852A948FC29D7A7",
+    "label": "伊豆下田小田原箱根大地震之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "伊豆下田小田原箱根大地震之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-025"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-01-046"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "de178c2c-3d77-4db1-9475-cc354f52d949"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1061"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/735343c0aa701622705aa49cda9b64136bfcac70.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "83248D9D0233BD5C8852A948FC29D7A7",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "tempText": "【枠内タイトル】\n＜割書：伊豆下田｜小田原 箱根＞大地震之図（■ほぢしんのづ）\n\n【文左へ】\n夫天地不時の震動は陰陽混じて雷雨となる地にいるときは\n地しんをなす□神きのおうごにもこれをおさむる事かたし頃は嘉永\n嘉永七年十一月四日四つ時よりよる九つ時すぎ迄相州豆州駿州\n甲斐の国大ぢしんべつして相州小田はら大久保加ゞの守様御城下\n万丁本丁板ばしれうし丁通り青もの丁すどを丁はら丁\n御城かどやぐら町家ともおほくそんず東は田むら川\nへんはぎの山中御ぢん屋大久保ながとの守様\n御れうぶん陶綾郡神戸井と大いそ宿そが野\n中むらへん金子すゝ川みのけかすやいせ原子やす\n大山へん大住郡どうりうごんげん様このきんへん\n十五ケ村は百間または百五十けん二百けん\n村〳〵にわづか家二けんほど残りせき本は\n五百けんほど村にて二百けんほどこのきん\nへん□□□上むら谷むら早川いしばし山\nふたご山はこねごんげんさま御社内同所\n湖水あふれ出さいのかはら大いにくづす\nならびに同所ゆもと七ケ所こと〴〵く\nわうらい三日とまるはこね山中人馬\nともにうつまり三日ほどほりいださんと\nせしがいでず此へんにて人馬のそんし\nおふくあり豆州三しまぬまづ水野\nではの守様御じやう下きんごうきんざい\n原よし原いはぶちかん原ゆ井おきつ\n江じり府中のまち〳〵在々ともに\n人家のそんじかず知れずふじ野\nすそ通りたけ下三くりや御てんば\nこれより甲州ぐんない上の原さるはし\n西ごほり市川かぢ川沢身のぶ山御山この辺\n山々大にくづれ北は愛甲ごほり三ます川\n村そんずつく井ごほり青のはらとうし川\n□□ねづみ坂はし本へんよし野小はら\n　　　　　　せき野へん又豆州ねぶ川\n　　　　　　　　石きれ老若男女そく死\n\n【右中】\n小田原御城櫓損じ\n箱根山大いに\nそんじる\n\n【右下枠内】\n頃は十一月四日五つ半時より伊豆下田\n大地しん大津なみにて大ひにそんじ\n宮寺ゆりたをし大つなみ\nにてながされふないおゝいに\nあれるせんすうあまたなん\nせんとうせんなんせんいたし\nあまた人おほくそんじ誠に\nせんたいみもんなきしだいなり\nくわしくゑづめんにしるしひら\nがなにてかきしるす\n\n",
+            "text": "【枠内タイトル】\n《割書：伊豆下田｜小田原 箱根》大地震之図（■ほぢしんのづ）\n\n【文左へ】\n夫天地不時の震動は陰陽混じて雷雨となる地にいるときは\n地しんをなす□神きのおうごにもこれをおさむる事かたし頃は嘉永\n嘉永七年十一月四日四つ時よりよる九つ時すぎ迄相州豆州駿州\n甲斐の国大ぢしんべつして相州小田はら大久保加ゞの守様御城下\n万丁本丁板ばしれうし丁通り青もの丁すどを丁はら丁\n御城かどやぐら町家ともおほくそんず東は田むら川\nへんはぎの山中御ぢん屋大久保ながとの守様\n御れうぶん陶綾郡神戸井と大いそ宿そが野\n中むらへん金子すゝ川みのけかすやいせ原子やす\n大山へん大住郡どうりうごんげん様このきんへん\n十五ケ村は百間または百五十けん二百けん\n村〳〵にわづか家二けんほど残りせき本は\n五百けんほど村にて二百けんほどこのきん\nへん□□□上むら谷むら早川いしばし山\nふたご山はこねごんげんさま御社内同所\n湖水あふれ出さいのかはら大いにくづす\nならびに同所ゆもと七ケ所こと〴〵く\nわうらい三日とまるはこね山中人馬\nともにうつまり三日ほどほりいださんと\nせしがいでず此へんにて人馬のそんし\nおふくあり豆州三しまぬまづ水野\nではの守様御じやう下きんごうきんざい\n原よし原いはぶちかん原ゆ井おきつ\n江じり府中のまち〳〵在々ともに\n人家のそんじかず知れずふじ野\nすそ通りたけ下三くりや御てんば\nこれより甲州ぐんない上の原さるはし\n西ごほり市川かぢ川沢身のぶ山御山この辺\n山々大にくづれ北は愛甲ごほり三ます川\n村そんずつく井ごほり青のはらとうし川\n□□ねづみ坂はし本へんよし野小はら\n　　　　　　せき野へん又豆州ねぶ川\n　　　　　　　　石きれ老若男女そく死\n\n【右中】\n小田原御城櫓損じ\n箱根山大いに\nそんじる\n\n【右下枠内】\n頃は十一月四日五つ半時より伊豆下田\n大地しん大津なみにて大ひにそんじ\n宮寺ゆりたをし大つなみ\nにてながされふないおゝいに\nあれるせんすうあまたなん\nせんとうせんなんせんいたし\nあまた人おほくそんじ誠に\nせんたいみもんなきしだいなり\nくわしくゑづめんにしるしひら\nがなにてかきしるす\n\n",
+            "timestamp": {
+                "_nanoseconds": 562000000,
+                "_seconds": 1567407012
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/de178c2c-3d77-4db1-9475-cc354f52d949/canvas/p2",
+            "editedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "entryId": "83248D9D0233BD5C8852A948FC29D7A7",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "tempText": "【左上資料番号】\n0011842150\n\n【東京大学図書館之印】】",
+            "text": "【左上資料番号】\n0011842150\n\n【東京大学図書館之印】】",
+            "timestamp": {
+                "_nanoseconds": 32000000,
+                "_seconds": 1566699939
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

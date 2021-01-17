@@ -1,0 +1,187 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/95843ebe1836fbec8c517db297ac715e01f2aa1c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88751",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88751/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88751",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/dec855bc9fc5aa940651f5de7578d8c139f8be4b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219887",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219887/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219887",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "E3721B0F8D2C49D90411D889BF782939",
+    "label": "上野国伊香保温泉浴客病痾全快祝宴",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上野国伊香保温泉浴客病痾全快祝宴"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-004"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治14年5月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "楊洲周延筆／彫工：銀次郎／画工： 湯島北神田3丁目11橋本直義／出版人：浅草芳野町15 山本金三郎／伊香保温泉名所図会証書 篠田仙果／湯元：木暮武太夫"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1881"
+        },
+        {
+            "label": "identifier",
+            "value": "6e29a3a1-d1af-471a-9106-ba1d49a7581d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0371"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/95843ebe1836fbec8c517db297ac715e01f2aa1c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "E3721B0F8D2C49D90411D889BF782939",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "【表題】\n＜割書：上　野　国（かうつけのくに）｜伊香保（いかほ）鉱泉（をんせん）＞浴客（よくかく）病痾（やまひ）全快（ぜんくわひの）祝宴（いはひ）\n\n【表題下】\n明治十四年五月　御届\n　　　　　　　浅草芳野□□十五番地\n　　　　　　　出板人　　山村金三郎\n　　　　　　　湯島□神田三丁目十一番地\n　　　　　　　画工　　　橋本直義\n　　　楊洲周延筆\n\n【本文】\n東京大｜学（がく）｜医学部（ゐがくぶ）の教受（けうじゆ）\n獨逸（ドイツ）国（コク）のドクトル別爾（ベル）\n列（ツ）｜先生（せんせい）の著（あらは）されし日本\n鉱泉（くわうせん）｜論（ろん）にも日本｜全国中（せんこくちう）\n恐（をそ）らくハ此地と気候（きかう）清勝（せいしよう）\nを競（きそ）ふの地なかるべきを信（しん）\nずト記（しる）され温泉（をんせん）の質（しつ）に\n硫黄（いわう）の気（き）更（さら）に無（な）く最良（さいれう）\nの鉱気（てつき）を十分にふくみた\nれバ左（さ）の病（やま）ひにハ殊（こと）に功験（しるし）\n神速（すみやか）なり\n◯｜胃（い）の弱（よは）き◯｜白帯（しろこし）下（け）\n◯｜脚気（かつけ）◯｜血（ち）の貧（すくな）き人\n◯うち身（ミ）｜打傷（うちきず）◯｜冷症（ひへしよう）\n◯｜年（とし）久（ひさ）しき関節（ふし〴〵）の痛（いたミ）\n◯｜神経（しんけい）病◯｜子宮（しきう）病\n◯｜疝気（せんき）◯｜癪（しやく）◯｜溜飲（りういん）\n◯｜喉（のど）のはれ痛（いた）み\n　伊香保名所図会記者\n\n　　　　篠田仙果誌\n　　伊香保湯元\n　　　　　木暮武太夫\n",
+            "text": "【表題】\n《割書：上　野　国（かうつけのくに）｜伊香保（いかほ）鉱泉（をんせん）》浴客（よくかく）病痾（やまひ）全快（ぜんくわひの）祝宴（いはひ）\n\n【表題下】\n明治十四年五月　御届\n　　　　　　　浅草芳野□□十五番地\n　　　　　　　出板人　　山村金三郎\n　　　　　　　湯島□神田三丁目十一番地\n　　　　　　　画工　　　橋本直義\n　　　楊洲周延筆\n\n【本文】\n東京大｜学（がく）｜医学部（ゐがくぶ）の教受（けうじゆ）\n獨逸（ドイツ）国（コク）のドクトル別爾（ベル）\n列（ツ）｜先生（せんせい）の著（あらは）されし日本\n鉱泉（くわうせん）｜論（ろん）にも日本｜全国中（せんこくちう）\n恐（をそ）らくハ此地と気候（きかう）清勝（せいしよう）\nを競（きそ）ふの地なかるべきを信（しん）\nずト記（しる）され温泉（をんせん）の質（しつ）に\n硫黄（いわう）の気（き）更（さら）に無（な）く最良（さいれう）\nの鉱気（てつき）を十分にふくみた\nれバ左（さ）の病（やま）ひにハ殊（こと）に功験（しるし）\n神速（すみやか）なり\n◯｜胃（い）の弱（よは）き◯｜白帯（しろこし）下（け）\n◯｜脚気（かつけ）◯｜血（ち）の貧（すくな）き人\n◯うち身（ミ）｜打傷（うちきず）◯｜冷症（ひへしよう）\n◯｜年（とし）久（ひさ）しき関節（ふし〴〵）の痛（いたミ）\n◯｜神経（しんけい）病◯｜子宮（しきう）病\n◯｜疝気（せんき）◯｜癪（しやく）◯｜溜飲（りういん）\n◯｜喉（のど）のはれ痛（いた）み\n　伊香保名所図会記者\n\n　　　　篠田仙果誌\n　　伊香保湯元\n　　　　　木暮武太夫\n",
+            "timestamp": {
+                "_nanoseconds": 698000000,
+                "_seconds": 1569817189
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6e29a3a1-d1af-471a-9106-ba1d49a7581d/canvas/p2",
+            "editedBy": null,
+            "entryId": "E3721B0F8D2C49D90411D889BF782939",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030552766
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

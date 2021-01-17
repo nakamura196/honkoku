@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0b17f5ef4c5096a22024374f8594a08a156330d7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88467",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 2108
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88467/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88467",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 2108
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "9DB6E2A692FED3B00428B925C94AE2BE",
+    "label": "じしん百万遍",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "じしん百万遍"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-040"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25"
+        },
+        {
+            "label": "別タイトル",
+            "value": "[地震百万遍]"
+        },
+        {
+            "label": "備考",
+            "value": "I-02-108,II-01-022と同一版"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "4f5be6e4-23d7-4836-a235-52ab31e54287"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0087"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0b17f5ef4c5096a22024374f8594a08a156330d7.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f5be6e4-23d7-4836-a235-52ab31e54287/canvas/p1",
+            "editedBy": "ps8CtM49dYND2KOiGp0yiyLe9gy1",
+            "entryId": "9DB6E2A692FED3B00428B925C94AE2BE",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "（瓢箪）\nじしん百万遍\n一　此たびわたくしは千年からくに〴〵を\nなやめ鹿島様へたび〳〵わび入\nこんど又大江戸をらんぼふに\nいすぶり家蔵をたほし人をおふく\nつぶしもふこんどは申わけなく\n出家いたし諸国かい国に出る\nところいまた此せつ金もふけの\n人がけさ衣をもつて一どふの\nたのみにはなにもをどげの\nためだから百万べんを蔵\nしてくだされとゆふか\nらいたします\n南無阿弥陀仏\n　　　　　〳〵\n　　なますた\n　　　　〳〵〳〵\n　　　　　〳〵",
+            "text": "（瓢箪）\nじしん百万遍\n一　此たびわたくしは千年からくに〴〵を\nなやめ鹿島様へたび〳〵わび入\nこんど又大江戸をらんぼふに\nいすぶり家蔵をたほし人をおふく\nつぶしもふこんどは申わけなく\n出家いたし諸国かい国に出る\nところいまた此せつ金もふけの\n人がけさ衣をもつて一どふの\nたのみにはなにもをどげの\nためだから百万べんを蔵\nしてくだされとゆふか\nらいたします\n南無阿弥陀仏\n　　　　　〳〵\n　　なますた\n　　　　〳〵〳〵\n　　　　　〳〵",
+            "timestamp": {
+                "_nanoseconds": 5000000,
+                "_seconds": 1593137410
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

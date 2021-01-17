@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/1ee5361e65bbedf2b6d52e1a660b09527c66b1b8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88641",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88641/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88641",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "448D1D5B08CA8F2F0C57328B0EA51C29",
+    "label": "山城勢州大和三河江州越前聞書大地震并ニ出火の次第",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "山城勢州大和三河江州越前聞書大地震并ニ出火の次第"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-007"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永6年6月14日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "33×45"
+        },
+        {
+            "label": "year",
+            "value": "1853"
+        },
+        {
+            "label": "identifier",
+            "value": "6f89bcdd-4bad-414d-b22c-5f6094117c56"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0261"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1ee5361e65bbedf2b6d52e1a660b09527c66b1b8.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6f89bcdd-4bad-414d-b22c-5f6094117c56/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "448D1D5B08CA8F2F0C57328B0EA51C29",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【黒枠タイトル】\n山城大和江州　勢州三河越前　聞書　大 地震（じしん）并に出火の次第\n\n【一段目左へ】\n南都　＜割書：廿三日迄に｜八十五度のゆり＞\n寅六月十四日夜八つ時よりゆり始め明六つ時迄少々\nふるひ十五日朝五つ時より大地震にて町家一軒も\n無事なるはなし家内に居る事ならず皆々\n野宿明地なとにて夜をあかし往来人一人も\nなく目もあてられぬ次第なり\n廿一日夜五つ時田村【？】油坂町西方寺本堂\nくだけ高畑神主【鳥畑以降、要検討】高へいのこらす其外家数【敷？】\nくすれたる家かすしれず死人少々有之\n　　死人三百五十人\n　　けか人横死其数をしらず\n\n伊賀上野\n同十四日夜七つ半時地震あれきつく御\n城大手御門大損じ町々在々家焼れ\n其外出火にて焼失嶋ケ原と申處五十丁\n四方螺のために泥海の如く相成人家損し\nたる数しれず中々あわれなる事目も\nあてられぬ次第也おそるべし〳〵\n\n江州石部\n同十四日同刻の地震ゆり出し\n所々人家いたみ少しつゝあれたる\n所あれども略〳〵\n\n水口土山庄の薬師\n同十四日同刻の地震大ゆりにては\n無之候へとも両宿すこし損し\nるゆゑ此処に書いだす\n\n亀山\n同日同刻のゆり出し西辺にて\n少し家などそんしかくべつ\nの大あれにては無之候\n\n三河岡崎\n同日同刻のゆりいだし有之\n東の辺にて少し人家いたみ\n度々ゆれども事かるし\n\n京大坂紀州丹波丹後\n尾州美濃木曽海道筋\n并に信州江戸無難に御座候\n右之国々京大坂同時同様の地震に\n廿三日すぐ【まで？】しらせの事\n\n【二段目】\n勢州四日市\n六月十四日夜四つ時ゆり始六つ時より大地震と成\n家数五百軒余崩れ昼五つ時より出火にて\n家数四百けん余焼失\n　　死人凡弐百四十五人\n　　しれざる人　五百五六十人\n\n和州古市\n同日同刻の大地震にて池われ人家\n多分くづれ死人六十七人けが人\n数しれずのこる家数三軒ばかりより\nこれなく義に御座候\n\n江州信楽\n六月十三日大雨雷鳴事きひしく翌\n十四日大地震にて町々あれ人家たをれ\n家数凡百卅軒斗土蔵たをれ十八九戸\nまへけが人即死かすしれず\n\nぜゝ御城下并に石場\n十四日同刻大地震にて御城下北大手出火にて\n御ぼたい所焼失いたし候事其余御構高へい\nこすいへをちこみ大へんの事也又石は舟のり\nば大石とうろうこすいへたをれ横死の人\nもあり余は右に准しはそん所多し\n\n和州郡山\n六月十四日夜九つ時早々ゆり始八つ時に大地震\n柳町壱丁目より同四丁目迄家数凡卅八軒くつれ\n同十八日廿一日六つ半又ゆりかへし八十五度のゆり\n市内凡三部通り家くづれ其外なら同やう也\n　　　死人凡百弐三十人ばかり\n\n越前福井\n六月十三日昼五つ時より出火にて城下不残焼失\n其朝大風にて九十九ばしと一百町斗り両本願寺\n寺院百ケ所に焼失近在凡十ケ所焼失\n夜四つ時にしづまり申候\n又十四日夜八つ時より大地しんにて田地など\nも泥海に成所々の家くづれ死人凡四五十人\n誠に〳〵其混乱筆につくしがたし十六日\nくれ方迄に大小六十七八度ゆる恐ろしきしだい\n\n【三段目】\n【絵図タイトル】\n勢州四日市\n\n【絵図タイトル】\n伊賀上野\n\n【文】\n南山城木津\n同十四日夜九つ半時より東西南北のあやち\nなく黒雲ふりくだり右ふり笠置山より大岩\n等吹いだし図のごとく近辺大水となり家\n十軒ばかりつゝくづれなから流れ命をしみとも\nにけゆく所これなく夜中の事なれは誠にあ\nわれなる次第なり死人いまだ数相わからず\n水十五日九つ時ころにさつぱり引なり\n\n【絵図タイトル】\n越前福井",
+            "text": "【黒枠タイトル】\n山城大和江州　勢州三河越前　聞書　大 地震（じしん）并に出火の次第\n\n【一段目左へ】\n南都　《割書：廿三日迄に｜八十五度のゆり》\n寅六月十四日夜八つ時よりゆり始め明六つ時迄少々\nふるひ十五日朝五つ時より大地震にて町家一軒も\n無事なるはなし家内に居る事ならず皆々\n野宿明地なとにて夜をあかし往来人一人も\nなく目もあてられぬ次第なり\n廿一日夜五つ時田村【？】油坂町西方寺本堂\nくだけ高畑神主【鳥畑以降、要検討】高へいのこらす其外家数【敷？】\nくすれたる家かすしれず死人少々有之\n　　死人三百五十人\n　　けか人横死其数をしらず\n\n伊賀上野\n同十四日夜七つ半時地震あれきつく御\n城大手御門大損じ町々在々家焼れ\n其外出火にて焼失嶋ケ原と申處五十丁\n四方螺のために泥海の如く相成人家損し\nたる数しれず中々あわれなる事目も\nあてられぬ次第也おそるべし〳〵\n\n江州石部\n同十四日同刻の地震ゆり出し\n所々人家いたみ少しつゝあれたる\n所あれども略〳〵\n\n水口土山庄の薬師\n同十四日同刻の地震大ゆりにては\n無之候へとも両宿すこし損し\nるゆゑ此処に書いだす\n\n亀山\n同日同刻のゆり出し西辺にて\n少し家などそんしかくべつ\nの大あれにては無之候\n\n三河岡崎\n同日同刻のゆりいだし有之\n東の辺にて少し人家いたみ\n度々ゆれども事かるし\n\n京大坂紀州丹波丹後\n尾州美濃木曽海道筋\n并に信州江戸無難に御座候\n右之国々京大坂同時同様の地震に\n廿三日すぐ【まで？】しらせの事\n\n【二段目】\n勢州四日市\n六月十四日夜四つ時ゆり始六つ時より大地震と成\n家数五百軒余崩れ昼五つ時より出火にて\n家数四百けん余焼失\n　　死人凡弐百四十五人\n　　しれざる人　五百五六十人\n\n和州古市\n同日同刻の大地震にて池われ人家\n多分くづれ死人六十七人けが人\n数しれずのこる家数三軒ばかりより\nこれなく義に御座候\n\n江州信楽\n六月十三日大雨雷鳴事きひしく翌\n十四日大地震にて町々あれ人家たをれ\n家数凡百卅軒斗土蔵たをれ十八九戸\nまへけが人即死かすしれず\n\nぜゝ御城下并に石場\n十四日同刻大地震にて御城下北大手出火にて\n御ぼたい所焼失いたし候事其余御構高へい\nこすいへをちこみ大へんの事也又石は舟のり\nば大石とうろうこすいへたをれ横死の人\nもあり余は右に准しはそん所多し\n\n和州郡山\n六月十四日夜九つ時早々ゆり始八つ時に大地震\n柳町壱丁目より同四丁目迄家数凡卅八軒くつれ\n同十八日廿一日六つ半又ゆりかへし八十五度のゆり\n市内凡三部通り家くづれ其外なら同やう也\n　　　死人凡百弐三十人ばかり\n\n越前福井\n六月十三日昼五つ時より出火にて城下不残焼失\n其朝大風にて九十九ばしと一百町斗り両本願寺\n寺院百ケ所に焼失近在凡十ケ所焼失\n夜四つ時にしづまり申候\n又十四日夜八つ時より大地しんにて田地など\nも泥海に成所々の家くづれ死人凡四五十人\n誠に〳〵其混乱筆につくしがたし十六日\nくれ方迄に大小六十七八度ゆる恐ろしきしだい\n\n【三段目】\n【絵図タイトル】\n勢州四日市\n\n【絵図タイトル】\n伊賀上野\n\n【文】\n南山城木津\n同十四日夜九つ半時より東西南北のあやち\nなく黒雲ふりくだり右ふり笠置山より大岩\n等吹いだし図のごとく近辺大水となり家\n十軒ばかりつゝくづれなから流れ命をしみとも\nにけゆく所これなく夜中の事なれは誠にあ\nわれなる次第なり死人いまだ数相わからず\n水十五日九つ時ころにさつぱり引なり\n\n【絵図タイトル】\n越前福井",
+            "timestamp": {
+                "_nanoseconds": 282000000,
+                "_seconds": 1570887603
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

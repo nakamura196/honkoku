@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9968,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/03c666c6dd1ca9ce53a6c5f9b2244d818bc5eeb5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9968,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56324",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9445
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56324/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56324",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9445
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7141,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/10474fd2d7b6694b835930b85efd39ec2ccc5be5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7141,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56325",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9505
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56325/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56325",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9505
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "224F225FCDB9975CF4279E552C3D81E3",
+    "label": "磐梯山噴火略図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "磐梯山噴火略図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "年月日",
+            "value": "明治21年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "二色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "明治21年7月26日印刷 同年7月28日出版 印刷著作兼発行者 下谷区元黒門町6番地 並川善六"
+        },
+        {
+            "label": "備考",
+            "value": "附：説明文"
+        },
+        {
+            "label": "year",
+            "value": "1888"
+        },
+        {
+            "label": "identifier",
+            "value": "2f07c181-6010-4f9f-b767-2b8f6c45703f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1088"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/03c666c6dd1ca9ce53a6c5f9b2244d818bc5eeb5.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "224F225FCDB9975CF4279E552C3D81E3",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【上の絵図資料】\n【タイトル】磐梯山噴火略図\n\nナカサ温泉にては産前産後の男女多く死にたるよし\nオシサワ村　アキ元村　細野村　檜原村　壺楊\n川上村　沼倉村　長坂村　温泉　ナガセ川　小松□\n清水村　シブヤ村　見祢村　岩せ村　八二ツ社　猪苗代　金田村\nハンタイ山　ハンタイノ温泉　白木城村　堀キリ村　若宮村\n猪苗代湖　コヒラカタ【小平潟】天神　長浜　翁沢　フドウ堰　十六橋　□口堰　水門番方\n波止　□□船場　中浜船場　舟津船場　笹山船場　翁島　戸口船場\n\n【欄外】\n明治廿一年七月廿六日印刷　　印刷著作　下谷区元黒門町六番地\n同　　年　七月廿八日出版　　兼発行者　　　　　　　並川善六\n\n\n\n【下に貼り付けてある資料】\n頃（ころ）は明治（めいじ）廿一年七月十五日 午前（ごぜん）八 時頃（じごろ）福島県下（ふくしまけんか）\n岩代国耶麻郡（いはしろのくにやまこうり）磐梯山（ばんだいさん）(世俗会津不二) 突然噴火（とつぜんふんくわ）し\n崩壊（はうくわひ）の面積（めんせき）凡（およそ）二 里（り）四 方（ほう）にて其災害（そのさいがい）に罹（かか）る場所（ばしよ）は\n凡（およ）そ六 里（り）四 方（ほう）に及（およ）び埋没（まいほつ）せし人員（じんいん）は凡（およそ）四百人\n負傷者（ふせうしや）凡（およ）そ九百 余名（よめい）岩瀬村（いはせむら）の内（うち）人家（じんか）三十六戸\n潰家（つぶれや）五十六 戸（こ）又 其（その）噴出（ふんしゆつ）せし土砂（どしや）の為（ため）に檜原（ひのきばら）\n大川の水道（すいどう）を塞（ふさ）ぎしかば檜原村（ひのきはらむら）は殆（ほとん）ど池沼（いけぬま）と\nなるべしと雄子沢（おしさわ）秋元（あきもと）細野（ほその）の三ケ 村（そん）は一 面（めん）に\n山（やま）となりたる由（よし）此外（このほか）見禰渋谷清水長坂\n沼倉川上養蚕三郷若宮堀切白木城\n名家 等（とう）の村々（むら〳〵）も人馬（にんば）共（とも）に死傷（しせう）数（かず）を知（し）らず\n是（こ）れ実（じつ）に近来（きんらい）未曾有（みぞうう）の一 大地変（だいちへん）にして\n其惨状（そのざんぜう）推測（すいそく）の及（およ）ばざる所（ところ）なるべし委（くわ）しくは\n諸新聞紙上（しよしんぶんしぜう）に譲（ゆづ）りて茲（こゝ）に大略（たいりやく）を記（しる）しぬ\n\n",
+            "text": "【上の絵図資料】\n【タイトル】磐梯山噴火略図\n\nナカサ温泉にては産前産後の男女多く死にたるよし\nオシサワ村　アキ元村　細野村　檜原村　壺楊\n川上村　沼倉村　長坂村　温泉　ナガセ川　小松□\n清水村　シブヤ村　見祢村　岩せ村　八二ツ社　猪苗代　金田村\nハンタイ山　ハンタイノ温泉　白木城村　堀キリ村　若宮村\n猪苗代湖　コヒラカタ【小平潟】天神　長浜　翁沢　フドウ堰　十六橋　□口堰　水門番方\n波止　□□船場　中浜船場　舟津船場　笹山船場　翁島　戸口船場\n\n【欄外】\n明治廿一年七月廿六日印刷　　印刷著作　下谷区元黒門町六番地\n同　　年　七月廿八日出版　　兼発行者　　　　　　　並川善六\n\n\n\n【下に貼り付けてある資料】\n頃（ころ）は明治（めいじ）廿一年七月十五日 午前（ごぜん）八 時頃（じごろ）福島県下（ふくしまけんか）\n岩代国耶麻郡（いはしろのくにやまこうり）磐梯山（ばんだいさん）(世俗会津不二) 突然噴火（とつぜんふんくわ）し\n崩壊（はうくわひ）の面積（めんせき）凡（およそ）二 里（り）四 方（ほう）にて其災害（そのさいがい）に罹（かか）る場所（ばしよ）は\n凡（およ）そ六 里（り）四 方（ほう）に及（およ）び埋没（まいほつ）せし人員（じんいん）は凡（およそ）四百人\n負傷者（ふせうしや）凡（およ）そ九百 余名（よめい）岩瀬村（いはせむら）の内（うち）人家（じんか）三十六戸\n潰家（つぶれや）五十六 戸（こ）又 其（その）噴出（ふんしゆつ）せし土砂（どしや）の為（ため）に檜原（ひのきばら）\n大川の水道（すいどう）を塞（ふさ）ぎしかば檜原村（ひのきはらむら）は殆（ほとん）ど池沼（いけぬま）と\nなるべしと雄子沢（おしさわ）秋元（あきもと）細野（ほその）の三ケ 村（そん）は一 面（めん）に\n山（やま）となりたる由（よし）此外（このほか）見禰渋谷清水長坂\n沼倉川上養蚕三郷若宮堀切白木城\n名家 等（とう）の村々（むら〳〵）も人馬（にんば）共（とも）に死傷（しせう）数（かず）を知（し）らず\n是（こ）れ実（じつ）に近来（きんらい）未曾有（みぞうう）の一 大地変（だいちへん）にして\n其惨状（そのざんぜう）推測（すいそく）の及（およ）ばざる所（ところ）なるべし委（くわ）しくは\n諸新聞紙上（しよしんぶんしぜう）に譲（ゆづ）りて茲（こゝ）に大略（たいりやく）を記（しる）しぬ\n\n",
+            "timestamp": {
+                "_nanoseconds": 951000000,
+                "_seconds": 1598080394
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2f07c181-6010-4f9f-b767-2b8f6c45703f/canvas/p2",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "224F225FCDB9975CF4279E552C3D81E3",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【資料裏面・白紙】\n\n",
+            "text": "【資料裏面・白紙】\n\n",
+            "timestamp": {
+                "_nanoseconds": 421000000,
+                "_seconds": 1598080490
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

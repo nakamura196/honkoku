@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7020,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/44c24f17b1b414512f920dc343532870c3b9cea0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7020,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56177",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9343
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56177/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56177",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9343
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7020,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c11b11a1e7fe4636634fea14ae1c6ce822176092.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7020,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56178",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9343
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56178/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56178",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9343
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "64644F8415B49636C19B2EDF3AF66731",
+    "label": "大地震退治ノ図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震退治ノ図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-029"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年6月14日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "da9e9542-ea98-4a28-989b-03cd932eee97"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1029"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/44c24f17b1b414512f920dc343532870c3b9cea0.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "64644F8415B49636C19B2EDF3AF66731",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題】\n嘉永七寅　　　　　　　　　　　　奈良\n六月十四日　　大｜地震（ぢしん）｜退治（たいぢ）ノ図　　　　御固\n夜八ツ時ゟ　　　　　　　　　　　郡山\n\n【本文】\n此度世をくつがへさんとはかる\nぎやくぞくぢしん直ニあらわれ\nいで和州にはたヲ上る昔廿五年\nいぜん京都ニおこり近年ニハ\n信州善光寺ニて\nはびこり大きニ勇ヲ\nふるふ諸人おそれを\nなす古今（ここん）がう\nてきすでニ\n今奈良\n郡山伊賀\n江州\n数百人ヲ打取\n手｜負（おい）かずしれず\n其外諸〳〵ニ出ばり\nして人をそんずる\n事おびたゞし\n山城木津を水ぜめニして\nふく井四日市をやきうち\nにして猶八方ニ手\nくわりしてあれまわる\nところ勇士の\nめい〳〵これヲ\nほろぼす\n\n【上段の武将名、右から左へ】\n地｜鳴（なり）五郎音高\n家蔵｜倒（たお）四郎一｜烈（れつ）\n＜割書：四日｜市＞命（いのち）尾張守｜牮（うし）落（おち）\n四｜方（ほう）真（まつ）九郎｜鳴（なる）成（なり）\n＜割書：奈｜良＞｜咥（け）ケ（が）尾（を）駿河守｜倒照（こけてる）\n＜割書：フク｜井＞｜当分（とうぶん）壱岐守｜親（しん）類\n破損（はそん）津九郎\n大｜道（どう）｜割（われ）太\n難（なん）義｜至（しご）九郎\n腰抜（こしぬけ）仁次郎\n\n【下段の武将名、右から左へ】\n＜割書：江｜州＞怕（びく）り隠岐守｜粟光（あわてる）\n玉｜良（ら）仙蔵\n則死（そくし）｜大炊（おい）之介\n子供｜阿（あ）ぶ内\n哀（あハれ）｜難（なん）十郎\n＜割書：上｜の＞融（ゆう）月長門守｜渋永（しつこい）\n地震（ぢしん）由（ゆ）三郎\n病気（ひやうき）出太蔵青成\n加｜戸（ど）出｜寝（ね）太郎\n＜割書：木｜づ＞水賀出羽守｜狼狽（うろたへ）\nなん藤正造｜当惑（とうわく）\n志方（しかた）内膳（ないぜん）\n比（ひ）引左衛門｜大恐（おそろし）",
+            "text": "【表題】\n嘉永七寅　　　　　　　　　　　　奈良\n六月十四日　　大｜地震（ぢしん）｜退治（たいぢ）ノ図　　　　御固\n夜八ツ時ゟ　　　　　　　　　　　郡山\n\n【本文】\n此度世をくつがへさんとはかる\nぎやくぞくぢしん直ニあらわれ\nいで和州にはたヲ上る昔廿五年\nいぜん京都ニおこり近年ニハ\n信州善光寺ニて\nはびこり大きニ勇ヲ\nふるふ諸人おそれを\nなす古今（ここん）がう\nてきすでニ\n今奈良\n郡山伊賀\n江州\n数百人ヲ打取\n手｜負（おい）かずしれず\n其外諸〳〵ニ出ばり\nして人をそんずる\n事おびたゞし\n山城木津を水ぜめニして\nふく井四日市をやきうち\nにして猶八方ニ手\nくわりしてあれまわる\nところ勇士の\nめい〳〵これヲ\nほろぼす\n\n【上段の武将名、右から左へ】\n地｜鳴（なり）五郎音高\n家蔵｜倒（たお）四郎一｜烈（れつ）\n《割書：四日｜市》命（いのち）尾張守｜牮（うし）落（おち）\n四｜方（ほう）真（まつ）九郎｜鳴（なる）成（なり）\n《割書：奈｜良》｜咥（け）ケ（が）尾（を）駿河守｜倒照（こけてる）\n《割書：フク｜井》｜当分（とうぶん）壱岐守｜親（しん）類\n破損（はそん）津九郎\n大｜道（どう）｜割（われ）太\n難（なん）義｜至（しご）九郎\n腰抜（こしぬけ）仁次郎\n\n【下段の武将名、右から左へ】\n《割書：江｜州》怕（びく）り隠岐守｜粟光（あわてる）\n玉｜良（ら）仙蔵\n則死（そくし）｜大炊（おい）之介\n子供｜阿（あ）ぶ内\n哀（あハれ）｜難（なん）十郎\n《割書：上｜の》融（ゆう）月長門守｜渋永（しつこい）\n地震（ぢしん）由（ゆ）三郎\n病気（ひやうき）出太蔵青成\n加｜戸（ど）出｜寝（ね）太郎\n《割書：木｜づ》水賀出羽守｜狼狽（うろたへ）\nなん藤正造｜当惑（とうわく）\n志方（しかた）内膳（ないぜん）\n比（ひ）引左衛門｜大恐（おそろし）",
+            "timestamp": {
+                "_nanoseconds": 97000000,
+                "_seconds": 1569747229
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/da9e9542-ea98-4a28-989b-03cd932eee97/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "64644F8415B49636C19B2EDF3AF66731",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "東京大学図書之印\n0011841830",
+            "text": "東京大学図書之印\n0011841830",
+            "timestamp": {
+                "_nanoseconds": 174000000,
+                "_seconds": 1572763669
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

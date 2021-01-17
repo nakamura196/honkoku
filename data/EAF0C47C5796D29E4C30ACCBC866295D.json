@@ -1,0 +1,132 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0380cd6d61f99e80b7e1e26e788d1ae8b8bb16d1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88741",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88741/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88741",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "hidden": true,
+    "id": "EAF0C47C5796D29E4C30ACCBC866295D",
+    "label": "磐梯山噴火実況之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "磐梯山噴火実況之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-08-006"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治21年7月24日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "版元：岡田松之助"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×51.5"
+        },
+        {
+            "label": "year",
+            "value": "1888"
+        },
+        {
+            "label": "identifier",
+            "value": "f29937b6-bcf9-43c8-abfa-c9c55eac26d6"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0361"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/0380cd6d61f99e80b7e1e26e788d1ae8b8bb16d1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f29937b6-bcf9-43c8-abfa-c9c55eac26d6/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "EAF0C47C5796D29E4C30ACCBC866295D",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "磐梯山噴火實況之圖\n\n同山噴火は明治廿一年七月十五日午前八時十分頃突然崩壊しは\n？【蒸】気の發揚其實況は上の湯即ち小磐？【梯】山上にありて山の北面\nより破裂なす容易ならさる事件なり此山噴破の為めに山\nの形を失ふに至る圡石四方に飛散して麓崩壊し其様\n目の當られぬ模様其際人々出よと逃げ叫ぶ折しも劇しき\n其物音して数百年成長せし松の如きも？【拔】けて空中に飛び其\n根の跡より烟を吹出し黒烟天に漲（みなぎ）り最も甚しきは十時\n頃にて追々静まり午後四時頃に至りて止むいと甚しき音\nを発したるは前後二度なりしといふ翌十六日午後四時に至りて\n噴烟全く止む是が為め該山の東方三四里余を距てし向な\nる吾妻山岳□の西面まで一面に灰を被ぶり磐梯山の東面は\n悉皆焼石灰のみ青木草木は稀に残りて木は葉なく\n枝なく幹のみ其外潰家埋家親子兄弟或は埋められ或は\n破かれ手足体ともに所を異にし馬は七八十頭死亡せり就中秋\n山村は一ヶ村残らず埋まり一人も助かりし者なく其他森林は壓\nし到れ実に被害甚しく見弥村は為に焼失し其近傍は\n一円石と灰を隆らし五寸より一尺 嵩（かさ）も積れり大小の河\n流は源を塞ぎ通ぜす為めに満水の所もあり其飛散せし\n石塊は皆泥の如きにて硫黄の気山の麓数里の間大木巨石\nを押出し烟々数ヶ所より発し悪息気鼻を突き河西\n河東と称する数ヶ村恰かも灰世界の形ちを現出せりといふ\n其災害のあらましを爰に記す\n　右死亡負傷人員凢左如し\n　　総計七百四十六人余\n　　　内死亡　＜割書：男　四百五人余｜女　二百九十七人余＞\n　　　内浴客五百十八人\n　　　内死亡　＜割書：男二百八十二人｜女百九十二人＞　負傷　＜割書：男三十四人｜女十人＞\n\n【被害地地図】\n被害地 秋山村 小磐梯山 温泉 大磐梯山 被害地 檜原 大塩 □倉【熊倉か】 塩川\n猪苗代湖 浅香 関□ 花城 赤井 戸ノ口 □川 若松\n梅堂国政写\n\n明治廿一年七月廿二日印刷同年同月廿四日出版\n著作印刷兼発行者\n神田区橋本町一丁目九番地\n岡田松之助",
+            "text": "磐梯山噴火實況之圖\n\n同山噴火は明治廿一年七月十五日午前八時十分頃突然崩壊しは\n？【蒸】気の發揚其實況は上の湯即ち小磐？【梯】山上にありて山の北面\nより破裂なす容易ならさる事件なり此山噴破の為めに山\nの形を失ふに至る圡石四方に飛散して麓崩壊し其様\n目の當られぬ模様其際人々出よと逃げ叫ぶ折しも劇しき\n其物音して数百年成長せし松の如きも？【拔】けて空中に飛び其\n根の跡より烟を吹出し黒烟天に漲（みなぎ）り最も甚しきは十時\n頃にて追々静まり午後四時頃に至りて止むいと甚しき音\nを発したるは前後二度なりしといふ翌十六日午後四時に至りて\n噴烟全く止む是が為め該山の東方三四里余を距てし向な\nる吾妻山岳□の西面まで一面に灰を被ぶり磐梯山の東面は\n悉皆焼石灰のみ青木草木は稀に残りて木は葉なく\n枝なく幹のみ其外潰家埋家親子兄弟或は埋められ或は\n破かれ手足体ともに所を異にし馬は七八十頭死亡せり就中秋\n山村は一ヶ村残らず埋まり一人も助かりし者なく其他森林は壓\nし到れ実に被害甚しく見弥村は為に焼失し其近傍は\n一円石と灰を隆らし五寸より一尺 嵩（かさ）も積れり大小の河\n流は源を塞ぎ通ぜす為めに満水の所もあり其飛散せし\n石塊は皆泥の如きにて硫黄の気山の麓数里の間大木巨石\nを押出し烟々数ヶ所より発し悪息気鼻を突き河西\n河東と称する数ヶ村恰かも灰世界の形ちを現出せりといふ\n其災害のあらましを爰に記す\n　右死亡負傷人員凢左如し\n　　総計七百四十六人余\n　　　内死亡　《割書：男　四百五人余｜女　二百九十七人余》\n　　　内浴客五百十八人\n　　　内死亡　《割書：男二百八十二人｜女百九十二人》　負傷　《割書：男三十四人｜女十人》\n\n【被害地地図】\n被害地 秋山村 小磐梯山 温泉 大磐梯山 被害地 檜原 大塩 □倉【熊倉か】 塩川\n猪苗代湖 浅香 関□ 花城 赤井 戸ノ口 □川 若松\n梅堂国政写\n\n明治廿一年七月廿二日印刷同年同月廿四日出版\n著作印刷兼発行者\n神田区橋本町一丁目九番地\n岡田松之助",
+            "timestamp": 1563980742356
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

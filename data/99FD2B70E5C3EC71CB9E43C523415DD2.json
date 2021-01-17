@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4992,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ea451293c49c3d3f4cbd35b25935e2fa7aaf9f64.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4992,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88744",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88744/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88744",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "99FD2B70E5C3EC71CB9E43C523415DD2",
+    "label": "[男体山・女体山・知足院図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[男体山・女体山・知足院図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-08-009"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "63×46.5"
+        },
+        {
+            "label": "identifier",
+            "value": "94670b6e-9fb8-46e1-9ecd-9bef56d24942"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0364"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ea451293c49c3d3f4cbd35b25935e2fa7aaf9f64.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/94670b6e-9fb8-46e1-9ecd-9bef56d24942/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "99FD2B70E5C3EC71CB9E43C523415DD2",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【上側右端の和歌】\nあしほ山\n　やます心は\n　　つくはねの\nそかひに\n　　たにも\n　みよく\n　　なき哉\n\n【中程右端】\n筑はねの\n　　白雲かゝる\n　　　　松山の\n　ちとせの\n　　　かけの\n　　さも\n　　　しるき\n　　　　　哉\n\n【男体山と女体山の下側、右から左へ】\nつく\nはね\n　の\nみね\nより\n落る\nみなの\n　　川\n\nつく\nはね\n　の\n峰の\nさくらや\nみなの\n　　川\nなかれ\n　　て\n　淵と\nちり\n　つもる\n　　　らん\n\nみなの川\n　峰\n　　より\n　　　落る\n　もみちはも\nつもりて\n　　なみを\n　またや\n　　染らん\n\n【下側中央】\nつく\n　はね\n　　　の\nすそわの\n　　田井の\n　しつの\n　　　庵\nこのも\n　かのもに\nけふり\n　たつ\n　　なり\n\n【下側左端】\nつねよりも\n　はるへに\n　　　なれは\n　　さくら川\n　波の花こそ\n　　まなくよるらん",
+            "text": "【上側右端の和歌】\nあしほ山\n　やます心は\n　　つくはねの\nそかひに\n　　たにも\n　みよく\n　　なき哉\n\n【中程右端】\n筑はねの\n　　白雲かゝる\n　　　　松山の\n　ちとせの\n　　　かけの\n　　さも\n　　　しるき\n　　　　　哉\n\n【男体山と女体山の下側、右から左へ】\nつく\nはね\n　の\nみね\nより\n落る\nみなの\n　　川\n\nつく\nはね\n　の\n峰の\nさくらや\nみなの\n　　川\nなかれ\n　　て\n　淵と\nちり\n　つもる\n　　　らん\n\nみなの川\n　峰\n　　より\n　　　落る\n　もみちはも\nつもりて\n　　なみを\n　またや\n　　染らん\n\n【下側中央】\nつく\n　はね\n　　　の\nすそわの\n　　田井の\n　しつの\n　　　庵\nこのも\n　かのもに\nけふり\n　たつ\n　　なり\n\n【下側左端】\nつねよりも\n　はるへに\n　　　なれは\n　　さくら川\n　波の花こそ\n　　まなくよるらん",
+            "timestamp": {
+                "_nanoseconds": 771000000,
+                "_seconds": 1570197686
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,127 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2083,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/89491bf263a1c3b5927e36813841ebf12233c3b7.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2083,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88451",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88451/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88451",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "5249E6F6CBF021318F229530D752A7BB",
+    "label": "二日はなし地震亭念魚町々庵炎上",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "二日はなし地震亭念魚町々庵炎上"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "25×37"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "86178888-6cf8-448a-bb02-8d837f22b749"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0071"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/89491bf263a1c3b5927e36813841ebf12233c3b7.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/86178888-6cf8-448a-bb02-8d837f22b749/canvas/p1",
+            "editedBy": "gvfq7iXWg3PclaqKJicWWJuOHpE2",
+            "entryId": "5249E6F6CBF021318F229530D752A7BB",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "gvfq7iXWg3PclaqKJicWWJuOHpE2",
+            "tempText": "二日はなし\n地震亭念魚\n町々庵炎上\n\n●将棋ずき\n●吉原やけ\n●太神宮神馬\n\n●此あいだのぢしんずきにしやうぎの\nすきな人がふとゆきあいまして\n「ときにかく兵へさんさてこの間は\nけしからぬ事でしかし御ぶぢて\nおめでとうござります\n「いやこれはばん吉さん御けがも\nなくてしかしかく飛車（ひしや）〳〵と\nしやうぎだをしはどうでごぜへ升\n「これは〳〵此そうどうの中で\nすきな道（みち）とてしやうぎでしやれ事とは\nありがてへもしこれじやぁ会所（くわいしよ）も\n出あいたゝねま事に王将（わうしやう）でごぜへ升\n「なるほど往生（わうじやう）のしやれかへおもしれへ\nそれはそふとこのあいださる\nものしりにきゝましたが\nこのくらいなさわぎは\n桂馬木車（けいきやう）いらいないと\nゆうことでござり升\n「いやそのかはりによのなかゞ\nゆりなほつて金銀（きんぎん）のゆう\nづうがよくなります\nときに妙（めう）ななりでどこへいきなさる\n「なにささるおやしきへ歩（ぶ）に\nやとわれてまいり升\n「それじやぁ金（きん）に\nなり升ふ\n●ときによしはらの\n五丁町は大へんなさわぎだね\n「さようさあすこはつぶれた上に\nやけだからいくぶんはねへ\n「わしはこのばん五十けんにあすんで\nいやしたがおそろしいしんどうさ\n「もしよしはらがしんどうなら\nむかふのくらのふるつた\nくらいはありやあかむろて\nごぜへやせう\n●ときにこんど\nいせの太神宮（だいじんぐう）様の\nしん馬（め）の毛（け）がのこら\nずなくなつたそふだが\n此あいだゑどのぢしんに\n太神宮（だいじんぐう）様がその馬（うま）に\nのつてきてたいそふ\n人をたすけた\nそふだが\nたすかつたものは\n袂（たもと）にその神馬（じんめ）の毛（け）が\n一本づゝあつたそふだ\n「おや〳〵そふかへわたしのおとつさんは\nこのぢかのぢしんでつぶされて\nしんでおてらへほふむつて\nしまつたがもしやそのとき\nきていたきものゝたもとに\n神馬（じんめ）の毛（け）かありやあ\nしないかときものゝ袂（たもと）を\nたづねてみておや〳〵\nあらそわれないものだ\n毛（け）があつたよ\n「どれみせなこりやあ\n神馬（じんめ）の毛（け）じやぁねへ\n「それじやぁなんだへ\n「これかこりやぁ鯰（なまづ）のひげだ",
+            "text": "二日はなし\n地震亭念魚\n町々庵炎上\n\n●将棋ずき\n●吉原やけ\n●太神宮神馬\n\n●此あいだのぢしんずきにしやうぎの\nすきな人がふとゆきあいまして\n「ときにかく兵へさんさてこの間は\nけしからぬ事でしかし御ぶぢて\nおめでとうござります\n「いやこれはばん吉さん御けがも\nなくてしかしかく飛車（ひしや）〳〵と\nしやうぎだをしはどうでごぜへ升\n「これは〳〵此そうどうの中で\nすきな道（みち）とてしやうぎでしやれ事とは\nありがてへもしこれじやぁ会所（くわいしよ）も\n出あいたゝねま事に王将（わうしやう）でごぜへ升\n「なるほど往生（わうじやう）のしやれかへおもしれへ\nそれはそふとこのあいださる\nものしりにきゝましたが\nこのくらいなさわぎは\n桂馬木車（けいきやう）いらいないと\nゆうことでござり升\n「いやそのかはりによのなかゞ\nゆりなほつて金銀（きんぎん）のゆう\nづうがよくなります\nときに妙（めう）ななりでどこへいきなさる\n「なにささるおやしきへ歩（ぶ）に\nやとわれてまいり升\n「それじやぁ金（きん）に\nなり升ふ\n●ときによしはらの\n五丁町は大へんなさわぎだね\n「さようさあすこはつぶれた上に\nやけだからいくぶんはねへ\n「わしはこのばん五十けんにあすんで\nいやしたがおそろしいしんどうさ\n「もしよしはらがしんどうなら\nむかふのくらのふるつた\nくらいはありやあかむろて\nごぜへやせう\n●ときにこんど\nいせの太神宮（だいじんぐう）様の\nしん馬（め）の毛（け）がのこら\nずなくなつたそふだが\n此あいだゑどのぢしんに\n太神宮（だいじんぐう）様がその馬（うま）に\nのつてきてたいそふ\n人をたすけた\nそふだが\nたすかつたものは\n袂（たもと）にその神馬（じんめ）の毛（け）が\n一本づゝあつたそふだ\n「おや〳〵そふかへわたしのおとつさんは\nこのぢかのぢしんでつぶされて\nしんでおてらへほふむつて\nしまつたがもしやそのとき\nきていたきものゝたもとに\n神馬（じんめ）の毛（け）かありやあ\nしないかときものゝ袂（たもと）を\nたづねてみておや〳〵\nあらそわれないものだ\n毛（け）があつたよ\n「どれみせなこりやあ\n神馬（じんめ）の毛（け）じやぁねへ\n「それじやぁなんだへ\n「これかこりやぁ鯰（なまづ）のひげだ",
+            "timestamp": 1565251578914
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

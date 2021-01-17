@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f730f8a520770a4ed285417e9b7d434002e7c507.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88520",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88520/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88520",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "A429D3EDAC75CB0DFEEA9E1376ED86E9",
+    "label": "名石千歳刎 男之助せりふ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "名石千歳刎 男之助せりふ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-093"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×25"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "64c0e868-83cc-4d1b-81c0-4140d20359a4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0140"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f730f8a520770a4ed285417e9b7d434002e7c507.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/64c0e868-83cc-4d1b-81c0-4140d20359a4/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "A429D3EDAC75CB0DFEEA9E1376ED86E9",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "名石千歳刎（めいせきせんざいはね）＜割書：男之助｜せりふ＞\n\nあゝらあやしやな今（いま）荒石要之助照火出（あらいしかなめのすけてるひで）高天（たかま）が\n原（はら）の集会（しうくわい）によつて出雲（いづも）の社（やしろ）へ旅立（たびだち）の\n留主（るす）にゆるんだ大石（たいせき）の常陸（ひたち）をぬけて\n大江戸（おほゑど）の家（いへ）蔵（くら）震（ふる）とはいさしらず\n噂（うはさ）を聞（きく）と途中（とちう）から取（とつ）てかへして\n丁度（てうど）能（よく）どふしたひやう\nりの兵丹（ひやうたん）めうぬも\n只（ただ）の瓢（ひさご）ぢやあ\nあるめへ此後（このご）に地（ぢ）\n震（しん）もあらがねの土（つち）に\n根生（ねをひ）の要石（かなめいし）動かぬ\n御代（みよ）の万歳楽（まんざいらく）此（この）銕槌（てつつい）を\n喰（くら）はぬ内（うち）きり〳〵神国（このち）を立去（たちさ）れえ",
+            "text": "名石千歳刎（めいせきせんざいはね）《割書：男之助｜せりふ》\n\nあゝらあやしやな今（いま）荒石要之助照火出（あらいしかなめのすけてるひで）高天（たかま）が\n原（はら）の集会（しうくわい）によつて出雲（いづも）の社（やしろ）へ旅立（たびだち）の\n留主（るす）にゆるんだ大石（たいせき）の常陸（ひたち）をぬけて\n大江戸（おほゑど）の家（いへ）蔵（くら）震（ふる）とはいさしらず\n噂（うはさ）を聞（きく）と途中（とちう）から取（とつ）てかへして\n丁度（てうど）能（よく）どふしたひやう\nりの兵丹（ひやうたん）めうぬも\n只（ただ）の瓢（ひさご）ぢやあ\nあるめへ此後（このご）に地（ぢ）\n震（しん）もあらがねの土（つち）に\n根生（ねをひ）の要石（かなめいし）動かぬ\n御代（みよ）の万歳楽（まんざいらく）此（この）銕槌（てつつい）を\n喰（くら）はぬ内（うち）きり〳〵神国（このち）を立去（たちさ）れえ",
+            "timestamp": {
+                "_nanoseconds": 941000000,
+                "_seconds": 1570432784
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

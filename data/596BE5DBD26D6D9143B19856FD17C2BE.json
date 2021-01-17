@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d4ed102cb546bc26d30ab0bd02eb764c1b13d24c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88554",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88554/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88554",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "596BE5DBD26D6D9143B19856FD17C2BE",
+    "label": "ほね抜どぞう なまづおなんぎ大家破焼",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ほね抜どぞう なまづおなんぎ大家破焼"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-127"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×48.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0174"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/d4ed102cb546bc26d30ab0bd02eb764c1b13d24c.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0c3cb45a-0c0c-4c70-84d0-41378c6fe2f3/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "596BE5DBD26D6D9143B19856FD17C2BE",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "[表題]\nほね抜\nどぞう\n＜割書：なまづ｜おなんぎ＞大家場焼\n\n\n【本文　上右から】\n□【か？】しま【鯰をさばく姿と台詞から「鹿島」神と推測】\n「　それあちら\nでもはやくと\nおつしやるぞなに\nをうろ〳〵して\nいるのだはやく\nしないかいま\nせいだして\nしよくにん\nしうのくい\nものにして\nやりやれさ\n\n女郎\n「　アノいまあげへすよ\nじれつたいそんなに\nせかずとすこしまち\nなましいまにうちが\nきまるとゆつくりして\nあげへすからさはい\nおちようかしのおかわり\nこれで三つめだよ\nじれつてへ\n\nせとり\n「　いやもこんどのぢしんは\nたいへんだからおめへ\nたちはさぞこまるだ\nろうのふしかしおれ\nたちもあのときには\nどうしようと\nおもつたが\nこの\nあん\nばい\nでは\nすこ\nしは\nおち\nついた\nようだが\nしかし\nまだ〳〵\nわからねへ\n\n藝人\n「　いやおまへさん\nがたはこのたい\nへんでもそう\nたいそうにを\nしよつてあるき\nなさつてもづん〳〵\nうれるからあんしん\nだかわたしらなぞの\nみぶんではこれからは\nまことにこまりきります\nしかしもうそろ〳〵とほう〴〵【となり〴〵？】が\nおだやかになつてきたかららい\nはるはよなをしでござりましやう\n\n人足\n「　アヽうめへさけだしてこのほしなまづの\nかばやきはまたかくべつにうめへわへこのあら\n□【を？】しつてハこてへられねへしかしこんな\n［　　］たび〳〵はねへとかし□【ま？】の□□ぶん\n［　　］のうち［　　］\n\n【本文　中・下右から】\n\nやねや\n「　これはきみやう大あたり〳〵\nこのこと〳〵これにかぎります\nどれおれもはいつていつはい\nやらかそうこれをみては\nたまらなくなつてきた\n\nゑし\n「　へヽヽヽありがとうござり\nますなにぶんおねがい\n申ますなんでも\nかくことがすく\nなくつては\nいけません\n\n地主\n「　ヘイ〳〵いま\nじきにやけます\nなんでもはや□【く？】こんな\nことはやめてもらいたいまこと\nにしつけないからこしがいたく\nなつてきた\n\n板元\n「　どうだきさまたちも［　］\nどのいつけんですこし［　］\nかくこともあ□うこれ［　］\nあまりながく\nつゞいてはあとが\nわりいからは\nやくよなを\nし\n〳〵\n\nくら持\n「　ヘイおまへさんかね\nおあつらへができました\nいやもこんどのぢしん\nにはおゝきなめに\nあいましたはやく\nおあがりなさり\nまし\n\nしやかん\n「　いやあこれは\nありがてへ\nこのこと〳〵\nどれ\nはやく\nして\nやりてへ\nすぐには\nわりを\nたの□【み？】\n升\n\n大工\n「　ヲイ〳〵おねさん\nもうひとさら\nはやくやいてくんな\nこのあ□をしぬ【め？】\nては□□□られねへ\nそし□□けもよ\n□やく□□□□な\n",
+            "text": "[表題]\nほね抜\nどぞう\n《割書：なまづ｜おなんぎ》大家場焼\n\n\n【本文　上右から】\n□【か？】しま【鯰をさばく姿と台詞から「鹿島」神と推測】\n「　それあちら\nでもはやくと\nおつしやるぞなに\nをうろ〳〵して\nいるのだはやく\nしないかいま\nせいだして\nしよくにん\nしうのくい\nものにして\nやりやれさ\n\n女郎\n「　アノいまあげへすよ\nじれつたいそんなに\nせかずとすこしまち\nなましいまにうちが\nきまるとゆつくりして\nあげへすからさはい\nおちようかしのおかわり\nこれで三つめだよ\nじれつてへ\n\nせとり\n「　いやもこんどのぢしんは\nたいへんだからおめへ\nたちはさぞこまるだ\nろうのふしかしおれ\nたちもあのときには\nどうしようと\nおもつたが\nこの\nあん\nばい\nでは\nすこ\nしは\nおち\nついた\nようだが\nしかし\nまだ〳〵\nわからねへ\n\n藝人\n「　いやおまへさん\nがたはこのたい\nへんでもそう\nたいそうにを\nしよつてあるき\nなさつてもづん〳〵\nうれるからあんしん\nだかわたしらなぞの\nみぶんではこれからは\nまことにこまりきります\nしかしもうそろ〳〵とほう〴〵【となり〴〵？】が\nおだやかになつてきたかららい\nはるはよなをしでござりましやう\n\n人足\n「　アヽうめへさけだしてこのほしなまづの\nかばやきはまたかくべつにうめへわへこのあら\n□【を？】しつてハこてへられねへしかしこんな\n［　　］たび〳〵はねへとかし□【ま？】の□□ぶん\n［　　］のうち［　　］\n\n【本文　中・下右から】\n\nやねや\n「　これはきみやう大あたり〳〵\nこのこと〳〵これにかぎります\nどれおれもはいつていつはい\nやらかそうこれをみては\nたまらなくなつてきた\n\nゑし\n「　へヽヽヽありがとうござり\nますなにぶんおねがい\n申ますなんでも\nかくことがすく\nなくつては\nいけません\n\n地主\n「　ヘイ〳〵いま\nじきにやけます\nなんでもはや□【く？】こんな\nことはやめてもらいたいまこと\nにしつけないからこしがいたく\nなつてきた\n\n板元\n「　どうだきさまたちも［　］\nどのいつけんですこし［　］\nかくこともあ□うこれ［　］\nあまりながく\nつゞいてはあとが\nわりいからは\nやくよなを\nし\n〳〵\n\nくら持\n「　ヘイおまへさんかね\nおあつらへができました\nいやもこんどのぢしん\nにはおゝきなめに\nあいましたはやく\nおあがりなさり\nまし\n\nしやかん\n「　いやあこれは\nありがてへ\nこのこと〳〵\nどれ\nはやく\nして\nやりてへ\nすぐには\nわりを\nたの□【み？】\n升\n\n大工\n「　ヲイ〳〵おねさん\nもうひとさら\nはやくやいてくんな\nこのあ□をしぬ【め？】\nては□□□られねへ\nそし□□けもよ\n□やく□□□□な\n",
+            "timestamp": {
+                "_nanoseconds": 221000000,
+                "_seconds": 1575210126
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

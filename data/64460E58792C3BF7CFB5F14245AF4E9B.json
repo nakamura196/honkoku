@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a915ffc092bff839d4bfaff42b62a8efa16bd632.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88485",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88485/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88485",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "64460E58792C3BF7CFB5F14245AF4E9B",
+    "label": "難義鳥",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "難義鳥"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-058"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×26"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f56f1bac-d20d-416a-abea-89b05fbd338c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0105"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a915ffc092bff839d4bfaff42b62a8efa16bd632.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f56f1bac-d20d-416a-abea-89b05fbd338c/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "64460E58792C3BF7CFB5F14245AF4E9B",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【絵の説明】\n難義鳥（なんぎてう）\n\n　　大地震の翌晩\n四つ時より郭中の真うへ\n并に芝居町のほとりへかけて\nあやしき鳥あらはれその鳴くこへ\n甚た哀なり或時諸職の\nものども嘉肴をとゝのへ\n酒もりしける坐中より\n大鯰の肴をさらひとり虚空\nはるかに舞登りけり\nまことにふしぎの事共なり\nこれ定て深き意味ある事\nなるへけれともその次第をしれる\nもの更になけれは人〳〵\n深くあや\nしみ\nけりとそ\nのちかならす\nおもひあたる\n事あるへし\nと尓いふ",
+            "text": "【絵の説明】\n難義鳥（なんぎてう）\n\n　　大地震の翌晩\n四つ時より郭中の真うへ\n并に芝居町のほとりへかけて\nあやしき鳥あらはれその鳴くこへ\n甚た哀なり或時諸職の\nものども嘉肴をとゝのへ\n酒もりしける坐中より\n大鯰の肴をさらひとり虚空\nはるかに舞登りけり\nまことにふしぎの事共なり\nこれ定て深き意味ある事\nなるへけれともその次第をしれる\nもの更になけれは人〳〵\n深くあや\nしみ\nけりとそ\nのちかならす\nおもひあたる\n事あるへし\nと尓いふ",
+            "timestamp": {
+                "_nanoseconds": 151000000,
+                "_seconds": 1570106391
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/fe0d53b67ea8825b9d8fa5e4610d74af81a33e69.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88477",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88477/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88477",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "D3EED475A79F6D7EA3472381DA716681",
+    "label": "ちょぼくれちょんがれ",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "ちょぼくれちょんがれ"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-050"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×25"
+        },
+        {
+            "label": "別タイトル",
+            "value": "ちよぼくれちよんがれ"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-02-105, II-01-020"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "34925cc6-afb9-4f8b-84cf-ef6e91db91a1"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0097"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/fe0d53b67ea8825b9d8fa5e4610d74af81a33e69.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/34925cc6-afb9-4f8b-84cf-ef6e91db91a1/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "D3EED475A79F6D7EA3472381DA716681",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "　ちょぼくれちょんがれ\n〽きめうとうらいからだ大事（だいじ）くらがもろい□ヤレ〳〵〳〵〳〵\nおもてへにげだせ〽どうしたさわぎだたすけてくんねへ\n二日の四（よ）ッ時（どき）俄（にはか）のことでな天地（てんち）しんどうかゝァとふたりの地（ぢ）しんのむつごと\nなまづにけされてふんどしひとつでからだもせがれも\nちゞみあがつてねんぶつだいもく一どにとなへて\nおもてへころ〳〵戸板（といた）一枚（いちまい）生死（しやうし）のさかいだ\nこういふうちにもよくづらかわいておやぢのゆづりの\n大（たい）きんづゝみを落（おと）しはせぬかとさぐつて見（み）たれば\nサテ〳〵大へんいつのまにやらどこへかおとしてどうした\nものだとよく〳〵さぐればあんまりこはさにつるしあがつて\nでべそのきはになかくれてけつかるこれですこしはあんしんかなめの\n鹿島（かしま）さんでもおやどにござらばこうしてくらうは\nきなうもあるめへよがなよつぴてうろ〳〵まご〳〵あつちの\nすみではまんざいらく〳〵のじゆくのあげくはてぶりのあみがさ\nすだちのまんまでねござも持（もた）ずにお小屋（こや）をねがつて元（もと）のわが身（み）に\nやう〳〵かへつた神（かみ）のいとくやおかみのおめぐみ◎\n\n　　　◎豊年（ほうねん）万作（まんさく）\n　　　　 五（ご）こく成就（じやうじゆ）\n  　　　　さりとは〳〵\n　　　　めでたい\n　　　　こんだに\n　　　　ホウヲイ\n\nゆるがぬ願立",
+            "text": "　ちょぼくれちょんがれ\n〽きめうとうらいからだ大事（だいじ）くらがもろい□ヤレ〳〵〳〵〳〵\nおもてへにげだせ〽どうしたさわぎだたすけてくんねへ\n二日の四（よ）ッ時（どき）俄（にはか）のことでな天地（てんち）しんどうかゝァとふたりの地（ぢ）しんのむつごと\nなまづにけされてふんどしひとつでからだもせがれも\nちゞみあがつてねんぶつだいもく一どにとなへて\nおもてへころ〳〵戸板（といた）一枚（いちまい）生死（しやうし）のさかいだ\nこういふうちにもよくづらかわいておやぢのゆづりの\n大（たい）きんづゝみを落（おと）しはせぬかとさぐつて見（み）たれば\nサテ〳〵大へんいつのまにやらどこへかおとしてどうした\nものだとよく〳〵さぐればあんまりこはさにつるしあがつて\nでべそのきはになかくれてけつかるこれですこしはあんしんかなめの\n鹿島（かしま）さんでもおやどにござらばこうしてくらうは\nきなうもあるめへよがなよつぴてうろ〳〵まご〳〵あつちの\nすみではまんざいらく〳〵のじゆくのあげくはてぶりのあみがさ\nすだちのまんまでねござも持（もた）ずにお小屋（こや）をねがつて元（もと）のわが身（み）に\nやう〳〵かへつた神（かみ）のいとくやおかみのおめぐみ◎\n\n　　　◎豊年（ほうねん）万作（まんさく）\n　　　　 五（ご）こく成就（じやうじゆ）\n  　　　　さりとは〳〵\n　　　　めでたい\n　　　　こんだに\n　　　　ホウヲイ\n\nゆるがぬ願立",
+            "timestamp": {
+                "_nanoseconds": 574000000,
+                "_seconds": 1598086111
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

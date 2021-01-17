@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e48797ea51cb3ff0ceb95ac08dd3db1c4e67334f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88648",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88648/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88648",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "153825050D2F8B2B623006209047B182",
+    "label": "江戸大地震出火之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震出火之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-014"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×49"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "4f404571-07db-42a6-85ba-d163085dbd3d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0268"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e48797ea51cb3ff0ceb95ac08dd3db1c4e67334f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4f404571-07db-42a6-85ba-d163085dbd3d/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "153825050D2F8B2B623006209047B182",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "嘉永七甲寅十一月四日五日\n江戸大地震出火の図　本しらべ二仕候\n東海道筋\n大津　無事\n草津　　同断\n石部　　〃\n水口　　〃\n土山　　〃\n坂下　　〃\n関　　　〃\n亀山　　〃\n庄の　　大あれ\n石薬師　同断\n四日市　＜割書：大地しん｜大地われ＞\n桑名　　＜割書：大つなミ｜じしん＞\n宮　　　＜割書：大地震｜八部【「分」】くづれ＞\n鳴海　　七部くづれ　\n池鯉鮒　＜割書：大じしん｜大つなミ＞\n岡崎　　不残くづれ\n藤川　　＜割書：大ぢしん｜七部くづれ＞\n赤坂　　不残くづれ　\n御油　　大あれ\n吉田　　＜割書：大ぢしん｜六部くづれ＞\n二川　　＜割書：同｜半分くづれ＞\n白すか　大地しん八部崩\n新居　　御関所損\n舞坂　　＜割書：大ぢしん四部｜くづれ＞\n浜松　　＜割書：大ぢしん｜六部くづれ＞\n見附　　＜割書：大ぢしん｜六部くづれ＞\n袋井　　＜割書：大ぢしん｜丸やけ＞\nかけ川　同\n日坂　　無事\n金谷　　＜割書：大ぢしん｜七部丸やけ＞\n嶋田　　＜割書：同｜半分くづれ＞\n藤枝　　＜割書：上の方｜六部やけ＞\n岡部　　＜割書：大地震｜不残くづれ＞\n丸子　　同\n府中　　＜割書：江川丁ゟ出火｜四部やけ＞\n江尻　　＜割書：大ぢしん｜丸やけ＞\n興津　　＜割書：大つなミ地しん｜四部やけ＞\n由井　　無事\n蒲原　　＜割書：問やばゟ東やけ｜不残くづれ＞\n吉原　　大地しん丸やけ\n岩淵　　＜割書：六部くづれ四部｜やけ山崩川水ナシ＞\n　　ふじ川\n原　　　少しゆり\n沼津　　同\n三島\n箱根　　右\n小田原\n大磯\n平塚　　同\n藤沢\n戸塚　　断\n程ヶ谷\nかな川\n川崎\n品川　　大じしん　\n\n江戸出火\n當寅十一月五日亥ノ刻浅草猿若丁ゟ出火之有二\n三丁目三芝居聖天町山の宿丁花川戸町迄のこらず\n西は北馬ミち東大川はしまでそれより向ふじま\n小梅むら水戸様御下やしきへ飛火いたし町家\n凡十丁四方ほど焼おち申ス地震ハ大坂同断\n六郷筑前守様近火に御坐候\n\n江戸大地震の図\n嘉永七甲寅十一月四日朝五ツ半時大地震ゆり初め丸の内\n辰の口南大名小路西御丸下御役屋敷同様御目附家敷\n無事町南の方芝近辺西のくぼ赤阪今井谷あを山\nあさぶかなすぎあたご下たまち此辺大あれにて人家\n大いにそんじたれどもくづれたる所なし増上寺天徳寺\n無事本郷六丁目大あれ又ねづ谷中下谷かなすぎ\n山下西の方かうじ町四ツ谷少々あれまた丸の内\n備前様蔵の所十軒余大地われさくら田辺御家敷\n三四軒少々ヅヽくづれなべ嶋様御家敷こしまき落ル\n南部様御家敷御長家くづれ柳澤様げんくわ\n大そんじ并ニ大地われる又大保町本郷六丁目大地家根\nかわら凡半丁ばかり落る此ほか書しるす事あまだ\nあれども是に略す又大地震に而市中の人々大混雑致候所へ\n又五日夜四ツ時浅艸ゟ出火にて少々こんさついたし候\n\n【地図　川より東】\nすさきむら　　小梅むら　　しゃうせんじ　　町家\nかわら町　　ミめぐりいなり　　水戸様御下やしき　　松平越前様\n隅田川　　あづまばし　　橋長サ七十八間\n【地図　川より西　右上】\nけようじ【慶養寺？】　　町家　　ゑだ丁　　町家　　とりこへ丁　町家\nかわら町　　待乳山聖天　　町家　　しやうでん丁　　役者中町家　　丁家　　あんらくいん　　やくしやしん道　　人形しばい　　同　　同三丁メ　　同二丁メ　　さる若丁一丁メ　　\nかわらさき座　　市村ざ　　中むら座　　□□□□こミち\n芝居茶屋　　馬ミちどふり　\n【地図　右下】\nうばか池　　まんだらとう　　いろは長屋　　くほんじ　　\n一ノ権現　　町家　　北馬道　　やまのしゆく　　しんしやういん【自性院？】　　町家　　南馬みち　　はなかハとう　　此所町家\n堺地　　広小路　　カミナリ門\n【地図　左上】\n町家　　田地　たまち　　むりやういん　　れんじやういん\nいなり　　おた大かく様　　六郷ちく前守　　田地\n本堂　　右大臣もん　　二王門　　せんそうじ　　金龍山浅草寺　　でんぼういん　　境内　　町家　　たわら町\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "text": "嘉永七甲寅十一月四日五日\n江戸大地震出火の図　本しらべ二仕候\n東海道筋\n大津　無事\n草津　　同断\n石部　　〃\n水口　　〃\n土山　　〃\n坂下　　〃\n関　　　〃\n亀山　　〃\n庄の　　大あれ\n石薬師　同断\n四日市　《割書：大地しん｜大地われ》\n桑名　　《割書：大つなミ｜じしん》\n宮　　　《割書：大地震｜八部【「分」】くづれ》\n鳴海　　七部くづれ　\n池鯉鮒　《割書：大じしん｜大つなミ》\n岡崎　　不残くづれ\n藤川　　《割書：大ぢしん｜七部くづれ》\n赤坂　　不残くづれ　\n御油　　大あれ\n吉田　　《割書：大ぢしん｜六部くづれ》\n二川　　《割書：同｜半分くづれ》\n白すか　大地しん八部崩\n新居　　御関所損\n舞坂　　《割書：大ぢしん四部｜くづれ》\n浜松　　《割書：大ぢしん｜六部くづれ》\n見附　　《割書：大ぢしん｜六部くづれ》\n袋井　　《割書：大ぢしん｜丸やけ》\nかけ川　同\n日坂　　無事\n金谷　　《割書：大ぢしん｜七部丸やけ》\n嶋田　　《割書：同｜半分くづれ》\n藤枝　　《割書：上の方｜六部やけ》\n岡部　　《割書：大地震｜不残くづれ》\n丸子　　同\n府中　　《割書：江川丁ゟ出火｜四部やけ》\n江尻　　《割書：大ぢしん｜丸やけ》\n興津　　《割書：大つなミ地しん｜四部やけ》\n由井　　無事\n蒲原　　《割書：問やばゟ東やけ｜不残くづれ》\n吉原　　大地しん丸やけ\n岩淵　　《割書：六部くづれ四部｜やけ山崩川水ナシ》\n　　ふじ川\n原　　　少しゆり\n沼津　　同\n三島\n箱根　　右\n小田原\n大磯\n平塚　　同\n藤沢\n戸塚　　断\n程ヶ谷\nかな川\n川崎\n品川　　大じしん　\n\n江戸出火\n當寅十一月五日亥ノ刻浅草猿若丁ゟ出火之有二\n三丁目三芝居聖天町山の宿丁花川戸町迄のこらず\n西は北馬ミち東大川はしまでそれより向ふじま\n小梅むら水戸様御下やしきへ飛火いたし町家\n凡十丁四方ほど焼おち申ス地震ハ大坂同断\n六郷筑前守様近火に御坐候\n\n江戸大地震の図\n嘉永七甲寅十一月四日朝五ツ半時大地震ゆり初め丸の内\n辰の口南大名小路西御丸下御役屋敷同様御目附家敷\n無事町南の方芝近辺西のくぼ赤阪今井谷あを山\nあさぶかなすぎあたご下たまち此辺大あれにて人家\n大いにそんじたれどもくづれたる所なし増上寺天徳寺\n無事本郷六丁目大あれ又ねづ谷中下谷かなすぎ\n山下西の方かうじ町四ツ谷少々あれまた丸の内\n備前様蔵の所十軒余大地われさくら田辺御家敷\n三四軒少々ヅヽくづれなべ嶋様御家敷こしまき落ル\n南部様御家敷御長家くづれ柳澤様げんくわ\n大そんじ并ニ大地われる又大保町本郷六丁目大地家根\nかわら凡半丁ばかり落る此ほか書しるす事あまだ\nあれども是に略す又大地震に而市中の人々大混雑致候所へ\n又五日夜四ツ時浅艸ゟ出火にて少々こんさついたし候\n\n【地図　川より東】\nすさきむら　　小梅むら　　しゃうせんじ　　町家\nかわら町　　ミめぐりいなり　　水戸様御下やしき　　松平越前様\n隅田川　　あづまばし　　橋長サ七十八間\n【地図　川より西　右上】\nけようじ【慶養寺？】　　町家　　ゑだ丁　　町家　　とりこへ丁　町家\nかわら町　　待乳山聖天　　町家　　しやうでん丁　　役者中町家　　丁家　　あんらくいん　　やくしやしん道　　人形しばい　　同　　同三丁メ　　同二丁メ　　さる若丁一丁メ　　\nかわらさき座　　市村ざ　　中むら座　　□□□□こミち\n芝居茶屋　　馬ミちどふり　\n【地図　右下】\nうばか池　　まんだらとう　　いろは長屋　　くほんじ　　\n一ノ権現　　町家　　北馬道　　やまのしゆく　　しんしやういん【自性院？】　　町家　　南馬みち　　はなかハとう　　此所町家\n堺地　　広小路　　カミナリ門\n【地図　左上】\n町家　　田地　たまち　　むりやういん　　れんじやういん\nいなり　　おた大かく様　　六郷ちく前守　　田地\n本堂　　右大臣もん　　二王門　　せんそうじ　　金龍山浅草寺　　でんぼういん　　境内　　町家　　たわら町\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 268000000,
+                "_seconds": 1570714428
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

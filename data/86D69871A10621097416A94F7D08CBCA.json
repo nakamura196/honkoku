@@ -1,0 +1,138 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/afd5d9c703a0833da6f25cd5c91365609800e353.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88653",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88653/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88653",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "86D69871A10621097416A94F7D08CBCA",
+    "label": "流行職人盡",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "流行職人盡"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-019"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "38×52"
+        },
+        {
+            "label": "別タイトル",
+            "value": "流行職人尽"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：II-02-020"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "731a6823-b8fa-49e1-a28d-137726faee59"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0273"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/afd5d9c703a0833da6f25cd5c91365609800e353.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/731a6823-b8fa-49e1-a28d-137726faee59/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "86D69871A10621097416A94F7D08CBCA",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【芝居看板に見立てて、地震で儲かる職人を描く。上段中央にナマズの絵とタイトル、左右に役者名になぞらえた職人の名前。下段には役者のような姿をした職人と職名を左右対称的に配置する。それぞれの職業を象徴する道具や風体をしている。　】\n【中央　鯰絵の下】\n　現金米屋\n流行職人尽\n　現金酒屋\n【赤地枠の中　下段向かって右上から】\n「はなしか」\n\n【「はなしか」の左隣　下膨でチョット髪が薄くなった男】\n「金持」\n\n【左隣　瓦を持っている】\n「瓦師」\n\n【「瓦師」の後ろ、僧形との間にひょっこり顔を出している】\n「ぜいたくや」\n【左隣】\n「坊主」\n\n【左隣　持っているのは鏝か？】\n「こてのかぢ」\n\n【左隣　鍬を担ぐ】　\n「土方」\n\n【左隣　青い着物の男】\n「鉄物屋」\n\n【左隣　モスグリーンの着物の男】\n「茶屋」\n\n【左隣　左手で頭を書いているようなしぐさの男】\n「金かし」\n\n【左隣】\n「仕立屋」\n\n【右に戻って、はなしかの下　キセルを持つ初老の男】\n「地主」\n\n【「地主」と「石屋」の間　痩せて黒い服を着て、扇子を持つ男】\n「たいこ持」\n\n【左隣　鑿を持つ男】\n「石屋」\n\n【左隣　左手に鉋を持つ男】\n「建具屋」\n\n【左隣　右手に玄能？墨つぼ？を持つ男】\n「屋根屋」\n\n【左隣　立ち上がって、右手に槍鉋、左手で手拭を担いぐ男】\n「大工」\n\n【左隣　右手に鏝、左手に鏝板を持つ】\n「左官」\n\n【左隣　立ち上がって、鳶口を持っている男　着物柄に当とある】\n「鳶頭」\n\n【左隣立膝で、右手に「判取」と書いた袋を持ち、左手に「大吉利市」と書いた板を立て持つ男】\n「材木屋」\n\n【「材木屋」後ろ「茶屋」と「金かし」の間、頭に手拭をかぶった男】\n「茅やね」\n\n【左隣　唯一の女性】\n「げいしや」\n\n【「げいしや」の左隣　風呂敷包みを担ぐ男】\n「小間物や」\n\n【「材木屋」の左隣　左手で本を持つ男】\n「太夫」\n\n【上段　名前看板　左端から】\n大極上々吉　こて　　　左官土蔵\nおほこまり　古拳　　　地主持丸\n大極上上吉　差曲尺　　番匠大工丞\n大上々吉　　の立　　　石切【音之？】丞\n上上吉　　　田舎　　　茅野家根八\n大儲　　　　黒黄薬　　□【貴？骨？】紐□衛門\n大儲　　　　判取　　　材木□【之？】丞\n　\n【鯰絵を挟んで】\n\n大極上々吉　鋤鍬　　　□組右衛門\n元手いらず　袈裟　　　坊主寺助\n現金売　　　会津　　　蝋燭【掛？】八\n大極上々吉　鉄槌　　　家根板平\nかはらず　　証文　　　高利勘左衛門\n大上々吉　　もつこう　土方焔□□□\n安物ばかり　銀み　　　小間物甲兵衛\n大上々吉　　鬼板　　　かはら師土兵衛\n掛けた",
+            "text": "【芝居看板に見立てて、地震で儲かる職人を描く。上段中央にナマズの絵とタイトル、左右に役者名になぞらえた職人の名前。下段には役者のような姿をした職人と職名を左右対称的に配置する。それぞれの職業を象徴する道具や風体をしている。　】\n【中央　鯰絵の下】\n　現金米屋\n流行職人尽\n　現金酒屋\n【赤地枠の中　下段向かって右上から】\n「はなしか」\n\n【「はなしか」の左隣　下膨でチョット髪が薄くなった男】\n「金持」\n\n【左隣　瓦を持っている】\n「瓦師」\n\n【「瓦師」の後ろ、僧形との間にひょっこり顔を出している】\n「ぜいたくや」\n【左隣】\n「坊主」\n\n【左隣　持っているのは鏝か？】\n「こてのかぢ」\n\n【左隣　鍬を担ぐ】　\n「土方」\n\n【左隣　青い着物の男】\n「鉄物屋」\n\n【左隣　モスグリーンの着物の男】\n「茶屋」\n\n【左隣　左手で頭を書いているようなしぐさの男】\n「金かし」\n\n【左隣】\n「仕立屋」\n\n【右に戻って、はなしかの下　キセルを持つ初老の男】\n「地主」\n\n【「地主」と「石屋」の間　痩せて黒い服を着て、扇子を持つ男】\n「たいこ持」\n\n【左隣　鑿を持つ男】\n「石屋」\n\n【左隣　左手に鉋を持つ男】\n「建具屋」\n\n【左隣　右手に玄能？墨つぼ？を持つ男】\n「屋根屋」\n\n【左隣　立ち上がって、右手に槍鉋、左手で手拭を担いぐ男】\n「大工」\n\n【左隣　右手に鏝、左手に鏝板を持つ】\n「左官」\n\n【左隣　立ち上がって、鳶口を持っている男　着物柄に当とある】\n「鳶頭」\n\n【左隣立膝で、右手に「判取」と書いた袋を持ち、左手に「大吉利市」と書いた板を立て持つ男】\n「材木屋」\n\n【「材木屋」後ろ「茶屋」と「金かし」の間、頭に手拭をかぶった男】\n「茅やね」\n\n【左隣　唯一の女性】\n「げいしや」\n\n【「げいしや」の左隣　風呂敷包みを担ぐ男】\n「小間物や」\n\n【「材木屋」の左隣　左手で本を持つ男】\n「太夫」\n\n【上段　名前看板　左端から】\n大極上々吉　こて　　　左官土蔵\nおほこまり　古拳　　　地主持丸\n大極上上吉　差曲尺　　番匠大工丞\n大上々吉　　の立　　　石切【音之？】丞\n上上吉　　　田舎　　　茅野家根八\n大儲　　　　黒黄薬　　□【貴？骨？】紐□衛門\n大儲　　　　判取　　　材木□【之？】丞\n　\n【鯰絵を挟んで】\n\n大極上々吉　鋤鍬　　　□組右衛門\n元手いらず　袈裟　　　坊主寺助\n現金売　　　会津　　　蝋燭【掛？】八\n大極上々吉　鉄槌　　　家根板平\nかはらず　　証文　　　高利勘左衛門\n大上々吉　　もつこう　土方焔□□□\n安物ばかり　銀み　　　小間物甲兵衛\n大上々吉　　鬼板　　　かはら師土兵衛\n掛けた",
+            "timestamp": {
+                "_nanoseconds": 507000000,
+                "_seconds": 1570171388
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

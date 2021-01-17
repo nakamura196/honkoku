@@ -1,0 +1,400 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4854,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/95750ebd254502604f373edc100cfbf419ff71cb.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4854,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56346",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3647
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56346/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56346",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3647
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7734,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/044cad94a633d1f618d8f8df56cac7dbf257bdb3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7734,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56347",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 16592
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56347/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56347",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 16592
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 4854,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/d0de9758356de98a2fc1cf336f5448d2dd099d85.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4854,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56348",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3647
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56348/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56348",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3647
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p4",
+            "@type": "sc:Canvas",
+            "height": 7734,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0004-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p4",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3487ec1089e7c291834619dab075e36fe4c77960.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7734,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56349",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 16592
+                    }
+                }
+            ],
+            "label": "[4]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56349/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56349",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 16592
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p5",
+            "@type": "sc:Canvas",
+            "height": 4854,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0005-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p5",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/833c499271c6c82c140e9b4b51f7460340b8aa02.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4854,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56350",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3647
+                    }
+                }
+            ],
+            "label": "[5]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56350/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56350",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3647
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p6",
+            "@type": "sc:Canvas",
+            "height": 7734,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/annotation/p0006-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p6",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/adc1e748fc7155d256a29d479a69e791273c489d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7734,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56351",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 16592
+                    }
+                }
+            ],
+            "label": "[6]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56351/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56351",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 16592
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "00932180C854BF0C4E485A3A294A30B6",
+    "label": "信濃国大地震後世記録微細色分絵図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "信濃国大地震後世記録微細色分絵図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-027"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "年月日",
+            "value": "弘化4年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "3枚あり"
+        },
+        {
+            "label": "year",
+            "value": "1847"
+        },
+        {
+            "label": "identifier",
+            "value": "2570bbba-b639-4469-b1a0-dbe76da8dd8d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1099"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 5,
+    "projectId": "ishimoto",
+    "size": 6,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/95750ebd254502604f373edc100cfbf419ff71cb.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p1",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "【表紙にタイトルなし。落書き？あり】\n\n【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、表紙の翻刻はコマ３参照】\n\n",
+            "text": "【表紙にタイトルなし。落書き？あり】\n\n【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、表紙の翻刻はコマ３参照】\n\n",
+            "timestamp": {
+                "_nanoseconds": 907000000,
+                "_seconds": 1590924485
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p2",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "SAFRrXV311V4g4nYzNjQE2oKby13",
+            "tempText": "昔弘化四丁未載三月廿四日会晴暖気ニ而到而穏成其夜亥刻頃信濃国七郡雷鳴の如ク響\n大地震にて城下在町民家即時に震潰し所々ニ出火して焼死即死数万人同刻犀川筋\n更級郡山平林岩倉孫瀬山櫻井虚空蔵山高サ六十丈余横幅十一丁程の場所抜崩れ犀川江\n押出し埋立川幅を〆切流水を留居湛川上江水開キ湖水のことし丹波鳥山渡シ場\n水渇て陸のことし【４コマ目で筆耕しているため、４コマ目参照】",
+            "text": "昔弘化四丁未載三月廿四日会晴暖気ニ而□而穏成其夜亥刻頃信濃国七郡雷鳴の如ク響\n大地震にて城下在町民家即時に震潰し所々ニ出火して焼死即死数万人同刻犀川筋\n更級郡山平林岩倉孫瀬山櫻井虚空蔵山高サ六十丈余横幅十一丁程の場所抜崩れ犀川江\n押出し埋立川幅を〆切流水を留居湛川上江水開キ湖水のことし丹波鳥山渡シ場\n水渇て陸のことし【４コマ目で筆耕しているため、４コマ目参照】",
+            "timestamp": {
+                "_nanoseconds": 328000000,
+                "_seconds": 1598373138
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p3",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 2,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "＜割書：信濃国｜大地震＞　後世記録　微細色分絵図\n",
+            "text": "《割書：信濃国｜大地震》　後世記録　微細色分絵図\n",
+            "timestamp": {
+                "_nanoseconds": 272000000,
+                "_seconds": 1572158393
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p4",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 3,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "時【俗字の「時」】弘化四丁未載三月廿四日會晴暖氣に而到而穏成其夜亥刻頃信濃国七郡雷鳴の如く響\n大地震にて城下在町民家即時に震潰し所々に出火して焼死即死数万人同刻犀川筋\n更級郡山平林岩倉孫瀬山櫻井虚空蔵山高さ六十丈余横幅二十丁程の場所抜崩れ犀川江\n押出し埋立川幅を〆切流水を留水湛川上江水開き湖水のことし丹波島渡し場\n水渇て陸のことし渉るに踵をぬらさす其外山々平地迄も震われ通路難成場所有\n猶亦数ヶ所山沢崩れ落て水行不通然るに数日水湛一時に押破り候はゞ川下民家水難の\n憂難斗御上様より水切の節しらせのため所々に狼煙御覚悟有之所\n四月十三日申下刻一時に水抜出し浪高き事数十丈水声雷鳴の如く\n天地に響き大山の崩るゝが如し虚空一面雲霧のことく狼煙発すと\nいへとも更に黒白不分川中島より千曲川越後国迄民家悉く\n漂流し溺れ死すもの幾万といふをしらす扶桑略記に曰\n光孝天皇仁和三丁未載七月晦日信濃国六郡大地震に而大山\n抜崩れ城蘆仏地男女牛馬に到まて流死成丘【丘を成す】云々自仁和三\n丁未至弘化四丁未にこゝに九百六十一年亦如斯天災を\n見る唯当国の人而已にあらす善光寺如来開扉によりて\n諸国の旅人数を尽して死失す嗚呼時なるかな異変有事\n亦こゝに善光寺如来御本堂無難にして其夜に通夜するもの一人も\n無恙是仏徳の験し難有事霊瑞感応逐一に不遑誠に三国無\n双の霊仏仰て可信給逸々筆にまかせかたきを以あら\nましを験す尚足らざるは見る人ゆるしたまへ\n\n",
+            "text": "時【俗字の「時」】弘化四丁未載三月廿四日會晴暖氣に而到而穏成其夜亥刻頃信濃国七郡雷鳴の如く響\n大地震にて城下在町民家即時に震潰し所々に出火して焼死即死数万人同刻犀川筋\n更級郡山平林岩倉孫瀬山櫻井虚空蔵山高さ六十丈余横幅二十丁程の場所抜崩れ犀川江\n押出し埋立川幅を〆切流水を留水湛川上江水開き湖水のことし丹波島渡し場\n水渇て陸のことし渉るに踵をぬらさす其外山々平地迄も震われ通路難成場所有\n猶亦数ヶ所山沢崩れ落て水行不通然るに数日水湛一時に押破り候はゞ川下民家水難の\n憂難斗御上様より水切の節しらせのため所々に狼煙御覚悟有之所\n四月十三日申下刻一時に水抜出し浪高き事数十丈水声雷鳴の如く\n天地に響き大山の崩るゝが如し虚空一面雲霧のことく狼煙発すと\nいへとも更に黒白不分川中島より千曲川越後国迄民家悉く\n漂流し溺れ死すもの幾万といふをしらす扶桑略記に曰\n光孝天皇仁和三丁未載七月晦日信濃国六郡大地震に而大山\n抜崩れ城蘆仏地男女牛馬に到まて流死成丘【丘を成す】云々自仁和三\n丁未至弘化四丁未にこゝに九百六十一年亦如斯天災を\n見る唯当国の人而已にあらす善光寺如来開扉によりて\n諸国の旅人数を尽して死失す嗚呼時なるかな異変有事\n亦こゝに善光寺如来御本堂無難にして其夜に通夜するもの一人も\n無恙是仏徳の験し難有事霊瑞感応逐一に不遑誠に三国無\n双の霊仏仰て可信給逸々筆にまかせかたきを以あら\nましを験す尚足らざるは見る人ゆるしたまへ\n\n",
+            "timestamp": {
+                "_nanoseconds": 319000000,
+                "_seconds": 1575162521
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p5",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 4,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、表紙翻刻はコマ３参照】\n\n",
+            "text": "【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、表紙翻刻はコマ３参照】\n\n",
+            "timestamp": {
+                "_nanoseconds": 557000000,
+                "_seconds": 1572157759
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2570bbba-b639-4469-b1a0-dbe76da8dd8d/canvas/p6",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "00932180C854BF0C4E485A3A294A30B6",
+            "index": 5,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、本文翻刻はコマ４を参照】\n\n",
+            "text": "【この資料名の６コマ分は、同じ資料が３冊まとめて掲載されているようなので、本文翻刻はコマ４を参照】\n\n",
+            "timestamp": {
+                "_nanoseconds": 669000000,
+                "_seconds": 1572157856
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

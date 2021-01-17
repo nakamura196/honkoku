@@ -1,0 +1,127 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8a148853e226685843b7f38eedec000782c1408e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88498",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88498/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88498",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "2DDCD261D102832812607F3C323DEF8F",
+    "label": "安政二乙卯歳十月二日夜ル四ツ時震始メ末代",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政二乙卯歳十月二日夜ル四ツ時震始メ末代"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-071"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×51"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0118"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/8a148853e226685843b7f38eedec000782c1408e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/7a6fbfe3-c1f2-4a71-b278-fea72c06f5c5/canvas/p1",
+            "editedBy": "wb1VwTKWGsb3swVoDEeyJ4zAHf42",
+            "entryId": "2DDCD261D102832812607F3C323DEF8F",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "wb1VwTKWGsb3swVoDEeyJ4zAHf42",
+            "tempText": "＜割書：安政二乙夘歳十月二日｜夜ル四ツ時震始メ＞　  末代\n\n御大名方類焼之部\n【第一段】\n酒井雅楽頭様\n森川出羽守様\n松平肥後守様\n松平下総守様\n内藤紀伊守様\n松平長門守様\n伊藤主理大輔様\n北条彦之丞様\n永井遠江守様\n本田中務太夫様\n上屋采女守様\n林大学頭様\n松平豊前守様\n遠藤但馬守様\n松平因幡守様\n松平玄蕃守様\n【第二段】\n松平壱岐守様\n南部信濃守様\n有馬備後守様\n三浦相模守様\n松平大膳太夫様\n松平時之助様\n村上但馬之守様\n松平肥前守様\n伊藤若狭守様\n松平駿河守様\n内藤駿河守様\n堀田備中守様\n戸田竹治郎様\n板倉伊予守様\n亀井隠岐守様\n小笠原佐渡守様\n【第三段】\n栁沢監物様\n朽木近江守様\n松平紀伊守様\n松平豊後守様\n松平周防守様\n内藤能登守様\n松平甲斐守様\n榊原式部守様\n安部播磨守様\n北条美濃守様\n薩州装束家敷\n津軽御下家敷\n定火消御家敷\n定火消御家敷\n\n\n【本文】\n夘十月二日夜四ツ時大地震ゆり始大崩れにて\n出火等有増の所付丸之内大手先酒井雅楽頭\n森川出羽守様より出火又松平肥後守様より\n出火松平下総守様大崩れ出火八代町かし村上\n但馬守様御火消屋敷不残やけ松平相模\n守様焼失町家夫ゟ京橋五郎兵へ町ゟ出火\n具足町栁町白魚やしき竹がし南伝馬町\n二丁目三丁目大こんがしふるぎ棚たゝみ町\n一丁目二丁目かぢ丁一丁め二丁目同三四大工丁一丁め\n二丁目三丁目おけ丁一丁め二丁目鈴木町いなば丁\nときわ丁松川丁本材木丁五丁めゟ八丁目迠是ゟ\n南八丁堀通不残やけ又しば口一丁目ゟ源介丁\n迠所々くずれ又うた川丁ゟ出火金杉迄不残\n焼失のこり所々くつれ又夫ゟ高なわ別してゆり\nつよく大地さけ中ゟ砂斗り吹出シ所々くづれ\n大混雑それより東方御じんがはら\n四はんばら松平紀伊守様より出火\n榊はら御家敷戸田竹次郎様小笠\n原様小川町火消屋敷土屋采女\n様其ほかまな板ばし迠御家敷不残\n焼失残所々はくづれ又小石川小びなた\nりうけいはし近ぺん屋しき町\n家とも焼失伝通院前所々くづ\nれ出火ありそれよりお茶の水ばん丁\nまでくづれ焼るなり赤坂一ツ木\nへんより青山六堂辻極楽の水\n此へんは惣くづれ出火ありそれ\nより四谷塩丁のりもの丁石切よこ丁\n此辺より新宿甲州かゐ道すじ\n右同断\n\n【下段】\n御府内は十里余方は千住宿\n大くづれ小塚原じしんの上\nのこらず焼失夫より仲仙道\n大宮辺まで地さけくづれ上\n総下総まで大地震なり\n舟はし辺は殊のほか手ひど\nく人家申およはず又かさい二\n合半日光道中は岩つきさつ\n手辺はこど〳〵くくづれ出火\n出火此数しれず凡火の手上り\n数百五十九ケ所二日夜ゟ今に\n大小刻々時々にゆる事やまず\n中に三日夜はかうし町下谷出火\nあり安き心はさらになし此よし\n諸国親るい縁者方もたとり\nしがたく親子兄弟一ツ所に寄合\n毎日かなしむ事あわれなる\n次第なり\n一団子坂此辺大くづれ谷中\n善光寺坂それゟ本郷どふり\n大損じ切どふし辺のやけは加州様御人数\n惣掛にて消口を取此辺のたすかりは\n中々かうたいもなく有かたき事此上なし\n\n【絵の中】\n佃向五番の内\n御台場之内\n二はんの御台場\n一ケ所飛火にて出火\n\n【末尾】\n御大名様御屋敷\n大そんじ　百九十五ケ所\n焼失　　　百二十ケ所\nはた本御屋敷数しれず\n寺社くづれ　百九十五ケ所\n　　焼失　　九十一ケ所\n御家人衆様大損シ　五千余\n　　　　　焼失　　九百五十余\n町数　　　三千十二丁\n大くづれ焼失　数しれず\n出火　　　三十二ケ所\n土蔵　　　十万七千余\n但し戸前くづれとも\n",
+            "text": "《割書：安政二乙夘歳十月二日｜夜ル四ツ時震始メ》　  末代\n\n御大名方類焼之部\n【第一段】\n酒井雅楽頭様\n森川出羽守様\n松平肥後守様\n松平下総守様\n内藤紀伊守様\n松平長門守様\n伊藤主理大輔様\n北条彦之丞様\n永井遠江守様\n本田中務太夫様\n上屋采女守様\n林大学頭様\n松平豊前守様\n遠藤但馬守様\n松平因幡守様\n松平玄蕃守様\n【第二段】\n松平壱岐守様\n南部信濃守様\n有馬備後守様\n三浦相模守様\n松平大膳太夫様\n松平時之助様\n村上但馬之守様\n松平肥前守様\n伊藤若狭守様\n松平駿河守様\n内藤駿河守様\n堀田備中守様\n戸田竹治郎様\n板倉伊予守様\n亀井隠岐守様\n小笠原佐渡守様\n【第三段】\n栁沢監物様\n朽木近江守様\n松平紀伊守様\n松平豊後守様\n松平周防守様\n内藤能登守様\n松平甲斐守様\n榊原式部守様\n安部播磨守様\n北条美濃守様\n薩州装束家敷\n津軽御下家敷\n定火消御家敷\n定火消御家敷\n\n\n【本文】\n夘十月二日夜四ツ時大地震ゆり始大崩れにて\n出火等有増の所付丸之内大手先酒井雅楽頭\n森川出羽守様より出火又松平肥後守様より\n出火松平下総守様大崩れ出火八代町かし村上\n但馬守様御火消屋敷不残やけ松平相模\n守様焼失町家夫ゟ京橋五郎兵へ町ゟ出火\n具足町栁町白魚やしき竹がし南伝馬町\n二丁目三丁目大こんがしふるぎ棚たゝみ町\n一丁目二丁目かぢ丁一丁め二丁目同三四大工丁一丁め\n二丁目三丁目おけ丁一丁め二丁目鈴木町いなば丁\nときわ丁松川丁本材木丁五丁めゟ八丁目迠是ゟ\n南八丁堀通不残やけ又しば口一丁目ゟ源介丁\n迠所々くずれ又うた川丁ゟ出火金杉迄不残\n焼失のこり所々くつれ又夫ゟ高なわ別してゆり\nつよく大地さけ中ゟ砂斗り吹出シ所々くづれ\n大混雑それより東方御じんがはら\n四はんばら松平紀伊守様より出火\n榊はら御家敷戸田竹次郎様小笠\n原様小川町火消屋敷土屋采女\n様其ほかまな板ばし迠御家敷不残\n焼失残所々はくづれ又小石川小びなた\nりうけいはし近ぺん屋しき町\n家とも焼失伝通院前所々くづ\nれ出火ありそれよりお茶の水ばん丁\nまでくづれ焼るなり赤坂一ツ木\nへんより青山六堂辻極楽の水\n此へんは惣くづれ出火ありそれ\nより四谷塩丁のりもの丁石切よこ丁\n此辺より新宿甲州かゐ道すじ\n右同断\n\n【下段】\n御府内は十里余方は千住宿\n大くづれ小塚原じしんの上\nのこらず焼失夫より仲仙道\n大宮辺まで地さけくづれ上\n総下総まで大地震なり\n舟はし辺は殊のほか手ひど\nく人家申およはず又かさい二\n合半日光道中は岩つきさつ\n手辺はこど〳〵くくづれ出火\n出火此数しれず凡火の手上り\n数百五十九ケ所二日夜ゟ今に\n大小刻々時々にゆる事やまず\n中に三日夜はかうし町下谷出火\nあり安き心はさらになし此よし\n諸国親るい縁者方もたとり\nしがたく親子兄弟一ツ所に寄合\n毎日かなしむ事あわれなる\n次第なり\n一団子坂此辺大くづれ谷中\n善光寺坂それゟ本郷どふり\n大損じ切どふし辺のやけは加州様御人数\n惣掛にて消口を取此辺のたすかりは\n中々かうたいもなく有かたき事此上なし\n\n【絵の中】\n佃向五番の内\n御台場之内\n二はんの御台場\n一ケ所飛火にて出火\n\n【末尾】\n御大名様御屋敷\n大そんじ　百九十五ケ所\n焼失　　　百二十ケ所\nはた本御屋敷数しれず\n寺社くづれ　百九十五ケ所\n　　焼失　　九十一ケ所\n御家人衆様大損シ　五千余\n　　　　　焼失　　九百五十余\n町数　　　三千十二丁\n大くづれ焼失　数しれず\n出火　　　三十二ケ所\n土蔵　　　十万七千余\n但し戸前くづれとも\n",
+            "timestamp": 1567905447947
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/47888009a09811a3d898140e49bcdb317040fa57.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88831",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88831/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88831",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "46A9F29F2C26379484F680832F67CF74",
+    "label": "上野国赤城山湯之沢全図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上野国赤城山湯之沢全図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治35年8月"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "群馬県勢多郡赤城 湯本新島屋 北爪原平"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37.5×49"
+        },
+        {
+            "label": "year",
+            "value": "1902"
+        },
+        {
+            "label": "identifier",
+            "value": "b21de86c-9b43-4ba6-863c-cbb6755f9955"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0455"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/47888009a09811a3d898140e49bcdb317040fa57.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/b21de86c-9b43-4ba6-863c-cbb6755f9955/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "46A9F29F2C26379484F680832F67CF74",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【タイトル】\n上野国赤城山湯之沢全図\n【俯瞰図上部中央】\n赤城山\n□□湯の\nあたりに\n□□\n□□\n□□□る\n□□ゑや\n□□□\nより飛し\n中教立斉藤高久\n\n【俯瞰図左枠内】\n【五段構成】\n【第一段】\n里程【大書右横書き】\n【第二段】\n鼻毛石へ　　二り十丁【この行のみ枠外にはみ出し】\n滝沢へ　　　　　十丁\n三夜沢へ　　一り\n苗ヶ島へ　　二り\n大胡へ　　　三り\n前橋へ　　　六り\n伊勢崎へ　　六り\n境へ　　　　七り半\n赤堀へ　　　四り半\n【第三段】\n大間々へ　　四り半\n桐生へ　　　六り\n足利へ　　　九り\n佐野へ　　十二り\n館林へ　　十二り\n太田へ　　　九り\n熊谷へ　　十二り\n深谷へ　　　九り\n【第四段】\n本庄へ　　　八り\n新町へ　　　九り\n高崎へ　　　八り\n伊香保へ　　九り\n沼田へ　　　七り\n岩宿停車場へ五り半\n駒形停車場へ四り半\n国定停車場へ五り\n【第五段】\n明治三十五年八月改正\n　　群馬県勢多郡赤城山湯之沢\n湯本新島屋　北爪源平【大書】\n",
+            "text": "【タイトル】\n上野国赤城山湯之沢全図\n【俯瞰図上部中央】\n赤城山\n□□湯の\nあたりに\n□□\n□□\n□□□る\n□□ゑや\n□□□\nより飛し\n中教立斉藤高久\n\n【俯瞰図左枠内】\n【五段構成】\n【第一段】\n里程【大書右横書き】\n【第二段】\n鼻毛石へ　　二り十丁【この行のみ枠外にはみ出し】\n滝沢へ　　　　　十丁\n三夜沢へ　　一り\n苗ヶ島へ　　二り\n大胡へ　　　三り\n前橋へ　　　六り\n伊勢崎へ　　六り\n境へ　　　　七り半\n赤堀へ　　　四り半\n【第三段】\n大間々へ　　四り半\n桐生へ　　　六り\n足利へ　　　九り\n佐野へ　　十二り\n館林へ　　十二り\n太田へ　　　九り\n熊谷へ　　十二り\n深谷へ　　　九り\n【第四段】\n本庄へ　　　八り\n新町へ　　　九り\n高崎へ　　　八り\n伊香保へ　　九り\n沼田へ　　　七り\n岩宿停車場へ五り半\n駒形停車場へ四り半\n国定停車場へ五り\n【第五段】\n明治三十五年八月改正\n　　群馬県勢多郡赤城山湯之沢\n湯本新島屋　北爪源平【大書】\n",
+            "timestamp": {
+                "_nanoseconds": 573000000,
+                "_seconds": 1573005520
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

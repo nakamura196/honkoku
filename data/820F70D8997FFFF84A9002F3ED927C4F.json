@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/098ed1b1e88d4ffcb01c7e3ea04532f031168684.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88625",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88625/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88625",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "820F70D8997FFFF84A9002F3ED927C4F",
+    "label": "安政天下太平",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "安政天下太平"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-022"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35.5×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "420d1a2c-2b75-47dc-ae79-b7edd8cf021d"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0245"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/098ed1b1e88d4ffcb01c7e3ea04532f031168684.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/420d1a2c-2b75-47dc-ae79-b7edd8cf021d/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "820F70D8997FFFF84A9002F3ED927C4F",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "安政天下太平【以上、見出し、大字】\n\n【見出しの下】\n地震（じしん）の咒（まじなひ）\n【梵字らしきもの】\n是を家のうちに\nはるべし\n\n【本文上段】\n頃は安政二年十月\n二日の夜四時江戸\n并近郷近在の大地しん\n大火ゆへ鹿嶋太神宮\n要石をおさへてのたまはく\n此神石は天神七代の\nむかしより地の\nゆれるをおさへし\n神護なり\n何とてこんど\n大ひに地を\nゆりちらしたるぞと仰らる\n此時かなめ石の下よりじしんども\nこそ〳〵とはい出て太神宮の御前に\nみなうづくまる御神は見たまひ御剱を\nさか手に取ていかりたまひなんじらは\nわが守護をそむくだいざいゆるしかたく\nへんとふありやとありければ江戸のじしんおそれ入て申やふこんどの\n大へん一とふり申上んまづわたくしどもは御神の御神石の下に居て\n泥中を宿とし御神たくを守るのところへ江戸町々のものども近年\nおごりに長じわれ〳〵が孫ひこやしまごをはじめけんぞくともをいけ取\nかばやき又はすつぽん煮なべやきうまになどにいたしせいたくなる\n料理（りようり）にあづかりすでに子 孫（そん）をたやさんとす其むねん\nこつずいにとふりしところ京大坂ゑちご信州のじしんども\nまいりめい〳〵に云（いふ）やふみな私が申せしとふり諸人に\n料られたり此ゆへ大神いづもへ御立を見こみ十ぶんに\nいこんをはらし申たり此うへはもはやわれ〳〵が\nぞんねんのこりなくはや〳〵いのちを\nめされ下さるべしといふを聞たまひ\nかしま太神宮よこ手をうち悪（あく）は\nあく善はぜんとするが神仏の\n本意なりなんじらが此たびの\nつみおもしといへども一とふりすじの\n立うへはまたばつするにあらず以来を\nきつとつゝしむべし江戸町中はそれ〳〵に\n【以下、途切れ】\n\n【本文中段】\nまもり得？させよなんじら\nあばれる時はすでにまち中の\n用心水をのこらずぶちちらし\nたることゆへ出火してもふせぐ\nことあたはずしよ人てんどう\nせしゆへ大火大らんとなりしは\nそのつみなんしらがいたすところ\nなりくれ〴〵も向後大ひに\nふるふことをいましめるぞ\nしかしなんじら居すくまる\nばかりにてはまたやまひも\nおこらんあいだ少しの\nのびはさしゆるす\nかならず〳〵わが\nいゝしことそむく\nまじと\n\n【本文下段】\n仰（あふせ）らるゆへじしんどもはほつと一いきつき\nありがたし〳〵今よりわれ〳〵ども天下\n太平国家安ぜんをまもり申さんと\nかたく御受申上みなどろの中へとうづくまる",
+            "text": "安政天下太平【以上、見出し、大字】\n\n【見出しの下】\n地震（じしん）の咒（まじなひ）\n【梵字らしきもの】\n是を家のうちに\nはるべし\n\n【本文上段】\n頃は安政二年十月\n二日の夜四時江戸\n并近郷近在の大地しん\n大火ゆへ鹿嶋太神宮\n要石をおさへてのたまはく\n此神石は天神七代の\nむかしより地の\nゆれるをおさへし\n神護なり\n何とてこんど\n大ひに地を\nゆりちらしたるぞと仰らる\n此時かなめ石の下よりじしんども\nこそ〳〵とはい出て太神宮の御前に\nみなうづくまる御神は見たまひ御剱を\nさか手に取ていかりたまひなんじらは\nわが守護をそむくだいざいゆるしかたく\nへんとふありやとありければ江戸のじしんおそれ入て申やふこんどの\n大へん一とふり申上んまづわたくしどもは御神の御神石の下に居て\n泥中を宿とし御神たくを守るのところへ江戸町々のものども近年\nおごりに長じわれ〳〵が孫ひこやしまごをはじめけんぞくともをいけ取\nかばやき又はすつぽん煮なべやきうまになどにいたしせいたくなる\n料理（りようり）にあづかりすでに子 孫（そん）をたやさんとす其むねん\nこつずいにとふりしところ京大坂ゑちご信州のじしんども\nまいりめい〳〵に云（いふ）やふみな私が申せしとふり諸人に\n料られたり此ゆへ大神いづもへ御立を見こみ十ぶんに\nいこんをはらし申たり此うへはもはやわれ〳〵が\nぞんねんのこりなくはや〳〵いのちを\nめされ下さるべしといふを聞たまひ\nかしま太神宮よこ手をうち悪（あく）は\nあく善はぜんとするが神仏の\n本意なりなんじらが此たびの\nつみおもしといへども一とふりすじの\n立うへはまたばつするにあらず以来を\nきつとつゝしむべし江戸町中はそれ〳〵に\n【以下、途切れ】\n\n【本文中段】\nまもり得？させよなんじら\nあばれる時はすでにまち中の\n用心水をのこらずぶちちらし\nたることゆへ出火してもふせぐ\nことあたはずしよ人てんどう\nせしゆへ大火大らんとなりしは\nそのつみなんしらがいたすところ\nなりくれ〴〵も向後大ひに\nふるふことをいましめるぞ\nしかしなんじら居すくまる\nばかりにてはまたやまひも\nおこらんあいだ少しの\nのびはさしゆるす\nかならず〳〵わが\nいゝしことそむく\nまじと\n\n【本文下段】\n仰（あふせ）らるゆへじしんどもはほつと一いきつき\nありがたし〳〵今よりわれ〳〵ども天下\n太平国家安ぜんをまもり申さんと\nかたく御受申上みなどろの中へとうづくまる",
+            "timestamp": {
+                "_nanoseconds": 536000000,
+                "_seconds": 1567496243
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

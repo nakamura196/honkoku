@@ -1,0 +1,127 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 1771,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/49486b593e0469d1e7ff31d7bff4eb95d629280e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1771,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88665",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88665/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88665",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "0828B2ECA5727F32690D7C6DA46F5749",
+    "label": "東国十八ヶ国並蝦夷図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "東国十八ヶ国並蝦夷図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-031"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政3年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "17×35"
+        },
+        {
+            "label": "year",
+            "value": "1856"
+        },
+        {
+            "label": "identifier",
+            "value": "4ee2065d-2c54-405a-879c-87ad9ef7aa9f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0285"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/49486b593e0469d1e7ff31d7bff4eb95d629280e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/4ee2065d-2c54-405a-879c-87ad9ef7aa9f/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "0828B2ECA5727F32690D7C6DA46F5749",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "東国十八ヶ国並蝦夷図\n\n【上段】\n安政三丙辰\n八月廿五日\n雨風荒之部\n上野下野\n常陸甲斐\n同日\n津波雨風\n天火\n大荒\n　之部\n上総\n下総\n安房\n武蔵\n相模\n伊豆駿河\n遠江\n右国々殊更\n大あれ大崩\n古今無双之\n珍事大略\n下ニ図する\n\n【右下】\n八月十八日ゟ同廿三日迄\n青森海中より泥砂を\n吹上る事昼夜にして\n廿三日別してはけし\nく夫ゟ大地震□\n浪大にして沖□\n勿論地方家蔵\n崩人死亡数不\n知此時奥州\n出羽越後佐\n渡蝦夷松前\n近辺之嶋々不\n残ゆり潰\nし目も\n当られ\nぬ\n大\n変\nなり\n",
+            "text": "東国十八ヶ国並蝦夷図\n\n【上段】\n安政三丙辰\n八月廿五日\n雨風荒之部\n上野下野\n常陸甲斐\n同日\n津波雨風\n天火\n大荒\n　之部\n上総\n下総\n安房\n武蔵\n相模\n伊豆駿河\n遠江\n右国々殊更\n大あれ大崩\n古今無双之\n珍事大略\n下ニ図する\n\n【右下】\n八月十八日ゟ同廿三日迄\n青森海中より泥砂を\n吹上る事昼夜にして\n廿三日別してはけし\nく夫ゟ大地震□\n浪大にして沖□\n勿論地方家蔵\n崩人死亡数不\n知此時奥州\n出羽越後佐\n渡蝦夷松前\n近辺之嶋々不\n残ゆり潰\nし目も\n当られ\nぬ\n大\n変\nなり\n",
+            "timestamp": 1564497581977
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

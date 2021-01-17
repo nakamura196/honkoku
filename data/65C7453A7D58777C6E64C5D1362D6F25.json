@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/64d4335fa548ac2235c52f7cd61f146b3d1ec50d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88774",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88774/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88774",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "65C7453A7D58777C6E64C5D1362D6F25",
+    "label": "改正熱海市街全図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "改正熱海市街全図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-022"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "出版人：山本光一 北豊島郡金杉村117 平民"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "42×61"
+        },
+        {
+            "label": "備考",
+            "value": "附：伊豆国熱海鉱泉定性定量, 孛国ドクトルマルチン氏分析表"
+        },
+        {
+            "label": "identifier",
+            "value": "517cf6bc-e56a-4782-9801-0c3f1fcac85b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0394"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/64d4335fa548ac2235c52f7cd61f146b3d1ec50d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/517cf6bc-e56a-4782-9801-0c3f1fcac85b/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "65C7453A7D58777C6E64C5D1362D6F25",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【図題】\n改正熱海市街全図\n\n【欄外左】\n明治　　　　　　日御届編集兼出版人　　山本光一\n　　　　　　　　　　　　　東京北豊島郡金杉村百一十七番地平民　\n\n【図内記事】\n　【右上枠内】\n　官舎 ＜割書：社局｜　＞　　　\n噏滊館\n戸長役場\n警察署\n熱海学校\n電信局\n郵便局\n通運会社\n運輸社\n\n伊豆国熱海鉱泉\n定性定量\n孛国＜割書：トクトル｜マルチン＞氏分析票\n鉱水一千立方\nセンチメートル即一リートル\n＜割書：五分五勺｜〇大ヨ＞中含有成分\nコロールナトリウム　　三七五〇ゝ\nコロールマクネシユム　二三ゝゝ〇\nコロールカリユーム　　一八一〇ゝ\nコロールカルシユム　　一七六七〇\nリウサン石灰　　　　　〇一九三一\n重タンサン化鉄　　　　〇ゝゝ三一\n同石灰　　　　　　　　〇ゝゝ四三\nケイサン　　　　　　　〇一ゝ〇ゝ　\n第一コロルマンガン　　痕跡\nフロールカリユーム　　〟\nフロールナトリウム　　〟\n有機物　　　　　　　　〟\n　総量一〇・一〇四カラム\n　\n　効能略\n肺病　胃病　子宮病\n僂广質斯　脚気　癪\nシウヒセン　疳　冷性\n　　此他諸病ニ功アル\n　　挙テ計フ可ラス\n\n　寒暖計\n大寒　　五十度\n大暑　　九十二度\n\n　【左上枠内】\n　　湯名及度量\n大湯　　　　百〇三度\n小沢湯　　　未検\n無塩湯　　　九十七〟\n風呂湯　　　同\n水ノ湯　　　同\n尾張屋湯　　同\n樋口湯　　　同\n左次郎湯　　同\n目ノ湯　　　五十度\n仲ノ湯　　　未\n河原湯　　　百〟\n翠湯　　　　八十五〟\n清左ヱ門湯　未\n野中湯　　　同　\n三左ヱ門湯　同\n　　已下略\n\n　遠近里程\n東京　　二十七リ　　　日金　　五十リ\n横浜　　二十リ　　　　小田原　七リ\n江ノ嶋　十五リ　　　　筥根　　五リ　　　　\n修善寺　八リ　　　　　三嶋　　五リ\n静岡　　二十一リ　　　下田　　　十八リ\n初島　　＜割書：三リ｜　船＞　　　　　　網代　　　二リ\n　　\n　八景\n梅園春暁\n来宮杜宇\n初島漁見\n横礒晩涼\n魚見帰帆\n錦浦秋月\n温泉寺松\n和田山雪\n\n　【図内左下】\n本街＜割書：ヨ｜リ＞\n　　十八丁　\n伊豆山\n　　二里\n門川\n　　八丁\n吉ハマ\n　　二里\n江ノ浦\n　　十八丁\n根フ川\n　　廿五丁　\n米カミ\n　　二十丁\n石橋\n　　十丁\n早川\n　　十二丁\n小田原\n",
+            "text": "【図題】\n改正熱海市街全図\n\n【欄外左】\n明治　　　　　　日御届編集兼出版人　　山本光一\n　　　　　　　　　　　　　東京北豊島郡金杉村百一十七番地平民　\n\n【図内記事】\n　【右上枠内】\n　官舎 《割書：社局｜　》　　　\n噏滊館\n戸長役場\n警察署\n熱海学校\n電信局\n郵便局\n通運会社\n運輸社\n\n伊豆国熱海鉱泉\n定性定量\n孛国《割書：トクトル｜マルチン》氏分析票\n鉱水一千立方\nセンチメートル即一リートル\n《割書：五分五勺｜〇大ヨ》中含有成分\nコロールナトリウム　　三七五〇ゝ\nコロールマクネシユム　二三ゝゝ〇\nコロールカリユーム　　一八一〇ゝ\nコロールカルシユム　　一七六七〇\nリウサン石灰　　　　　〇一九三一\n重タンサン化鉄　　　　〇ゝゝ三一\n同石灰　　　　　　　　〇ゝゝ四三\nケイサン　　　　　　　〇一ゝ〇ゝ　\n第一コロルマンガン　　痕跡\nフロールカリユーム　　〟\nフロールナトリウム　　〟\n有機物　　　　　　　　〟\n　総量一〇・一〇四カラム\n　\n　効能略\n肺病　胃病　子宮病\n僂广質斯　脚気　癪\nシウヒセン　疳　冷性\n　　此他諸病ニ功アル\n　　挙テ計フ可ラス\n\n　寒暖計\n大寒　　五十度\n大暑　　九十二度\n\n　【左上枠内】\n　　湯名及度量\n大湯　　　　百〇三度\n小沢湯　　　未検\n無塩湯　　　九十七〟\n風呂湯　　　同\n水ノ湯　　　同\n尾張屋湯　　同\n樋口湯　　　同\n左次郎湯　　同\n目ノ湯　　　五十度\n仲ノ湯　　　未\n河原湯　　　百〟\n翠湯　　　　八十五〟\n清左ヱ門湯　未\n野中湯　　　同　\n三左ヱ門湯　同\n　　已下略\n\n　遠近里程\n東京　　二十七リ　　　日金　　五十リ\n横浜　　二十リ　　　　小田原　七リ\n江ノ嶋　十五リ　　　　筥根　　五リ　　　　\n修善寺　八リ　　　　　三嶋　　五リ\n静岡　　二十一リ　　　下田　　　十八リ\n初島　　《割書：三リ｜　船》　　　　　　網代　　　二リ\n　　\n　八景\n梅園春暁\n来宮杜宇\n初島漁見\n横礒晩涼\n魚見帰帆\n錦浦秋月\n温泉寺松\n和田山雪\n\n　【図内左下】\n本街《割書：ヨ｜リ》\n　　十八丁　\n伊豆山\n　　二里\n門川\n　　八丁\n吉ハマ\n　　二里\n江ノ浦\n　　十八丁\n根フ川\n　　廿五丁　\n米カミ\n　　二十丁\n石橋\n　　十丁\n早川\n　　十二丁\n小田原\n",
+            "timestamp": {
+                "_nanoseconds": 918000000,
+                "_seconds": 1573131892
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

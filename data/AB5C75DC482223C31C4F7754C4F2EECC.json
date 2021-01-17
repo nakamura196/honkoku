@@ -1,0 +1,183 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 6944,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/af7b443f1f351d19c12e59227a6a601efdef5e56.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6944,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56334",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9242
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56334/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56334",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9242
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 6944,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bd17302049b229684563cbc1f32d1dfb22e9c95f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6944,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56335",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9242
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56335/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56335",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9242
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "AB5C75DC482223C31C4F7754C4F2EECC",
+    "label": "[犬吠埼燈台にて行楽の図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[犬吠埼燈台にて行楽の図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-021"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "年月日",
+            "value": "明治7年?"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "東京日本橋通2丁目丸屋鉄次郎梓 片田彫長 曜斉国輝摸写 梅堂国政補助 松本岩吉"
+        },
+        {
+            "label": "備考",
+            "value": "2枚続"
+        },
+        {
+            "label": "year",
+            "value": "1874"
+        },
+        {
+            "label": "identifier",
+            "value": "351b31ed-d10e-46ad-ae0d-02c4d13d34bb"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1093"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/af7b443f1f351d19c12e59227a6a601efdef5e56.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "AB5C75DC482223C31C4F7754C4F2EECC",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【左下】\n　　　　　片田彫長\n曜斎国輝摹□\n梅堂国政補助\n　　　松本岩吉\n東京日本橋通二町目\n　　丸屋銕治郎　梓",
+            "text": "【左下】\n　　　　　片田彫長\n曜斎国輝摹□\n梅堂国政補助\n　　　松本岩吉\n東京日本橋通二町目\n　　丸屋銕治郎　梓",
+            "timestamp": {
+                "_nanoseconds": 633000000,
+                "_seconds": 1570236518
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/351b31ed-d10e-46ad-ae0d-02c4d13d34bb/canvas/p2",
+            "editedBy": null,
+            "entryId": "AB5C75DC482223C31C4F7754C4F2EECC",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030687481
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

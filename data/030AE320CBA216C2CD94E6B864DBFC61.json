@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b8e488bc0df8eca25454ba5e3796c4b194361ade.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88804",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88804/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88804",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6f5dfa7aeb00a455c69882cec25bc993e530a2e3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219901",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219901/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219901",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "030AE320CBA216C2CD94E6B864DBFC61",
+    "label": "相模国大隅郡大山阿夫利神社真景",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "相模国大隅郡大山阿夫利神社真景"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-10-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治14年6月23日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "桜寿国利筆／画工・出版人：浅草馬道三丁目一番地 児玉弥七"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×23.5"
+        },
+        {
+            "label": "year",
+            "value": "1881"
+        },
+        {
+            "label": "identifier",
+            "value": "38c992d6-236f-4f8f-97d4-06f2a89d587b"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0424"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/b8e488bc0df8eca25454ba5e3796c4b194361ade.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "030AE320CBA216C2CD94E6B864DBFC61",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　梅寿国利筆\n　　　八王子高尾山\n\n吉田登山　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　子安観音堂　　\n富士北口ニ当ル　　　　　　　　　　　　　　　　　　　　　　　　　　　　鳥居より四二丁\n　　　　　　　　　御林山　　　　　　　　　　　　　　　　　　　　　　　山中にあり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　略して爰ニ知す\n\n　　　　　　　　　　　　　　　　　　　　　　　　唐銅灯籠\n　　　　　　　　　　　　　　　　　　　　　　　　　＜割書：左｜右＞石灯籠\n　　　　　　　　　　　大山子安ヨリ\n　　　　　　　　　　　高尾山迠一日半\n　　　　　　　　　　　　　　　　の道\n\n　　　　　　　　　　　　　　　　　　　唐銅一ノの鳥居【鳥居の図】　　　　　　　　　　　\n　　　　雷神山　　　　　　　　　　　　　　　　　　　　　　　　　　\n　　　　神沢山トモ云\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　子安はたこや\n神沢の神社有関東雷司　　　　　　　　　　　　　　　　　　　　　　　　　　子安茶屋\n　　　　　箕もことなり　　　　　　　　　　　　　　左右唐銅水盤\n　　　　　　神沢村ヨリ\n　　　　　　　　　上ル\n　　　　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　坊中\n　　村山登山　　　　　　　　　　　　　　【滝の絵】　　　　　　　　　　　　　　\n　　富士東口ニ当ル　　　　　　　　　　　　良弁の滝\n　　　　　　　　　　　　　　　　　　　　　第二ノたき\n　　　　　　　　　　　　　　　　　　　　　　かけてうちん　　　　\n　　　　　　　　　　　　　　　　　　　　　　其外奉納物あり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　坊中\n　　　　　　　　　　　　　　　　　　　　　　行者堂\n大宮登山　　　　　　　　　　\n富士南口ニ当ル　　　申酉ノ方富士山\n　　　　　　　　　　此大山ヨリ富士山間二日路\n【左のページ】\n雨雲是の下ゟ立\n　　　　　　　前不動より　　　　石尊宮の前ニ\n　雨降　　　　ここ迠一八丁　　　大いなるは箱有　行者堂\n　神社　　　　　　　　　　　　　　　真中大刀納ム　　　三のたき　　坊中うらて\n　石尊　　　　　　　　　　　　　　　又とりかへる　　　新たき　　　がけづくり\n　宮也　　　　　　　　　　　　　　　　男坂ハ行者堂　　　　　　\n　　　　　　　　本堂不動尊　　　　　　　　より上ル\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　良弁の滝おち口\n　　　　　　　　木戸六月廿八日ゟ　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　七月一七日迠　　　　　　　　　　　　　　　　　　　大木を並べたる橋\n\n　　　　　　　　　　　　　　　　　　　二王門　　　　　　此はしゟ大滝へ行く\n来迎谷　　　がく堂\n\n　　　　　　　　　みのけ道　　　　　　　　　　　　西の河原石仏お\n　　柴戸六月廿八日ゟ　　　　　　　　　　　　　　　　　　　　　　　西の河原道\n　　　　　　　　　　　　　　　　　　　　　女坂ハ西ノ河原\n　　七月十七日迠開　　　　　　　　　　　　　　　より上ル\n　　　　　　　　日向日向越此所ゟ伊豆見る\n　　　　　　　ひでり越ともいふ　　　　　　　　　　　　　　　　　　　　大滝おち口\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　　　　　　　　石仏銅仏多し　　　　大滝ミち　　　　　　　　　みのけ道\n　　　　　中の茶屋　",
+            "text": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　梅寿国利筆\n　　　八王子高尾山\n\n吉田登山　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　子安観音堂　　\n富士北口ニ当ル　　　　　　　　　　　　　　　　　　　　　　　　　　　　鳥居より四二丁\n　　　　　　　　　御林山　　　　　　　　　　　　　　　　　　　　　　　山中にあり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　略して爰ニ知す\n\n　　　　　　　　　　　　　　　　　　　　　　　　唐銅灯籠\n　　　　　　　　　　　　　　　　　　　　　　　　　《割書：左｜右》石灯籠\n　　　　　　　　　　　大山子安ヨリ\n　　　　　　　　　　　高尾山迠一日半\n　　　　　　　　　　　　　　　　の道\n\n　　　　　　　　　　　　　　　　　　　唐銅一ノの鳥居【鳥居の図】　　　　　　　　　　　\n　　　　雷神山　　　　　　　　　　　　　　　　　　　　　　　　　　\n　　　　神沢山トモ云\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　子安はたこや\n神沢の神社有関東雷司　　　　　　　　　　　　　　　　　　　　　　　　　　子安茶屋\n　　　　　箕もことなり　　　　　　　　　　　　　　左右唐銅水盤\n　　　　　　神沢村ヨリ\n　　　　　　　　　上ル\n　　　　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　　　　　　　　　　　　　坊中\n　　村山登山　　　　　　　　　　　　　　【滝の絵】　　　　　　　　　　　　　　\n　　富士東口ニ当ル　　　　　　　　　　　　良弁の滝\n　　　　　　　　　　　　　　　　　　　　　第二ノたき\n　　　　　　　　　　　　　　　　　　　　　　かけてうちん　　　　\n　　　　　　　　　　　　　　　　　　　　　　其外奉納物あり\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　坊中\n　　　　　　　　　　　　　　　　　　　　　　行者堂\n大宮登山　　　　　　　　　　\n富士南口ニ当ル　　　申酉ノ方富士山\n　　　　　　　　　　此大山ヨリ富士山間二日路\n【左のページ】\n雨雲是の下ゟ立\n　　　　　　　前不動より　　　　石尊宮の前ニ\n　雨降　　　　ここ迠一八丁　　　大いなるは箱有　行者堂\n　神社　　　　　　　　　　　　　　　真中大刀納ム　　　三のたき　　坊中うらて\n　石尊　　　　　　　　　　　　　　　又とりかへる　　　新たき　　　がけづくり\n　宮也　　　　　　　　　　　　　　　　男坂ハ行者堂　　　　　　\n　　　　　　　　本堂不動尊　　　　　　　　より上ル\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　良弁の滝おち口\n　　　　　　　　木戸六月廿八日ゟ　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　七月一七日迠　　　　　　　　　　　　　　　　　　　大木を並べたる橋\n\n　　　　　　　　　　　　　　　　　　　二王門　　　　　　此はしゟ大滝へ行く\n来迎谷　　　がく堂\n\n　　　　　　　　　みのけ道　　　　　　　　　　　　西の河原石仏お\n　　柴戸六月廿八日ゟ　　　　　　　　　　　　　　　　　　　　　　　西の河原道\n　　　　　　　　　　　　　　　　　　　　　女坂ハ西ノ河原\n　　七月十七日迠開　　　　　　　　　　　　　　　より上ル\n　　　　　　　　日向日向越此所ゟ伊豆見る\n　　　　　　　ひでり越ともいふ　　　　　　　　　　　　　　　　　　　　大滝おち口\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　　　　　　　　石仏銅仏多し　　　　大滝ミち　　　　　　　　　みのけ道\n　　　　　中の茶屋　",
+            "timestamp": {
+                "_nanoseconds": 877000000,
+                "_seconds": 1574167511
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/38c992d6-236f-4f8f-97d4-06f2a89d587b/canvas/p2",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "030AE320CBA216C2CD94E6B864DBFC61",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【図題―図左上】\n相模国\n大隅郡\n大山阿\n夫利神\n社真景\n\n【図内文章】\n　【箱根山上二子岳説明】\nこれは大山ゟ\n真南に\nあたれとも略して辰巳の方へ出\nせばおしはかりて見るべし\n\n　【海内の説明】\n此本八王子\n又大山より\n田村川にお\nちて馬入\n川にいる\n\n【署名】\n御届　明治十四年六月廿三日\n　　　浅草馬道町三丁目一番地\n　　画工出板人　児玉彌七",
+            "text": "【図題―図左上】\n相模国\n大隅郡\n大山阿\n夫利神\n社真景\n\n【図内文章】\n　【箱根山上二子岳説明】\nこれは大山ゟ\n真南に\nあたれとも略して辰巳の方へ出\nせばおしはかりて見るべし\n\n　【海内の説明】\n此本八王子\n又大山より\n田村川にお\nちて馬入\n川にいる\n\n【署名】\n御届　明治十四年六月廿三日\n　　　浅草馬道町三丁目一番地\n　　画工出板人　児玉彌七",
+            "timestamp": {
+                "_nanoseconds": 624000000,
+                "_seconds": 1574169609
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

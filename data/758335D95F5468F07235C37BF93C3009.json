@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3400b8ba5612479873249415420656ea6472ccac.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88522",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88522/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88522",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "758335D95F5468F07235C37BF93C3009",
+    "label": "[あら嬉し大安日にゆり直す]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[あら嬉し大安日にゆり直す]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-095"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "37×25.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "aadc77a4-df21-4317-b3f2-59859a33528e"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0142"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3400b8ba5612479873249415420656ea6472ccac.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/aadc77a4-df21-4317-b3f2-59859a33528e/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "758335D95F5468F07235C37BF93C3009",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【中央資料のみ翻刻】\n\nあら嬉（うれ）し\n　大安日に\n　　　ゆり直す\n　 御代（みよ）は\n　　 千秋（せんしう）\n　 後万歳楽（ごまんざいらく）\n　　鶴亭主人\n\n〽わたくしどもいさゝか人にうらみはなひが\n　このごろどぜうめがりうかうしてなまづの\n　むまに【うま煮】はおあいだになりそれかくちおしくて\n　うごきましたところおもひよらぬ\n　けがにんをこしらへあとさき見づの\n　とがをくやみてごまんざいらくの\n　　はてまてもすなを\n　　　かぶつてうごき\n　　　　　ませぬゆへ\n　　　　　　ごようしや〳〵\n\n【挿絵内】　要石\n\n\n",
+            "text": "【中央資料のみ翻刻】\n\nあら嬉（うれ）し\n　大安日に\n　　　ゆり直す\n　 御代（みよ）は\n　　 千秋（せんしう）\n　 後万歳楽（ごまんざいらく）\n　　鶴亭主人\n\n〽わたくしどもいさゝか人にうらみはなひが\n　このごろどぜうめがりうかうしてなまづの\n　むまに【うま煮】はおあいだになりそれかくちおしくて\n　うごきましたところおもひよらぬ\n　けがにんをこしらへあとさき見づの\n　とがをくやみてごまんざいらくの\n　　はてまてもすなを\n　　　かぶつてうごき\n　　　　　ませぬゆへ\n　　　　　　ごようしや〳〵\n\n【挿絵内】　要石\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 919000000,
+                "_seconds": 1569674960
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

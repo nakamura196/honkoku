@@ -1,0 +1,187 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3350d44d0c32653e631c946f209e8fe500c6dca1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88565",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88565/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88565",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f82e76a8e1749b02c378e5f2ae46c3a4039268ea.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219860",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219860/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219860",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "hidden": true,
+    "id": "90F5E1278857FF6472849BF8369C39B4",
+    "label": "岩手県青森県宮城県大海嘯画報",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "岩手県青森県宮城県大海嘯画報"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-03-006"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治29年6月15日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "画：小国政／印刷発行：日本橋区長谷川町9　神田初次郎"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36×23"
+        },
+        {
+            "label": "備考",
+            "value": "3枚組"
+        },
+        {
+            "label": "year",
+            "value": "1896"
+        },
+        {
+            "label": "identifier",
+            "value": "f8d5c167-b9b7-4222-971d-35caa7f765bd"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0185"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 0,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3350d44d0c32653e631c946f209e8fe500c6dca1.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p1",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "90F5E1278857FF6472849BF8369C39B4",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "巖手縣 青森縣 宮城縣\n大海嘯（つなみ）畫報（ぐははう）\n\n小國政【印 小國政画】",
+            "text": "巖手縣 青森縣 宮城縣\n大海嘯（つなみ）畫報（ぐははう）\n\n小國政【印 小國政画】",
+            "timestamp": 1564061083895
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f8d5c167-b9b7-4222-971d-35caa7f765bd/canvas/p2",
+            "editedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "entryId": "90F5E1278857FF6472849BF8369C39B4",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "1Q5E7b0DqePIJ0a1xCicuV0yeyA2",
+            "tempText": "明治廿九年六月十五日(陰暦（きうれき）五月（ごくわつ）五日（せつく）)\n怒濤（どたう）天（てん）を捲（ま）ひて襲来（しうらい）し其（その）勢（いきほ）ひ\n猛烈（もうれつ）にして実（じつ）に五千 余（よ）の家屋（いへ） 海底（うみそこ）\nに沈（しづ）み三万 余（よ）の死屍（しがい）波間（なみま）に？（ほうむ）【草冠+死+大】らる\n此（この）悲惨（ひさん）の境界（けうがい）に一生（いつしやう）を全（まつた）ふする者（もの）ある\nも家（いへ）無（な）く食（しよく）なく家族（かぞく）なく財産（ざいさん）なし\n負傷者（ふしやうしや）は痛（いたみ）に斃（たほ）れ健康者（たつしやなひと）は饑（うえ）に迫（せま）る\n其（その）惨状（むざん）実（じつ）に酸鼻（なげかわしき）の至（いた）り也（なり）爰（こゝ）に赤十（せきじふ）\n字社（じしや）の如（ごと）きは夙（はや）く災地（さいち）へ醫員（ゐいん）を出張（しゆつちやう）\nせしめ能（よ）く之（これ）を看護（かんご）し四方（しはう）の有志者（いうししや）\nは財（さい）を抛（なけ）うつて能（よ）く之（これ）を救恤（めぐみ）せら\nるゝも如何（いかに）せん被害（ひがい）區域（くいき）の廣（ひろ）き\n為（た）め未（いま）だ二分（にふん）の潤澤（うるほひ）も現（あら）はれず同胞（たうばう）\n相憐（あいあはれむ）の情（じやう）ある人（ひと）は万費（ついへ）を省略（はぶき）して\n罹災（りさい）人民（じんみん）を救浮（すくひ）せられんことを\n切（せつ）に勧誘（くわんゆう）する所（ところ）なり\n\n明治廿九年七月＜割書：　日印刷｜　日発行＞\n臨写印刷兼発行者\n日本橋区長谷川丁九バンチ\n　　福田初次郎\n",
+            "text": "明治廿九年六月十五日(陰暦（きうれき）五月（ごくわつ）五日（せつく）)\n怒濤（どたう）天（てん）を捲（ま）ひて襲来（しうらい）し其（その）勢（いきほ）ひ\n猛烈（もうれつ）にして実（じつ）に五千 余（よ）の家屋（いへ） 海底（うみそこ）\nに沈（しづ）み三万 余（よ）の死屍（しがい）波間（なみま）に？（ほうむ）【草冠+死+大】らる\n此（この）悲惨（ひさん）の境界（けうがい）に一生（いつしやう）を全（まつた）ふする者（もの）ある\nも家（いへ）無（な）く食（しよく）なく家族（かぞく）なく財産（ざいさん）なし\n負傷者（ふしやうしや）は痛（いたみ）に斃（たほ）れ健康者（たつしやなひと）は饑（うえ）に迫（せま）る\n其（その）惨状（むざん）実（じつ）に酸鼻（なげかわしき）の至（いた）り也（なり）爰（こゝ）に赤十（せきじふ）\n字社（じしや）の如（ごと）きは夙（はや）く災地（さいち）へ醫員（ゐいん）を出張（しゆつちやう）\nせしめ能（よ）く之（これ）を看護（かんご）し四方（しはう）の有志者（いうししや）\nは財（さい）を抛（なけ）うつて能（よ）く之（これ）を救恤（めぐみ）せら\nるゝも如何（いかに）せん被害（ひがい）區域（くいき）の廣（ひろ）き\n為（た）め未（いま）だ二分（にふん）の潤澤（うるほひ）も現（あら）はれず同胞（たうばう）\n相憐（あいあはれむ）の情（じやう）ある人（ひと）は万費（ついへ）を省略（はぶき）して\n罹災（りさい）人民（じんみん）を救浮（すくひ）せられんことを\n切（せつ）に勧誘（くわんゆう）する所（ところ）なり\n\n明治廿九年七月《割書：　日印刷｜　日発行》\n臨写印刷兼発行者\n日本橋区長谷川丁九バンチ\n　　福田初次郎\n",
+            "timestamp": 1564123854480
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

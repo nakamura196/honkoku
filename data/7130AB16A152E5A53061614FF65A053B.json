@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/edc00653d364143a4d8bc48640e60b4ba946cf11.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88832",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88832/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88832",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "7130AB16A152E5A53061614FF65A053B",
+    "label": "修善寺温泉之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "修善寺温泉之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-012"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "版元：豆州修善寺湯 江戸屋喜左衛門／画工：掃部真信"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "32.5×40.5"
+        },
+        {
+            "label": "identifier",
+            "value": "1a1b692b-e2db-426c-961f-c9648a634709"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0456"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/edc00653d364143a4d8bc48640e60b4ba946cf11.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1a1b692b-e2db-426c-961f-c9648a634709/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "7130AB16A152E5A53061614FF65A053B",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "tempText": "　伊豆国桂谷修善寺\n此所初開場弘法大師空海\n和尚この温泉をひらき給ひし\nしるしに独鈷を建おかれし故\n名づけてとつこ湯と呼ぶ頃は承\n和二年三月廿一日大師卒去也\n近は天保四年十二月廿一日大師\n一千年の御忌あり寺に大師\n御自作の大黒天の像あり\n此功徳を信じて福地山といふ\n風景は唐土蘆山模せり堂の\n左りの方に範頼の墓あり橋\n向釈迦堂の左りに頼家の墳\nあり年歴は元久元年壬申\n七月と斗りあり近世は元禄\n十六年五百回御忌有しとなん\n【右側下】\n豆州修善寺湯\n　板元　　江戸屋喜左エ門\n　　画工　　掃部真信【印、「真信」】",
+            "text": "　伊豆国桂谷修善寺\n此所初開場弘法大師空海\n和尚この温泉をひらき給ひし\nしるしに独鈷を建おかれし故\n名づけてとつこ湯と呼ぶ頃は承\n和二年三月廿一日大師卒去也\n近は天保四年十二月廿一日大師\n一千年の御忌あり寺に大師\n御自作の大黒天の像あり\n此功徳を信じて福地山といふ\n風景は唐土蘆山模せり堂の\n左りの方に範頼の墓あり橋\n向釈迦堂の左りに頼家の墳\nあり年歴は元久元年壬申\n七月と斗りあり近世は元禄\n十六年五百回御忌有しとなん\n【右側下】\n豆州修善寺湯\n　板元　　江戸屋喜左エ門\n　　画工　　掃部真信【印、「真信」】",
+            "timestamp": {
+                "_nanoseconds": 132000000,
+                "_seconds": 1569632668
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

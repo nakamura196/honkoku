@@ -1,0 +1,118 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4992,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a228ab8062dbb42eae0f6ccd183688da62c1670a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4992,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88724",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88724/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88724",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "FAFF59F973D36491D96A9ADCB3E6C072",
+    "label": "越中国立山禅定名所附図別当岩峅寺",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "越中国立山禅定名所附図別当岩峅寺"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-06-013"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "57×40"
+        },
+        {
+            "label": "identifier",
+            "value": "d7884fef-91fd-41f6-bb7e-97cab05da181"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0344"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a228ab8062dbb42eae0f6ccd183688da62c1670a.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d7884fef-91fd-41f6-bb7e-97cab05da181/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "FAFF59F973D36491D96A9ADCB3E6C072",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【表題―横書き】\n越中国立山禅定名所附図別当岩 峅（くら）寺\n\n【図内囲み文章】\n▲立山大権現は伊弉諾伊弉冉の霊躰\n一切男女の元神にて此峰を城都として上下人の\n父母なる故邪正倶に利益す謂る越の太宮也四十二代の\n聖皇文武神詫【託】によつて佐伯有頼公を越の領主に下し\n給ふ幸二神熊と鷹に化現して嫡子有頼を峯中に引入す\n則玉殿岩屋の内にして先代祖々の法を受持し頓悟す依之\n慈興と称し　開山也大宝元年に別当岩峅寺を立又\n四月八日に権現告て曰昊天には峯に住し龍花会【 釈尊の誕生を記念する灌仏会の別称】を持【？伝？】上天\nには此所に住しとそつ寂光を守る是垂跡【迹】の地なり諸\n堂精舎を造立し毎年此日祭礼修行なすへしと\n＜割書：云　｜　々＞今に七社の神輿をすへ楽者を揃へ児の葬【？】法花\n問答あり此山の地主は手力雄の尊也天平七年行基\nほさつ此峯によぢ登り諸嶽を拝し岩峅寺\n五智の尊像を造立し御講殿に安置し給ふ\n依之一国の経蔵也日本廻国の行者\n此所に経を納むるなり\n\n▲岩くら寺ゟ芦くら迄\n三り是ゟ藤橋迄一り右は\n湯の又川左りはしやうめう川\n藤橋の向にこかね坂あり\nせんじゆう原有此所にせん\nしゆ堂有是皆立山大権現の\n式地御本社迄九り八丁也せんしゆ堂\nより、ひちよ杉迄一り此間にくまを権現堂有むかし\n材木拵る所へ女人来る故材木石に成立つ之横つし則材木坂と成がき\nが首と云所有くまをちんざ也わしの岩屋若狭国長良か尼の下女\nびちよ杉と成此所は水なしぶな坂迄一り此間に右の尼かふろをしかりな\nから小便するにならく迄穴通ししかりばかと云たんさいのみさかと云坂有\nふたんとて仏ちんざ長良か尼石つれしかふろ杉と成廻り八尺斗三間ゟ上へ四方へ\n枝みだれしなし廻り三十間あまり有ぶな坂ゟくわ谷へ一り此間にしやう\nめうのたきを拝むふしおかみと云かりやす坂くわ谷此所昼飯する也水あり\n別当所ゟせつたいの茶屋有ふどう堂迄二り此間くはさき観音堂あり\nふとう堂二間三間也堂ゟ右十間はかり行て水有追分迄一り此間に湯\nのみち有松尾越へと云あみたか原やくし如来の木石有追分堂はぢさうぼ\nさつ是より右は姥かふところのみち右の尼石と成女人のかたち有左りは一の谷道登りに\n大くさり有三条小うちむねちか作しゝかはな岩屋弘法大師ごま修行のはい有\nさく峠坂の左りの方ちくしやう原その所へふしきの牛馬見る事多し面は人間にして四足\n有下市場迄一り此間に鏡石あり右尼姥かうふところにて権現へ鏡を上るび石と\n成二間四方有小松坂下市場上市場有と聖霊市をなす故市場と云左りの方は大日\nかたけ右は国見かだけ室堂迄一り此間に横わたりと云所雪の上五丁斗り行右\nに出しの谷と云かんぜきの谷有不信心の者はちくせう出通りがたし地こくの追分\nぢさう堂右の方は室宝堂みち左りは地こくみち高とうばと云所そとは有右の方\nの山は大天狗小天狗の御在所也別当室堂に居住す堂は四間五間三つある也\n\n【図内右囲み】\n別当岩くらの坊数二十四かくばんになつはみねに\n住し諸参詣の人をみちびき冬春は岩くら寺\n前立にて荘番法会をつとむる也\n\n【図内短文章】\n此峯【６行目の此峯と同じ】ふげんば【？】うし\n百ねん仏の前に\n三ど来迎あり\n\n〇室堂ゟ\n御本社迄一り\n此あたり　雪有\nはらへ堂ゟ上みたの\n妙躰也\n\n自然の岩屋奥行\n十間程内に？蔵石\nありみた【弥陀】の金さう【像】\n有左りのわきに矢の\n穴あり此矢御本社に\nあり\n\nたいしやくの\n硯水池七間に\n十六間\n有頼のぐ\nそく【具足】あり\n\n大こや此所ゟしやうめうの\nたきをがむふし拝みといふ\n",
+            "text": "【表題―横書き】\n越中国立山禅定名所附図別当岩 峅（くら）寺\n\n【図内囲み文章】\n▲立山大権現は伊弉諾伊弉冉の霊躰\n一切男女の元神にて此峰を城都として上下人の\n父母なる故邪正倶に利益す謂る越の太宮也四十二代の\n聖皇文武神詫【託】によつて佐伯有頼公を越の領主に下し\n給ふ幸二神熊と鷹に化現して嫡子有頼を峯中に引入す\n則玉殿岩屋の内にして先代祖々の法を受持し頓悟す依之\n慈興と称し　開山也大宝元年に別当岩峅寺を立又\n四月八日に権現告て曰昊天には峯に住し龍花会【 釈尊の誕生を記念する灌仏会の別称】を持【？伝？】上天\nには此所に住しとそつ寂光を守る是垂跡【迹】の地なり諸\n堂精舎を造立し毎年此日祭礼修行なすへしと\n《割書：云　｜　々》今に七社の神輿をすへ楽者を揃へ児の葬【？】法花\n問答あり此山の地主は手力雄の尊也天平七年行基\nほさつ此峯によぢ登り諸嶽を拝し岩峅寺\n五智の尊像を造立し御講殿に安置し給ふ\n依之一国の経蔵也日本廻国の行者\n此所に経を納むるなり\n\n▲岩くら寺ゟ芦くら迄\n三り是ゟ藤橋迄一り右は\n湯の又川左りはしやうめう川\n藤橋の向にこかね坂あり\nせんじゆう原有此所にせん\nしゆ堂有是皆立山大権現の\n式地御本社迄九り八丁也せんしゆ堂\nより、ひちよ杉迄一り此間にくまを権現堂有むかし\n材木拵る所へ女人来る故材木石に成立つ之横つし則材木坂と成がき\nが首と云所有くまをちんざ也わしの岩屋若狭国長良か尼の下女\nびちよ杉と成此所は水なしぶな坂迄一り此間に右の尼かふろをしかりな\nから小便するにならく迄穴通ししかりばかと云たんさいのみさかと云坂有\nふたんとて仏ちんざ長良か尼石つれしかふろ杉と成廻り八尺斗三間ゟ上へ四方へ\n枝みだれしなし廻り三十間あまり有ぶな坂ゟくわ谷へ一り此間にしやう\nめうのたきを拝むふしおかみと云かりやす坂くわ谷此所昼飯する也水あり\n別当所ゟせつたいの茶屋有ふどう堂迄二り此間くはさき観音堂あり\nふとう堂二間三間也堂ゟ右十間はかり行て水有追分迄一り此間に湯\nのみち有松尾越へと云あみたか原やくし如来の木石有追分堂はぢさうぼ\nさつ是より右は姥かふところのみち右の尼石と成女人のかたち有左りは一の谷道登りに\n大くさり有三条小うちむねちか作しゝかはな岩屋弘法大師ごま修行のはい有\nさく峠坂の左りの方ちくしやう原その所へふしきの牛馬見る事多し面は人間にして四足\n有下市場迄一り此間に鏡石あり右尼姥かうふところにて権現へ鏡を上るび石と\n成二間四方有小松坂下市場上市場有と聖霊市をなす故市場と云左りの方は大日\nかたけ右は国見かだけ室堂迄一り此間に横わたりと云所雪の上五丁斗り行右\nに出しの谷と云かんぜきの谷有不信心の者はちくせう出通りがたし地こくの追分\nぢさう堂右の方は室宝堂みち左りは地こくみち高とうばと云所そとは有右の方\nの山は大天狗小天狗の御在所也別当室堂に居住す堂は四間五間三つある也\n\n【図内右囲み】\n別当岩くらの坊数二十四かくばんになつはみねに\n住し諸参詣の人をみちびき冬春は岩くら寺\n前立にて荘番法会をつとむる也\n\n【図内短文章】\n此峯【６行目の此峯と同じ】ふげんば【？】うし\n百ねん仏の前に\n三ど来迎あり\n\n〇室堂ゟ\n御本社迄一り\n此あたり　雪有\nはらへ堂ゟ上みたの\n妙躰也\n\n自然の岩屋奥行\n十間程内に？蔵石\nありみた【弥陀】の金さう【像】\n有左りのわきに矢の\n穴あり此矢御本社に\nあり\n\nたいしやくの\n硯水池七間に\n十六間\n有頼のぐ\nそく【具足】あり\n\n大こや此所ゟしやうめうの\nたきをがむふし拝みといふ\n",
+            "timestamp": {
+                "_nanoseconds": 919000000,
+                "_seconds": 1573813887
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

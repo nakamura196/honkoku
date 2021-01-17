@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3dde124a672d9335476c2e09257a76be0a06a1ca.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88464",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 2109
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88464/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88464",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 2109
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "5C7EFF3B07E57455AFCD4E5C9FDB1662",
+    "label": "[福助・恵比寿・大黒・閻魔の子 福神長者を諭す]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[福助・恵比寿・大黒・閻魔の子 福神長者を諭す]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-037"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34.5×24"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "8d6edbb7-278e-4a7c-9748-7f62bd75a927"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0084"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3dde124a672d9335476c2e09257a76be0a06a1ca.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8d6edbb7-278e-4a7c-9748-7f62bd75a927/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "5C7EFF3B07E57455AFCD4E5C9FDB1662",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【本文は三段構成】\n【第一段】\nぢしんゆりいへくら大いにくづれ長者\nはなはだ心をくるしめいかゞはせんとせし\nところへ福神きたりたまひ長者を\nさとし玉ふ大こく【大こく：小書き】〽これ〳〵【これ〳〵：小書き】手まへが先祖より\nためたる所のこがねなれどたゞ〳〵かねの\nばんにんをしてゐるばかりではいかぬ\nものじや世かいの宝はゆうずうが\nかんようだかくまいつてゐなけりや\nならぬこれ【これ：小書き】このやうにくらいふるひ\nいへはくづれてゐるとてもなんにも\nきをおとすことはないありがねの\nうちはんぶんはおほくの人に\nほどこしてそのいんとくの\nよけいにてその身もます〳〵\nあんおんにいへくらやしきは\nいくつでもあとから▲\n【第二段】\n▲できるもの\nまづぜんごんをさきとして\n【第三段】\n記号【記号：瓢箪形】心得ましてござり升\nしかしこのかねはこのまゝ\nつみおきましてすこしの\nかねをいだしましてうなぎや\nのみせなどに見へます\nあのなまづをかひとり\n大川へはなしましては\nとうてござりま小\n大こく【大こく：小書き】「それもいひがなぜ\nかねはだせねへのだゑ【ゑ：小書き】\nゑひす【ゑひす：小書き】「さやうさねゑ【ゑ：小書き】\nもち【もち：小書き】「へい【へい：小書き】なまづめを\nはなすよりは\nつらふござります\n人をたすけるくふうを\nさつしやれゑびす【ゑびす：小書き】「それ〳〵\n大黒どのゝいはしやるとほり\n此せつおほくのこんきうにんへ\nせぎやうをいだすものあまた\nありこれらの人もふ□ん□\nおもひその身のくわふくは\n二のつぎにしてけがあやまちの\nないように□□しらをしんじる\nまででもねへいんとくさへほど\nこせば神はまもるがあたりまへ\nなんとほどこしするきはねへか\nもち丸【もち丸：小書き】「もう〳〵【もう〳〵：小書き】なにごとにより\nませずおさしづしだい記号【記号：瓢箪形】\n【第三段】\n記号【記号：瓢箪形】心得ましてござり升\nしかしこのかねはこのまゝ\nつみおきましてすこしの\nかねをいだしましてうなぎや\nのみせなどに見へます\nあのなまづをかひとり\n大川へはなしましては\nとうてござりま小\n大こく【大こく：小書き】「それもいひがなぜ\nかねはだせねへのだゑ【ゑ：小書き】\nゑひす【ゑひす：小書き】「さやうさねゑ【ゑ：小書き】\nもち【もち：小書き】「へい【へい：小書き】なまづめを\nはなすよりは\nつらふござります\n",
+            "text": "【本文は三段構成】\n【第一段】\nぢしんゆりいへくら大いにくづれ長者\nはなはだ心をくるしめいかゞはせんとせし\nところへ福神きたりたまひ長者を\nさとし玉ふ大こく【大こく：小書き】〽これ〳〵【これ〳〵：小書き】手まへが先祖より\nためたる所のこがねなれどたゞ〳〵かねの\nばんにんをしてゐるばかりではいかぬ\nものじや世かいの宝はゆうずうが\nかんようだかくまいつてゐなけりや\nならぬこれ【これ：小書き】このやうにくらいふるひ\nいへはくづれてゐるとてもなんにも\nきをおとすことはないありがねの\nうちはんぶんはおほくの人に\nほどこしてそのいんとくの\nよけいにてその身もます〳〵\nあんおんにいへくらやしきは\nいくつでもあとから▲\n【第二段】\n▲できるもの\nまづぜんごんをさきとして\n【第三段】\n記号【記号：瓢箪形】心得ましてござり升\nしかしこのかねはこのまゝ\nつみおきましてすこしの\nかねをいだしましてうなぎや\nのみせなどに見へます\nあのなまづをかひとり\n大川へはなしましては\nとうてござりま小\n大こく【大こく：小書き】「それもいひがなぜ\nかねはだせねへのだゑ【ゑ：小書き】\nゑひす【ゑひす：小書き】「さやうさねゑ【ゑ：小書き】\nもち【もち：小書き】「へい【へい：小書き】なまづめを\nはなすよりは\nつらふござります\n人をたすけるくふうを\nさつしやれゑびす【ゑびす：小書き】「それ〳〵\n大黒どのゝいはしやるとほり\n此せつおほくのこんきうにんへ\nせぎやうをいだすものあまた\nありこれらの人もふ□ん□\nおもひその身のくわふくは\n二のつぎにしてけがあやまちの\nないように□□しらをしんじる\nまででもねへいんとくさへほど\nこせば神はまもるがあたりまへ\nなんとほどこしするきはねへか\nもち丸【もち丸：小書き】「もう〳〵【もう〳〵：小書き】なにごとにより\nませずおさしづしだい記号【記号：瓢箪形】\n【第三段】\n記号【記号：瓢箪形】心得ましてござり升\nしかしこのかねはこのまゝ\nつみおきましてすこしの\nかねをいだしましてうなぎや\nのみせなどに見へます\nあのなまづをかひとり\n大川へはなしましては\nとうてござりま小\n大こく【大こく：小書き】「それもいひがなぜ\nかねはだせねへのだゑ【ゑ：小書き】\nゑひす【ゑひす：小書き】「さやうさねゑ【ゑ：小書き】\nもち【もち：小書き】「へい【へい：小書き】なまづめを\nはなすよりは\nつらふござります\n",
+            "timestamp": {
+                "_nanoseconds": 148000000,
+                "_seconds": 1567343848
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

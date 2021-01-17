@@ -1,0 +1,176 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 9868,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9c2c8c09867df8e88f90ccecc60a3fde23c86c9b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9868,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56326",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 12888
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56326/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56326",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 12888
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 9868,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ad963efe748cfee9be248024f4ce4ca8acd69f4f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 9868,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56327",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 12888
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56327/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56327",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 12888
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "54376C3A5484115EC1EDA894EA06DD3B",
+    "label": "富士山禅定図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "富士山禅定図"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-03-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "摺物"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "富士山村山大鏡坊蔵板 弘所 関臣龍"
+        },
+        {
+            "label": "identifier",
+            "value": "31f24049-731d-405e-abd4-57e7569838a5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1089"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/9c2c8c09867df8e88f90ccecc60a3fde23c86c9b.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "54376C3A5484115EC1EDA894EA06DD3B",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n冨士山禅定図\n【本文】\n仁王六代孝安天皇九十二庚申年漏出\n秋葉山蹲踞山秘密□祇金亀也\n御影山妙高山来集山\n天童山不人山四方山\n般若山養老山不盡山\n不老山四面山仙人山\n影向山七宝山和合山\n後山蓮華峯\n冨士山郡名トス不二山＜割書：モ｜ト＞書\n頂上八葉嶽\n一嶽地蔵\n二阿弥陀\n三観音\n四釈迦\n内院両界\n曼陁【陀】羅\n胎蔵界\n大日如来\n\n五嶽弥勒\n六嶽薬師\n七嶽文殊\n八嶽宝生如来\n\n八葉九尊\n五智四菩薩\n五大明王五大力菩薩\n八大金剛童子\n一千弐百余尊\n開山役行者大菩薩\nん　あ",
+            "text": "【タイトル】\n冨士山禅定図\n【本文】\n仁王六代孝安天皇九十二庚申年漏出\n秋葉山蹲踞山秘密□祇金亀也\n御影山妙高山来集山\n天童山不人山四方山\n般若山養老山不盡山\n不老山四面山仙人山\n影向山七宝山和合山\n後山蓮華峯\n冨士山郡名トス不二山《割書：モ｜ト》書\n頂上八葉嶽\n一嶽地蔵\n二阿弥陀\n三観音\n四釈迦\n内院両界\n曼陁【陀】羅\n胎蔵界\n大日如来\n\n五嶽弥勒\n六嶽薬師\n七嶽文殊\n八嶽宝生如来\n\n八葉九尊\n五智四菩薩\n五大明王五大力菩薩\n八大金剛童子\n一千弐百余尊\n開山役行者大菩薩\nん　あ",
+            "timestamp": {
+                "_nanoseconds": 894000000,
+                "_seconds": 1574040866
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/31f24049-731d-405e-abd4-57e7569838a5/canvas/p2",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "54376C3A5484115EC1EDA894EA06DD3B",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトルなし】\n【コマ一の裏、左上角に冨士山絵図との書き込みあり】\n",
+            "text": "【タイトルなし】\n【コマ一の裏、左上角に冨士山絵図との書き込みあり】\n",
+            "timestamp": {
+                "_nanoseconds": 921000000,
+                "_seconds": 1573622212
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,180 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5759,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/6f870e01a71403200e76fe86dcccf787e1493d85.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5759,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56166",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7665
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56166/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56166",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7665
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5759,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0ad48d63a07341b00127cc5d42dce2ece1536bb8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5759,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56167",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7665
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56167/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56167",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7665
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "8447BB2A7BBC2F16255B66458BBE1A82",
+    "label": "[病気鯰に諸職人見舞の図]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[病気鯰に諸職人見舞の図]"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-023"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "2a100f9b-3394-414c-9146-92db2fe72e7f"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1023"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/6f870e01a71403200e76fe86dcccf787e1493d85.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "8447BB2A7BBC2F16255B66458BBE1A82",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "とび\n「ヘイごめんなさいやしわちきア とびで\nごぜへエスが このたびは いろ〳〵おせはくださり\nおかげさまで まうかりました これはあげでこぜいす\nほんのしるしばかり とびにあふらげとは この事てござい\nあなぐら大工\n「ヘイわたくしは たいくの あなはちと まうしますが\nこれは ひやうたんぐすりでござりますが あなたさまに\n大みやうやくで ございます いたみのところへ つければ\nなまずは ひやうたんで をさへますと まうします\nどかた\n「チトごめんなさいまし わたくしは どかたて\nございます このごろは どかたの ねへほど\nかねが もうかるから ちつとたれかにかして\nやりたいものだ\nほねつぎ\n「わたくしは ほねつきで ございますがこのあいた\nまで しやうじや からかさのほねつぎで こざり\nましたが おかげさまで まうかりました\nさかん\n「ヘイごめんなさい わたくしは ぬり五郎てござり\nますが おい〳〵さかんに こて〳〵まうかりますから\nなまづで さけが うまうございます\nざいもくや\n「わたくしは ざいもくや木へいと まうしまうします このたびは\nをう木に うれました けや木も もめずに くろがきも\nしのぎました たくさんまうけすぎました いくらもめても\n木は もめません\n四もんや\n「わたくしは しもんやで ございますが ぢしんさま おか\nげでにしんが うれるから さんちんがししんで せつちんが\nくさからう\nだいく\n「ヘイわたくしは たいくのいたすけと まうします\nなまづ くはつに おりましたが ぢしんさまのおかげで\nおかねがたいそう もうかりました このしなものは\nせけんを おだやかに ふるへのなをる 大工（だいく）すりで ごさります\nちうげん\n「わたくしは あかいこもんのかみさまの ちうげんで\nこざりますが わらじで もうけましたおれいに\nおにしめを もつてまいりました かづもよつぽど\nこざいます ぢしんあき【み？】なるかずおほく\nやねや\n「ヘイわたくしは やけやのとんすけとまうしますが\nこのたびは おかげさまで やねはちしんぶきになり\nまして おかねが まうかりますて\nこしや【引越屋じゃなくて葬儀屋なのかな？】\n「わたくしは こしやのうめ八でこさいますが あなたの\nおかげて 一チばんのうめへこし〳〵おかねがまうかりすぎ\nほねがおれて あしこしがいとふござります\nいしや\n「このごびやうきは じうぐわつ二日のよる四つじぶん\nから ふるへが まいりましたか しかしこのあんばいでは\nかはつて おはらのゆふづが つきませう まづ このかしま\nがんといふ くすりを をあがんなさいまし\n大なまづ\n「わたくしも このあいだのじこうて からだをだいなし\nにいたしました それからといふものは あたまがゆさ〳〵して\nこまります まう せけんを おたやかに づゝうのないよう\nにいたしたいとは おもひますが ふるへが いまた なをりま\nせんから よなほしぐすりでももちいて めでたくなほし\nたいものでこざります\n",
+            "text": "とび\n「ヘイごめんなさいやしわちきア とびで\nごぜへエスが このたびは いろ〳〵おせはくださり\nおかげさまで まうかりました これはあげでこぜいす\nほんのしるしばかり とびにあふらげとは この事てござい\nあなぐら大工\n「ヘイわたくしは たいくの あなはちと まうしますが\nこれは ひやうたんぐすりでござりますが あなたさまに\n大みやうやくで ございます いたみのところへ つければ\nなまずは ひやうたんで をさへますと まうします\nどかた\n「チトごめんなさいまし わたくしは どかたて\nございます このごろは どかたの ねへほど\nかねが もうかるから ちつとたれかにかして\nやりたいものだ\nほねつぎ\n「わたくしは ほねつきで ございますがこのあいた\nまで しやうじや からかさのほねつぎで こざり\nましたが おかげさまで まうかりました\nさかん\n「ヘイごめんなさい わたくしは ぬり五郎てござり\nますが おい〳〵さかんに こて〳〵まうかりますから\nなまづで さけが うまうございます\nざいもくや\n「わたくしは ざいもくや木へいと まうしまうします このたびは\nをう木に うれました けや木も もめずに くろがきも\nしのぎました たくさんまうけすぎました いくらもめても\n木は もめません\n四もんや\n「わたくしは しもんやで ございますが ぢしんさま おか\nげでにしんが うれるから さんちんがししんで せつちんが\nくさからう\nだいく\n「ヘイわたくしは たいくのいたすけと まうします\nなまづ くはつに おりましたが ぢしんさまのおかげで\nおかねがたいそう もうかりました このしなものは\nせけんを おだやかに ふるへのなをる 大工（だいく）すりで ごさります\nちうげん\n「わたくしは あかいこもんのかみさまの ちうげんで\nこざりますが わらじで もうけましたおれいに\nおにしめを もつてまいりました かづもよつぽど\nこざいます ぢしんあき【み？】なるかずおほく\nやねや\n「ヘイわたくしは やけやのとんすけとまうしますが\nこのたびは おかげさまで やねはちしんぶきになり\nまして おかねが まうかりますて\nこしや【引越屋じゃなくて葬儀屋なのかな？】\n「わたくしは こしやのうめ八でこさいますが あなたの\nおかげて 一チばんのうめへこし〳〵おかねがまうかりすぎ\nほねがおれて あしこしがいとふござります\nいしや\n「このごびやうきは じうぐわつ二日のよる四つじぶん\nから ふるへが まいりましたか しかしこのあんばいでは\nかはつて おはらのゆふづが つきませう まづ このかしま\nがんといふ くすりを をあがんなさいまし\n大なまづ\n「わたくしも このあいだのじこうて からだをだいなし\nにいたしました それからといふものは あたまがゆさ〳〵して\nこまります まう せけんを おたやかに づゝうのないよう\nにいたしたいとは おもひますが ふるへが いまた なをりま\nせんから よなほしぐすりでももちいて めでたくなほし\nたいものでこざります\n",
+            "timestamp": {
+                "_nanoseconds": 956000000,
+                "_seconds": 1570431732
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/2a100f9b-3394-414c-9146-92db2fe72e7f/canvas/p2",
+            "editedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "entryId": "8447BB2A7BBC2F16255B66458BBE1A82",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "cjaNKAeWdub3DU9DHmCMT3XSH1B3",
+            "tempText": "東京大学図書印　0011841772",
+            "text": "東京大学図書印　0011841772",
+            "timestamp": {
+                "_nanoseconds": 60000000,
+                "_seconds": 1570142579
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

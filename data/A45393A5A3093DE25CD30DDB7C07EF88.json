@@ -1,0 +1,175 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5361,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3ae0f9a97fd145d951cdea8f3a56f7d4a50383fe.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5361,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56254",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7135
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56254/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56254",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7135
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5361,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/9d9229bda14d5dd0b626594e026a3653d1c314e2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5361,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56255",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 7135
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56255/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56255",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 7135
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "A45393A5A3093DE25CD30DDB7C07EF88",
+    "label": "東海道大地震津波出火",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "東海道大地震津波出火"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-028"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "960e5c0e-7e49-431e-a0b9-68c7fe1225a8"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1064"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3ae0f9a97fd145d951cdea8f3a56f7d4a50383fe.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "A45393A5A3093DE25CD30DDB7C07EF88",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "【欄外】\n嘉永七寅十一月四日\n【表題】\n東海道大地震津波出火\n【表題下の枠内】\n十一月四日大ぢ\nしんニ付宿々\n大あれ往来\n止り此外未不分\n【本文、右上から左下にかけて】\n蒲原　問屋より東\n　　　焼残り\n　　　くつれ\n岩渕　六部くづれ\n　　　四部\n　　　　やけ\n吉原　丸やけ\n由井　無事\n興津　大津浪\n　　　出火\n　　　　四部やけ\n江尻　丸やけ\n府中　江川丁より\n　　　出火\n　　　　四部やけ\n丸子　大地しん\n　　　残り\n　　　　くづれ\n岡部　大ぢしん\n　　　不残\n　　　　くつれ\n藤枝　上ノ方\n　　　六部\n　　　　やけ\n嶋田　大ちしん\n　　　五部\n　　　　くつれ\n金谷　大ちしん\n　　　七部\n　　　　丸やけ\n日坂　無事\n掛川　大ちしん\n　　　不残\n　　　　丸やけ\n袋井　大ちしん\n　　　丸やけ\n見付　大ちしん\n　　　六部\n　　　　くつれ\n濱松　大ちしん\n　　　六部くつれ\n舞坂　大ちしん\n　　　四部\n　　　　くつれ\n荒井　御関所損\n　　　町方くつれ\n白須賀　大ちしん\n　　　八部\n　　　　くつれ\n二タ川　大ぢしん\n　　　五部\n　　　　くつれ\n吉田　大ぢしん\n　　　六部\n　　　　くつれ\n御油　大あれ\n赤坂　不残\n　　　くつれ\n藤川　山くつれ\n　　　七部\n　　　　くつれ\n　　　川水なし\n岡崎　不残\n　　　くつれ\n池鯉鮒　大津浪\n　　　大ちしん\n鳴海　七部\n　　　　くつれ\n宮　　八部\n　　　　くつれ\n桑名　大津浪\n　　　大ぢしん\n",
+            "text": "【欄外】\n嘉永七寅十一月四日\n【表題】\n東海道大地震津波出火\n【表題下の枠内】\n十一月四日大ぢ\nしんニ付宿々\n大あれ往来\n止り此外未不分\n【本文、右上から左下にかけて】\n蒲原　問屋より東\n　　　焼残り\n　　　くつれ\n岩渕　六部くづれ\n　　　四部\n　　　　やけ\n吉原　丸やけ\n由井　無事\n興津　大津浪\n　　　出火\n　　　　四部やけ\n江尻　丸やけ\n府中　江川丁より\n　　　出火\n　　　　四部やけ\n丸子　大地しん\n　　　残り\n　　　　くづれ\n岡部　大ぢしん\n　　　不残\n　　　　くつれ\n藤枝　上ノ方\n　　　六部\n　　　　やけ\n嶋田　大ちしん\n　　　五部\n　　　　くつれ\n金谷　大ちしん\n　　　七部\n　　　　丸やけ\n日坂　無事\n掛川　大ちしん\n　　　不残\n　　　　丸やけ\n袋井　大ちしん\n　　　丸やけ\n見付　大ちしん\n　　　六部\n　　　　くつれ\n濱松　大ちしん\n　　　六部くつれ\n舞坂　大ちしん\n　　　四部\n　　　　くつれ\n荒井　御関所損\n　　　町方くつれ\n白須賀　大ちしん\n　　　八部\n　　　　くつれ\n二タ川　大ぢしん\n　　　五部\n　　　　くつれ\n吉田　大ぢしん\n　　　六部\n　　　　くつれ\n御油　大あれ\n赤坂　不残\n　　　くつれ\n藤川　山くつれ\n　　　七部\n　　　　くつれ\n　　　川水なし\n岡崎　不残\n　　　くつれ\n池鯉鮒　大津浪\n　　　大ちしん\n鳴海　七部\n　　　　くつれ\n宮　　八部\n　　　　くつれ\n桑名　大津浪\n　　　大ぢしん\n",
+            "timestamp": {
+                "_nanoseconds": 670000000,
+                "_seconds": 1568708666
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/960e5c0e-7e49-431e-a0b9-68c7fe1225a8/canvas/p2",
+            "editedBy": null,
+            "entryId": "A45393A5A3093DE25CD30DDB7C07EF88",
+            "index": 1,
+            "prevStatus": "default",
+            "status": "default",
+            "tempChanged": false,
+            "tempEditedBy": null,
+            "tempText": "",
+            "text": "",
+            "timestamp": 1561030667180
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

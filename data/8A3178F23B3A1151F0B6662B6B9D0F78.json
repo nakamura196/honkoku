@@ -1,0 +1,836 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/249aa84050d85b2be60d828ca0d30262154c4a39.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56270",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56270/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56270",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/0a4e14319635198e9991923955b87c6fa11d6852.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56271",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56271/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56271",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p3",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0003-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p3",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e8ad1508f7e411d68a11b9e6677422c110ca6450.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56272",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[3]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56272/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56272",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p4",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0004-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p4",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ebe056651ddea2690a9f55db4ba760f50d118be0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56273",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[4]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56273/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56273",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p5",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0005-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p5",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/f53cb5007fe260897953d2bb8df0d6b470619e39.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56274",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[5]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56274/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56274",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p6",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0006-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p6",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/027d339a40c0ba1977dff382c65f4869fc4a635b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56275",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[6]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56275/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56275",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p7",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0007-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p7",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b45d7c16f4a6fc5a883788392c37030f175cabfb.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56276",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[7]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56276/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56276",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p8",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0008-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p8",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/3a74825546204f78a73654c3ebddf083bcdb23a4.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56277",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[8]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56277/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56277",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p9",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0009-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p9",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a1cf2978d35bf3702b393c0dde7d0376e6ace3f9.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56278",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[9]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56278/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56278",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p10",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0010-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p10",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b3db933f93b01343a42c6752da357ad61fe44b2c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56279",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[10]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56279/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56279",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p11",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0011-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p11",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ceecbf9def2e36c4930cfb8571b3555ffe1ae0fd.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56280",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[11]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56280/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56280",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p12",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0012-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p12",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5faaf5b8801e532ba2477097963312a0df3b9d0f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56281",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[12]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56281/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56281",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p13",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0013-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p13",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/dcc90210ea8b9ce0f45702fe594a76a29bae458d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56282",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[13]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56282/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56282",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p14",
+            "@type": "sc:Canvas",
+            "height": 5152,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/annotation/p0014-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p14",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/8b032f782967ebcaac95f8bf978a69e3e771eddc.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5152,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56283",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6857
+                    }
+                }
+            ],
+            "label": "[14]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56283/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56283",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6857
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "8A3178F23B3A1151F0B6662B6B9D0F78",
+    "label": "御府内御屋敷方市中共地震類焼場所明細書之冩兼街道筋近郷聞書",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "御府内御屋敷方市中共地震類焼場所明細書之冩兼街道筋近郷聞書"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-034"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "書付(冊子)"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "二色"
+        },
+        {
+            "label": "出版事項等",
+            "value": "安政2年10月26日改／安政3辰年正月9日写之 小羽氏"
+        },
+        {
+            "label": "備考",
+            "value": "7枚綴"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f40e1fbb-3f24-4dc8-ba7d-54bd609944cd"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1070"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 13,
+    "projectId": "ishimoto",
+    "size": 14,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/249aa84050d85b2be60d828ca0d30262154c4a39.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "安政二夘年十月二日夜四ツ時過十月廿六日改\n御府内御屋敷方市中共\n地震類焼場所明細書之寫\n兼街道筋近郷聞書　禁賣買\n",
+            "timestamp": {
+                "_nanoseconds": 49000000,
+                "_seconds": 1566179964
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p2",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 1,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "一　千住ゟ吉原浅草御蔵前辺\n二　橋場今戸山谷辺\n三　東門跡廣徳寺前辺\n四　堂前より山さき丁辺\n五　坂本ゟ三の輪根岸谷中\n六　上野御山より池のはた辺\n七　廣小路ゟ御成道御かち丁辺\n八　御成道ゟ明神下外神田三味せん堀辺\n九　両国ゟ日本ばし北十軒店辺\n十　神田東西とも\n十一　小川丁辺神田ばし辺\n十二　小石川御門内\n十三　飯田丁ゟ番丁かうじ丁辺\n十四　四谷御門外しん宿青山目黒辺まで\n十五　本郷ゆしま王子辺まで\n十六　駒込白山小石川巣鴨辺まで\n十七　小石川御門外牛込高田辺\n十八　和田倉内大手さき八代洲川岸辺\n十九　外さくら田霞ヶ関永田丁辺\n二十　芝本芝一圓品川まで\n二十一　日本ばし南しんばしまで\n二十二　八丁ぼり築地霊岸嶋佃嶋辺\n二十三　南北本所辺不残\n二十四　深川一圓ニて終る\n【朱字】御大名様御名前上ニ本書御改有之候得共略し不記\n　　　　安政二年正月九日寫之　小羽氏",
+            "text": "一　千住ゟ吉原浅草御蔵前辺\n二　橋場今戸山谷辺\n三　東門跡廣徳寺前辺\n四　堂前より山さき丁辺\n五　坂本ゟ三の輪根岸谷中\n六　上野御山より池のはた辺\n七　廣小路ゟ御成道御かち丁辺\n八　御成道ゟ明神下外神田三味せん堀辺\n九　両国ゟ日本ばし北十軒店辺\n十　神田東西とも\n十一　小川丁辺神田ばし外\n十二　小石川御門内\n十三　飯田丁ゟ番丁かうじ丁辺\n十四　四ツ谷御門外しん宿青山目黒辺まで\n十五　本郷ゆしま王子辺まで\n十六　駒込白山小石川巣鴨辺まで\n十七　小石川御門外牛込高田辺\n十八　和田倉内大手さき八代洲川岸辺\n十九　外さくら田霞ヶ関永田丁辺\n二十　芝本芝一圓品川まで\n二十一　日本ばし南しんばしまで\n二十二　八丁ぼり築地霊岸嶋佃嶋辺\n二十三　南北本所辺不残\n二十四　深川一圓ニて終る\n【朱字】御大名様御名前上ニ本書御紋有之候得共略し不記\n　　　　安政三辰年正月九日寫之　小羽氏",
+            "timestamp": {
+                "_nanoseconds": 966000000,
+                "_seconds": 1566199269
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p3",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 2,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "一　日本橋ゟ北のかたハ千住宿大半くづれ小\nつか原丁両かハ不残やける新よし原ハくつれ候うへ\n江戸丁京丁二ヶ所出火五丁残らすやける大門外\n五十間高札の側の方田中山谷新鳥こへ町は\n家土蔵とも町家寺院不残くつるゝことおひたゝし\n又田丁二丁め同一丁め山川丁北馬道金龍山北\n谷中谷の寺院不残焼失北新丁〈割書：聖天｜よこ丁〉より\n芝居丁三丁やける東かハ少ツヽ残而南馬道より\n花川戸町中ころニて留る瓦丁聖天丁山の宿\nくつれ多く出火の患なし金龍山観音堂つゝかなし\n夫ゟ並木田ハら丁中丁ハ崩れおほく駒かた丁\n中ほど西側ゟ出火當所谷中清水いなり門前\n谷中八軒丁代地少しやける駒かた東がハ駒形堂ゟ\n両側共諏訪丁黒ふね丁三好丁御馬屋川岸\nにてやけ止る榧寺門前のこる三間丁森下辺新堀\n辺大いたミ御蔵まへ通りより茅丁左右代地\n福井丁とも鳥こへ辺くつれ多し\n二　橋場丁ハくつれ多く東かハ少しやける\n今戸ハくづれ半にて橋ぎハ少しやける此辺\n寺院損ぼう多し\n三　東本願寺御堂別条なく地中くつれ無し\n菊屋ばし向新寺丁両かハに半丁やける\n此辺すべて寺院多所なれハ大破おひたゝしく\n損亡数しれず又新堀通上中下共崩多し\n四　堂前〈割書：元三十三間｜堂前なり〉山本仁太夫〈割書：【朱書き】此所本書｜文字不正〉矢来門つふれる\n上出火して此所のミやける山伏丁御切手丁山崎丁崩多し\n五　坂本二丁め三丁めやける御たんす丁へ少しやけ\n込但し一丁めゟ金杉辺ミの輪辺大？寺前辺崩\n多し根岸ハ格別の事なし谷中辺所〻いたミ天王寺",
+            "text": "一　日本橋ゟ北のかたハ千住宿大半くづれ小\nつか原丁両かハ不残やける新よし原ハくつれ候うへ\n江戸丁京丁二ヶ所出火五丁残らすやける大門外\n五十間高札の側の方田中山谷新鳥こへ町は\n家土蔵とも町家寺院不残くつるゝことおひたゝし\n又田丁二丁め同一丁め山川丁北馬道金龍山北\n谷中谷の寺院不残焼失北新丁〈割書：聖天｜よこ丁〉より\n芝居丁三丁やける東かハ少ツヽ残而南馬道より\n花川戸町中ころニて留る瓦丁聖天丁山の宿\nくつれ多く出火の患なし金龍山観音堂つゝかなし\n夫ゟ並木田ハら丁中丁ハ崩れおほく駒かた丁\n中ほど西側ゟ出火當所谷中清水いなり門前\n谷中八軒丁代地少しやける駒かた東がハ駒形堂ゟ\n両側共諏訪丁黒ふね丁三好丁御馬屋川岸\nにてやけ止る榧寺門前のこる三間丁森下辺新堀\n辺大いたミ御蔵まへ通りより茅丁左右代地\n福井丁とも鳥こへ辺くつれ多し\n二　橋場丁ハくつれ多く東かハ少しやける\n今戸ハくづれ半にて橋ぎハ少しやける此辺\n寺院損ぼう多し\n三　東本願寺御堂別条なく地中くつれ多く\n菊屋ばし向新寺丁両かハに半丁やける\n此辺すべて寺院多所なれハ大破おひたゝしく\n損亡数しれず又新堀通上中下共崩多し\n四　堂前〈割書：元三十三間｜堂前なり〉山本仁太夫〈割書：【朱書き】此所本書｜文字不正〉矢来門つふれる\n上出火して此所のミやける山伏丁御切手丁山崎丁崩多し\n五　坂本二丁め三丁めやける御たんす丁へ少しやけ\n込但し一丁めゟ金杉辺ミの輪辺大？寺前辺崩\n多し根岸ハ格別の事なし谷中辺所〻いたミ天王寺",
+            "timestamp": {
+                "_nanoseconds": 872000000,
+                "_seconds": 1566200232
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p4",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 3,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "initiated",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "五重の塔九りん落ち三さきたんご坂少しくつれ\n六　東えい山御別条なし宿坊のミ少〳〵くつるゝ\n池の端かや丁ハ二丁め一丁めつふれのうへ不残やける\n山側のこる尤つふれ多し御すきや丁のこらす崩\n天神下通り御やき大半くづる\n七　下谷廣徳寺前通り裏表御組やき所〻\n格別の崩なし上野廣小路東かハ中ほとゟ出火\nして北大門丁元黒門丁上野町壱丁目二丁め同\n明丁新黒門丁上野御家来やき御成ミち\n　井上筑後守様東北の角からやける大門丁東\n坂丁長者丁一丁め二丁め下谷丁一丁め代地やける\n中御徒士丁片がハにて留る三枝ばし横丁ハ鈴木\n石川酒？福井山崎様やける三枝ばし角ゟ中根\nさま半焼大沼大塚山木太田大塚やける皆川松井\nさまのこる成田堀江田村飯原利根川杉山真下\n津田平野大岩様杉江山本様やける赤井山田\n戸谷藤川岡村やける伊藤様火の中にて半分\n残る太田杉田前田清水藤安様やける三谷長谷\n川中西様のこる船橋谷村渡辺連水川嶋出口\n村田様やける加納様半分やける廣瀬様にて\nやけ止る此所東側美濃部葛山大久保様三けん\nやける又まりし天横丁ハ桃井森下大八木井上平尾\n谷川字木長谷川松本手嶋望月様やける上野\n丁横丁ハ袋丁ニて城戸石川吉村高田中村様\nやける又青石橋横丁肴店通ハ高安山本宮川\n小倉桃井太田様やける此所火の中ニて森田西郷\n様二けん残る上の丁二丁め横丁ハ市田坂本山本\n飯田坂田家木木村様までやける同一丁め横丁ハ\n亀山秋山佐藤河原若？？？？？にてやけ留る",
+            "text": "五重の塔九りん落ち三さきたんご坂辺少しくつれ\n六　東えい山御別条なし宿坊のミ少〳〵くつるゝ\n池の端かや丁ハ二丁め一丁めつふれのうへ不残やける\n山側のこる尤つふれ多し御すきや丁のこらす崩\n天神下通り御やき大半くづる\n七　下谷廣徳寺前通り裏表御組やしき所〻\n格別の崩なし上野廣小路東かハ中ほとゟ出火\nして北大門丁元黒門丁上野町壱丁目二丁め同\n朋丁新黒門丁上野御家来やしき御成ミち\n　井上筑後守様東北の角少しやける大門丁東\n坂丁長者丁一丁め二丁め下谷丁一丁め代地やける\n中御徒士丁片がハにて留る三枝ばし横丁ハ鈴木\n石川酒巻福井山崎様やける三枝ばし角ゟ中根\nさま半焼大沼大塚山木太田大塚やける皆川松井\n様のこる成田堀江田村飯原利根川杉山真下\n津田平野大岩様杉江山本様やける赤井山田\n戸谷藤川岡村やける伊藤様火の中にて半分\n残る太田杉田前田清水藤安様やける三谷長谷\n川中西様のこる船橋谷村渡辺連水川嶋出口\n村田様やける加納様半分やける廣瀬様にて\nやけ止る此所東側美濃部葛山大久保様三けん\nやける又まりし天横丁ハ桃井森下大八木井上平尾\n谷川高木長谷川松本手嶋望月様やける上野\n丁横丁ハ袋丁ニて城戸石川吉村高田中村様\nやける又青石橋横丁肴店通ハ高安山本宮川\n小倉桃井太田様やける此所火の中ニて森田西郷\n様二けん残る上の丁二丁め横丁ハ市田坂本山本\n飯田坂田家木木村様までやける同一丁め横丁ハ\n亀山秋山佐藤河原若？？？？？にてやけ留る",
+            "timestamp": {
+                "_nanoseconds": 699000000,
+                "_seconds": 1566198653
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p5",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 4,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "長者丁向側ハ有田榊原小峯坂口小倉東王地\n伊藤三間吉田脇谷内田橋村黒田佐藤市田様\nやける梶山手嶋合川藤井三浦三田村湯川田口\n大谷高井鈴木伊藤田中相沢俵田竹内様焼る\n安間高木様残る山口様やける志村様残る辻元\n様やける狭間様残る新やき南西角久保田藤井\n阪原様やけ止る\n八　御成道西側ハ　石川主殿頭様　黒田\n豊前守様やける此邊小やき大半崩れ伊賀様\nやける又明神下通りハ建部内匠頭様内藤豊後守\nさまおもて長屋崩るゝ明神下御だい所丁同明丁金沢丁\n旅籠丁辺大半いたむ昌平橋外少しくずるゝ湯しま\n横丁同壱丁めハ崩少し神田明神別条なく筋\nかへ御門外ハ花房丁仲丁一丁め二丁め此辺御成\n道町家東西共うら通り迄大半崩るゝ松永丁\n相生丁も少しくづれ佐久間丁藤堂様御門前\n河岸ともくずるゝ所少し新シ橋通りくつれ多し\n又七曲りハ医学館多紀様跡部様井伊兵部少輔様\n松浦肥前守様酒井左衛門尉様御中屋敷佐竹様\n御中やき佐竹壱岐守様池田様巨？様阿部様\n小出様いづれも大くづれにハ候ハねと所〳〵崩あり\n又三味セん堀ハ佐竹様をはじめかくべつのいたみ\nなく塀くつるゝのミに御坐候\n九　浅草御門内馬喰丁通両国辺柳原通りハ\nくつれ少なく橋丁辺薬研堀村松丁濱丁辺ハ\n崩少く富沢丁ハ崩つよく人形丁通東西ハ所〳〵崩\nいたつて多し親父ばしあらめ橋辺小舟丁堀江丁\n堀留いセ丁セと物丁魚かし宝丁両がへ丁釘店本\n丁大傳馬丁石丁白銀丁油丁塩丁辺すべて土蔵　\n",
+            "text": "長者丁向側ハ有田榊原小峯坂口小倉東王地\n伊藤三間吉田脇谷内田橋村黒田佐藤市田様\nやける梶山手嶋谷川藤井三浦三田村湯川田口\n大谷高井鈴木伊藤田中相沢俵田竹内様焼る\n安間高木様残る山口様やける志村様残る辻元\n様やける狭間様残る新やしき南西角久保田藤井\n飯原様やけ止る\n八　御成道西側ハ　石川主殿頭様　黒田\n豊前守様やける此邊小やしき大半崩れ伊賀様\nやける又明神下通りハ建部内匠頭様内藤豊後守\nさま表長屋崩るゝ明神下御だい所丁同朋丁金沢丁\n旅籠丁辺大半いたむ昌平橋外少しくずるゝ湯しま\n横丁同壱丁めハ崩少し神田明神別条なく筋\nかへ御門外ハ花房丁仲丁一丁め二丁め此辺御成\n道町家東西共うら通り迄大半崩るゝ松永丁\n相生丁も少しくづれ佐久間丁藤堂様御門前\n川岸ともくずるゝ所少し新シ橋通りくつれ多し\n又七曲りハ医学館多紀様跡部様井伊兵部少輔様\n松浦肥前守様酒井左衛門尉様御中屋敷佐竹様\n御中やしき佐竹壱岐守様池田様巨？様阿部様\n小出様いづれも大くづれにハ候ハねと所〳〵崩あり\n又三味セん堀ハ佐竹様をはじめかくべつのいたみ\nなく塀くつるゝのミに御坐候\n九　浅草御門内馬喰丁通両国辺柳原通りハ\nくつれ少なく橋丁辺薬研堀村松丁濱丁辺ハ\n崩少く富沢丁ハ崩つよく人形丁通東西ハ所〳〵崩\nいたつて多し親父ばしあらめ橋辺小舟丁堀江丁\n堀留いセ丁セと物丁魚かし宝丁両がへ丁釘店本\n丁大傳馬丁石丁白銀丁油丁塩丁辺すべて土蔵　\n",
+            "timestamp": {
+                "_nanoseconds": 721000000,
+                "_seconds": 1566280426
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p6",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 5,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "多くいたみ崩るゆへこれがために家をくづし\nけがいたし候もの多し\n十　神田ハ橋本丁豊嶋丁辺少し小柳丁辺平永丁\n大いにくづれ筋違御門ゟ今川ばし通所〳〵崩多し西\n神田一ゑん少〻ツヽいたみ又鎌倉かし通崩少し\n十一　小川丁筋かへ御門ゟ水道ばし通りのうち稲葉\n長門守様土屋采女正様此辺そんし　戸田大炊頭\nさまやける御表長屋残る　内藤駿河守様焼\nて表御長屋残る夫ゟ向ハ田中唯一様残る猶又\n　堀田備中守様大いにやける向側に半井いづ\nもの守様一軒やける溝口八十五郎様佐藤金之丞様\n伏屋様大久保様柘植様やける依田様一軒のこる\n神（かん）織部様荒川様曽我様近藤様青木様本\n多様新見様迄やける河内様小林様佐藤様\nやける夫よりうら神保小路ハ間下長坂守嶋荒\n井様迄やける又一ツ橋通りハ明楽様雨森様大岡\nのこる表神保こうしハ定火消御やきやける　榊原\n式部大輔様半焼る通用門より向がハ　本多ぶ\nぜんの守様半やけり夫ゟ戸田加賀守様やけて西南\n角少〳〵のこる鷲津淡路守様やける長谷川荒井様\n二けんのこる尤表がハのミ山本様少〳〵にて焼止る又\n一ト口ハ雉子ばし通小川丁ハ本郷丹後守様やける\n三ばん原ハ　松平豊前守様やける塙（はなハ）宗悦さま\nやける又一ト口ハ渡部三之助様やける又一ト口ハ一色\n丹後守様やける同一色邦之助様奥少しやける\n尤一えん地震つよくくづるゝ事夥しく候\n十二　小石川御門内ハ　松平駿河守様やける此\n辺御組やき加藤大原渡辺冬木様やける本間平\n之様やける大森勇三郎様本目様やける中条\n",
+            "text": "多くいたみ崩るゆへこれがために家をくづし\nけがいたし候もの多し\n十　神田ハ橋本丁豊嶋丁辺少し小柳丁辺平永丁\n大いにくづれ筋違御門ゟ今川ばし通所〳〵崩多し西\n神田一ゑん少〻ツヽいたみ又鎌倉かし通崩少し\n十一　小川丁筋かへ御門ゟ水道ばし通りのうち稲葉\n長門守様土屋采女正様此辺そんし　戸田大炊頭\nさまやける御表長屋残る　内藤駿河守様焼\nて表御長屋残る夫ゟ向ハ田中唯一様残る猶又\n　堀田備中守様大いにやける向側に半井いづ\nもの守様一軒やける溝口八十五郎様佐藤金之丞様\n伏屋様大久保様柘植様やける依田様一軒のこる\n神（かん）織部様荒川様曽我様近藤様青木様本\n多様新見様迄やける河内様小林様佐藤様\nやける夫よりうら神保小路ハ間下長坂寺嶋荒\n井様迄やける又一ツ橋通りハ明楽様雨森様大岡\nのこる表神保こうしハ定火消御やしきやける　榊原\n式部大輔様半焼る通用門より向がハ　本多ぶ\nぜんの守様半やけり夫ゟ戸田加賀守様やけて西南\n角少〳〵のこる鷲津淡路守様やける長谷川荒井様\n二けんのこる尤表がハのミ山本様少〳〵にて焼止る又\n一ト口ハ雉子ばし通小川丁ハ本郷丹後守様やける\n三ばん原ハ　松平豊前守様やける塙（はなハ）宗悦さま\nやける又一ト口ハ渡部三之助様やける又一ト口ハ一色\n丹後守様やける同一色邦之助様奥少しやける\n尤一えん地震つよくくづるゝ事夥しく候\n十二　小石川御門内ハ　松平駿河守様やける此\n辺御組やしき加藤大原渡辺冬木様やける本間平\n兵へ様やける大森勇三郎様本目様やける中条\n",
+            "timestamp": {
+                "_nanoseconds": 676000000,
+                "_seconds": 1566281210
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p7",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 6,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "中務大輔様山本様やける高井様やける藤川様\n半焼にて止る此辺やけさる家ハ大半潰る小石\n御門より西ハ少し損し候\n十三　飯田丁辺まないたはし九だん坂へんくつれ少し\n番丁小□〻よく〳〵見届け候へとも多分の事なし\nからし丁大通り少〻いたみ平川丁隼丁山元丁\n谷丁邊ひくき所ハ少しいたミ多し\n十四　四ツ谷御門外傳馬丁通り大木戸邊まて\n所〳〵潰れ候家相見へ内藤新宿なる子町辺迄\n多分の事なし尤玉川上水万年樋石坂そんじ\n水あふるゝ天王横丁ゟさめか橋辺そんじ多し\n青山善光寺前通大いにそんじ道玄ざか町\n渋谷北ざハ桐ヶ谷下目黒辺まて少しいたむ\n又長者が九かうがいはし辺少し日がくぼ壟辺\nミな〳〵少しツヽ所諸所に見へたり麻布ハ一圓\nくつれ少し廣尾白銀目黒辺いつれも少〳〵\nツヽくつれ所あり\n十五　本郷湯嶋辺ハ少ツヽくつれ候所ハ諸所相見へ\n申候へ共格別の事なく尤静むろくへ留損ぼう\nおびたゝし小石川さかい菊坂下田丁ハくつれ多し\n十六　駒込千駄木辺ハ諸〻少〳〵ツヽくづるゝ白山下ゟ\n指が谷丁下富坂丁ハくづれ多く巣鴨染井邊\nくづれ少なし王子板ばし辺迄少しくづれあり\n十七　小石川御門外ハ水府御やき百軒長屋向がハ\n御やき不残くつれ五六軒やける牛天神下すハ丁\nより安藤坂辺すへて崩れ多し龍けいばし　松平\n讃岐守様御やきやける夫ゟ傳通院前通りくづ\nれ少なく裏門通りくづれ多し小日向水道丁\n関口鳥羽ハ崩れ所〳〵に相見へ見え目白椎名丁ハさハり",
+            "text": "中務大輔様山本様やける高井様やける藤川様\n半焼にて止る此辺やけさる家ハ大半潰る小石\n川御門より西ハ少し損し候\n十三　飯田丁辺まないたはし九だん坂へんくつれ少し\n番丁小□〻よく〳〵見届け候へとも多分の事なし\nからし丁大通り少〻いたみ平川丁隼丁山元丁\n谷丁邊ひくき所ハ少しいたミ多し\n十四　四ツ谷御門外傳馬丁通り大木戸邊まて\n所〳〵潰れ候家相見へ内藤新宿なる子町辺迄\n多分の事なし尤玉川上水万年樋石坂そんじ\n水あふるゝ天王横丁ゟさめか橋辺そんじ多し\n青山善光寺前通大いにそんじ道玄ざか町\n渋谷北ざハ桐ヶ谷下目黒辺まて少しいたむ\n又長者が九かうがいはし辺少し日がくぼ壟辺\nミな〳〵少しツヽ所諸所に見へたり麻布ハ一圓\nくつれ少し廣尾白銀目黒辺いつれも少〳〵\nツヽくつれ所あり\n十五　本郷湯嶋辺ハ少ツヽくつれ候所ハ諸所相見へ\n申候へ共格別の事なく尤静むろくへ留損ぼう\nおびたゝし小石川さかい菊坂下田丁ハくつれ多し\n十六　駒込千駄木辺ハ諸〻少〳〵ツヽくづるゝ白山下ゟ\n指が谷丁下富坂丁ハくづれ多く巣鴨染井邊\nくづれ少なし王子板ばし辺迄少しくづれあり\n十七　小石川御門外ハ水府御やき百軒長屋向がハ\n御やき不残くつれ五六軒やける牛天神下すハ丁\nより安藤坂辺すへて崩れ多し龍けいばし　松平\n讃岐守様御やきやける夫ゟ傳通院前通りくづ\nれ少なく裏門通りくづれ多し小日向水道丁\n関口鳥羽ハ崩れ所〳〵に相見へ見え目白椎名丁ハさハり",
+            "timestamp": {
+                "_nanoseconds": 563000000,
+                "_seconds": 1566281975
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p8",
+            "editedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 7,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "なし牛込寺丁辺所〳〵くづれ改代丁ハ大崩也なほ\n市がや高田辺ハひくき所のミくづれ所多し\n十八　和田倉御門見張番所やける　松平肥後\n＜割書：會｜津＞守様　松平下総守様　内藤紀伊守様や\nこの辺桜田内馬場さき御門内大半くつるゝ馬\n場外ハ　遠藤但馬守様　松平相模守様\n半やける御火消やきやける数寄屋ばし御門内ハ\nくつれ多く猶又御類焼の御やきハ　永井遠\n江守様　本多中務大輔様やける日比谷御番\n所やける　松平土佐守様　土井大炊頭様大いに損し\n同御門外ハ　松平肥前守様やける　長州様裏\n御門内少〳〵やける　有馬備後守様　南部ミのゝ\n守様やける向かハにて　薩州様せうぞくやき\n表長屋少しやける幸橋御門内ハ　松平時之介様\n　伊藤修理大夫様　亀井隠岐守様中御や\nしき御長屋一棟やけるこれにて止る龍のくちかと\n　森川出羽守様やける大手さきハ　酒井雅\n楽頭様やける表御門のこる同御向しきやける此邊\n越前様一ツ橋様小笠原様くづれ多分也呉服\nばしゟすきや橋内いつれも崩所〳〵なり\n十九　外さくら田ハすべて御大名のミ多く小やき\nこれなきゆへ塗籠の御長屋大はんくつれ霞が\n関ハ藝州様御別条なく黒田様角矢倉御物見\nより表御門迄御長屋くづるゝ其外諸家様くづれ\n多し江戸見坂上永田丁辺少しつゝ崩れ相見へ申候\n山王御社つゝかなく赤坂御門内御やきいつれも\nくづれ諸所に御坐候\n廿　幸橋外あたこ下通り久保丁あこたし\n橋外切通し増上寺御成門辺諸所くづるゝ",
+            "text": "なし牛込寺丁辺所〳〵くづれ改代丁ハ大崩也なほ\n市がや高田辺ハひくき所のミくづれ所多し\n十八　和田倉御門見張番所やける　松平肥後\n《割書：會｜津》守様　松平下総守様　内藤紀伊守様や\nこの辺桜田内馬場さき御門内大半くつるゝ馬\n場外ハ　遠藤但馬守様　松平相模守様\n半やける御火消やきやける数寄屋ばし御門内ハ\nくつれ多く猶又御類焼の御やきハ　永井遠\n江守様　本多中務大輔様やける日比谷御番\n所やける　松平土佐守様　土井大炊頭様大いに損し\n同御門外ハ　松平肥前守様やける　長州様裏\n御門内少〳〵やける　有馬備後守様　南部ミのゝ\n守様やける向かハにて　薩州様せうぞくやき\n表長屋少しやける幸橋御門内ハ　松平時之介様\n　伊藤修理大夫様　亀井隠岐守様中御や\nしき御長屋一棟やけるこれにて止る龍のくちかと\n　森川出羽守様やける大手さきハ　酒井雅\n楽頭様やける表御門のこる同御向しきやける此邊\n越前様一ツ橋様小笠原様くづれ多分也呉服\nばしゟすきや橋内いつれも崩所〳〵なり\n十九　外さくら田ハすべて御大名のミ多く小やき\nこれなきゆへ塗籠の御長屋大はんくつれ霞が\n関ハ藝州様御別条なく黒田様角矢倉御物見\nより表御門迄御長屋くづるゝ其外諸家様くづれ\n多し江戸見坂上永田丁辺少しつゝ崩れ相見へ申候\n山王御社つゝかなく赤坂御門内御やきいつれも\nくづれ諸所に御坐候\n廿　幸橋外あたこ下通り久保丁あこたし\n橋外切通し増上寺御成門辺諸所くづるゝ",
+            "timestamp": {
+                "_nanoseconds": 935000000,
+                "_seconds": 1566531647
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p9",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 8,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "所相見へ申候芝口ハ露月丁辺まて汐留仙\n臺様御やき辺までゆるやかにて柴井丁一丁\nやけるこれより上大門まて地しんつよく三嶋丁\n神明丁濱に御やきとも残らず崩れたる所\n多し濱松丁より上中門前片門前金杉本芝\n田丁三田ひしり坂小山邊少しヅヽ當て候所相\n見へ候へとも格別の事なし赤ばね辺有馬様\n大くつれ水天宮つゝがなし聖坂より伊皿子たい\n崩れ多し高輪臺丁そんし多く白銀二本抜\n御殿山ハ格別の事なし高輪通りいたミ少し\n薩州侯御物見一ヶ所くつる品川宿少し\nいたむ和泉屋と申旅籠屋一軒つぶれ\n其外橋向つふれ多し\n廿一　日本ばしより南ハ東西中通り呉服ばし\nかし新場かし通りとも中ばし辺かくへつの事\nなく南てんま丁ゟ崩れ多し同所二丁め京橋\n際までやける西ハ南鍛冶丁南大工丁五郎兵へ\n丁やける奥丁は火の中ニて残る所少しあり大根\n河岸までやける東ハ具足丁柳丁いなば丁鈴\n木丁常盤丁松川丁片かハやけ炭丁竹がしにて\nやけとまる又京ばし向ハ弓丁辺所〳〵そんじ\n多し銀坐三十間ほりハ崩れ少なし木挽丁\n築地も少なし数寄橋通り山下通り山城かし\n土ばし辺滝山丁少しくつるゝのミなり\n廿二　北南八丁ぼり辺ハくづれ少し鉄炮洲ハ崩\n多し別して船松丁辺つよし　松平淡路守様\nやける此辺おやき残らずいたミ多くいなり社\n別条なし霊がん嶋ハ湊丁長俦丁富嶋丁川口\n丁湊はし通北南しん堀箱崎丁共崩多く",
+            "text": "所相見へ申候芝口ハ露月丁辺まて汐留仙\n臺様御やき辺までゆるやかにて柴井丁一丁\nやけるこれより上大門まて地しんつよく三嶋丁\n神明丁濱に御やきとも残らず崩れたる所\n多し濱松丁より上中門前片門前金杉本芝\n田丁三田ひしり坂小山邊少しヅヽ當て候所相\n見へ候へとも格別の事なし赤ばね辺有馬様\n大くつれ水天宮つゝがなし聖坂より伊皿子たい\n崩れ多し高輪臺丁そんし多く白銀二本抜\n御殿山ハ格別の事なし高輪通りいたミ少し\n薩州侯御物見一ヶ所くつる品川宿少し\nいたむ和泉屋と申旅籠屋一軒つぶれ\n其外橋向つふれ多し\n廿一　日本ばしより南ハ東西中通り呉服ばし\nかし新場かし通りとも中ばし辺かくへつの事\nなく南てんま丁ゟ崩れ多し同所二丁め京橋\n際までやける西ハ南鍛冶丁南大工丁五郎兵へ\n丁やける奥丁は火の中ニて残る所少しあり大根\n河岸までやける東ハ具足丁柳丁いなば丁鈴\n木丁常盤丁松川丁片かハやけ炭丁竹がしにて\nやけとまる又京ばし向ハ弓丁辺所〳〵そんじ\n多し銀坐三十間ほりハ崩れ少なし木挽丁\n築地も少なし数寄橋通り山下通り山城かし\n土ばし辺滝山丁少しくつるゝのミなり\n廿二　北南八丁ぼり辺ハくづれ少し鉄炮洲ハ崩\n多し別して船松丁辺つよし　松平淡路守様\nやける此辺おやき残らずいたミ多くいなり社\n別条なし霊がん嶋ハ湊丁長俦丁富嶋丁川口\n丁湊はし通北南しん堀箱崎丁共崩多く",
+            "timestamp": {
+                "_nanoseconds": 102000000,
+                "_seconds": 1566261478
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p10",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 9,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "南しん堀半丁塩丁片かハ大河ばた丁までやける\n松平越前守様のこる是ゟ小網丁通稲荷\n堀酒井うた様おやき辺甚左エ門丁ゟ銀坐や\nしきかきから丁辺松嶋丁辺くづれ多し濱丁\n間部がし通り大橋ぎハまて大半いたむ水野\n出羽守様やける\n廿三　本所ハ惣て崩多く御大名様御旗本様ハ\n大半くつれぶじなる方まれ也その中に松平\n周防守様本ばし向御やきやける夫ゟ松嶋\n丁辺多くつぶれ小梅瓦丁辺少しやける又中の\n郷辺寺院損亡多し荒井丁こと〳〵くつぶれ石\n原牛の御ぜん御仮屋辺并天小路辺小やき\nやける又一ト口ハ天満宮前亀戸丁二ヶ所やけ\nる柳しま押上辺所〳〵つぶれ多し又法恩寺\n橋ぎハ町ヤ少しやける吉田丁吉岡町南割\n下水辺小やき共大いにそんじ津軽様近辺\nまで潰れ多し又御竹蔵まへ通小やき大いに\nくずるゝ又東両国竪川通りハ両岸町家から\n表は潰多く二ツ目緑丁一丁め二丁めやけ三丁\nめハくつれのみ四丁め五丁めハやけて三ツ目花丁\n少しやけ又川向ハ林丁一丁めゟ五丁めまで潰多くして\n徳右衛門丁一丁め二丁めやける三丁めハ潰多し菊川丁\n三丁とも崩れ多く扇ばし際深川西丁半丁ほど\nやける又しゆもく橋ゟ上ハ手両岸共つふれ多し\n廿四　深川御船蔵前丁ゟ八名川丁辺へやけ込\n西光寺のこる大久保様少しのこる歯神の\nやしろやける御船蔵番やける長家様ゟ大日\n横丁管の井上牧野やける木下圖書様\n火の見はかりのこる林様やける御籾蔵半",
+            "text": "南しん堀半丁塩丁片かハ大河ばた丁までやける\n松平越前守様のこる是ゟ小網丁通稲荷\n堀酒井うた様おやき辺甚左エ門丁ゟ銀坐や\nしきかきから丁辺松嶋丁辺くづれ多し濱丁\n間部がし通り大橋ぎハまて大半いたむ水野\n出羽守様やける\n廿三　本所ハ惣て崩多く御大名様御旗本様ハ\n大半くつれぶじなる方まれ也その中に松平\n周防守様本ばし向御やきやける夫ゟ松嶋\n丁辺多くつぶれ小梅瓦丁辺少しやける又中の\n郷辺寺院損亡多し荒井丁こと〳〵くつぶれ石\n原牛の御ぜん御仮屋辺并天小路辺小やき\nやける又一ト口ハ天満宮前亀戸丁二ヶ所やけ\nる柳しま押上辺所〳〵つぶれ多し又法恩寺\n橋ぎハ町ヤ少しやける吉田丁吉岡町南割\n下水辺小やき共大いにそんじ津軽様近辺\nまで潰れ多し又御竹蔵まへ通小やき大いに\nくずるゝ又東両国竪川通りハ両岸町家から\n表は潰多く二ツ目緑丁一丁め二丁めやけ三丁\nめハくつれのみ四丁め五丁めハやけて三ツ目花丁\n少しやけ又川向ハ林丁一丁めゟ五丁めまで潰多くして\n徳右衛門丁一丁め二丁めやける三丁めハ潰多し菊川丁\n三丁とも崩れ多く扇ばし際深川西丁半丁ほど\nやける又しゆもく橋ゟ上ハ手両岸共つふれ多し\n廿四　深川御船蔵前丁ゟ八名川丁辺へやけ込\n西光寺のこる大久保様少しのこる歯神の\nやしろやける御船蔵番やける長家様ゟ大日\n横丁管の井上牧野やける木下圖書様\n火の見はかりのこる林様やける御籾蔵半",
+            "timestamp": {
+                "_nanoseconds": 919000000,
+                "_seconds": 1566438430
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p11",
+            "editedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 10,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "分のこる八名川丁ゟ北六間堀南六けん堀\n神明宮つゝがなし裏通りゟ北の方のこる同社\n門前やける又一ト口は中敷下ゟ南森下丁元丁\n小笠原様やける又一ト口は猿子橋辺ゟ出火して\n井上様少しやける夫ゟ常盤丁一丁めゟ二丁\n目太田津の守様□しにてやけとまる又\n籾蔵ときハ丁深川元丁つぶれ多く一丁の中\nニて三軒のこる又田安様御門前ニて一家一けん\n残り此辺大つぶれ是ゟ扇ばし辺迄一圓つぶれ\n多し西丁東丁は大いにつぶれ猿江うら丁三丁\n斗りに三間のこる扇ばし通り土井大炊頭様\nやける夫ゟ小名木川辺大いに損し又海辺大工丁ゟ\n清住丁新寺辺潰多し今一ト口は伊勢崎丁一丁\nめ二丁めやける西平野丁富久丁三角やき此\n辺こと〴〵くつぶれ閻魔堂橋網打場辺は少したるみ\n佐賀丁辺大いにくつれ相川丁ゟ出火して熊井\n丁諸丁中嶋丁大嶋丁迄やける富吉丁通り小川\n丁八幡橋の際火の中ニて三げん残る蛤丁少し\n残り黒江丁三念寺やける永代寺門前山本丁\n西横丁やける蛤丁金子横丁俗に中うらといふ\n此所ゟ松平出羽守様やける夫ゟがたくりばし\nの際まて二三けん残り爰ニてやけとまる此火\n三口一所ニてやける又一ト口は和倉ニて北本所代地\n佐賀丁代地等やけるなり又黒江丁一丁四方\nばかり焼る\n右之通焼亡場所見廻り不洩様相改候へとも\n崩候蔵数等認□候空事にて用るにたらす\n御屋しき方市中ともそれ〳〵実正を糺し紛れ\nなきを集めて書しるし置もの也",
+            "text": "分のこる八名川丁ゟ北六間堀南六けん堀\n神明宮つゝがなし裏通りゟ北の方のこる同社\n門前やける又一ト口は中敷下ゟ南森下丁元丁\n小笠原様やける又一ト口は猿子橋辺ゟ出火して\n井上様少しやける夫ゟ常盤丁一丁めゟ二丁\n目太田津の守様□しにてやけとまる又\n籾蔵ときハ丁深川元丁つぶれ多く一丁の中\nニて三軒のこる又田安様御門前ニて一家一けん\n残り此辺大つぶれ是ゟ扇ばし辺迄一圓つぶれ\n多し西丁東丁は大いにつぶれ猿江うら丁三丁\n斗りに三間のこる扇ばし通り土井大炊頭様\nやける夫ゟ小名木川辺大いに損し又海辺大工丁ゟ\n清住丁新寺辺潰多し今一ト口は伊勢崎丁一丁\nめ二丁めやける西平野丁富久丁三角やき此\n辺こと〴〵くつぶれ閻魔堂橋網打場辺は少したるみ\n佐賀丁辺大いにくつれ相川丁ゟ出火して熊井\n丁諸丁中嶋丁大嶋丁迄やける富吉丁通り小川\n丁八幡橋の際火の中ニて三げん残る蛤丁少し\n残り黒江丁三念寺やける永代寺門前山本丁\n西横丁やける蛤丁金子横丁俗に中うらといふ\n此所ゟ松平出羽守様やける夫ゟがたくりばし\nの際まて二三けん残り爰ニてやけとまる此火\n三口一所ニてやける又一ト口は和倉ニて北本所代地\n佐賀丁代地等やけるなり又黒江丁一丁四方\nばかり焼る\n右之通焼亡場所見廻り不洩様相改候へとも\n崩候蔵数等認□候空事にて用るにたらす\n御屋しき方市中ともそれ〳〵実正を糺し紛れ\nなきを集めて書しるし置もの也",
+            "timestamp": {
+                "_nanoseconds": 445000000,
+                "_seconds": 1566284677
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p12",
+            "editedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 11,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "上様ゟ御救小屋\n　　　　　　幸橋御門外久保丁原\n　　　　　　浅草廣小路\n　　　　　　深川海辺新田\n　　　　　　同所八幡宮境内\n　　　　　　上野御山下火除地\n東叡山宮様ゟ御救小屋\n　　　　　　同所山下原並ぶ\n◯御府内施し名前附\n一けんまへ　　　　　　　　　　芝口\n一　米三斗五升〈西かハ丁きつ？の丁や〉御屋敷様\n同\n一　同五斗二升　源介丁へ\n一けんまへ丁内其外へ　　　　　ふか川さが丁\n一　金一朱ツヽ　　　　　　　　　　みやもと\n右同断　　　　　　　　　　　　同所\n一　同一分ツヽ　　　　　　　　　山屋㐂兵衛\n右同断　　　　　　　　　　　　同所\n一　同一朱ツヽ　　　　　　　　　池北屋\n右同断　　　　　　　　　　　　同所\n一　同一分ツヽ　　　　　　　　　こめ　勇\n　　　　　　　　　　　　　　　同所\n一　同一分ト弐百文ツヽ　　　　　相川町某\n丁内へ\n一　同一分ツヽ　　　　　　　　同木場\n寺丁三丁　　　　　　　　　　　　萬　和\n一　同弐朱ツヽ\n出入船頭へ　　　　　　　　　同さが丁\n一　同一分ツヽ　　　　　　　　　乳くま\n　　　七日の間ミそ少しツヽ諸人へほどこす\n\n一　同弐百十三両二分二朱　　　同所\n　　　　　米七石五斗　　　　　　久住五左衛門\n　　　外ニ金一分ツヽ丁内へ　　　勢州住宅ニ付\n　　御ほうひ銀七枚外に二枚被下置　店支配人\n　　　　　　　　　　　　　　　　　　　正兵衛\n一　同百七十四両二分　　　　同北小川丁　\n　　　　外ニ一分ツヽ丁内へ　　近江や㐂左衛門\n　　　御ほうひ銀七枚\n一けんまへ　　　　　　　　　同さが丁\n一　同一分ト玄米一斗ツヽ　　　川むら\n丁内一けんまへ　　　　　　　新右衛門丁\n一　同弐朱ツヽ　　　　　　　　本　惣",
+            "text": "上様ゟ御救小屋\n　　　　　　幸橋御門外久保丁原\n　　　　　　浅草廣小路\n　　　　　　深川海辺新田\n　　　　　　同所八幡宮境内\n　　　　　　上野御山下火除地\n東叡山宮様ゟ御救小屋\n　　　　　　同所山下原並ぶ\n◯御府内施し名前附\n一けんまへ　　　　　　　　　　芝口\n一　米三斗五升〈西かハ丁きつ？の丁や〉御屋敷様\n同\n一　同五斗二升　源介丁へ\n一けんまへ丁内其外へ　　　　　ふか川さが丁\n一　金一朱ツヽ　　　　　　　　　　みやもと\n右同断　　　　　　　　　　　　同所\n一　同一分ツヽ　　　　　　　　　山屋㐂兵衛\n右同断　　　　　　　　　　　　同所\n一　同一朱ツヽ　　　　　　　　　池北屋\n右同断　　　　　　　　　　　　同所\n一　同一分ツヽ　　　　　　　　　こめ　勇\n　　　　　　　　　　　　　　　同所\n一　同一分ト弐百文ツヽ　　　　　相川町某\n丁内へ\n一　同一分ツヽ　　　　　　　　同木場\n寺丁三丁　　　　　　　　　　　　萬　和\n一　同弐朱ツヽ\n出入船頭へ　　　　　　　　　同さが丁\n一　同一分ツヽ　　　　　　　　　乳くま\n　　　七日の間ミそ少しツヽ諸人へほどこす\n\n一　同弐百十三両二分二朱　　　同所\n　　　　　米七石五斗　　　　　　久住五左衛門\n　　　外ニ金一分ツヽ丁内へ　　　勢州住宅ニ付\n　　御ほうひ銀七枚外に二枚被下置　店支配人\n　　　　　　　　　　　　　　　　　　　正兵衛\n一　同百七十四両二分　　　　同北小川丁　\n　　　　外ニ一分ツヽ丁内へ　　近江や㐂左衛門\n　　　御ほうひ銀七枚\n一けんまへ　　　　　　　　　同さが丁\n一　同一分ト玄米一斗ツヽ　　　川むら\n丁内一けんまへ　　　　　　　新右衛門丁\n一　同弐朱ツヽ　　　　　　　　本　惣",
+            "timestamp": {
+                "_nanoseconds": 305000000,
+                "_seconds": 1566372873
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p13",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 12,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "れいがん嶋十八ヶ丁へ　　　　れいがん嶋\n一　同一分ツヽ　　　　　　　　鹿しま\n一人前　廿七ヶ丁居廻り丁〻也　新右衛門丁\n一　白米五升ツヽ　　　　　　　川村傳左衛門\n一人前　居廻り丁〻へ　　　　南かやば丁\n一　同断ツヽ　　　　　　　　　永岡儀兵衛\n一けんまへ十八ヶ丁へ　　　　南しんほり\n一　同一斗五升ツヽ　　　　　　伊　坂\n一人まへ　八ヶ丁へ　　　　　日本ばし万丁\n一　同五升ツヽ　　　　　　　　谷口熊五郎\n居廻り丁〻へ\n一人まへ　御救小屋へ　　　　同青物丁\n一　銭三百文ツヽ　　　　　　　さぬきや久兵衛\n一けんまえ　居廻り丁〻へ　　神田\n一　金一分ツヽ　　　　　　　　紺屋丁某\n丁内其外へ　　　　　　　　　北しんぼり\n一　同一朱ト百文ツヽ　　　　　長しま屋\n同断　　　　　　　　　　　　同所\n一　同断ツヽ　　　　　　　　　北むら\n同断　　　　　　　　　　　　同所\n一　白米五升ツヽ　　　　　　　後藤氏\n同断　　　　　　　　　　　　れいがん嶋\n一　金一朱ト白米一升ツヽ　　　まる屋\n一　同二朱ツヽ　丁内へ　　　露月丁\n一　同一朱ツヽ　しハい丁へ　　さかい屋\n一　同断ツヽ　同断　　　　　同所\n一　同断ツヽ　同断　　　　　　きね屋\n一人まへ　　　　　　　　　　浅草仲丁\n一　金弐朱ツヽ　　　　　　　　酒井屋\n　　　　かミなり門御救小ヤへ\n同　　　　　　　　　　　　　同所\n一　同弐朱ツヽ　　　　　　　　三　㐂\n　　　　同御小屋へ\n　　　　　　　　　　　　　　こまかた\n一　毎日味噌汁四斗　　　　　　内　田\n樽ニ三荷ツヽ御小屋へ\n一人まへ　居廻り丁〻へ　　　　同三すじ丁\n一　白米五升ツヽ　　　　　　　　関　氏\n　　　　　　　　　　　　　　　馬道かミゆい\n一　雷門御救小屋へ入　　　　　　平五郎\n　　　人〻へ髪さかやき施し\n\n右之外御武家方寺院方町家共おい〳〵\n施しこれあるべく候へども猶取しらべのうへ\n書載せ申へく",
+            "text": "れいがん嶋十八ヶ丁へ　　　　れいがん嶋\n一　同一分ツヽ　　　　　　　　鹿しま\n一人前　廿七ヶ丁居廻り丁〻也　新右衛門丁\n一　白米五升ツヽ　　　　　　　川村傳左衛門\n一人前　居廻り丁〻へ　　　　南かやば丁\n一　同断ツヽ　　　　　　　　　永岡儀兵衛\n一けんまへ十八ヶ丁へ　　　　南しんほり\n一　同一斗五升ツヽ　　　　　　伊　坂\n一人まへ　八ヶ丁へ　　　　　日本ばし万丁\n一　同五升ツヽ　　　　　　　　谷口熊五郎\n居廻り丁〻へ\n一人まへ　御救小屋へ　　　　同青物丁\n一　銭三百文ツヽ　　　　　　　さぬきや久兵衛\n一けんまえ　居廻り丁〻へ　　神田\n一　金一分ツヽ　　　　　　　　紺屋丁某\n丁内其外へ　　　　　　　　　北しんぼり\n一　同一朱ト百文ツヽ　　　　　長しま屋\n同断　　　　　　　　　　　　同所\n一　同断ツヽ　　　　　　　　　北むら\n同断　　　　　　　　　　　　同所\n一　白米五升ツヽ　　　　　　　後藤氏\n同断　　　　　　　　　　　　れいがん嶋\n一　金一朱ト白米一升ツヽ　　　まる屋\n一　同二朱ツヽ　丁内へ　　　露月丁\n一　同一朱ツヽ　しハい丁へ　　さかい屋\n一　同断ツヽ　同断　　　　　同所\n一　同断ツヽ　同断　　　　　　きね屋\n一人まへ　　　　　　　　　　浅草仲丁\n一　金弐朱ツヽ　　　　　　　　酒井屋\n　　　　かミなり門御救小ヤへ\n同　　　　　　　　　　　　　同所\n一　同弐朱ツヽ　　　　　　　　三　㐂\n　　　　同御小屋へ\n　　　　　　　　　　　　　　こまかた\n一　毎日味噌汁四斗　　　　　　内　田\n樽ニ三荷ツヽ御小屋へ\n一人まへ　居廻り丁〻へ　　　　同三すじ丁\n一　白米五升ツヽ　　　　　　　　関　氏\n　　　　　　　　　　　　　　　馬道かミゆい\n一　雷門御救小屋へ入　　　　　　平五郎\n　　　人〻へ髪さかやき施し\n\n右之外御武家方寺院方町家共おい〳〵\n施しこれあるべく候へども猶取しらべのうへ\n書載せ申へく",
+            "timestamp": {
+                "_nanoseconds": 464000000,
+                "_seconds": 1566351831
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f40e1fbb-3f24-4dc8-ba7d-54bd609944cd/canvas/p14",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "8A3178F23B3A1151F0B6662B6B9D0F78",
+            "index": 13,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "　　街道筋近郷聞書\n東海道ハ程がやかぎり神奈川宿所〻くづれ\n多し本牧金沢鎌くら江の嶋浦賀辺まで\n◯中山道ハ上州高崎限り此海道地ゟ砂わき出清水\nあふるゝ所諸所ニあり蕨宿ゟ大宮の間さハり多し\n◯甲州かい道八王子限り街道筋格別の事なし\n◯日光街道ハ宇都宮限り街道筋くつれこれ\nあり候分ハ草加辺也\n◯水戸街道ハ土浦を限り街道筋所〻に見\nゆる下総ハ逆井近辺ふるひつよく行徳船ばし\n辺同断葛西領二合半領ハくずれ所〻なり又\n松戸市川柴又辺も崩れ多しと聞く其外在\n郷市中共見積り候所高臺の地ハ格別の事\n無之低き地所ハ多分いたみつよき方ニ相見へ申候\n　　大坂表文言抜書\n九月廿八日夜地震いりて大坂平野橋箒丁\n蜆ばし筋大いに崩れ此辺人多く損し候よし\n又尾州名古屋遠州濱松も城下少〳〵やける\n右は同時ぢしんありしよし傳へ申候\n九月廿九日八代目團十郎弟猿蔵大坂若太夫\n座にて不破伴左衛門と関取濡髪の役をつとめ\n興行中死去いたし候法号\n　　　　実誉義莚孝安信士　九月廿九日\n　　　　　　　　　　　　　年廿一才\n江戸芝居丁類焼の中にて残り候分役者\n　　しうか伜\n居宅ハ坂本吉弥中村福助市村羽左衛門\n森田勘弥尾上菊次郎その外茶屋二三\nげん残る\n　　　　　　●土蔵大崩れの分　六万七千五百余\n　　　　　　●同少いたミの分　八万六千四百余\n　　　　　　●けが人凢　　　　十万千余人\n　　　　　　●吉原同断　　　　千五百五十余\n　　　　　　　　外科りやうし通ふもの\n　　　　　　　　　□【「三」カ】万弐千余人\n古橋小羽氏",
+            "text": "　　街道筋近郷聞書\n東海道ハ程がやかぎり神奈川宿所〻くづれ\n多し本牧金沢鎌くら江の嶋浦賀辺まで\n◯中山道ハ上州高崎限り此海道地ゟ砂わき出清水\nあふるゝ所諸所ニあり蕨宿ゟ大宮の間さハり多し\n◯甲州かい道八王子限り街道筋格別の事なし\n◯日光街道ハ宇都宮限り街道筋くつれこれ\nあり候分ハ草加辺也\n◯水戸街道ハ土浦を限り街道筋所〻に見\nゆる下総ハ逆井近辺ふるひつよく行徳船ばし\n辺同断葛西領二合半領ハくずれ所〻なり又\n松戸市川柴又辺も崩れ多しと聞く其外在\n郷市中共見積り候所高臺の地ハ格別の事\n無之低き地所ハ多分いたみつよき方ニ相見へ申候\n　　大坂表文言抜書\n九月廿八日夜地震いりて大坂平野橋箒丁\n蜆ばし筋大いに崩れ此辺人多く損し候よし\n又尾州名古屋遠州濱松も城下少〳〵やける\n右は同時ぢしんありしよし傳へ申候\n九月廿九日八代目團十郎弟猿蔵大坂若太夫\n座にて不破伴左衛門と関取濡髪の役をつとめ\n興行中死去いたし候法号\n　　　　実誉義莚孝安信士　九月廿九日\n　　　　　　　　　　　　　年廿一才\n江戸芝居丁類焼の中にて残り候分役者\n　　しうか伜\n居宅ハ坂本吉弥中村福助市村羽左衛門\n森田勘弥尾上菊次郎その外茶屋二三\nげん残る\n　　　　　　●土蔵大崩れの分　六万七千五百余\n　　　　　　●同少いたミの分　八万六千四百余\n　　　　　　●けが人凢　　　　十万千余人\n　　　　　　●吉原同断　　　　千五百五十余\n　　　　　　　　外科りやうし通ふもの\n　　　　　　　　　□【「三」カ】万弐千余人\n古橋小羽氏",
+            "timestamp": {
+                "_nanoseconds": 156000000,
+                "_seconds": 1566477545
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

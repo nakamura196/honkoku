@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/cec97eb49d9f80b1ec7acc13dac9ac4740ed7299.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88655",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88655/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88655",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "5B2301C1B35E9B246DA8455C3FD3B1FA",
+    "label": "伊勢伊賀志摩近江尾張美濃大地震の図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "伊勢伊賀志摩近江尾張美濃大地震の図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-021"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年6月14日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "41×63"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "1b5261a8-893c-4b4a-be15-c26e38089115"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0275"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/cec97eb49d9f80b1ec7acc13dac9ac4740ed7299.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b5261a8-893c-4b4a-be15-c26e38089115/canvas/p1",
+            "editedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "entryId": "5B2301C1B35E9B246DA8455C3FD3B1FA",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "TtodKYbReLVIRGXiFcaVzuzCmv02",
+            "tempText": "【黒枠タイトル１横に】\n【一段目】奈良　郡山　古市　大和　【二段目】丹波　亀山【以上２カッコ】京都　木津【以上２カッコ】山城【三段目】越前　大坂平野【以上２カッコ】摂津　【四段目】福井\n【黒枠タイトル２縦に】\n伊勢　伊賀　志摩　近江　尾張　美濃　大地震の図\n\n【記事内容】\n頃は嘉永七寅年六月十四日\n夜八つ時伊勢国は東海道\n四日市宿をはじめとし\nて東は尾張西は近江国\n北は美濃南は伊賀志摩\nの国にいたるまで大地しん\nにて其ひゞき大かたならず\n取わけ伊勢国四日市宿は\n甚つよくしてまづ北町不残南川原\n不残南町は半丁ほど打倒夫より\n出火して砂けぶりをふきたてざん\nじに家数九十軒余焼失すはま\nだ赤堀落合橋かはけばし長田\nばし加太夫ばし日永砂川うねめ\n村つへつき村こと〴〵くあれ橋々は落流\nれる也折から老若男女いかであわてざらん\nものはなく各々にげ出さんとなせども大地\n大にわれ 心当べき方角だに定めがたく\nしてけが死亡の者凡五百人余となり牛\n馬即死凡百六十疋余なりとかや又桑\n名十一万石松平越中守様御領分在方甚つ\nよく御城下やた丁家敷〳〵大門やす永村\n町屋川辺土蔵大にそんじあるひはつぶれ\n春日の社八幡はづ明神社いたむ二重\nつゞみかねいば村みやつかいそ川辺七つや\nみたき川すへ土橋おちる也長嶋は二万石増山\n河内守様御領分御城下大にそんじ在々\nこと〳〵ぐ【〴〵くのあやまり】あれる石やくし庄の亀山は\n六万石石川主殿頭様御城下并に在々\nこと〴〵く大にそんじ又近江路は関\n坂の下すゞか山田村社そんじ土山\n宿水口は二万五千石加藤越中守御城\n下在々いしべ草津大津京都迄も\n大方ならず相震中仙道はもり山\nより太田辺迄都合十六宿間\n大にふるう大垣高領【須の誤り】御領分\n尾張は津嶋佐やまんばみや\n犬山辺迄伊せは神戸一万五千石\n本多伊与守様御領分甚しくふるう\n白子津は卅二万三千石藤堂和泉守様\n御領分御城下共いたつてつよく\n所々そんじ夫より宿々山田近\n辺大にそんずるといへども両宮\nは別条なしあさま山大にあれ\n田丸久居五万三千石藤堂佐\n渡守様御領分八田辺つよく\nしてそんず近江は彦根三十\n五万石井伊かもん頭様御領分\nすべて湖水のめぐりは甚\nしく相震よく十五\n日の朝よう〳〵慎り\n諸人あんどをなし\nにける\n\n○伊勢両宮近辺は殊\n更あれるといへども両\n御社はいさゝかも別\n条なし御神 \nの尊こと是を\nもつて\n知り\n給ふべし\n\n誤り",
+            "text": "【黒枠タイトル１横に】\n【一段目】奈良　郡山　古市　大和　【二段目】丹波　亀山【以上２カッコ】京都　木津【以上２カッコ】山城【三段目】越前　大坂平野【以上２カッコ】摂津　【四段目】福井\n【黒枠タイトル２縦に】\n伊勢　伊賀　志摩　近江　尾張　美濃　大地震の図\n\n【記事内容】\n頃は嘉永七寅年六月十四日\n夜八つ時伊勢国は東海道\n四日市宿をはじめとし\nて東は尾張西は近江国\n北は美濃南は伊賀志摩\nの国にいたるまで大地しん\nにて其ひゞき大かたならず\n取わけ伊勢国四日市宿は\n甚つよくしてまづ北町不残南川原\n不残南町は半丁ほど打倒夫より\n出火して砂けぶりをふきたてざん\nじに家数九十軒余焼失すはま\nだ赤堀落合橋かはけばし長田\nばし加太夫ばし日永砂川うねめ\n村つへつき村こと〴〵くあれ橋々は落流\nれる也折から老若男女いかであわてざらん\nものはなく各々にげ出さんとなせども大地\n大にわれ 心当べき方角だに定めがたく\nしてけが死亡の者凡五百人余となり牛\n馬即死凡百六十疋余なりとかや又桑\n名十一万石松平越中守様御領分在方甚つ\nよく御城下やた丁家敷〳〵大門やす永村\n町屋川辺土蔵大にそんじあるひはつぶれ\n春日の社八幡はづ明神社いたむ二重\nつゞみかねいば村みやつかいそ川辺七つや\nみたき川すへ土橋おちる也長嶋は二万石増山\n河内守様御領分御城下大にそんじ在々\nこと〳〵ぐ【〴〵くのあやまり】あれる石やくし庄の亀山は\n六万石石川主殿頭様御城下并に在々\nこと〴〵く大にそんじ又近江路は関\n坂の下すゞか山田村社そんじ土山\n宿水口は二万五千石加藤越中守御城\n下在々いしべ草津大津京都迄も\n大方ならず相震中仙道はもり山\nより太田辺迄都合十六宿間\n大にふるう大垣高領【須の誤り】御領分\n尾張は津嶋佐やまんばみや\n犬山辺迄伊せは神戸一万五千石\n本多伊与守様御領分甚しくふるう\n白子津は卅二万三千石藤堂和泉守様\n御領分御城下共いたつてつよく\n所々そんじ夫より宿々山田近\n辺大にそんずるといへども両宮\nは別条なしあさま山大にあれ\n田丸久居五万三千石藤堂佐\n渡守様御領分八田辺つよく\nしてそんず近江は彦根三十\n五万石井伊かもん頭様御領分\nすべて湖水のめぐりは甚\nしく相震よく十五\n日の朝よう〳〵慎り\n諸人あんどをなし\nにける\n\n○伊勢両宮近辺は殊\n更あれるといへども両\n御社はいさゝかも別\n条なし御神 \nの尊こと是を\nもつて\n知り\n給ふべし\n\n誤り",
+            "timestamp": {
+                "_nanoseconds": 979000000,
+                "_seconds": 1571118496
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

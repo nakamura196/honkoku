@@ -1,0 +1,179 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 7013,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/bc191e7c43e8012eb3f4afeb69cfe05d3b361219.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7013,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56136",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9334
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56136/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56136",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9334
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 7013,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/b3a41c6db457b4c2662e97a90a597b09eeac7561.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 7013,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56137",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9334
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56137/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56137",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9334
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "hidden": true,
+    "id": "EB950D756A80F8D7BEAF4CA8C7C048BA",
+    "label": "諸国大地震大津波 三編",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "諸国大地震大津波 三編"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-009"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-05-008"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "e3315052-68df-4a61-bdf7-05788eb1dcc7"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1009"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/bc191e7c43e8012eb3f4afeb69cfe05d3b361219.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p1",
+            "editedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "entryId": "EB950D756A80F8D7BEAF4CA8C7C048BA",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "tempText": "【黒枠外】\n嘉永七甲寅十一月四日五つ半時より\n【黒枠内タイトル】\n【横書】諸国　【縦書】大地震大津波（おゝじしんをゝつなみ）【横書】三編\n\n【一段目左へ】\n御公儀様難有\n御仁誠に依て市中\nの人々是を悦び寔に\n有がたく思わぬもの\n壱人もなし然るに\n諸色米万端何に\n不寄直段追々下直に\n相成悦ぶ事限りなし\n依之市中の人々第一\n火の用心大切に相守り\n万事の事心を懸物\n事諸人に至る迄相慎\n候事\n\n大坂川口大津波の大略\n安治川凡近辺死人凡\n三百人よざこば近辺死人\n凡弐百人ヨ寺嶋同死人凡\n五百五十人よ堀江川近辺\n同三百人余道頓堀木津川\n近辺にて凡三百人よ其ほか\n所々廿人三十人あるひは\n十人五人と即死いたし候\n事は世にはめづらしき事也\nもつともけが人は其数し\nれず即死の数凡弐千余\nに聞へ候此人々一度に声\nをあげなきわめき其\nあわれさはなすにはなし\nきれ申さず候\n十一月五日くれ六つより夜\n五つ時過までの事に御座候\n\n【二段目】\n伊勢山田并志州鳥羽\n右同日大地震大あれ\nにて人家大躰半分\nはくずれ大いなる\nこんざつなりその\nあわれさ申にたへず\nこゝに御気のとく成は\n御□さまは年頭の\nしたくをいたされ\n大坂表へのぼり此度\nの大坂のつなみにて暦\nなど進物のたぐい難\n船せし御方もあり\nまことに〳〵前代未\n聞の事也尤大神宮\n御社并に末社社家の\n家々地震がために少々\nいたみ候處数多く\n▲志州鳥羽辺は同日に\n大地震一通りならず\n大ゆりにて人家くずれ候\n事は大躰其因は半ぶん\nはかりくづれ候所へ大\nつ浪打来り御家中\n町家とも大半ながれ\n人々の難義致し候はあわれ\nなり其大変文面の\nしらせのうつし是にしるす\n\n\n尾州路＜割書：書しるす事数｜多有とも略す＞\n同日同刻大地震にて\n町家損じたる事その\n数をしれず寺院名古や\n御城下御家中は申に不及\n大地震にて大崩れ言語に\nのべがたくまことに〳〵\nあわれなる次第なり\n\n【三段目】\n伊勢四日市＜割書：十一月四日｜辰ノ半刻より＞\n大地震ゆりはしめ其\nおそをしさ弁述に\nのべがたくもつとも\n家かず三十けん斗り\nゆりくづれ男女\n子どもにいたる迄その\n混雑おそろし事成に同日\n申ノ刻に迄に又ゆり大地われ\n益々強くゆり人々其中へ\n落込候事は其数しれず\n又同日いせ津へん同様なり\n尤家かず二十四五けんも\nくづれそんじたるは\n其数しれず外に白子\nかんべ松坂桑名へん\nだいじしんなれども\n少々のいたみ",
+            "text": "【黒枠外】\n嘉永七甲寅十一月四日五つ半時より\n【黒枠内タイトル】\n【横書】諸国　【縦書】大地震大津波（おゝじしんをゝつなみ）【横書】三編\n\n【一段目左へ】\n御公儀様難有\n御仁誠に依て市中\nの人々是を悦び寔に\n有がたく思わぬもの\n壱人もなし然るに\n諸色米万端何に\n不寄直段追々下直に\n相成悦ぶ事限りなし\n依之市中の人々第一\n火の用心大切に相守り\n万事の事心を懸物\n事諸人に至る迄相慎\n候事\n\n大坂川口大津波の大略\n安治川凡近辺死人凡\n三百人よざこば近辺死人\n凡弐百人ヨ寺嶋同死人凡\n五百五十人よ堀江川近辺\n同三百人余道頓堀木津川\n近辺にて凡三百人よ其ほか\n所々廿人三十人あるひは\n十人五人と即死いたし候\n事は世にはめづらしき事也\nもつともけが人は其数し\nれず即死の数凡弐千余\nに聞へ候此人々一度に声\nをあげなきわめき其\nあわれさはなすにはなし\nきれ申さず候\n十一月五日くれ六つより夜\n五つ時過までの事に御座候\n\n【二段目】\n伊勢山田并志州鳥羽\n右同日大地震大あれ\nにて人家大躰半分\nはくずれ大いなる\nこんざつなりその\nあわれさ申にたへず\nこゝに御気のとく成は\n御□さまは年頭の\nしたくをいたされ\n大坂表へのぼり此度\nの大坂のつなみにて暦\nなど進物のたぐい難\n船せし御方もあり\nまことに〳〵前代未\n聞の事也尤大神宮\n御社并に末社社家の\n家々地震がために少々\nいたみ候處数多く\n▲志州鳥羽辺は同日に\n大地震一通りならず\n大ゆりにて人家くずれ候\n事は大躰其因は半ぶん\nはかりくづれ候所へ大\nつ浪打来り御家中\n町家とも大半ながれ\n人々の難義致し候はあわれ\nなり其大変文面の\nしらせのうつし是にしるす\n\n\n尾州路《割書：書しるす事数｜多有とも略す》\n同日同刻大地震にて\n町家損じたる事その\n数をしれず寺院名古や\n御城下御家中は申に不及\n大地震にて大崩れ言語に\nのべがたくまことに〳〵\nあわれなる次第なり\n\n【三段目】\n伊勢四日市《割書：十一月四日｜辰ノ半刻より》\n大地震ゆりはしめ其\nおそをしさ弁述に\nのべがたくもつとも\n家かず三十けん斗り\nゆりくづれ男女\n子どもにいたる迄その\n混雑おそろし事成に同日\n申ノ刻に迄に又ゆり大地われ\n益々強くゆり人々其中へ\n落込候事は其数しれず\n又同日いせ津へん同様なり\n尤家かず二十四五けんも\nくづれそんじたるは\n其数しれず外に白子\nかんべ松坂桑名へん\nだいじしんなれども\n少々のいたみ",
+            "timestamp": 1566129839119
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/e3315052-68df-4a61-bdf7-05788eb1dcc7/canvas/p2",
+            "editedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "entryId": "EB950D756A80F8D7BEAF4CA8C7C048BA",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "54l0fsEUUYZGs02nxGc712q0BrY2",
+            "tempText": "【右上印鑑】東京大学図書館之印\n【文書番号】0011841632",
+            "text": "【右上印鑑】東京大学図書館之印\n【文書番号】0011841632",
+            "timestamp": 1565938727829
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

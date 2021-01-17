@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/653ad07252e7fc5747e76c4d5468fba3b41c0812.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88688",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88688/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88688",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "1334A0B53692B1A18030E279315A4045",
+    "label": "大地震大津浪忠臣蔵九段目秡文句",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "大地震大津浪忠臣蔵九段目秡文句"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-05-053"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "みたて"
+        },
+        {
+            "label": "年月日",
+            "value": "嘉永7年11月4日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "15×17"
+        },
+        {
+            "label": "year",
+            "value": "1854"
+        },
+        {
+            "label": "identifier",
+            "value": "8480d2e7-bfff-4a8f-ac73-42c5adb87f5a"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0308"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/653ad07252e7fc5747e76c4d5468fba3b41c0812.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8480d2e7-bfff-4a8f-ac73-42c5adb87f5a/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "1334A0B53692B1A18030E279315A4045",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【上枠資料】\n【同タイトル】\n＜割書：大地震｜大津浪＞忠臣蔵【横書】九段目【縦書】抜文句\n\n【同上段左へ】\n\n【上部】風雅でもなく　しやれでなく\n【下部】大道のかたへで　酒のんでいる人\n【以下同様】\nとんと絵（え）に　 書（かい）たとふり\n大黒はしのふね　はんこう行合　してゐる人\n\n折角（せつかく）おもしろふ　えふた酒\nぢして茶屋から　とんで出る客（きやく）\n\nたすきはづ　して飛（とん）で出る\n昼（ひる）めし前の　ゆさ〳〵\n\n是上られいと　さし出（いだ）す\n用意（ようい）の　 気（き）つけ\n\n飛脚（ひきやく）が来（き）たらば　しらせいよ\n遠方（ゑんほう）へ　 出（だ）す手かみ\n\nおまへなり　わたしなり　\n大工方　手伝\n\n是は〳〵　いたみ入\n往来（わうらい）で瓦（かはら）が　おちてけがした人\n\nわたしが役（やく）の　 二人（ふたり）まへ\n大地しんで　にはかに男（おとこ）世帯（せたい）\n\nいかにやくそく　□□□　\nつなみで　 死（しん）だ人\n\n【下段左へ】\nそりや真実（しんじつ）か　まことかと\n大こくはしの　 噂（うはさ）を聞（きく）人\n\n家（いへ）にも身にも　かへぬ重宝（てうほう）\n銘々（めい〳〵）にかねを　もたして　逃す人\n\n途方（とはう）にくれし　をりからに\n在所（さいしよ）の親（しん）るいより　むかひに来（き）た人\n\nがてんがゆかぬ　コリヤどふじや\nつなみで止（やん）だと　おもふに又ゆさ〳〵\n\n遊興（ゆうきう）に耽（ふけ）り大（おゝ）　 酒（ざけ）に性根（しやうね）を乱（みだ）し\n見舞かこつけ　柔やへ行 息子（むすこ）\n\n日本一の　あほふの鑑（かゞみ）\n外（そと）へも出すじまん　 顔（がほ）でへたつてゐる人\n\n嘸（さぞ）本望（ほんもう）で　ござらふ\n材木屋\n\nかういふ事が　いやさに\n年より子共を　 在所（ざいしよ）へ預（あつけ）た人\n\n絵面（えつら）にくはしく　 書付（かきつけ）たり\n遠方（ゑんはう）へ手紙に　 封（ふう）じ込（こむ）はんかう\n\n移（うつ）りかわ【は？】るは　よのならひ　\nぢしんも納（おさま）り　 春（はる）のしこみ\n\n\n【下の資料】\n　　ぢしんほう〴〵ゆり状の事\n一　此ゆり助と申者生国かしま要郡ゆるぎ村にて慥成くらす\n者に付らい共請人に相立いへん江いたぶりほう〴〵にゆり出し\n申候所ぢしん之年季の義は去ル未信州より八年かに\n相当り御きう近国として越後三州慥に\nおどろき申候御しきせの義は夏はがふらじまふるへ\n物一枚冬はみぢんつなみぬのこ一枚下るべく候事\n一　上方筋五畿内五か国之義は申におよはず\n四国九州まで相ゆるがせ申候若此者\n夜中おさん殿のねまへはいこみない\nしやうのぢしんいたし候か又は\n御大せつなる大蔵をこはしゆり\nにげかべおちいたし候はゞ急度しかる左官（さくわん）\nをもつて早速（さつそく）埒明（らちあけ）可申候事\n一　宗旨の義は豆州さうどうはにて寺は\n下田横町みなこけ横町ぐら〴〵さんつぶ\nれんじなむさんぼふつなみにまぎれ御望なく候\n五八そうのなんせんにては無之若此ぢしん\nの義に付諸々にてゆり出し候者無之万一ゆり\nかへし等致候はゞ我等ぢしんにまかり出かなめ石を以て\nぎうとおしつけきでん江駿河も御くらふ相かけ申\n間敷候五七留一たんゆつて九は病の如し\n　　　　　　　　　　　　　　　　いなかけんのんじ門前\n　　　　　　　　　　　　　　　　　　家内つぶれ候へ店\n　　しんどう元年　　　　　　請人　　　もへ出しや火事兵衛\n　　　　なまづ十一月　　　　　　おさかいゆり通り\n　　　　　　　　　　　　　　　　　　　　　にげだし横丁\n　　　　　　　　　　　　　　人主　　　つらきや大地郎店\n　　　　　　　　　　　　　　　　　　ぶなくやこわ右衛門\n　大坂町屋敷大つなみ打寄場\n　　　橋〳〵屋おち右衛門様\n　\n\n",
+            "text": "【上枠資料】\n【同タイトル】\n《割書：大地震｜大津浪》忠臣蔵【横書】九段目【縦書】抜文句\n\n【同上段左へ】\n\n【上部】風雅でもなく　しやれでなく\n【下部】大道のかたへで　酒のんでいる人\n【以下同様】\nとんと絵（え）に　 書（かい）たとふり\n大黒はしのふね　はんこう行合　してゐる人\n\n折角（せつかく）おもしろふ　えふた酒\nぢして茶屋から　とんで出る客（きやく）\n\nたすきはづ　して飛（とん）で出る\n昼（ひる）めし前の　ゆさ〳〵\n\n是上られいと　さし出（いだ）す\n用意（ようい）の　 気（き）つけ\n\n飛脚（ひきやく）が来（き）たらば　しらせいよ\n遠方（ゑんほう）へ　 出（だ）す手かみ\n\nおまへなり　わたしなり　\n大工方　手伝\n\n是は〳〵　いたみ入\n往来（わうらい）で瓦（かはら）が　おちてけがした人\n\nわたしが役（やく）の　 二人（ふたり）まへ\n大地しんで　にはかに男（おとこ）世帯（せたい）\n\nいかにやくそく　□□□　\nつなみで　 死（しん）だ人\n\n【下段左へ】\nそりや真実（しんじつ）か　まことかと\n大こくはしの　 噂（うはさ）を聞（きく）人\n\n家（いへ）にも身にも　かへぬ重宝（てうほう）\n銘々（めい〳〵）にかねを　もたして　逃す人\n\n途方（とはう）にくれし　をりからに\n在所（さいしよ）の親（しん）るいより　むかひに来（き）た人\n\nがてんがゆかぬ　コリヤどふじや\nつなみで止（やん）だと　おもふに又ゆさ〳〵\n\n遊興（ゆうきう）に耽（ふけ）り大（おゝ）　 酒（ざけ）に性根（しやうね）を乱（みだ）し\n見舞かこつけ　柔やへ行 息子（むすこ）\n\n日本一の　あほふの鑑（かゞみ）\n外（そと）へも出すじまん　 顔（がほ）でへたつてゐる人\n\n嘸（さぞ）本望（ほんもう）で　ござらふ\n材木屋\n\nかういふ事が　いやさに\n年より子共を　 在所（ざいしよ）へ預（あつけ）た人\n\n絵面（えつら）にくはしく　 書付（かきつけ）たり\n遠方（ゑんはう）へ手紙に　 封（ふう）じ込（こむ）はんかう\n\n移（うつ）りかわ【は？】るは　よのならひ　\nぢしんも納（おさま）り　 春（はる）のしこみ\n\n\n【下の資料】\n　　ぢしんほう〴〵ゆり状の事\n一　此ゆり助と申者生国かしま要郡ゆるぎ村にて慥成くらす\n者に付らい共請人に相立いへん江いたぶりほう〴〵にゆり出し\n申候所ぢしん之年季の義は去ル未信州より八年かに\n相当り御きう近国として越後三州慥に\nおどろき申候御しきせの義は夏はがふらじまふるへ\n物一枚冬はみぢんつなみぬのこ一枚下るべく候事\n一　上方筋五畿内五か国之義は申におよはず\n四国九州まで相ゆるがせ申候若此者\n夜中おさん殿のねまへはいこみない\nしやうのぢしんいたし候か又は\n御大せつなる大蔵をこはしゆり\nにげかべおちいたし候はゞ急度しかる左官（さくわん）\nをもつて早速（さつそく）埒明（らちあけ）可申候事\n一　宗旨の義は豆州さうどうはにて寺は\n下田横町みなこけ横町ぐら〴〵さんつぶ\nれんじなむさんぼふつなみにまぎれ御望なく候\n五八そうのなんせんにては無之若此ぢしん\nの義に付諸々にてゆり出し候者無之万一ゆり\nかへし等致候はゞ我等ぢしんにまかり出かなめ石を以て\nぎうとおしつけきでん江駿河も御くらふ相かけ申\n間敷候五七留一たんゆつて九は病の如し\n　　　　　　　　　　　　　　　　いなかけんのんじ門前\n　　　　　　　　　　　　　　　　　　家内つぶれ候へ店\n　　しんどう元年　　　　　　請人　　　もへ出しや火事兵衛\n　　　　なまづ十一月　　　　　　おさかいゆり通り\n　　　　　　　　　　　　　　　　　　　　　にげだし横丁\n　　　　　　　　　　　　　　人主　　　つらきや大地郎店\n　　　　　　　　　　　　　　　　　　ぶなくやこわ右衛門\n　大坂町屋敷大つなみ打寄場\n　　　橋〳〵屋おち右衛門様\n　\n\n",
+            "timestamp": {
+                "_nanoseconds": 39000000,
+                "_seconds": 1571154705
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

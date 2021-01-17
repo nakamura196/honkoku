@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4e5c18763bbe19dbd539ceab14331e7bd049276f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88838",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88838/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88838",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "C02F3427BA51CB91D04FDF80734752BF",
+    "label": "地獄谷温泉明夜樓眺望之図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地獄谷温泉明夜樓眺望之図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "年月日",
+            "value": "明治16年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "29.5×33"
+        },
+        {
+            "label": "year",
+            "value": "1883"
+        },
+        {
+            "label": "identifier",
+            "value": "3741cfb4-d887-4039-87e6-30079ec2680c"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0462"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4e5c18763bbe19dbd539ceab14331e7bd049276f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3741cfb4-d887-4039-87e6-30079ec2680c/canvas/p1",
+            "editedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "entryId": "C02F3427BA51CB91D04FDF80734752BF",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "PGJ9QHasVIYoGBYfLQVt07zmDgu2",
+            "tempText": "【三図構成】\n【右図】\n【タイトル】\n地獄谷温泉明夜樓眺望之図\n【図右枠内】\nむかし〳〵大むかしより此處を地獄谷と唱ひてあまたある出湯のあるはふき\nのほせて空を衝きあるは流れ深く池をなすそはおそろしき□□見たるゆへ□\n□□□さておき喜は□間の歴桜の消沙たる雪かともみまかふはかり\n卯の花や山ほとゝぎす来なくこ□□の□なみ礀の\nつゝしの咲みたれたる秋草のいろさま〳〵に遠山の□よふ花の\n□□なる紅葉と月と□たし□□□□たえきぬ雪の松常□の\n□□□はらし□この大御世の開けゆく地獄の名さへ極楽と遊ふ\nそのたち温泉に浴しまつ一杯をきこしめせとまふす\n　　明治十六とせのやよひ通りたみ桜木をあらためて　明夜樓のあるし誌\n【図中左上タイトル横】\n此地渋温泉\nより続ヤマ隔テ\n東ニ在リ渋\n温泉ハ信州\n下高井郡ニ\nテ頗ル有名\nノ砿泉場ナ\nリ\n【図中上タイトル下】\n地獄谷\n妓女の\n住かに\n乗込んで\n組打を\nする\n強者もあり\n\n遠杢\n【図中右中】\nおもひきや\n開け行\n世の地獄谷\n鬼女は住つて\n妓女の来ぬ\nとは\n【図中左中】\n地獄谷妓女を征伐するのには\n力はいらす金が第一　　遠杢\n\n【左上図】\n【タイトル】\n草津温泉名所\n鷲（わし）之（の）湯（ゆ）\n\n【左下図】\n【タイトル】\n草津温泉名所\n御（ご）座（ざ）の湯（ゆ）\n【左下角】\n温泉は\nしせん\nと\nわき\nし\n宝\nかな\n",
+            "text": "【三図構成】\n【右図】\n【タイトル】\n地獄谷温泉明夜樓眺望之図\n【図右枠内】\nむかし〳〵大むかしより此處を地獄谷と唱ひてあまたある出湯のあるはふき\nのほせて空を衝きあるは流れ深く池をなすそはおそろしき□□見たるゆへ□\n□□□さておき喜は□間の歴桜の消沙たる雪かともみまかふはかり\n卯の花や山ほとゝぎす来なくこ□□の□なみ礀の\nつゝしの咲みたれたる秋草のいろさま〳〵に遠山の□よふ花の\n□□なる紅葉と月と□たし□□□□たえきぬ雪の松常□の\n□□□はらし□この大御世の開けゆく地獄の名さへ極楽と遊ふ\nそのたち温泉に浴しまつ一杯をきこしめせとまふす\n　　明治十六とせのやよひ通りたみ桜木をあらためて　明夜樓のあるし誌\n【図中左上タイトル横】\n此地渋温泉\nより続ヤマ隔テ\n東ニ在リ渋\n温泉ハ信州\n下高井郡ニ\nテ頗ル有名\nノ砿泉場ナ\nリ\n【図中上タイトル下】\n地獄谷\n妓女の\n住かに\n乗込んで\n組打を\nする\n強者もあり\n\n遠杢\n【図中右中】\nおもひきや\n開け行\n世の地獄谷\n鬼女は住つて\n妓女の来ぬ\nとは\n【図中左中】\n地獄谷妓女を征伐するのには\n力はいらす金が第一　　遠杢\n\n【左上図】\n【タイトル】\n草津温泉名所\n鷲（わし）之（の）湯（ゆ）\n\n【左下図】\n【タイトル】\n草津温泉名所\n御（ご）座（ざ）の湯（ゆ）\n【左下角】\n温泉は\nしせん\nと\nわき\nし\n宝\nかな\n",
+            "timestamp": {
+                "_nanoseconds": 667000000,
+                "_seconds": 1581698153
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,126 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/a0d07ce1d4d643788142b657a2b3ae8b00cdc957.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88721",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88721/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88721",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "AB9F06CF2DCE79D713AA4FB0D40E21C6",
+    "label": "日本地誌略図 鳴門の風波",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "日本地誌略図 鳴門の風波"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-06-010"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "右部分が裁断されている／広重画"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "17.5×23"
+        },
+        {
+            "label": "identifier",
+            "value": "225a6404-b87a-42c8-9a8f-ec9c89c6aac5"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0341"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/a0d07ce1d4d643788142b657a2b3ae8b00cdc957.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/225a6404-b87a-42c8-9a8f-ec9c89c6aac5/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "AB9F06CF2DCE79D713AA4FB0D40E21C6",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "＜割書：日｜本＞地誌略図\n　　鳴門の風波\n\n阿波国（あはのくに）\n東南は海に臨（のぞ）み西北は土佐\n伊予讃岐に界（かい）す\n徳島 都会（とくわい）の地（ち）にして眉（び）\n山は其南に聳（そび）ゆ海岸（かいがん）は\n一 湾（わん）をなし紀伊淡路と対（たい）し\n両島（りやうとう）北に羅列（られつ）す淡路と\nの海峡（かいきやう）其 幅（はば）最狭（いとせま）く潮（てう）勢\n急（きふ）なり是を鳴門（なると）といふ\n\n　　　　　　廣重画\n【画像中央の下資料のみ翻刻】\n\n\n【左側三枚目の画像】\n徳島県　府県名所図会　阿波鳴門　御届ケ\n　　　　　　広重画\n支庁位地\n　　　徳島\n画工南こんや町廿七番地安藤徳兵衛【右下欄外】",
+            "text": "《割書：日｜本》地誌略図\n　　鳴門の風波\n\n阿波国（あはのくに）\n東南は海に臨（のぞ）み西北は土佐\n伊予讃岐に界（かい）す\n徳島 都会（とくわい）の地（ち）にして眉（び）\n山は其南に聳（そび）ゆ海岸（かいがん）は\n一 湾（わん）をなし紀伊淡路と対（たい）し\n両島（りやうとう）北に羅列（られつ）す淡路と\nの海峡（かいきやう）其 幅（はば）最狭（いとせま）く潮（てう）勢\n急（きふ）なり是を鳴門（なると）といふ\n\n　　　　　　廣重画\n【画像中央の下資料のみ翻刻】\n\n\n【左側三枚目の画像】\n徳島県　府県名所図会　阿波鳴門　御届ケ\n　　　　　　広重画\n支庁位地\n　　　徳島\n画工南こんや町廿七番地安藤徳兵衛【右下欄外】",
+            "timestamp": {
+                "_nanoseconds": 852000000,
+                "_seconds": 1574476210
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

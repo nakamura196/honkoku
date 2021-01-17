@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4118,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/ac6cf5d6a69c38549b189adcb0864433a47384f5.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4118,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88557",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88557/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88557",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "BE16101C187BBCC82FEA85A868FE57D2",
+    "id": "0B22F0EEE071E93AA7AE3BAE632F7563",
+    "label": "[安政三辰八月二十五日江戸大風雨 洪水摺物]",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "[安政三辰八月二十五日江戸大風雨 洪水摺物]"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-130"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政3年8月25日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "23.5×32.5, 23×33"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×33"
+        },
+        {
+            "label": "year",
+            "value": "1856"
+        },
+        {
+            "label": "identifier",
+            "value": "1b3fe9e7-11b8-40c9-8687-85e2d42a8838"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0177"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/ac6cf5d6a69c38549b189adcb0864433a47384f5.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/1b3fe9e7-11b8-40c9-8687-85e2d42a8838/canvas/p1",
+            "editedBy": "b5Tj3jMMduTocHshwWENuOCHEQr1",
+            "entryId": "0B22F0EEE071E93AA7AE3BAE632F7563",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "頃は安政三辰八月廿五日夜\n五つ半時ごろより辰巳風はげしく先\n日本ばし南の方は品川宿大半そんじ南\n品川は不残りうし町は出水にて津なみの如く\n不残ながさる沖にある大舟五十そう程行方不知\n御台場は少々そんじる夫より高なは辺は\n不申及三田辺田町へん大にそんじ夫より芝浦\n是又津なみにて大半さつま様銅つくりの大舟\n芝浦えうち上る金杉はし辺新あみ丁はん\n海手通不残大船十そう程打上る\n出火の場所は片門前一丁目より神明前\n不残神明町片かわにてとまる\n大久保様森様新銭ざ大はんそんじ\n大小の船数しれず打上る御浜御てんつきじ\n海辺大半そんじ西本ぐわんじ本堂は打つぶれ\n\n寺中は大そんじ裏門前へ大船打上る鉄ほうづ\n辺不残佃島は大にそんじれいがん島辺\n永代ばし大船あたり中程ゟ大くづれにて往来留る\n此船の印ばしらは田安様御やしきへ流付ともの所は\n安藤様御門前へ打上る御長やは大くづれ其辺\n茶ぶね十そう程打上る夫ゟ深川海辺は津海ニ而\n大そんじ仮宅遊女屋大くづれ大の屋ト申遊女や\n丸つぶれ洲さき辺木場辺不残又御船蔵\n二ケ所そんじ其外本所辺出水多くして大そんじ\n又北之方は神田辺不残馬喰町両国辺共\n浅草御蔵前通り観世音御堂はつゝがなく\n御山内は不残そんじ矢大臣門外松田屋ト申遊女屋\n惣つぶれ花川戸辺山谷辺芝居町は三座共\n大そんじ千住辺不残又西之方は\n丸の内諸家様方一円打くづれ下谷辺\n不残出火場所坂本辺よし原内やける本\n郷辺一円白山辺大そんじ其外\n山の手辺は不残右之外市中一ゑんそんじ\n",
+            "text": "頃は安政三辰八月廿五日夜\n五つ半時ごろより辰巳風はげしく先\n日本ばし南の方は品川宿大半そんじ南\n品川は不残りうし町は出水にて津なみの如く\n不残ながさる沖にある大舟五十そう程行方不知\n御台場は少々そんじる夫より高なは辺は\n不申及三田辺田町へん大にそんじ夫より芝浦\n是又津なみにて大半さつま様銅つくりの大舟\n芝浦えうち上る金杉はし辺新あみ丁はん\n海手通不残大船十そう程打上る\n出火の場所は片門前一丁目より神明前\n不残神明町片かわにてとまる\n大久保様森様新銭ざ大はんそんじ\n大小の船数しれず打上る御浜御てんつきじ\n海辺大半そんじ西本ぐわんじ本堂は打つぶれ\n\n寺中は大そんじ裏門前へ大船打上る鉄ほうづ\n辺不残佃島は大にそんじれいがん島辺\n永代ばし大船あたり中程ゟ大くづれにて往来留る\n此船の印ばしらは田安様御やしきへ流付ともの所は\n安藤様御門前へ打上る御長やは大くづれ其辺\n茶ぶね十そう程打上る夫ゟ深川海辺は津海ニ而\n大そんじ仮宅遊女屋大くづれ大の屋ト申遊女や\n丸つぶれ洲さき辺木場辺不残又御船蔵\n二ケ所そんじ其外本所辺出水多くして大そんじ\n又北之方は神田辺不残馬喰町両国辺共\n浅草御蔵前通り観世音御堂はつゝがなく\n御山内は不残そんじ矢大臣門外松田屋ト申遊女屋\n惣つぶれ花川戸辺山谷辺芝居町は三座共\n大そんじ千住辺不残又西之方は\n丸の内諸家様方一円打くづれ下谷辺\n不残出火場所坂本辺よし原内やける本\n郷辺一円白山辺大そんじ其外\n山の手辺は不残右之外市中一ゑんそんじ\n",
+            "timestamp": {
+                "_nanoseconds": 705000000,
+                "_seconds": 1579488874
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

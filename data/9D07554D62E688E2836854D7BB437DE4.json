@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2200,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/5657a4f118294389799cb1f1c70b5be425d6b638.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2200,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88438",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88438/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88438",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "9D07554D62E688E2836854D7BB437DE4",
+    "label": "地震方々人逃状之事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震方々人逃状之事"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-011"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "23×35"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "833ceefd-42a9-44a4-81e2-bc95dc626303"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0058"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/5657a4f118294389799cb1f1c70b5be425d6b638.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/833ceefd-42a9-44a4-81e2-bc95dc626303/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "9D07554D62E688E2836854D7BB437DE4",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Vct2viekuPQezxfQZpvHuhfW8pG3",
+            "tempText": "　　　｜地震（ぢしん）方々（はう〴〵）人（にん）逃（にけ）状（じやう）之事\n一｜此（この）ゆり苦労（くらう）と申｜者（もの）｜生得（せうとく）信濃国（しなのゝくに）生須（なまづ）の荘（しやう）\n　｜揺初村（ゆりそめむら）出生（しゆつしやう）にて不｜慥（たしか）なるふら附者に付荒魔ども\n　｜失人（うせにん）に相（あい）立（たち）異変（いへん）沙汰（さた）人｜諸々（しよ〳〵）方々（ほう〴〵）にゆり出し\n　申候処めつほう也｜火災（くわさい）の義（ぎ）は当卯十月二日夜より\n　｜翌（よく）三日午の下刻迄と相定（あいさだめ）困窮（こんきう）人の義（ぎ）は難渋（なんじう）無住（むぢう）と\n　相きはめ只今御ほどこしとしてさつま芋三俵はしたにてたべ\n　申候御救之義は七ヶ所へ御｜建（たて）じま　｜御（おん）恵（めぐみ）に逢（あふ）目嶋（めじま）\n　可被下候事\n一鹿島様｜御法度（ごはつと）の義（ぎ）は申に不及お家（いへ）の八方（はつぽう）相｜傾（かたむか）せ申間鋪候\n　｜若（もし）此者お台所（だいどころ）の女中方の寝息（ねいき）を考（かんが）へ内証（ないしやう）の地震（ぢしん）致候欤\n　又はゆり逃（にげ）壁（かべ）落（おち）致候はゝ急度（きつと）したるかふばりの丸太を\n　以て早速らちあけ可申候\n一｜愁患（しうせう）の義は一蓮（いちれん）たく宗（しう）にて寺（てら）は夜中（よなか）ゆりあけ坂\n　｜道性寺（どうしやうじ）市中（しちう）まつぱたか騒動院（そうどういん）大火（たいくわ）に紛（まぎ）れ御座\n　なく候御｜発動（はつどう）のゆりしたん宗（しう）にてはこれなく候\n　｜若（もし）物音（ものをと）がたつきひめわひより瓦（かはら）をふらし候義は\n　無之万一ゆりかへし等致候はゝ我等（われら）早速（さつそく）まがり出｜要石（かなめいし）を\n　以てぎうと押（をさ）へ付（つけ）野田（のでん）へ宿労（しゆくらう）さしかけ申間敷候｜地震（ぢしん）の\n　たびゆつてむざんの如し\n　｜造作（そうさく）ざん年\n　　｜鹿嶋（かしま）の神（かみ）無（な）月二日\n　　　　　　　　　　　　　　　　｜半性（はんてう）大地（だいち）割（わり）下（げ）水\n　　　　　　　　　　　　　　　　　家なしまご右衛門店\n　　　　　　　　　　　　　　　　　　つぶれやお土蔵\n　　　　　　　　　　　どさくさほんくらないけんのん橋\n　　　　　　　　　　　　　　　　　みじめや難十郎店\n　　　　　　　　　　　　　　　　　　お小屋太助\n　　　｜世並（よなみ）直四郎（なほしらう）様",
+            "text": "　　　｜地震（ぢしん）方々（はう〴〵）人（にん）逃（にけ）状（じやう）之事\n一｜此（この）ゆり苦労（くらう）と申｜者（もの）｜生得（せうとく）信濃国（しなのゝくに）生須（なまづ）の荘（しやう）\n　｜揺初村（ゆりそめむら）出生（しゆつしやう）にて不｜慥（たしか）なるふら附者に付荒魔ども\n　｜失人（うせにん）に相（あい）立（たち）異変（いへん）沙汰（さた）人｜諸々（しよ〳〵）方々（ほう〴〵）にゆり出し\n　申候処めつほう也｜火災（くわさい）の義（ぎ）は当卯十月二日夜より\n　｜翌（よく）三日午の下刻迄と相定（あいさだめ）困窮（こんきう）人の義（ぎ）は難渋（なんじう）無住（むぢう）と\n　相きはめ只今御ほどこしとしてさつま芋三俵はしたにてたべ\n　申候御救之義は七ヶ所へ御｜建（たて）じま　｜御（おん）恵（めぐみ）に逢（あふ）目嶋（めじま）\n　可被下候事\n一鹿島様｜御法度（ごはつと）の義（ぎ）は申に不及お家（いへ）の八方（はつぽう）相｜傾（かたむか）せ申間鋪候\n　｜若（もし）此者お台所（だいどころ）の女中方の寝息（ねいき）を考（かんが）へ内証（ないしやう）の地震（ぢしん）致候欤\n　又はゆり逃（にげ）壁（かべ）落（おち）致候はゝ急度（きつと）したるかふばりの丸太を\n　以て早速らちあけ可申候\n一｜愁患（しうせう）の義は一蓮（いちれん）たく宗（しう）にて寺（てら）は夜中（よなか）ゆりあけ坂\n　｜道性寺（どうしやうじ）市中（しちう）まつぱたか騒動院（そうどういん）大火（たいくわ）に紛（まぎ）れ御座\n　なく候御｜発動（はつどう）のゆりしたん宗（しう）にてはこれなく候\n　｜若（もし）物音（ものをと）がたつきひめわひより瓦（かはら）をふらし候義は\n　無之万一ゆりかへし等致候はゝ我等（われら）早速（さつそく）まがり出｜要石（かなめいし）を\n　以てぎうと押（をさ）へ付（つけ）野田（のでん）へ宿労（しゆくらう）さしかけ申間敷候｜地震（ぢしん）の\n　たびゆつてむざんの如し\n　｜造作（そうさく）ざん年\n　　｜鹿嶋（かしま）の神（かみ）無（な）月二日\n　　　　　　　　　　　　　　　　｜半性（はんてう）大地（だいち）割（わり）下（げ）水\n　　　　　　　　　　　　　　　　　家なしまご右衛門店\n　　　　　　　　　　　　　　　　　　つぶれやお土蔵\n　　　　　　　　　　　どさくさほんくらないけんのん橋\n　　　　　　　　　　　　　　　　　みじめや難十郎店\n　　　　　　　　　　　　　　　　　　お小屋太助\n　　　｜世並（よなみ）直四郎（なほしらう）様",
+            "timestamp": {
+                "_nanoseconds": 796000000,
+                "_seconds": 1593137376
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

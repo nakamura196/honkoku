@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 2170,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/fc41c7ac3d41fada224b250ad0043fb276f2f79e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 2170,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88444",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88444/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88444",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "3F45ECE8D7FFCB9D08C528DE465EB835",
+    "label": "地震冥途ノ図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "地震冥途ノ図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-02-017"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "24.5×35.5"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "f7e98776-b461-4594-8c51-5ed402680610"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0064"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/fc41c7ac3d41fada224b250ad0043fb276f2f79e.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/f7e98776-b461-4594-8c51-5ed402680610/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "3F45ECE8D7FFCB9D08C528DE465EB835",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "地震冥途ノ圖\n\n【ページ右上の部分は文字が版面からはみ出しているので判読不能】\n□んづけハ\nしゆんに\nして\nいそぐな／＼\n又けがをするぞ\nやれ／＼\nいとしい\n事だ\nのふ\n\nぢぞうさんの\n子にして\nおくれ\n\n□レ\nえんま\nの子\n地ぞう\nの子\n\nいまに\nなをる\nすこしの\nしんぼう\nだ\n\nこどう\nでんに\nスチヤ\nラカ\nポク\n／＼\nで\nござり\nます\n\nこりや\n／＼／＼\n\n大方\nの子\nたのみ\nます\n\nえんま\nのこ",
+            "text": "地震冥途ノ圖\n\n【ページ右上の部分は文字が版面からはみ出しているので判読不能】\n□んづけハ\nしゆんに\nして\nいそぐな／＼\n又けがをするぞ\nやれ／＼\nいとしい\n事だ\nのふ\n\nぢぞうさんの\n子にして\nおくれ\n\n□レ\nえんま\nの子\n地ぞう\nの子\n\nいまに\nなをる\nすこしの\nしんぼう\nだ\n\nこどう\nでんに\nスチヤ\nラカ\nポク\n／＼\nで\nござり\nます\n\nこりや\n／＼／＼\n\n大方\nの子\nたのみ\nます\n\nえんま\nのこ",
+            "timestamp": {
+                "_nanoseconds": 933000000,
+                "_seconds": 1574596907
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

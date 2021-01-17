@@ -1,0 +1,188 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/7f716eee8a8981dc5ff86865dc57c0e69b2f5a24.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88387",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88387/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88387",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/4cd51c7125fae3a9ae45a2c12e18b26443e89f8d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219852",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219852/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/219852",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "B8A134BC5208FD43EC181DF8128B3832",
+    "id": "267ECE9034B874DDF4444CF43DB2263B",
+    "label": "江戸大地震出火場所附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "江戸大地震出火場所附"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-01-007"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×43.5"
+        },
+        {
+            "label": "備考",
+            "value": "同資料：I-01-036／被害絵図・情報・お救いなど"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "8c503b43-1239-4247-b4a3-b0da5e89ca93"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0007"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/7f716eee8a8981dc5ff86865dc57c0e69b2f5a24.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p1",
+            "editedBy": "XcMQsXMnV8fodHgNI4TJLRwTxJ93",
+            "entryId": "267ECE9034B874DDF4444CF43DB2263B",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "Z3O6WHy90BXHdSAUQhN5Tv9Psfr2",
+            "tempText": "【黒枠内タイトル】\n江戸大地震出火場所附\n\n【黒枠内内容】\n夫江戸九分通大地震と聞より国々の親兄弟のなげきかな\nしみいかばかりぞ片時もはやく安否聞セ可為安堵事第一也\n頃は安政二年卯十月二日夜四ツ時よりゆり出し家蔵\n潰れ死人けが人数多〳〵其上出火なり二十五ケ所一同に\nもへ上り大火となり先日光道中こが宿さつて宿栗\n橋宿草加宿かすかべ宿大沢宿かうしかや宿竹のつか\n梅田村千住宿五丁目四三二壱かもん宿小塚原等はじしん\nの上出火にて残らず焼る浅草丁新鳥越丁三丁目二壱\n一口は新丁三のわ丁一二丁坂本丁三丁目二重大をんじまへ\n大くづれ新吉原江戸丁壱丁目出火いたし橋や丁京丁\n壱丁目二丁目角丁江戸丁二丁目伏見町焼る死人三千七百\n人けが人数しれず田丁二丁目一丁目竹門北馬道丁南馬道丁\n猿若丁三丁目二丁目一丁目やける役者新道残る聖天\n丁瓦丁山之宿丁花川戸丁半分残る也だいしん門前\n焼るくわんせおん二王門つゝがなく並木丁駒形通り\nすわ丁黒舟丁八まん丁中程にてとまる通はたご丁森\n下丁片丁一口と田原丁三丁目より広徳寺まへの寺院\n町家大に損る下谷藤堂立花其外御大名御やしき\n残らず損る上野丁長者丁三丁目六丁目魚店七新\n丁中程より出火して和泉橋通迄もへ出る夫より仲丁\nうら通りくずれ表通あらまし残るひろこうじ井口側\n焼る同かや丁二丁目一丁目迄やける根津は二丁とも大に\nそんじ死人四百人けが人数しれず二軒残るむゑん坂上は\n松平備後守様御やしき焼る千駄木団子坂此\n辺あまた潰れ谷中善光寺坂上少々残る也\n夫より本郷通りそんじ切通し焼る加州様人数\n惣がゝりに消口とる湯嶋天神少々いたみ\n門前両かは町家土蔵附惣いたみ同三組丁\n中程にて二軒たおれ其外畑新丁竃霊雲\n寺門前ねりへい潰れ妻恋丁いなりの社つゝ\nがなく町内潰れ浅草かや丁両側損る御見附\n石がき飛いづる馬喰丁横山丁大てんま丁小伝\n馬丁格別少々損る東橋向松平隠岐守\n様御やしき潰れ焼る本所石原辺より御\n船蔵前潰れおもて丁少々三ツ目緑丁一丁目二丁目\n四丁目四ツ目ばし木はまでやける一口は箱崎丁南新\nほりしん川北しんほりれいがん嶋大川橋迄やける\n深川相川丁冨吉丁もろ丁はまぐり丁北川丁\nけきどの丁熊井丁中島町黒江丁仲丁\n永代寺門前残らず焼る死人百廿七人うら\n通り新通右木場黒舟いなり松平\nあはの守様下やしき残る入舟丁少々いたみさか\n丁より川岸通りいしき丁まで大にそんじ\n寺丁平の丁損木場大にそんじ大和丁\n此へん残らず人数四十人焼死今川橋\n日本橋通南之方てんま丁二丁目少々三丁目\nたゝみ丁五郎兵衛丁かじ丁一丁目\n二丁目すゞき丁因幡丁ときは丁\n　　　　　　　　　　具足丁柳丁大根\nがし焼る又一口は神田ばし内\n酒井雅楽頭様森川大名小路\n\n",
+            "text": "【黒枠内タイトル】\n江戸大地震出火場所附\n\n【黒枠内内容】\n夫江戸九分通大地震と聞より国々の親兄弟のなげきかな\nしみいかばかりぞ片時もはやく安否聞セ可為安堵事第一也\n頃は安政二年卯十月二日夜四ツ時よりゆり出し家蔵\n潰れ死人けが人数多〳〵其上出火なり二十五ケ所一同に\nもへ上り大火となり先日光道中こが宿さつて宿栗\n橋宿草加宿かすかべ宿大沢宿かうしかや宿竹のつか\n梅田村千住宿五丁目四三二壱かもん宿小塚原等はじしん\nの上出火にて残らず焼る浅草丁新鳥越丁三丁目二壱\n一口は新丁三のわ丁一二丁坂本丁三丁目二重大をんじまへ\n大くづれ新吉原江戸丁壱丁目出火いたし橋や丁京丁\n壱丁目二丁目角丁江戸丁二丁目伏見町焼る死人三千七百\n人けが人数しれず田丁二丁目一丁目竹門北馬道丁南馬道丁\n猿若丁三丁目二丁目一丁目やける役者新道残る聖天\n丁瓦丁山之宿丁花川戸丁半分残る也だいしん門前\n焼るくわんせおん二王門つゝがなく並木丁駒形通り\nすわ丁黒舟丁八まん丁中程にてとまる通はたご丁森\n下丁片丁一口と田原丁三丁目より広徳寺まへの寺院\n町家大に損る下谷藤堂立花其外御大名御やしき\n残らず損る上野丁長者丁三丁目六丁目魚店七新\n丁中程より出火して和泉橋通迄もへ出る夫より仲丁\nうら通りくずれ表通あらまし残るひろこうじ井口側\n焼る同かや丁二丁目一丁目迄やける根津は二丁とも大に\nそんじ死人四百人けが人数しれず二軒残るむゑん坂上は\n松平備後守様御やしき焼る千駄木団子坂此\n辺あまた潰れ谷中善光寺坂上少々残る也\n夫より本郷通りそんじ切通し焼る加州様人数\n惣がゝりに消口とる湯嶋天神少々いたみ\n門前両かは町家土蔵附惣いたみ同三組丁\n中程にて二軒たおれ其外畑新丁竃霊雲\n寺門前ねりへい潰れ妻恋丁いなりの社つゝ\nがなく町内潰れ浅草かや丁両側損る御見附\n石がき飛いづる馬喰丁横山丁大てんま丁小伝\n馬丁格別少々損る東橋向松平隠岐守\n様御やしき潰れ焼る本所石原辺より御\n船蔵前潰れおもて丁少々三ツ目緑丁一丁目二丁目\n四丁目四ツ目ばし木はまでやける一口は箱崎丁南新\nほりしん川北しんほりれいがん嶋大川橋迄やける\n深川相川丁冨吉丁もろ丁はまぐり丁北川丁\nけきどの丁熊井丁中島町黒江丁仲丁\n永代寺門前残らず焼る死人百廿七人うら\n通り新通右木場黒舟いなり松平\nあはの守様下やしき残る入舟丁少々いたみさか\n丁より川岸通りいしき丁まで大にそんじ\n寺丁平の丁損木場大にそんじ大和丁\n此へん残らず人数四十人焼死今川橋\n日本橋通南之方てんま丁二丁目少々三丁目\nたゝみ丁五郎兵衛丁かじ丁一丁目\n二丁目すゞき丁因幡丁ときは丁\n　　　　　　　　　　具足丁柳丁大根\nがし焼る又一口は神田ばし内\n酒井雅楽頭様森川大名小路\n\n",
+            "timestamp": {
+                "_nanoseconds": 36000000,
+                "_seconds": 1569127231
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/8c503b43-1239-4247-b4a3-b0da5e89ca93/canvas/p2",
+            "editedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "entryId": "267ECE9034B874DDF4444CF43DB2263B",
+            "index": 1,
+            "prevStatus": "initiated",
+            "requestReview": false,
+            "share": false,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "HtSYO08P6oRuOJl69IetQXa791s1",
+            "tempText": "【黒枠内内容】\n遠藤但馬守様御火けしやしき\n因州様越前様等残らず焼る\n酒井左衛門様小笠原様少々潰れ\n永井飛騨守様本多中務太輔\n様やける土井様半やけ松平右京\n亮様少々和田倉御門之内会津様\n松平下総守様内藤紀伊守様馬\n場さき御門御番所焼る外さくら田御門外\n山下御門鍋嶋様南部様伊東様松平\n時之助様やける薩州様長州様三草\n丹羽様上村様焼る一ツ橋通りきじ橋通り\n小川丁本郷丹後守様松平紀伊守様榊原\n式部大輔様板倉戸田此辺残らずやける\n又山之手麻布まみ穴此辺大潰れ四ツ谷\nしほ丁よりこうじ丁平川天神前残らず潰れ\n此より御茶の水番丁青山六堂辻板橋迄\n潰れ又一口は京橋より芝口三丁少々潰れ\n源助丁露月丁新せん座肥後守様へいくづれ\n柴井丁より出火いたし宇田川丁両側焼る芝神明\n前両側潰れ脇坂あわぢ守様仙台様少々崩れ\n浜松町四丁目金杉四丁目少々いたみ□品川東海寺\n山内不残崩本宿新宿坂両側大崩高輪\n松平大和守様御やしき崩有馬中務大輔様\n練塀崩薩摩様表長屋崩南二丁崩中程\n高輪家十軒ほど潰れ三丁崩如来寺本堂家根\n崩門前崩石橋二ツ所路庚申堂石門いがむ\n太子堂崩芝車丁崩伊皿子長応守表門\n崩魚籃寺へい并にがく堂崩七軒別\n条無く東禅寺門崩芝田丁八九七崩\n四三無別条八まん宮石垣石坂かな\nどうろう崩れ五六少々崩れ二一大に\n崩れ本芝四丁崩れ\nよう〳〵しづまり諸人安土おもいを\nなすめでたし〳〵\n\n江戸町員五千七百町\n土蔵数十一万四千四百六十\n御大名様方四百余\n御旗本様方十八万五千八百\n寺院宮社六千二百余\n\n死人十一万八千六百余\nけが人三十二万六十余\n\n御救小屋\n上野\n浅草\n窪町\n　外に九軒\n　　〆十一軒\n\n",
+            "text": "【黒枠内内容】\n遠藤但馬守様御火けしやしき\n因州様越前様等残らず焼る\n酒井左衛門様小笠原様少々潰れ\n永井飛騨守様本多中務太輔\n様やける土井様半やけ松平右京\n亮様少々和田倉御門之内会津様\n松平下総守様内藤紀伊守様馬\n場さき御門御番所焼る外さくら田御門外\n山下御門鍋嶋様南部様伊東様松平\n時之助様やける薩州様長州様三草\n丹羽様上村様焼る一ツ橋通りきじ橋通り\n小川丁本郷丹後守様松平紀伊守様榊原\n式部大輔様板倉戸田此辺残らずやける\n又山之手麻布まみ穴此辺大潰れ四ツ谷\nしほ丁よりこうじ丁平川天神前残らず潰れ\n此より御茶の水番丁青山六堂辻板橋迄\n潰れ又一口は京橋より芝口三丁少々潰れ\n源助丁露月丁新せん座肥後守様へいくづれ\n柴井丁より出火いたし宇田川丁両側焼る芝神明\n前両側潰れ脇坂あわぢ守様仙台様少々崩れ\n浜松町四丁目金杉四丁目少々いたみ□品川東海寺\n山内不残崩本宿新宿坂両側大崩高輪\n松平大和守様御やしき崩有馬中務大輔様\n練塀崩薩摩様表長屋崩南二丁崩中程\n高輪家十軒ほど潰れ三丁崩如来寺本堂家根\n崩門前崩石橋二ツ所路庚申堂石門いがむ\n太子堂崩芝車丁崩伊皿子長応守表門\n崩魚籃寺へい并にがく堂崩七軒別\n条無く東禅寺門崩芝田丁八九七崩\n四三無別条八まん宮石垣石坂かな\nどうろう崩れ五六少々崩れ二一大に\n崩れ本芝四丁崩れ\nよう〳〵しづまり諸人安土おもいを\nなすめでたし〳〵\n\n江戸町員五千七百町\n土蔵数十一万四千四百六十\n御大名様方四百余\n御旗本様方十八万五千八百\n寺院宮社六千二百余\n\n死人十一万八千六百余\nけが人三十二万六十余\n\n御救小屋\n上野\n浅草\n窪町\n　外に九軒\n　　〆十一軒\n\n",
+            "timestamp": {
+                "_nanoseconds": 716000000,
+                "_seconds": 1598420320
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

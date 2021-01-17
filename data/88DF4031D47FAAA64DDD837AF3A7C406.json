@@ -1,0 +1,130 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 4992,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/c8f81e2fbdf6e7879e52563d2d0652611cead2a3.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 4992,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88837",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 3328
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88837/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88837",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 3328
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "88DF4031D47FAAA64DDD837AF3A7C406",
+    "label": "上州草津温泉大図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上州草津温泉大図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-11-016"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "年月日",
+            "value": "文化年"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(墨一色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "文化 改\n版元：あふみ屋・としまや"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "70×54"
+        },
+        {
+            "label": "year",
+            "value": "1804"
+        },
+        {
+            "label": "identifier",
+            "value": "ec74cb91-6480-407a-aa4c-6499f3779179"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0461"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/c8f81e2fbdf6e7879e52563d2d0652611cead2a3.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ec74cb91-6480-407a-aa4c-6499f3779179/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "88DF4031D47FAAA64DDD837AF3A7C406",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": false,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "上州草津温泉大図【横書き】\n\n【表題の上の枠内】\n当温泉は\n人皇四十四代\n元正天皇御宇\n養老五年\n四月八日行基\n菩薩当山に\n登温泉を成\n給ふ其後\n建久年中\n将軍頼朝公\n当国崎御\n道て温泉に\n浴し給ふ其湯\nを御座の湯と\n名付に頼朝公\nの御宮有委は\n温泉記に有\n天正年中\n近衛龍山公\n御入湯有御歌に\n▲里はまた\n紅葉の秋に\n時しらぬ\n白根に今朝は\n雪ぞふりけり\n\n【右下の枠内】\n板元　＜割書：あふみ屋｜としまや＞\n\n草津温泉より【一段目から八段目までベタ打ち】\n三り　　羽尾\n六り　　狩宿\n　　　　御関所\n　　　　沓掛\n十八り　みやうぎ\n\n三り半　長の\n三り　　須ヶ尾\n二り　　大戸\n　　　　御関所\n三り半　三のくら\n三り　　かみ山\n三り　　たかさき\n\n原\n二り　　川原湯\n三り半　岩下\n一り半　江原\n一り半　川戸\n四り　　はるな\n三り　　室田\n三り半　【たかさき】\n\n四り　　しま\n二り　　生須\n四り八丁　沢渡\n六り　　いかほ\n一り半　水沢\n三り　　柏木\n三り\n\n二り　　中の条\n一り　　あり川\n二り　　入須川\n二り　　相又\n一り　　猿ヶ京\n　　　　御関所\n　\n【中の条】\n七り　　八ツ崎\n七り　　花わ\n六り　　竹木 \n四り　　足尾\n五り　　日光\n\n四り　　大前\n一り　　大さゝ\n　　　　御関所\n八り峠　仁礼\n一り半　わた打【綿内】\n□り半　ふく島\n二り　　舟わたし　善光寺\n\n七り峠　渋湯\n一り半　中の\n　　　　立ヶ花\n　　　　舟わたし\n二り　浅の\n一り廿六丁　吉田\n□り　【善光寺】\n\n\n【右側中央、「ねつの湯」の説明】\n　ねつの湯【横書き】\n此ゆは日に三度づゝおんねつの\nかはり有て服病はやわらかなる\n時入べしうちみくぢきによし\nひつひぜんにはごくあつきとき\nいりてよし▲汲水の湯になる\n　　　　　　　　　ほどのあつさ哉\n\n【中央上、「御座ゆ」の説明】\n御座ゆ\nむかし頼朝\n此ゆに入給ふ\nなん病の\n人はこれに\n入てよし\n\n【中央中ほどの右、「かつけのゆ」の説明】\n　かつけのゆ\nこう法大師\nかつけにて御なんぎ\nのせつ此ゆにて\n御くわいき\nあり\nかつけと\nしやく\nつかへの\n名湯\nなり\n\n【「かつけのゆ」の下、「馬のゆ」の説明】\n　馬のゆ\n馬の病に\n入て吉\n\n【中央中ほどの左、「わたのゆ」の説明】\n　わた□□【のゆ】\nやわらか\nなるゆにてよは\nき人ひへしやう\nの人は長く\n入るはげんきをまし\n子なき女はくわいにんする也\n\n【中央の下、十七本の打たせ湯の説明】\n滝は大小十七本有\nいづれの病にもをり〳〵\n入ときはのぼせをひき\nさげ気血を廻らし\n百びやうとして治\nせづという事なし\n\n【中央の下、中町の左側の書き入れ】\n汲てゆくいづれ\n姿の水かゞみ\nよいのもあれば\nわるいのもあり\n\n【左側上、「じぞうのゆ」の説明】\n　しぞうのゆ\nむかしこゝに虫の病有\n人一七日こもり入にまんずる\nにゆめのつげに此下に\nおんせん有これに入\n時はむしのねを切也\n無病の人おり〳〵\n入ば道中にて雨風に\nあたりてもゆはもど\nらづ　じそうの\nせいがん也\n\n【左側下、「わしのゆ」の説明】\n　わしのゆ\n此ゆはむかしわしとび\n来て日に三度づゝ足を\nひたし人〻ふしぎに\nおもいみればてつぽうに\nうたれたるきづ有て\nこれを湯治する也\nほどなくへいゆにして\nとび行うちみくじきの\n名湯なり\n",
+            "text": "上州草津温泉大図【横書き】\n\n【表題の上の枠内】\n当温泉は\n人皇四十四代\n元正天皇御宇\n養老五年\n四月八日行基\n菩薩当山に\n登温泉を成\n給ふ其後\n建久年中\n将軍頼朝公\n当国崎御\n道て温泉に\n浴し給ふ其湯\nを御座の湯と\n名付に頼朝公\nの御宮有委は\n温泉記に有\n天正年中\n近衛龍山公\n御入湯有御歌に\n▲里はまた\n紅葉の秋に\n時しらぬ\n白根に今朝は\n雪ぞふりけり\n\n【右下の枠内】\n板元　《割書：あふみ屋｜としまや》\n\n草津温泉より【一段目から八段目までベタ打ち】\n三り　　羽尾\n六り　　狩宿\n　　　　御関所\n　　　　沓掛\n十八り　みやうぎ\n\n三り半　長の\n三り　　須ヶ尾\n二り　　大戸\n　　　　御関所\n三り半　三のくら\n三り　　かみ山\n三り　　たかさき\n\n原\n二り　　川原湯\n三り半　岩下\n一り半　江原\n一り半　川戸\n四り　　はるな\n三り　　室田\n三り半　【たかさき】\n\n四り　　しま\n二り　　生須\n四り八丁　沢渡\n六り　　いかほ\n一り半　水沢\n三り　　柏木\n三り\n\n二り　　中の条\n一り　　あり川\n二り　　入須川\n二り　　相又\n一り　　猿ヶ京\n　　　　御関所\n　\n【中の条】\n七り　　八ツ崎\n七り　　花わ\n六り　　竹木 \n四り　　足尾\n五り　　日光\n\n四り　　大前\n一り　　大さゝ\n　　　　御関所\n八り峠　仁礼\n一り半　わた打【綿内】\n□り半　ふく島\n二り　　舟わたし　善光寺\n\n七り峠　渋湯\n一り半　中の\n　　　　立ヶ花\n　　　　舟わたし\n二り　浅の\n一り廿六丁　吉田\n□り　【善光寺】\n\n\n【右側中央、「ねつの湯」の説明】\n　ねつの湯【横書き】\n此ゆは日に三度づゝおんねつの\nかはり有て服病はやわらかなる\n時入べしうちみくぢきによし\nひつひぜんにはごくあつきとき\nいりてよし▲汲水の湯になる\n　　　　　　　　　ほどのあつさ哉\n\n【中央上、「御座ゆ」の説明】\n御座ゆ\nむかし頼朝\n此ゆに入給ふ\nなん病の\n人はこれに\n入てよし\n\n【中央中ほどの右、「かつけのゆ」の説明】\n　かつけのゆ\nこう法大師\nかつけにて御なんぎ\nのせつ此ゆにて\n御くわいき\nあり\nかつけと\nしやく\nつかへの\n名湯\nなり\n\n【「かつけのゆ」の下、「馬のゆ」の説明】\n　馬のゆ\n馬の病に\n入て吉\n\n【中央中ほどの左、「わたのゆ」の説明】\n　わた□□【のゆ】\nやわらか\nなるゆにてよは\nき人ひへしやう\nの人は長く\n入るはげんきをまし\n子なき女はくわいにんする也\n\n【中央の下、十七本の打たせ湯の説明】\n滝は大小十七本有\nいづれの病にもをり〳〵\n入ときはのぼせをひき\nさげ気血を廻らし\n百びやうとして治\nせづという事なし\n\n【中央の下、中町の左側の書き入れ】\n汲てゆくいづれ\n姿の水かゞみ\nよいのもあれば\nわるいのもあり\n\n【左側上、「じぞうのゆ」の説明】\n　しぞうのゆ\nむかしこゝに虫の病有\n人一七日こもり入にまんずる\nにゆめのつげに此下に\nおんせん有これに入\n時はむしのねを切也\n無病の人おり〳〵\n入ば道中にて雨風に\nあたりてもゆはもど\nらづ　じそうの\nせいがん也\n\n【左側下、「わしのゆ」の説明】\n　わしのゆ\n此ゆはむかしわしとび\n来て日に三度づゝ足を\nひたし人〻ふしぎに\nおもいみればてつぽうに\nうたれたるきづ有て\nこれを湯治する也\nほどなくへいゆにして\nとび行うちみくじきの\n名湯なり\n",
+            "timestamp": {
+                "_nanoseconds": 2000000,
+                "_seconds": 1580521818
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

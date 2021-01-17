@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/016fef663de6cb18253cae1b641b564df02fb021.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88780",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88780/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88780",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "FBFAEC1C236EF293C531FA9DBC4FA720",
+    "label": "肥前国杵島郡武雄柄崎駅温泉之真景",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "肥前国杵島郡武雄柄崎駅温泉之真景"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-028"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "35×55"
+        },
+        {
+            "label": "identifier",
+            "value": "3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0400"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/016fef663de6cb18253cae1b641b564df02fb021.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3b4b9d23-b175-4e5b-b7ce-31a00c6dcbc0/canvas/p1",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "FBFAEC1C236EF293C531FA9DBC4FA720",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "　　　　　　　\n肥　　　（山の絵）　　　　　　　　　廣福　　　（旗）　杵き　□□\n　　　　　　　　　　　　　　　　　　禅寺　　　　　　　マ　クん　\n前　　　　　　　　　　　　　　　　　　　　　　　　　　役所\n\n国　　　　　　　　　　　　　（峡谷の図）イナリ　　　　　　　　　公立病院　　　天神山\n\n杵\n\n嶋\n\n雄　　　　　　　　　　　　　　　袖武天皇\n\n柄（ルビで　ツカ）　　　　　　　　　　　　　　　　　　　　　イナリ\n\n崎（ルビで　ザキ）\n\n駅\n\n温　\n\n泉　　　　　　　　　　　　　　　　　　　八十八ヶ所　　　　　　　\n\n之　　　　　　　　　　　　　　　　　　　　　　　　　　　　（旗）温泉　（看板）蓬莱家\n\n真\n景\n\n\n（山の絵）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ケーサツ\n蓬莱山\n　　　　　　　　　　　　　　　　　　　　ユノヤクシ\n　　　　　　　　　　　　　　ヨドヒメ社　　　　　\n　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　天神\n\n眉・印\n紅風緑雨酒旗斜\n蝶舞鶯鳴幾百\n家無限蓬莱仙\n境景梅花観看了\n又桜花\n　戊子春日客于武陵\n　底温泉同盟者之需\n　写此小景図\n　　種竹園主人\n　　屏山樵者利景併題\n　　　屏山・之印　印　　御舟山\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（旗）学校",
+            "text": "　　　　　　　\n肥　　　（山の絵）　　　　　　　　　廣福　　　（旗）　杵き　□□\n　　　　　　　　　　　　　　　　　　禅寺　　　　　　　マ　クん　\n前　　　　　　　　　　　　　　　　　　　　　　　　　　役所\n\n国　　　　　　　　　　　　　（峡谷の図）イナリ　　　　　　　　　公立病院　　　天神山\n\n杵\n\n嶋\n\n雄　　　　　　　　　　　　　　　袖武天皇\n\n柄（ルビで　ツカ）　　　　　　　　　　　　　　　　　　　　　イナリ\n\n崎（ルビで　ザキ）\n\n駅\n\n温　\n\n泉　　　　　　　　　　　　　　　　　　　八十八ヶ所　　　　　　　\n\n之　　　　　　　　　　　　　　　　　　　　　　　　　　　　（旗）温泉　（看板）蓬莱家\n\n真\n景\n\n\n（山の絵）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ケーサツ\n蓬莱山\n　　　　　　　　　　　　　　　　　　　　ユノヤクシ\n　　　　　　　　　　　　　　ヨドヒメ社　　　　　\n　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　天神\n\n眉・印\n紅風緑雨酒旗斜\n蝶舞鶯鳴幾百\n家無限蓬莱仙\n境景梅花観看了\n又桜花\n　戊子春日客于武陵\n　底温泉同盟者之需\n　写此小景図\n　　種竹園主人\n　　屏山樵者利景併題\n　　　屏山・之印　印　　御舟山\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（旗）学校",
+            "timestamp": {
+                "_nanoseconds": 180000000,
+                "_seconds": 1567486761
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,134 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/e21d6840639ab88576dbd9f0ae3c9f39609891ab.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88767",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88767/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88767",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "59F401EAF443ACE96C585107675412CA",
+    "id": "50098C7F6E8A7A7F0DC6295A1A0CB4AE",
+    "label": "上州草津温泉之全図",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "上州草津温泉之全図"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-09-015"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "温泉案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "錦絵"
+        },
+        {
+            "label": "年月日",
+            "value": "明治22年4月20日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "出版事項等",
+            "value": "出版元：神田鈴木町1　阿部善吉／筆者：在東京　国利写"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "34×48"
+        },
+        {
+            "label": "year",
+            "value": "1889"
+        },
+        {
+            "label": "identifier",
+            "value": "bc1d8761-e974-4e0f-91cd-f6cc00d70ba4"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0387"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e21d6840639ab88576dbd9f0ae3c9f39609891ab.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/bc1d8761-e974-4e0f-91cd-f6cc00d70ba4/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "50098C7F6E8A7A7F0DC6295A1A0CB4AE",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "\n【表題】\n上州草津温泉之全図\n【本文】\n　　根元略\n当温泉ハ人皇四十五代\n元正天皇之宇養老\n年間大和国菅原寺ノ\n行基尊者為弘法法杖ヲ\n当山ニ曳鉱泉ヲ発見\nス其後鎌倉将軍源頼朝\n公建久四年浅間山御狩\nノ時騎御在テ浴湯ヲ試ミ \n玉フ亦近衛関白龍山卿\n浴湯アリ\n薬師十二神ノ御和歌今ニ\n残レリ\n　　温泉功能略\n　　　熱の湯\nたいどくせむしようてう親\nゆづりのばいどくくさかさ○な\nもなきわるかさ○けいふんざい\nのとゞこほり○れうまちす○ひつ\nひぜん諸病によし\n　　　脚気の湯\nかつけ○のほせ○りんびやう○\nめのかすみ○耳なり○足の病\n○こしのやまひ○かほのてきも\nの○せんき\n　　　御座の湯\nらいびやう○三病なまづ○\nたむしわる血のとゞこほり\nめんさう○手足のしびれ○\nみうちのくされ○そのほか腫\n物とうによし\n　　綿の湯\nやうばいさう○ぢばす○ぢ\nらう○がんがさ○ばいどくに\nてこしたゝず○せうかち○\nほねふしのいたみひつ等によし\n　　　鷲の湯\nうちみ○くぢき○さうどく\n○ひつ○たいどく○せんき○\nすばく○年久しくなほら\nぬ病其外諸病によし\n　　　滝の湯\nのぼせひきさげほしめ○\nばいどくのめ○年なり○そ\nの外づつう○めまいかたは\nりたるによし\n　　　松の湯\nさうどく○ひつ○ひぜん\nしらくも○くさがさ○りう\nゐん○ほねふしのいたみ其\n外万病によし\n　　　地蔵の湯\n功能松の湯と同じ諸\n病によし\n其外\n　白　寿　湯\n　玉　の　湯　此六ヶ\n　にい川の湯　　所の\n　とみの　湯　　　湯\n　千代の　湯　　諸病\n　なきの　湯　　よし\n凡道法略\n　　草津より\n高崎へ　　　十八里\n沢たりへ　　六　里\n善光寺へ　　十四里\n越後高田へ　二十里\n信州上田へ　十三里\n日光へ　　　三十六里\n東京へ　　　四十八里\n\n【中央の和歌】\n結ぶてふ\n此谷かけの\n出湯こそ\nむべにも\n老せぬ薬なり\nけり\n\n【欄外右下書き込み】\n五大力ぼさつ　　井上銈馬\n\n【欄外左下】\n明治廿二年四月廿日　　　著作印制兼発行者\n印刷同年同月廿二日出版　神田区鈴木町六バンチ　阿部善吉\n　",
+            "text": "\n【表題】\n上州草津温泉之全図\n【本文】\n　　根元略\n当温泉ハ人皇四十五代\n元正天皇之宇養老\n年間大和国菅原寺ノ\n行基尊者為弘法法杖ヲ\n当山ニ曳鉱泉ヲ発見\nス其後鎌倉将軍源頼朝\n公建久四年浅間山御狩\nノ時騎御在テ浴湯ヲ試ミ \n玉フ亦近衛関白龍山卿\n浴湯アリ\n薬師十二神ノ御和歌今ニ\n残レリ\n　　温泉功能略\n　　　熱の湯\nたいどくせむしようてう親\nゆづりのばいどくくさかさ○な\nもなきわるかさ○けいふんざい\nのとゞこほり○れうまちす○ひつ\nひぜん諸病によし\n　　　脚気の湯\nかつけ○のほせ○りんびやう○\nめのかすみ○耳なり○足の病\n○こしのやまひ○かほのてきも\nの○せんき\n　　　御座の湯\nらいびやう○三病なまづ○\nたむしわる血のとゞこほり\nめんさう○手足のしびれ○\nみうちのくされ○そのほか腫\n物とうによし\n　　綿の湯\nやうばいさう○ぢばす○ぢ\nらう○がんがさ○ばいどくに\nてこしたゝず○せうかち○\nほねふしのいたみひつ等によし\n　　　鷲の湯\nうちみ○くぢき○さうどく\n○ひつ○たいどく○せんき○\nすばく○年久しくなほら\nぬ病其外諸病によし\n　　　滝の湯\nのぼせひきさげほしめ○\nばいどくのめ○年なり○そ\nの外づつう○めまいかたは\nりたるによし\n　　　松の湯\nさうどく○ひつ○ひぜん\nしらくも○くさがさ○りう\nゐん○ほねふしのいたみ其\n外万病によし\n　　　地蔵の湯\n功能松の湯と同じ諸\n病によし\n其外\n　白　寿　湯\n　玉　の　湯　此六ヶ\n　にい川の湯　　所の\n　とみの　湯　　　湯\n　千代の　湯　　諸病\n　なきの　湯　　よし\n凡道法略\n　　草津より\n高崎へ　　　十八里\n沢たりへ　　六　里\n善光寺へ　　十四里\n越後高田へ　二十里\n信州上田へ　十三里\n日光へ　　　三十六里\n東京へ　　　四十八里\n\n【中央の和歌】\n結ぶてふ\n此谷かけの\n出湯こそ\nむべにも\n老せぬ薬なり\nけり\n\n【欄外右下書き込み】\n五大力ぼさつ　　井上銈馬\n\n【欄外左下】\n明治廿二年四月廿日　　　著作印制兼発行者\n印刷同年同月廿二日出版　神田区鈴木町六バンチ　阿部善吉\n　",
+            "timestamp": {
+                "_nanoseconds": 272000000,
+                "_seconds": 1571130596
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

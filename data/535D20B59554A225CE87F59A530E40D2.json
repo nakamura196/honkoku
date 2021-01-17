@@ -1,0 +1,131 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 3328,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/19bf3c1c64cea60114fd7410b74814105ffa378f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 3328,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88627",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 4992
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88627/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88627",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 4992
+        }
+    ],
+    "collectionId": "618329EF1DBD23C5BC1B80329CFE3244",
+    "id": "535D20B59554A225CE87F59A530E40D2",
+    "label": "浮世栄 しんよしハらかりたく",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "浮世栄 しんよしハらかりたく"
+        },
+        {
+            "label": "資料番号",
+            "value": "I-04-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションI"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "鯰絵"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "木版(多色)"
+        },
+        {
+            "label": "縦×横（cm）",
+            "value": "36.5×50"
+        },
+        {
+            "label": "備考",
+            "value": "2枚組"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "6ad21967-f8b0-459f-9c04-9f549983c897"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "0247"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/19bf3c1c64cea60114fd7410b74814105ffa378f.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/6ad21967-f8b0-459f-9c04-9f549983c897/canvas/p1",
+            "editedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "entryId": "535D20B59554A225CE87F59A530E40D2",
+            "index": 0,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "kvSkruq1Z0gWBz0k43srgKFwlbf1",
+            "tempText": "志んよしハらかりたく\n浅艸東仲町　　深川仲町\n西仲町　　　　富ヶ岡門前\n花川戸　　　　東仲町\n山の宿　　　　佃　町\n聖天町　　　　常盤町\n今戸町　　　　松村町\n山谷町　　　　山本町\n　　　浮　世　榮\n馬喰町　　　　根　津\n田　町　　　　谷　仲\n御旅弁天　　　音　羽\n御船蔵前　　　赤　坂\n本所入江町　　麻　布\n八兵衛屋敷　　市兵衛町\n長岡町　　　　宮下町\n陸尺長屋　　　谷　町\n鐘つき堂　　　鮫ヶ橋\n五百日ノ間　　此分追而\n地震□□くつかた場所も建直り\nこれからハ御代実によし原",
+            "text": "志んよしハらかりたく\n浅艸東仲町　　深川仲町\n西仲町　　　　富ヶ岡門前\n花川戸　　　　東仲町\n山の宿　　　　佃　町\n聖天町　　　　常盤町\n今戸町　　　　松村町\n山谷町　　　　山本町\n　　　浮　世　榮\n馬喰町　　　　根　津\n田　町　　　　谷　仲\n御旅弁天　　　音　羽\n御船蔵前　　　赤　坂\n本所入江町　　麻　布\n八兵衛屋敷　　市兵衛町\n長岡町　　　　宮下町\n陸尺長屋　　　谷　町\n鐘つき堂　　　鮫ヶ橋\n五百日ノ間　　此分追而\n地震□□くつかた場所も建直り\nこれからハ御代実によし原",
+            "timestamp": 1565486761021
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

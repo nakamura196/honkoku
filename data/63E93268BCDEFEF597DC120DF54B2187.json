@@ -1,0 +1,177 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 5009,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/41a6de77cb2adbf375090303762e0fd823f431c2.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5009,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56156",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6667
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56156/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56156",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6667
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p2",
+            "@type": "sc:Canvas",
+            "height": 5009,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/annotation/p0002-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p2",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/86bad8cc976382d2df41a4a17bf5c350350599fd.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 5009,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56157",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 6667
+                    }
+                }
+            ],
+            "label": "[2]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56157/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56157",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 6667
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "63E93268BCDEFEF597DC120DF54B2187",
+    "label": "年魚瓢箪人浮状之事",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "年魚瓢箪人浮状之事"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-01-018"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "災害"
+        },
+        {
+            "label": "資料分類",
+            "value": "かわら版"
+        },
+        {
+            "label": "年月日",
+            "value": "安政2年10月2日"
+        },
+        {
+            "label": "印刷分類",
+            "value": "墨一色"
+        },
+        {
+            "label": "year",
+            "value": "1855"
+        },
+        {
+            "label": "identifier",
+            "value": "01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1018"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 2,
+    "projectId": "ishimoto",
+    "size": 2,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/41a6de77cb2adbf375090303762e0fd823f431c2.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p1",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "63E93268BCDEFEF597DC120DF54B2187",
+            "index": 0,
+            "prevStatus": "completed",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "　　　　　　　　　 年魚（なまづ）瓢箪（ひようたん）人（にん）浮状（うきじやう）之 事（こと）\n一此 震（うご）九郎と申者 生国（せうこく）ハ常陸国（ひたちのくに）要石郡（かなめいしごうり）地潜村（ぢもぐりむら）出生（しゆつせう）ニ而 慥（たしか）\n成（なる） 動々（ぶり〳〵）者（もの）ニ付 燃上（もえあが）り之 火事（くわじ）等（ら）共（ども）燃人（やけにん）ニ相立 危難（きなん）加多（がた）え\n御 麁相（そゝう）ニ震（ゆり）上候所 物騒（ぶつそう）也 難（なん）義之儀は當卯十月二日之 晩（ばん）\n於眠氣（おねむけ）時ゟ翌（あくる）三日四ツ 這（ばい）迄ニ相定御 損（そん）金として損両（そんりやう）損分（そんぶ）\n損（そん）朱 惜（おしく）も焼取れ申候御仕 着（きせ）之義ハ夏ハ震電雷鳴白雨光物（ごろ〳〵かみなりのゆふだちしまひかりもの）\n一ツ 冬（ふゆハ）焔散粉（ひのこのふる）布（ぬの）子一枚可被下候事\n一 御関東様（ごくわんとうさま）御八 州（しゆ）之義不及申 諸国（しよこく）一統（いつとう）為相動（あひゆるがせ）申 間鋪（まじく）候万一\n此者御臺所 勝手（かつて）ケ間敷 氷仕女（おさんとん）方へ参（まい）り大摺木（おゝすりこき）ヲ震立（ふるいたて）摺鉢（すりはち）ヲ\n破（こわし） 這々（はい〳〵）之上内々之 地震（ちしん）致候 欤（か）亦（また）ハ動迯（ゆりにげ）壁落（かべおち） 致（いため）メ候ハヾ高梁（かうばり）ヲ以（もつて）\n取繕（とりつくろひ）急度（きつと）したる大工 左官（しやくわん）差出（さしいたし）早速（さつそく）埒明（らちあけ）可申候\n一 愁障（しうせう）之義ハ鐘（つりがね）之 難題宗（なんだいしう）ニ而寺ハ小 動（ゆれ）川 散々（さん〴〵）橋ぢやんぐわら寺（じ）暫（ざん）\n時（じ）に崩（くづれ）家（いへ）なく候 御八方（ごはつほう）ヲ震支丹焼宗門（ゆりしたんやけしうもん）ニハ無之候 若（もし）此物 音（おと）儀（ぎ）ニ付\n日合（ひやハひ）ゟがらくら動振（ゆすぶり）等（とう）無之候万一 震返（ゆりかへ）し津浪（つなミ）等致候ハヾ要（かなめ）石ニ判人（はんにん）乃\n堅（かたい）我等（われら）地しんニ早速（さつそく）曲出（まかりいで）ぎうと押付（おしつけ）野田（のでん）へ轉寐（ごろね）御 苦労（くろう）小屋 掛（がけ）差（さし）\n懸（かけ）申間敷候 地震（ぢしん）之 後（のち）材木（ざいもく）買而（かつて）直段（ねだん）之 高（たか）し\n\n安心（あんしん）二年\n　 是（これ）から〆この夘の十月\n　　　　　　　　　　　　 請人（うけ二入にん）　　 天井張（てんじやうはり）下水仕事（げすいしごと）新井丁（あらいまち）\n　　　　　　　　　　　　　　　　　ふしん屋でき介店\n　　　　　　　　　　　　　　　　　　　家根屋大九郎○【印、「富貴」】\n　　　　　　　　　　　 人（ひと）入 主（ぬし）　へたくた壁塗（かべぬり）門内（もんうち）左官（しやくわん）ハ早（はやく）智光院（ちかういん）地内（ぢない）\n　　　　　　　　　　　　　　　　　こまい屋角左衛門店\n　　　　　　　　　　　　　　　　　　　つた屋煉兵衛○【印】\n　　　　　　　　 積田（つんだ）金蔵（かねくら）河岸（がし）\n　　　　　　　　　　　　 無事田（ぶじだ）繁昌（はんじやう）郎様\n\n\n",
+            "text": "　　　　　　　　　 年魚（なまづ）瓢箪（ひようたん）人（にん）浮状（うきじやう）之 事（こと）\n一此 震（うご）九郎と申者 生国（せうこく）ハ常陸国（ひたちのくに）要石郡（かなめいしごうり）地潜村（ぢもぐりむら）出生（しゆつせう）ニ而 慥（たしか）\n成（なる） 動々（ぶり〳〵）者（もの）ニ付 燃上（もえあが）り之 火事（くわじ）等（ら）共（ども）燃人（やけにん）ニ相立 危難（きなん）加多（がた）え\n御 麁相（そゝう）ニ震（ゆり）上候所 物騒（ぶつそう）也 難（なん）義之儀は當卯十月二日之 晩（ばん）\n於眠氣（おねむけ）時ゟ翌（あくる）三日四ツ 這（ばい）迄ニ相定御 損（そん）金として損両（そんりやう）損分（そんぶ）\n損（そん）朱 惜（おしく）も焼取れ申候御仕 着（きせ）之義ハ夏ハ震電雷鳴白雨光物（ごろ〳〵かみなりのゆふだちしまひかりもの）\n一ツ 冬（ふゆハ）焔散粉（ひのこのふる）布（ぬの）子一枚可被下候事\n一 御関東様（ごくわんとうさま）御八 州（しゆ）之義不及申 諸国（しよこく）一統（いつとう）為相動（あひゆるがせ）申 間鋪（まじく）候万一\n此者御臺所 勝手（かつて）ケ間敷 氷仕女（おさんとん）方へ参（まい）り大摺木（おゝすりこき）ヲ震立（ふるいたて）摺鉢（すりはち）ヲ\n破（こわし） 這々（はい〳〵）之上内々之 地震（ちしん）致候 欤（か）亦（また）ハ動迯（ゆりにげ）壁落（かべおち） 致（いため）メ候ハヾ高梁（かうばり）ヲ以（もつて）\n取繕（とりつくろひ）急度（きつと）したる大工 左官（しやくわん）差出（さしいたし）早速（さつそく）埒明（らちあけ）可申候\n一 愁障（しうせう）之義ハ鐘（つりがね）之 難題宗（なんだいしう）ニ而寺ハ小 動（ゆれ）川 散々（さん〴〵）橋ぢやんぐわら寺（じ）暫（ざん）\n時（じ）に崩（くづれ）家（いへ）なく候 御八方（ごはつほう）ヲ震支丹焼宗門（ゆりしたんやけしうもん）ニハ無之候 若（もし）此物 音（おと）儀（ぎ）ニ付\n日合（ひやハひ）ゟがらくら動振（ゆすぶり）等（とう）無之候万一 震返（ゆりかへ）し津浪（つなミ）等致候ハヾ要（かなめ）石ニ判人（はんにん）乃\n堅（かたい）我等（われら）地しんニ早速（さつそく）曲出（まかりいで）ぎうと押付（おしつけ）野田（のでん）へ轉寐（ごろね）御 苦労（くろう）小屋 掛（がけ）差（さし）\n懸（かけ）申間敷候 地震（ぢしん）之 後（のち）材木（ざいもく）買而（かつて）直段（ねだん）之 高（たか）し\n\n安心（あんしん）二年\n　 是（これ）から〆この夘の十月\n　　　　　　　　　　　　 請人（うけ二入にん）　　 天井張（てんじやうはり）下水仕事（げすいしごと）新井丁（あらいまち）\n　　　　　　　　　　　　　　　　　ふしん屋でき介店\n　　　　　　　　　　　　　　　　　　　家根屋大九郎○【印、「富貴」】\n　　　　　　　　　　　 人（ひと）入 主（ぬし）　へたくた壁塗（かべぬり）門内（もんうち）左官（しやくわん）ハ早（はやく）智光院（ちかういん）地内（ぢない）\n　　　　　　　　　　　　　　　　　こまい屋角左衛門店\n　　　　　　　　　　　　　　　　　　　つた屋煉兵衛○【印】\n　　　　　　　　 積田（つんだ）金蔵（かねくら）河岸（がし）\n　　　　　　　　　　　　 無事田（ぶじだ）繁昌（はんじやう）郎様\n\n\n",
+            "timestamp": {
+                "_nanoseconds": 705000000,
+                "_seconds": 1575947701
+            }
+        },
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/01d95b4a-a1ae-4a0f-b60d-30eb7cab3be3/canvas/p2",
+            "editedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "entryId": "63E93268BCDEFEF597DC120DF54B2187",
+            "index": 1,
+            "prevStatus": "default",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "QXWoLAlMxDZh3I9bHIEi6bGl1w12",
+            "tempText": "",
+            "text": "",
+            "timestamp": 1564625855374
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

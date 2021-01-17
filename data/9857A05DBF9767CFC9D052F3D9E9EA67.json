@@ -1,0 +1,122 @@
+{
+    "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+    "canvases": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/canvas/p1",
+            "@type": "sc:Canvas",
+            "height": 6988,
+            "images": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/annotation/p0001-image",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/canvas/p1",
+                    "resource": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/original/31590203768438f55241fe1aae813d2c0a0f009d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 6988,
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56247",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        },
+                        "width": 9300
+                    }
+                }
+            ],
+            "label": "[1]",
+            "thumbnail": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56247/full/200,/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/56247",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "width": 9300
+        }
+    ],
+    "collectionId": "7DF408932ABB1DF48DE7CBE1C86A423B",
+    "id": "9857A05DBF9767CFC9D052F3D9E9EA67",
+    "label": "象頭山参詣道紀州加田ヨリ讃岐廻并播磨名勝附",
+    "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "manifestUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "象頭山参詣道紀州加田ヨリ讃岐廻并播磨名勝附"
+        },
+        {
+            "label": "資料番号",
+            "value": "II-02-024"
+        },
+        {
+            "label": "サブコレクション",
+            "value": "石本コレクションII"
+        },
+        {
+            "label": "内容分類",
+            "value": "名所案内"
+        },
+        {
+            "label": "資料分類",
+            "value": "絵図"
+        },
+        {
+            "label": "印刷分類",
+            "value": "多色"
+        },
+        {
+            "label": "備考",
+            "value": "II-02-022からII-02-024は3枚続"
+        },
+        {
+            "label": "identifier",
+            "value": "67acc5ab-0d8c-4859-bd52-ff54ea7287ea"
+        },
+        {
+            "label": "Manifest Uri",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/manifest"
+        },
+        {
+            "label": "Sort",
+            "value": "1060"
+        },
+        {
+            "label": "Database Label",
+            "value": "石本コレクション"
+        },
+        {
+            "label": "attributionLabel",
+            "value": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+        }
+    ],
+    "progress": 1,
+    "projectId": "ishimoto",
+    "size": 1,
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/31590203768438f55241fe1aae813d2c0a0f009d.jpg",
+    "transcriptions": [
+        {
+            "canvasURI": null,
+            "canvasUrl": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/67acc5ab-0d8c-4859-bd52-ff54ea7287ea/canvas/p1",
+            "editedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "entryId": "9857A05DBF9767CFC9D052F3D9E9EA67",
+            "index": 0,
+            "prevStatus": "initiated",
+            "requestReview": true,
+            "share": true,
+            "status": "completed",
+            "tempChanged": false,
+            "tempEditedBy": "KnRvHml6OceOyVN6JHvhy3AW7vS2",
+            "tempText": "【タイトル】\n象頭山参詣道紀州加田ヨリ讃岐廻并播磨名勝附\n【俯瞰図中に和歌三首】\nさみしまや\nま□ふに\n通ふ\nあまこふも\n片肌にのこる\n□のふかせ\n\n玉の浦\nはなれ\nそ\n汐のまに\n夕あさり\nする\n田鶴そ\n鳴なる\n衣笠内大臣\n\n世の中を\n渡りくらべて今そしる\nあはの鳴戸は\n波風もなし\n西行法師【兼好作ともいう】\n\n【枠外左上に東京大学図書館蔵書印と整理番号】\n〇〇一一八四二一四三\n",
+            "text": "【タイトル】\n象頭山参詣道紀州加田ヨリ讃岐廻并播磨名勝附\n【俯瞰図中に和歌三首】\nさみしまや\nま□ふに\n通ふ\nあまこふも\n片肌にのこる\n□のふかせ\n\n玉の浦\nはなれ\nそ\n汐のまに\n夕あさり\nする\n田鶴そ\n鳴なる\n衣笠内大臣\n\n世の中を\n渡りくらべて今そしる\nあはの鳴戸は\n波風もなし\n西行法師【兼好作ともいう】\n\n【枠外左上に東京大学図書館蔵書印と整理番号】\n〇〇一一八四二一四三\n",
+            "timestamp": {
+                "_nanoseconds": 769000000,
+                "_seconds": 1577620294
+            }
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}
